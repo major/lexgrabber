@@ -27,8 +27,8 @@ def random_zip_code():
 def get_headers():
     """Get the headers used when making requests to the Toyota website."""
     headers = {
-        "origin": "https://www.toyota.com",
-        "referrer": "https://www.toyota.com/",
+        "origin": "https://www.lexus.com",
+        "referrer": "https://www.lexus.com/",
         "user-agent": random_user_agent(),
         "accept": "*/*",
     }

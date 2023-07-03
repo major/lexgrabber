@@ -65,6 +65,7 @@ def update_models():
         .sort_values("series", ascending=True)
         .reset_index(drop=True)
     )
+    models["modelCode"] = models["modelCode"].str.upper()
 
     # Toyota uses different names for some models when you query the graphQL API.
     # https://github.com/major/lexgrabber/issues/32

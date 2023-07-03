@@ -1,7 +1,7 @@
 query {
   locateVehiclesByZip(
     zipCode: "ZIPCODE"
-    brand: "L"
+    brand: "LEXUS"
     pageNo: PAGENUMBER
     pageSize: 250
     seriesCodes: "MODELCODE"
@@ -74,6 +74,7 @@ query {
         colorSwatch
         marketingName
         nvsName
+        colorFamilies
       }
       extColor {
         colorCd
@@ -81,6 +82,7 @@ query {
         marketingName
         colorHexCd
         nvsName
+        colorFamilies
       }
       eta {
         currFromDate

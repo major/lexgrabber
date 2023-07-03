@@ -83,6 +83,10 @@ def get_all_pages():
         # Add the current page to the big dataframe.
         df = pd.concat([df, pd.json_normalize(result["vehicleSummary"])])
 
+        # Sometimes the API will keep returning empty pages.
+        if len(result["vehicleSummary"]) == 0:
+            break
+
         page_number += 1
         continue
 
@@ -106,14 +110,6 @@ def update_vehicles():
         df.sort_values("vin", inplace=True)
         df.to_parquet(f"output/{MODEL}_raw.parquet", index=False)
 
-    # Add dealer data.
-    dealers = pd.read_csv(f"{config.BASE_DIRECTORY}/data/dealers.csv")[
-        ["dealerId", "state"]
-    ]
-    dealers.rename(columns={"state": "Dealer State"}, inplace=True)
-    df["dealerCd"] = df["dealerCd"].apply(pd.to_numeric)
-    df = df.merge(dealers, left_on="dealerCd", right_on="dealerId")
-
     renames = {
         "vin": "VIN",
         "price.baseMsrp": "Base MSRP",
@@ -121,15 +117,11 @@ def update_vehicles():
         "extColor.marketingName": "Color",
         "dealerCategory": "Shipping Status",
         "dealerMarketingName": "Dealer",
-        # "dealerWebsite": "Dealer Website",
         "isPreSold": "Pre-Sold",
         "holdStatus": "Hold Status",
         "year": "Year",
         "drivetrain.code": "Drivetrain",
     }
-
-    with open(f"output/models.json", "r") as fileh:
-        title = [x["title"] for x in json.load(fileh) if x["modelCode"] == MODEL][0]
 
     df = (
         df[
@@ -146,20 +138,15 @@ def update_vehicles():
                 "model.marketingName",
                 "extColor.marketingName",
                 "dealerMarketingName",
-                # "dealerWebsite",
-                "Dealer State",
             ]
         ]
         .copy(deep=True)
         .rename(columns=renames)
     )
 
-    # Remove the model name (like 4Runner) from the model column (like TRD Pro).
-    df["Model"] = df["Model"].str.replace(f"{title} ", "")
-
     # Clean up missing colors and colors with extra tags.
     df = df[df["Color"].notna()]
-    df["Color"] = df["Color"].str.replace(" [extra_cost_color]", "", regex=False)
+    df["Color"] = df["Color"].str.replace("\[.*\]", "", regex=True)
 
     # Calculate the dealer price + markup.
     df["Dealer Price"] = df["Base MSRP"] + df["price.dioTotalDealerSellingPrice"]
@@ -181,11 +168,6 @@ def update_vehicles():
     }
     df.replace({"Shipping Status": statuses}, inplace=True)
 
-    # df["Image"] = df["media"].apply(
-    #     lambda x: [x["href"] for x in x if x["type"] == "carjellyimage"][0]
-    # )
-    # df.drop(columns=["media"], inplace=True)
-
     df = df[
         [
             "Year",
@@ -200,9 +182,6 @@ def update_vehicles():
             "Hold Status",
             "VIN",
             "Dealer",
-            # "Dealer Website",
-            "Dealer State",
-            # "Image",
         ]
     ]
 
