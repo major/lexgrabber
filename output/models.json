@@ -1,26 +1,26 @@
 [
   {
-    "modelCode":"es",
+    "modelCode":"ES",
     "series":"ES"
   },
   {
-    "modelCode":"esh",
+    "modelCode":"ESH",
     "series":"ES_HYBRID"
   },
   {
-    "modelCode":"gx",
+    "modelCode":"GX",
     "series":"GX"
   },
   {
-    "modelCode":"is",
+    "modelCode":"IS",
     "series":"IS"
   },
   {
-    "modelCode":"is500",
+    "modelCode":"IS500",
     "series":"IS_500"
   },
   {
-    "modelCode":"lc",
+    "modelCode":"LC",
     "series":"LC"
   },
   {
@@ -28,59 +28,59 @@
     "series":"LC_CONVERTIBLE"
   },
   {
-    "modelCode":"lch",
+    "modelCode":"LCH",
     "series":"LC_HYBRID"
   },
   {
-    "modelCode":"ls",
+    "modelCode":"LS",
     "series":"LS"
   },
   {
-    "modelCode":"lsh",
+    "modelCode":"LSH",
     "series":"LS_HYBRID"
   },
   {
-    "modelCode":"lx",
+    "modelCode":"LX",
     "series":"LX"
   },
   {
-    "modelCode":"nx",
+    "modelCode":"NX",
     "series":"NX"
   },
   {
-    "modelCode":"nxh",
+    "modelCode":"NXH",
     "series":"NX_HYBRID"
   },
   {
-    "modelCode":"NXphev",
+    "modelCode":"NXPHEV",
     "series":"NX_PHEV"
   },
   {
-    "modelCode":"rc",
+    "modelCode":"RC",
     "series":"RC"
   },
   {
-    "modelCode":"rcf",
+    "modelCode":"RCF",
     "series":"RC_F"
   },
   {
-    "modelCode":"rx",
+    "modelCode":"RX",
     "series":"RX"
   },
   {
-    "modelCode":"rx500h",
+    "modelCode":"RX500H",
     "series":"RX_500h"
   },
   {
-    "modelCode":"rxh",
+    "modelCode":"RXH",
     "series":"RX_HYBRID"
   },
   {
-    "modelCode":"rz",
+    "modelCode":"RZ",
     "series":"RZ"
   },
   {
-    "modelCode":"uxh",
+    "modelCode":"UXH",
     "series":"UX_HYBRID"
   }
 ]
