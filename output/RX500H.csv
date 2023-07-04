@@ -79,9 +79,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 500h F SPORT PERFORMANCE,Nebula Gray Pearl,AWD,62000,0.0,62000.0,At dealer,False,Available,2T2BCMEA1PC006796,Lexus of Bridgewater
 2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,62000,0.0,62000.0,At dealer,False,,2T2BCMEA1PC006832,Haldeman Lexus of Princeton
 2023,RX 500h F SPORT PERFORMANCE,Caviar,AWD,62000,0.0,62000.0,At dealer,False,,2T2BCMEA1PC006913,Lexus Monterey Peninsula
+2023,RX 500h F SPORT PERFORMANCE,Caviar,AWD,62000,0.0,62000.0,At dealer,False,DealerHold,2T2BCMEA1PC006989,Lexus of Glendale
 2023,RX 500h F SPORT PERFORMANCE,Caviar,AWD,62000,0.0,62000.0,At dealer,False,,2T2BCMEA1PC007060,Lexus of Wayzata
 2023,RX 500h F SPORT PERFORMANCE,Caviar,AWD,62000,1513.0,63513.0,At dealer,False,,2T2BCMEA1PC007124,Lexus of Marin
-2023,RX 500h F SPORT PERFORMANCE,Caviar,AWD,62000,0.0,62000.0,At dealer,False,DealerHold,2T2BCMEA1PC007141,Westside Lexus
 2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,62000,0.0,62000.0,At dealer,False,DealerHold,2T2BCMEA1PC007284,Wilkie Lexus
 2023,RX 500h F SPORT PERFORMANCE,Ultra White,AWD,62000,0.0,62000.0,At dealer,False,DealerHold,2T2BCMEA1PC007298,Jim Falk Lexus of Beverly Hills
 2023,RX 500h F SPORT PERFORMANCE,Ultra White,AWD,62000,0.0,62000.0,At dealer,False,Available,2T2BCMEA1PC007320,Bergstrom Lexus
@@ -143,7 +143,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 500h F SPORT PERFORMANCE,Nebula Gray Pearl,AWD,62000,0.0,62000.0,At dealer,False,DealerHold,2T2BCMEA2PC006273,Lexus of Freeport
 2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,62000,0.0,62000.0,At dealer,False,,2T2BCMEA2PC006306,Peterson Lexus
 2023,RX 500h F SPORT PERFORMANCE,Ultra White,AWD,62000,0.0,62000.0,At dealer,False,Available,2T2BCMEA2PC006449,Lexus San Diego
-2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,62000,0.0,62000.0,At dealer,False,,2T2BCMEA2PC006497,"Lexus of Concord, LLC"
+2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,62000,0.0,62000.0,At dealer,False,DealerHold,2T2BCMEA2PC006497,"Lexus of Concord, LLC"
 2023,RX 500h F SPORT PERFORMANCE,Nebula Gray Pearl,AWD,62000,0.0,62000.0,At dealer,False,Available,2T2BCMEA2PC006645,DARCARS Lexus of Greenwich
 2023,RX 500h F SPORT PERFORMANCE,Caviar,AWD,62000,0.0,62000.0,Port to dealer,False,Available,2T2BCMEA2PC006791,Lexus of Riverside
 2023,RX 500h F SPORT PERFORMANCE,Caviar,AWD,62000,0.0,62000.0,At dealer,False,,2T2BCMEA2PC007018,Smart Lexus of Quad Cities
@@ -277,10 +277,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 500h F SPORT PERFORMANCE,Copper Crest,AWD,62000,0.0,62000.0,Port to dealer,False,,2T2BCMEA4PC007795,Lindsay Lexus of Alexandria
 2023,RX 500h F SPORT PERFORMANCE,Ultra White,AWD,62000,0.0,62000.0,At dealer,False,,2T2BCMEA4PC007814,Lexus of Pleasanton
 2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,62000,0.0,62000.0,At dealer,False,Available,2T2BCMEA4PC007828,Bell Lexus North Scottsdale
-2023,RX 500h F SPORT PERFORMANCE,Nebula Gray Pearl,AWD,62000,0.0,62000.0,At dealer,False,,2T2BCMEA4PC007831,Lexus San Diego
 2023,RX 500h F SPORT PERFORMANCE,Ultra White,AWD,62000,0.0,62000.0,At dealer,False,DealerHold,2T2BCMEA4PC007893,Stoler Lexus
 2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,62000,0.0,62000.0,Port to dealer,False,DealerHold,2T2BCMEA4PC007909,Park Place Lexus Grapevine
 2023,RX 500h F SPORT PERFORMANCE,Nebula Gray Pearl,AWD,62000,0.0,62000.0,At dealer,False,,2T2BCMEA4PC007912,Herrin-Gear Lexus
+2023,RX 500h F SPORT PERFORMANCE,Ultra White,AWD,62000,0.0,62000.0,At dealer,False,DealerHold,2T2BCMEA4PC007926,Nalley Lexus - Roswell
 2023,RX 500h F SPORT PERFORMANCE,Caviar,AWD,62000,0.0,62000.0,At dealer,False,,2T2BCMEA4PC007943,Wilkie Lexus
 2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,62000,0.0,62000.0,Port to dealer,False,,2T2BCMEA4PC007960,Lexus of Greenwood Village
 2023,RX 500h F SPORT PERFORMANCE,Ultra White,AWD,62000,0.0,62000.0,Port to dealer,False,,2T2BCMEA4PC007974,Smart Lexus of Quad Cities
@@ -327,7 +327,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 500h F SPORT PERFORMANCE,Ultra White,AWD,62000,0.0,62000.0,Port to dealer,True,DealerHold,2T2BCMEA5PC007448,Lexus of Omaha
 2023,RX 500h F SPORT PERFORMANCE,Ultra White,AWD,62000,0.0,62000.0,At dealer,False,,2T2BCMEA5PC007482,DARCARS Lexus of Greenwich
 2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,62000,0.0,62000.0,Port to dealer,False,Available,2T2BCMEA5PC007529,Putnam Lexus
-2023,RX 500h F SPORT PERFORMANCE,Caviar,AWD,62000,0.0,62000.0,At dealer,False,,2T2BCMEA5PC007546,Longo Lexus
 2023,RX 500h F SPORT PERFORMANCE,Ultra White,AWD,62000,0.0,62000.0,At dealer,False,Available,2T2BCMEA5PC007627,Meade Lexus of Southfield
 2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,62000,0.0,62000.0,At dealer,False,DealerHold,2T2BCMEA5PC007630,North Park Lexus of San Antonio
 2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,62000,0.0,62000.0,At dealer,False,,2T2BCMEA5PC007661,Lexus San Diego
@@ -560,11 +559,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,62000,0.0,62000.0,Port to dealer,False,DealerHold,2T2BCMEA8PC008447,Lexus of Glendale
 2023,RX 500h F SPORT PERFORMANCE,Copper Crest,AWD,61600,0.0,61600.0,At dealer,False,Available,2T2BCMEA9PC003810,Stevinson Lexus of Lakewood
 2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,61600,0.0,61600.0,At dealer,False,Available,2T2BCMEA9PC003919,Lexus of Route 10
-2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,61600,0.0,61600.0,At dealer,False,DealerHold,2T2BCMEA9PC004083,Stevinson Lexus of Lakewood
 2023,RX 500h F SPORT PERFORMANCE,Copper Crest,AWD,61600,0.0,61600.0,At dealer,False,,2T2BCMEA9PC004830,Lexus of Tacoma at Fife
 2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,61600,0.0,61600.0,At dealer,False,Available,2T2BCMEA9PC005069,Lexus of Tacoma at Fife
 2023,RX 500h F SPORT PERFORMANCE,Ultra White,AWD,61600,0.0,61600.0,At dealer,False,Available,2T2BCMEA9PC005136,Lexus of Tacoma at Fife
-2023,RX 500h F SPORT PERFORMANCE,Caviar,AWD,61600,0.0,61600.0,At dealer,False,DealerHold,2T2BCMEA9PC005699,South Bay Lexus
 2023,RX 500h F SPORT PERFORMANCE,Iridium,AWD,61600,1513.0,63113.0,At dealer,False,,2T2BCMEA9PC005721,Lexus of Marin
 2023,RX 500h F SPORT PERFORMANCE,Copper Crest,AWD,61600,0.0,61600.0,At dealer,False,,2T2BCMEA9PC005945,Ray Catena Lexus
 2023,RX 500h F SPORT PERFORMANCE,Ultra White,AWD,61600,0.0,61600.0,At dealer,False,Available,2T2BCMEA9PC006058,Stevinson Lexus of Lakewood

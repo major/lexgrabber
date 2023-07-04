@@ -9,7 +9,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 450h LUXURY,Eminent White Pearl,AWD,57505,0.0,57505.0,At dealer,False,DealerHold,JTJHKCFZ0R2025029,Lexus of Westminster
 2024,NX 450h LUXURY,Atomic Silver,AWD,57505,0.0,57505.0,Port to dealer,False,DealerHold,JTJHKCFZ0R2025435,Nalley Lexus - Roswell
 2024,NX 450h LUXURY,Cloudburst Gray,AWD,57505,0.0,57505.0,At dealer,False,,JTJHKCFZ0R2025595,Lexus of Woodland Hills
-2024,NX 450h LUXURY,Cloudburst Gray,AWD,57505,0.0,57505.0,At dealer,False,Available,JTJHKCFZ0R2025676,Tustin Lexus
 2023,NX 450h LUXURY,Caviar,AWD,56555,0.0,56555.0,At dealer,False,Available,JTJHKCFZ1P2013663,Ray Catena Lexus of Monmouth
 2024,NX 450h LUXURY,Caviar,AWD,57505,0.0,57505.0,At dealer,False,DealerHold,JTJHKCFZ1R2020115,Lexus of Thousand Oaks
 2024,NX 450h LUXURY,Caviar,AWD,57505,0.0,57505.0,At dealer,False,DealerHold,JTJHKCFZ1R2020860,Stevinson Lexus of Frederick
@@ -44,7 +43,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 450h LUXURY,Atomic Silver,AWD,57505,0.0,57505.0,At dealer,False,DealerHold,JTJHKCFZ2R2025324,Lexus Santa Monica
 2024,NX 450h LUXURY,Eminent White Pearl,AWD,57505,0.0,57505.0,At dealer,False,DealerHold,JTJHKCFZ2R2025789,Lexus San Diego
 2024,NX 450h LUXURY,Eminent White Pearl,AWD,57505,0.0,57505.0,Port to dealer,False,,JTJHKCFZ2R2025792,Lexus of Woodland Hills
-2024,NX 450h LUXURY,Eminent White Pearl,AWD,57505,0.0,57505.0,At dealer,False,DealerHold,JTJHKCFZ2R2025968,Lexus San Diego
 2024,NX 450h LUXURY,Eminent White Pearl,AWD,57505,0.0,57505.0,At dealer,False,,JTJHKCFZ2R2026022,Motor City Lexus of Bakersfield
 2024,NX 450h LUXURY,Cloudburst Gray,AWD,57505,0.0,57505.0,Port to dealer,False,,JTJHKCFZ2R2026036,Lexus of Westminster
 2024,NX 450h LUXURY,Eminent White Pearl,AWD,57505,0.0,57505.0,At dealer,False,DealerHold,JTJHKCFZ2R2026067,Lexus of Glendale
@@ -144,9 +142,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 450h LUXURY,Eminent White Pearl,AWD,57505,0.0,57505.0,At dealer,False,Available,JTJHKCFZ8R2023920,JM Lexus
 2024,NX 450h LUXURY,Caviar,AWD,57505,0.0,57505.0,At dealer,False,DealerHold,JTJHKCFZ8R2023965,Hendrick Lexus Northlake
 2024,NX 450h LUXURY,Atomic Silver,AWD,57505,0.0,57505.0,At dealer,False,,JTJHKCFZ8R2024078,Hoffman Lexus
-2024,NX 450h LUXURY,Eminent White Pearl,AWD,57505,0.0,57505.0,Port to dealer,False,DealerHold,JTJHKCFZ8R2024663,Park Place Lexus Plano
+2024,NX 450h LUXURY,Eminent White Pearl,AWD,57505,0.0,57505.0,Port to dealer,True,DealerHold,JTJHKCFZ8R2024663,Park Place Lexus Plano
 2024,NX 450h LUXURY,Caviar,AWD,57505,0.0,57505.0,At dealer,False,DealerHold,JTJHKCFZ8R2025215,Lexus of Glendale
-2024,NX 450h LUXURY,Grecian Water,AWD,57505,0.0,57505.0,Port to dealer,False,DealerHold,JTJHKCFZ8R2025375,Valley Lexus
+2024,NX 450h LUXURY,Grecian Water,AWD,57505,0.0,57505.0,At dealer,False,DealerHold,JTJHKCFZ8R2025375,Valley Lexus
 2024,NX 450h LUXURY,Caviar,AWD,57505,0.0,57505.0,Port to dealer,False,,JTJHKCFZ8R2025392,Lexus of Pembroke Pines
 2024,NX 450h LUXURY,Atomic Silver,AWD,57505,0.0,57505.0,At dealer,False,Available,JTJHKCFZ8R2025585,Lexus Carlsbad
 2024,NX 450h LUXURY,Redline,AWD,57505,0.0,57505.0,At dealer,False,,JTJHKCFZ8R2025795,Lexus of Thousand Oaks
@@ -200,8 +198,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 450h F SPORT,Ultra White,AWD,58755,0.0,58755.0,At dealer,False,,JTJKKCFZ2R2025779,Keyes Lexus of Valencia
 2024,NX 450h F SPORT,Obsidian,AWD,58755,0.0,58755.0,At dealer,False,DealerHold,JTJKKCFZ2R2025877,Lexus of Glendale
 2024,NX 450h F SPORT,Cloudburst Gray,AWD,58755,0.0,58755.0,At dealer,False,DealerHold,JTJKKCFZ2R2026009,Jim Falk Lexus of Beverly Hills
-2024,NX 450h F SPORT,Obsidian,AWD,58755,0.0,58755.0,Port to dealer,False,,JTJKKCFZ2R2026043,"Lexus of Concord, LLC"
-2024,NX 450h F SPORT,Ultrasonic Blue Mica 2.0,AWD,58755,0.0,58755.0,At dealer,False,DealerHold,JTJKKCFZ3R2024754,Shottenkirk Desert Lexus
+2024,NX 450h F SPORT,Obsidian,AWD,58755,0.0,58755.0,At dealer,False,,JTJKKCFZ2R2026043,"Lexus of Concord, LLC"
 2024,NX 450h F SPORT,Cloudburst Gray,AWD,58755,0.0,58755.0,Port to dealer,True,DealerHold,JTJKKCFZ3R2024771,Park Place Lexus Plano
 2024,NX 450h F SPORT,Atomic Silver,AWD,58755,0.0,58755.0,At dealer,False,DealerHold,JTJKKCFZ3R2025242,"Lexus of Seattle, LLC"
 2024,NX 450h F SPORT,Obsidian,AWD,58755,0.0,58755.0,At dealer,False,,JTJKKCFZ3R2025371,Lexus of Cerritos
@@ -211,7 +208,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 450h F SPORT,Ultra White,AWD,58755,0.0,58755.0,At dealer,False,DealerHold,JTJKKCFZ3R2025824,South County Lexus at Mission Viejo
 2024,NX 450h F SPORT,Ultra White,AWD,58755,0.0,58755.0,At dealer,False,DealerHold,JTJKKCFZ3R2025872,Tustin Lexus
 2024,NX 450h F SPORT,Redline,AWD,58755,0.0,58755.0,Port to dealer,False,,JTJKKCFZ3R2025936,Stevinson Lexus of Frederick
-2024,NX 450h F SPORT,Ultra White,AWD,58755,0.0,58755.0,Port to dealer,False,,JTJKKCFZ3R2026049,"Lexus of Concord, LLC"
+2024,NX 450h F SPORT,Ultra White,AWD,58755,0.0,58755.0,At dealer,False,,JTJKKCFZ3R2026049,"Lexus of Concord, LLC"
 2024,NX 450h F SPORT,Obsidian,AWD,58755,0.0,58755.0,At dealer,False,DealerHold,JTJKKCFZ3R2026195,Jim Falk Lexus of Beverly Hills
 2024,NX 450h F SPORT,Cloudburst Gray,AWD,58755,0.0,58755.0,At dealer,False,Available,JTJKKCFZ4R2024018,New Country Lexus of Latham
 2024,NX 450h F SPORT,Atomic Silver,AWD,58755,0.0,58755.0,At dealer,False,DealerHold,JTJKKCFZ4R2024052,South County Lexus at Mission Viejo
@@ -241,7 +238,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 450h F SPORT,Atomic Silver,AWD,58755,1513.0,60268.0,At dealer,False,Available,JTJKKCFZ8R2024541,Lexus of Marin
 2024,NX 450h F SPORT,Ultra White,AWD,58755,0.0,58755.0,Port to dealer,False,DealerHold,JTJKKCFZ8R2024748,Germain Lexus of Naples
 2024,NX 450h F SPORT,Ultra White,AWD,58755,0.0,58755.0,At dealer,False,DealerHold,JTJKKCFZ8R2025611,South Bay Lexus
-2024,NX 450h F SPORT,Cloudburst Gray,AWD,58755,0.0,58755.0,Port to dealer,False,,JTJKKCFZ8R2025642,"Lexus of Concord, LLC"
+2024,NX 450h F SPORT,Cloudburst Gray,AWD,58755,0.0,58755.0,At dealer,False,,JTJKKCFZ8R2025642,"Lexus of Concord, LLC"
 2024,NX 450h F SPORT,Ultra White,AWD,58755,0.0,58755.0,Port to dealer,False,DealerHold,JTJKKCFZ8R2025933,South Bay Lexus
 2024,NX 450h F SPORT,Ultra White,AWD,58755,0.0,58755.0,Port to dealer,False,DealerHold,JTJKKCFZ9R2022748,Lexus of Maplewood
 2024,NX 450h F SPORT,Obsidian,AWD,58755,0.0,58755.0,At dealer,False,Available,JTJKKCFZ9R2023415,Lexus of Oxnard
