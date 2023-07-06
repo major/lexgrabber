@@ -105,7 +105,7 @@ jobs:
         env:
           PYTHONUNBUFFERED: 1
 
-      - name: Store image data in artifact
+      - name: Store vehicle data in artifact
         uses: actions/upload-artifact@v3
         with:
           name: "output"

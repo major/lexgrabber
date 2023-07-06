@@ -7,5 +7,5 @@ with open("output/models.json", "r") as fileh:
 
 for model in result:
     print(
-        f"- [{model['series'].replace('_', ' ')}](https://flatgithub.com/major/lexgrabber?filename=output/{model['modelCode']}.md)"
+        f"- [{model['series'].replace('_', ' ')}](https://flatgithub.com/major/lexgrabber?filename=output/{model['modelCode'].upper()}.csv)"
     )
