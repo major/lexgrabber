@@ -1,6 +1,7 @@
 # lexgrabber
 
 This is a work in progress to get Lexus inventory data from Toyota's GraphQL endpoints.
+There's another repo like this one with [Toyota vehicles](https://github.com/major/yotagrabber).
 
 **This project is not affiliated with or endorsed by Toyota/Lexus.**
 
