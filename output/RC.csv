@@ -55,7 +55,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RC 350,Caviar,RWD,47600,0.0,47600.0,Port to dealer,False,,JTHDZ5BC7P5027008,Lexus of Orlando
 2023,RC 350,Eminent White Pearl,RWD,47250,0.0,47250.0,At dealer,False,,JTHDZ5BC8P5026837,Scanlon Lexus of Fort Myers
 2023,RC 350,Obsidian,RWD,47250,0.0,47250.0,At dealer,False,DealerHold,JTHDZ5BC8P5026840,Lexus of Greenville
-2023,RC 350,Caviar,RWD,47600,0.0,47600.0,Port to dealer,False,DealerHold,JTHDZ5BC8P5026952,North Park Lexus at Dominion
+2023,RC 350,Caviar,RWD,47600,0.0,47600.0,At dealer,False,DealerHold,JTHDZ5BC8P5026952,North Park Lexus at Dominion
 2023,RC 350,Eminent White Pearl,RWD,47600,0.0,47600.0,Port to dealer,False,,JTHDZ5BC8P5026983,Herrin-Gear Lexus
 2023,RC 350,Eminent White Pearl,RWD,47600,0.0,47600.0,Port to dealer,False,,JTHDZ5BC8P5027017,Parker Lexus
 2023,RC 350,Obsidian,RWD,47250,0.0,47250.0,At dealer,False,,JTHDZ5BC9P5026619,Lexus of Birmingham
@@ -122,7 +122,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RC 350 F SPORT,Ultrasonic Blue Mica 2.0,RWD,52220,2342.0,54562.0,Port to dealer,False,DealerHold,JTHGZ5BC0P5026960,"Jim Hudson Lexus, Columbia"
 2023,RC 350 F SPORT,Ultra White,RWD,52220,0.0,52220.0,Port to dealer,False,DealerHold,JTHGZ5BC0P5026974,Hennessy Lexus of Atlanta
 2023,RC 350 F SPORT,Ultra White,RWD,52220,0.0,52220.0,Port to dealer,False,DealerHold,JTHGZ5BC0P5026988,Lexus of Kingsport
-2023,RC 350 F SPORT,Black/Incognito,RWD,52220,0.0,52220.0,Port to dealer,False,DealerHold,JTHGZ5BC0P5026991,Chatham Parkway Lexus
+2023,RC 350 F SPORT,Black/Incognito,RWD,52220,0.0,52220.0,Port to dealer,False,Available,JTHGZ5BC0P5026991,Chatham Parkway Lexus
 2023,RC 350 F SPORT,Caviar,RWD,52220,0.0,52220.0,Port to dealer,False,,JTHGZ5BC0P5027011,Johnson Lexus of Raleigh
 2023,RC 350 F SPORT,Obsidian,RWD,52220,0.0,52220.0,Port to dealer,False,,JTHGZ5BC0P5027025,Park Place Lexus Grapevine
 2023,RC 350 F SPORT,Ultra White,RWD,51870,0.0,51870.0,At dealer,False,,JTHGZ5BC1P5026658,Lexus of Chattanooga
@@ -141,7 +141,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RC 350 F SPORT,Infrared,RWD,51870,0.0,51870.0,At dealer,False,,JTHGZ5BC2P5026698,JM Lexus
 2023,RC 350 F SPORT,Ultra White,RWD,51870,0.0,51870.0,At dealer,False,DealerHold,JTHGZ5BC2P5026717,Westside Lexus
 2023,RC 350 F SPORT,Black/Incognito,RWD,51870,0.0,51870.0,At dealer,False,,JTHGZ5BC2P5026779,Lexus Escondido
-2023,RC 350 F SPORT,Infrared,RWD,52220,0.0,52220.0,At dealer,False,DealerHold,JTHGZ5BC2P5026863,Hendrick Lexus Charlotte
 2023,RC 350 F SPORT,Ultrasonic Blue Mica 2.0,RWD,52220,0.0,52220.0,At dealer,False,,JTHGZ5BC2P5026880,Lexus of Sarasota
 2023,RC 350 F SPORT,Infrared,RWD,52220,0.0,52220.0,At dealer,False,,JTHGZ5BC2P5026930,Lexus San Diego
 2023,RC 350 F SPORT,Black/Incognito,RWD,52220,0.0,52220.0,At dealer,False,,JTHGZ5BC2P5026944,Parker Lexus
@@ -155,7 +154,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RC 350 F SPORT,Obsidian,RWD,52220,0.0,52220.0,At dealer,False,,JTHGZ5BC3P5026872,Butler Lexus of South Atlanta
 2023,RC 350 F SPORT,Black/Incognito,RWD,52220,0.0,52220.0,At dealer,False,,JTHGZ5BC3P5026919,Lexus of Pleasanton
 2023,RC 350 F SPORT,Incognito,RWD,52220,0.0,52220.0,At dealer,False,DealerHold,JTHGZ5BC3P5026953,Lexus Monterey Peninsula
-2023,RC 350 F SPORT,Atomic Silver,RWD,52220,0.0,52220.0,Port to dealer,False,,JTHGZ5BC3P5026984,Fresno Lexus
+2023,RC 350 F SPORT,Atomic Silver,RWD,52220,0.0,52220.0,At dealer,False,,JTHGZ5BC3P5026984,Fresno Lexus
 2023,RC 350 F SPORT,Infrared,RWD,52220,0.0,52220.0,Port to dealer,False,,JTHGZ5BC3P5026998,North Park Lexus of San Antonio
 2023,RC 350 F SPORT,Incognito,RWD,52220,0.0,52220.0,Port to dealer,False,,JTHGZ5BC3P5027018,Lexus Stevens Creek
 2023,RC 350 F SPORT,Incognito,RWD,51870,0.0,51870.0,At dealer,False,Available,JTHGZ5BC4P5026668,Lexus of Pembroke Pines
@@ -193,7 +192,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RC 350 F SPORT,Caviar,RWD,52220,0.0,52220.0,At dealer,False,,JTHGZ5BC6P5026882,Lexus of Huntsville
 2023,RC 350 F SPORT,Incognito,RWD,52220,0.0,52220.0,At dealer,False,,JTHGZ5BC6P5026946,Lexus of Sacramento
 2023,RC 350 F SPORT,Ultra White,RWD,52220,0.0,52220.0,Port to dealer,False,,JTHGZ5BC6P5027000,Bell Lexus North Scottsdale
-2023,RC 350 F SPORT,Atomic Silver,RWD,52220,0.0,52220.0,Port to dealer,False,,JTHGZ5BC6P5027014,Temecula Valley Lexus
+2023,RC 350 F SPORT,Atomic Silver,RWD,52220,0.0,52220.0,At dealer,False,,JTHGZ5BC6P5027014,Temecula Valley Lexus
 2022,RC 350 F SPORT,Ultra White,RWD,50220,0.0,50220.0,At dealer,False,Available,JTHGZ5BC7N5026449,Lexus of Shreveport - Bossier City
 2023,RC 350 F SPORT,Black/Incognito,RWD,51870,0.0,51870.0,At dealer,False,,JTHGZ5BC7P5026633,Lexus Escondido
 2023,RC 350 F SPORT,Caviar,RWD,51870,0.0,51870.0,At dealer,False,DealerHold,JTHGZ5BC7P5026826,South Bay Lexus
@@ -207,7 +206,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RC 350 F SPORT,Ultra White,RWD,52220,0.0,52220.0,At dealer,False,,JTHGZ5BC7P5026986,Motor City Lexus of Bakersfield
 2023,RC 350 F SPORT,Ultra White,RWD,51870,895.0,52765.0,At dealer,False,Available,JTHGZ5BC8P5026608,Lexus of Montgomery
 2023,RC 350 F SPORT,Atomic Silver,RWD,51870,0.0,51870.0,At dealer,False,,JTHGZ5BC8P5026799,Lexus Monterey Peninsula
-2023,RC 350 F SPORT,Atomic Silver,RWD,51870,0.0,51870.0,At dealer,False,DealerHold,JTHGZ5BC8P5026804,Lexus of Melbourne
 2023,RC 350 F SPORT,Black/Incognito,RWD,51870,0.0,51870.0,At dealer,False,DealerHold,JTHGZ5BC8P5026835,Hendrick Lexus Charleston
 2023,RC 350 F SPORT,Infrared,RWD,51870,0.0,51870.0,Port to dealer,False,,JTHGZ5BC8P5026849,Lexus of Knoxville
 2023,RC 350 F SPORT,Ultra White,RWD,52220,0.0,52220.0,Port to dealer,False,,JTHGZ5BC8P5026947,Johnson Lexus of Durham
@@ -235,14 +233,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RC 350 F SPORT,Atomic Silver,RWD,52220,0.0,52220.0,Port to dealer,False,,JTHGZ5BCXP5026951,Hennessy Lexus of Gwinnett
 2023,RC 350 F SPORT,Ultra White,RWD,52220,0.0,52220.0,Port to dealer,False,,JTHGZ5BCXP5026965,Fox Lexus of El Paso
 2023,RC 350 F SPORT,Black/Incognito,RWD,52220,0.0,52220.0,Port to dealer,False,,JTHGZ5BCXP5026979,Butler Lexus
-2023,RC 350 F SPORT,Caviar,RWD,52220,0.0,52220.0,Port to dealer,False,,JTHGZ5BCXP5027002,Lexus of Las Vegas
+2023,RC 350 F SPORT,Caviar,RWD,52220,0.0,52220.0,At dealer,False,,JTHGZ5BCXP5027002,Lexus of Las Vegas
 2023,RC 350 F SPORT,Black/Incognito,RWD,52220,0.0,52220.0,Port to dealer,False,,JTHGZ5BCXP5027016,North Park Lexus Rio Grande Valley
 2023,RC 350 F SPORT AWD,Obsidian,AWD,53595,0.0,53595.0,At dealer,False,,JTHGZ5DC0P5012070,Performance Lexus RiverCenter
 2023,RC 350 F SPORT AWD,Incognito,AWD,53595,0.0,53595.0,At dealer,False,Available,JTHGZ5DC0P5012084,Larry H. Miller Lexus Murray
 2023,RC 350 F SPORT AWD,Ultra White,AWD,53945,0.0,53945.0,At dealer,False,,JTHGZ5DC0P5012134,Bob Johnson Lexus
 2023,RC 350 F SPORT AWD,Incognito,AWD,53945,0.0,53945.0,At dealer,False,Available,JTHGZ5DC0P5012148,Earnhardt Lexus
 2023,RC 350 F SPORT AWD,Incognito,AWD,53945,0.0,53945.0,At dealer,False,,JTHGZ5DC0P5012151,Jim White Lexus of Toledo
-2023,RC 350 F SPORT AWD,Incognito,AWD,53945,0.0,53945.0,Port to dealer,False,,JTHGZ5DC0P5012179,Stevinson Lexus of Lakewood
+2023,RC 350 F SPORT AWD,Incognito,AWD,53945,0.0,53945.0,At dealer,False,,JTHGZ5DC0P5012179,Stevinson Lexus of Lakewood
 2023,RC 350 F SPORT AWD,Obsidian,AWD,53945,0.0,53945.0,Port to dealer,False,,JTHGZ5DC0P5012182,Lexus of Lexington
 2023,RC 350 F SPORT AWD,Caviar,AWD,53595,0.0,53595.0,At dealer,False,,JTHGZ5DC1P5012076,Findlay Lexus of Spokane
 2023,RC 350 F SPORT AWD,Black/Incognito,AWD,53595,2995.0,56590.0,At dealer,False,,JTHGZ5DC1P5012093,Sheehy Lexus of Annapolis
@@ -262,15 +260,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RC 350 F SPORT AWD,Incognito,AWD,53945,0.0,53945.0,Port to dealer,False,,JTHGZ5DC3P5012130,Hendrick Lexus Kansas City
 2023,RC 350 F SPORT AWD,Ultra White,AWD,53945,0.0,53945.0,At dealer,False,,JTHGZ5DC3P5012144,"Lexus of Seattle, LLC"
 2023,RC 350 F SPORT AWD,Ultra White,AWD,53945,0.0,53945.0,At dealer,False,,JTHGZ5DC3P5012175,Peterson Lexus
+2023,RC 350 F SPORT AWD,Ultra White,AWD,53945,0.0,53945.0,Port to dealer,False,,JTHGZ5DC3P5012189,Hendrick Lexus Kansas City
 2023,RC 350 F SPORT AWD,Incognito,AWD,53945,0.0,53945.0,Port to dealer,False,,JTHGZ5DC3P5012192,Lexus of Lexington
 2023,RC 350 F SPORT AWD,Ultra White,AWD,53595,0.0,53595.0,At dealer,False,DealerHold,JTHGZ5DC4P5011987,Johnson Lexus of Raleigh
 2023,RC 350 F SPORT AWD,Caviar,AWD,53595,0.0,53595.0,At dealer,False,Available,JTHGZ5DC4P5012069,Rallye Lexus
 2023,RC 350 F SPORT AWD,Caviar,AWD,53595,0.0,53595.0,At dealer,False,DealerHold,JTHGZ5DC4P5012119,Jim Falk Lexus of Beverly Hills
-2023,RC 350 F SPORT AWD,Caviar,AWD,53595,0.0,53595.0,At dealer,False,Available,JTHGZ5DC4P5012122,New Country Lexus of Great Neck
-2023,RC 350 F SPORT AWD,Obsidian,AWD,53595,299.0,53894.0,At dealer,False,Available,JTHGZ5DC5P5012078,Spirit Lexus
+2023,RC 350 F SPORT AWD,Caviar,AWD,53595,0.0,53595.0,At dealer,False,DealerHold,JTHGZ5DC4P5012122,New Country Lexus of Great Neck
+2023,RC 350 F SPORT AWD,Obsidian,AWD,53595,0.0,53595.0,At dealer,False,DealerHold,JTHGZ5DC5P5012078,Lexus of Knoxville
 2023,RC 350 F SPORT AWD,Black/Incognito,AWD,53595,0.0,53595.0,At dealer,False,DealerHold,JTHGZ5DC5P5012095,Motorworld Lexus
 2023,RC 350 F SPORT AWD,Atomic Silver,AWD,53595,0.0,53595.0,At dealer,False,DealerHold,JTHGZ5DC5P5012114,Lexus of Lexington
-2023,RC 350 F SPORT AWD,Incognito,AWD,53945,0.0,53945.0,At dealer,False,,JTHGZ5DC5P5012131,Lexus of Rockford
+2023,RC 350 F SPORT AWD,Incognito,AWD,53945,0.0,53945.0,At dealer,False,DealerHold,JTHGZ5DC5P5012131,Lexus of Rockford
 2023,RC 350 F SPORT AWD,Atomic Silver,AWD,53945,0.0,53945.0,Port to dealer,False,,JTHGZ5DC5P5012159,Superstition Springs Lexus
 2023,RC 350 F SPORT AWD,Incognito,AWD,53945,0.0,53945.0,At dealer,False,,JTHGZ5DC5P5012162,Dolan Lexus
 2023,RC 350 F SPORT AWD,Infrared,AWD,53945,0.0,53945.0,Port to dealer,False,DealerHold,JTHGZ5DC5P5012176,Lexus of Orange County
@@ -294,7 +293,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RC 350 F SPORT AWD,Ultra White,AWD,53595,0.0,53595.0,At dealer,False,,JTHGZ5DC8P5012088,Lexus of Omaha
 2023,RC 350 F SPORT AWD,Incognito,AWD,53595,0.0,53595.0,At dealer,False,DealerHold,JTHGZ5DC8P5012091,Bobby Rahal Lexus
 2023,RC 350 F SPORT AWD,Incognito,AWD,53945,0.0,53945.0,At dealer,False,Available,JTHGZ5DC8P5012141,Lexus of Thousand Oaks
-2023,RC 350 F SPORT AWD,Atomic Silver,AWD,53945,0.0,53945.0,Port to dealer,False,,JTHGZ5DC8P5012169,Hendrick Lexus Kansas City
+2023,RC 350 F SPORT AWD,Atomic Silver,AWD,53945,0.0,53945.0,Port to dealer,False,DealerHold,JTHGZ5DC8P5012169,Hendrick Lexus Kansas City
 2023,RC 350 F SPORT AWD,Black/Incognito,AWD,53945,0.0,53945.0,Port to dealer,False,,JTHGZ5DC8P5012172,Metro Lexus
 2023,RC 350 F SPORT AWD,Obsidian,AWD,53945,0.0,53945.0,Port to dealer,False,,JTHGZ5DC8P5012186,DARCARS Lexus of Greenwich
 2022,RC 350 F SPORT AWD,Ultra White,AWD,51830,0.0,51830.0,At dealer,False,Available,JTHGZ5DC9N5011805,Wilkie Lexus
