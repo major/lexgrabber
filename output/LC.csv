@@ -10,7 +10,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,DealerHold,JTHAP5AY3PA107497,Lexus of Kendall
 2024,LC 500,Ultra White,RWD,97700,0,97700,Port to dealer,False,,JTHAP5AY3RA108071,Fox Lexus of El Paso
 2024,LC 500,Infrared,RWD,97700,0,97700,Port to dealer,False,,JTHAP5AY3RA108099,Butler Lexus
-2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,DealerHold,JTHAP5AY4PA107346,Len Stoler Lexus
+2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,Available,JTHAP5AY4PA107346,Len Stoler Lexus
 2024,LC 500,Infrared,RWD,97700,0,97700,Port to dealer,False,DealerHold,JTHAP5AY6RA108128,Price LeBlanc Lexus
 2023,LC 500,Atomic Silver,RWD,94450,0,94450,At dealer,False,DealerHold,JTHAP5AY7PA107437,Westside Lexus
 2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,Available,JTHAP5AY8PA107298,Lexus of North Miami
@@ -29,12 +29,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LC 500,Atomic Silver,RWD,94450,0,94450,At dealer,False,Available,JTHBP5AY1PA107647,Lexus of Portland
 2023,LC 500,Caviar,RWD,94450,0,94450,At dealer,False,,JTHBP5AY1PA107678,Lexus of North Miami
 2024,LC 500,Ultra White,RWD,97700,0,97700,Port to dealer,False,,JTHBP5AY1RA108025,Lexus of North Miami
+2024,LC 500,Infrared,RWD,97700,0,97700,Port to dealer,False,,JTHBP5AY1RA108168,Bell Lexus North Scottsdale
 2023,LC 500,Caviar,RWD,94450,1228,95678,At dealer,False,,JTHBP5AY2PA107334,Mungenast Lexus of St. Louis
+2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,DealerHold,JTHBP5AY2PA107477,Westside Lexus
 2023,LC 500,Caviar,RWD,94450,0,94450,Port to dealer,False,Available,JTHBP5AY2PA107656,Hendrick Lexus Kansas City
 2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,,JTHBP5AY2PA107804,Lexus of Greenville
 2024,LC 500,Infrared,RWD,97700,0,97700,Port to dealer,False,DealerHold,JTHBP5AY2RA108034,Nalley Lexus - Roswell
 2024,LC 500,Ultra White,RWD,97700,2342,100042,Port to dealer,False,DealerHold,JTHBP5AY2RA108048,"Jim Hudson Lexus, Columbia"
-2024,LC 500,Caviar,RWD,97700,0,97700,Port to dealer,False,DealerHold,JTHBP5AY2RA108051,North Park Lexus of San Antonio
+2024,LC 500,Caviar,RWD,97700,0,97700,At dealer,False,DealerHold,JTHBP5AY2RA108051,North Park Lexus of San Antonio
 2024,LC 500,Caviar,RWD,97700,0,97700,Port to dealer,False,DealerHold,JTHBP5AY2RA108163,Northside Lexus
 2023,LC 500,Nightfall Mica,RWD,94450,0,94450,Port to dealer,False,DealerHold,JTHBP5AY3PA107715,Lexus of Wayzata
 2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,DealerHold,JTHBP5AY4PA107125,Bobby Rahal Lexus of Lancaster County
@@ -44,6 +46,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LC 500,Infrared,RWD,94450,0,94450,At dealer,False,DealerHold,JTHBP5AY4PA107822,Johnson Lexus of Durham
 2024,LC 500,Infrared,RWD,97700,0,97700,Port to dealer,False,,JTHBP5AY4RA107919,Hendrick Lexus Kansas City
 2023,LC 500,Atomic Silver,RWD,94450,0,94450,At dealer,False,Available,JTHBP5AY5PA107487,Herb Chambers Lexus
+2024,LC 500,Infrared,RWD,97700,0,97700,Port to dealer,False,,JTHBP5AY5RA108075,Lexus of Omaha
 2023,LC 500,Cloudburst Gray,RWD,94450,0,94450,At dealer,False,,JTHBP5AY6PA107787,Lexus of Pembroke Pines
 2023,LC 500,Infrared,RWD,94450,0,94450,At dealer,False,,JTHBP5AY6PA107840,Germain Lexus of Ann Arbor
 2024,LC 500,Infrared,RWD,97700,0,97700,Port to dealer,False,DealerHold,JTHBP5AY6RA107999,Lexus of Arlington
@@ -53,10 +56,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,Available,JTHBP5AY7PA107491,JM Lexus
 2023,LC 500,Caviar,RWD,94450,0,94450,At dealer,False,DealerHold,JTHBP5AY7PA107779,North Park Lexus Rio Grande Valley
 2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,,JTHBP5AY7PA107801,Lexus Stevens Creek
+2024,LC 500,Nori Green Pearl,RWD,97700,0,97700,Port to dealer,False,,JTHBP5AY7RA108076,Lexus of Woodland Hills
 2024,LC 500,Infrared,RWD,97700,0,97700,Port to dealer,False,,JTHBP5AY7RA108093,Lexus of Orlando
 2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,Available,JTHBP5AY8PA107578,Bell Lexus North Scottsdale
 2023,LC 500,Caviar,RWD,94450,0,94450,At dealer,False,DealerHold,JTHBP5AY8PA107581,Bobby Rahal Lexus
 2024,LC 500,Infrared,RWD,97700,0,97700,Port to dealer,False,,JTHBP5AY8RA108054,Flow Lexus of Winston-Salem
+2024,LC 500,Atomic Silver,RWD,97700,0,97700,Port to dealer,False,,JTHBP5AY8RA108166,Longo Lexus
 2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,,JTHBP5AY9PA107265,Lexus of Pembroke Pines
 2023,LC 500,Atomic Silver,RWD,94450,0,94450,At dealer,False,Available,JTHBP5AY9PA107508,Lexus of Henderson
 2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,Available,JTHBP5AY9PA107539,Lexus of Orlando
@@ -66,8 +71,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,,JTHBP5AY9PA107797,Lexus of Nashville
 2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,,JTHBP5AYXPA107243,Lexus of Cerritos
 2023,LC 500,Nori Green Pearl,RWD,94450,0,94450,Port to dealer,False,Available,JTHBP5AYXPA107629,Lexus of Wayzata
-2023,LC 500,Cloudburst Gray,RWD,94450,0,94450,At dealer,False,Available,JTHBP5AYXPA107663,Thompson Lexus Willow Grove
+2023,LC 500,Cloudburst Gray,RWD,94450,0,94450,At dealer,False,DealerHold,JTHBP5AYXPA107663,Wilkie Lexus
 2023,LC 500,Ultra White,RWD,94450,0,94450,At dealer,False,DealerHold,JTHBP5AYXPA107808,Johnson Lexus of Raleigh
+2024,LC 500,Caviar,RWD,97700,0,97700,Port to dealer,False,,JTHBP5AYXRA108069,Tustin Lexus
 2023,LC 500,Caviar,RWD,94450,0,94450,At dealer,False,,JTHLP5AY3PA107685,Lexus of Nashville
 2024,LC 500,Caviar,RWD,97700,0,97700,Port to dealer,False,,JTHLP5AY5RA107920,Germain Lexus of Dublin
 2024,LC 500,Copper Crest,RWD,97700,0,97700,Port to dealer,False,,JTHLP5AYXRA107900,Lexus of Las Vegas
