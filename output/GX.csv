@@ -27,13 +27,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX0P5360925,Stoler Lexus
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX0P5361122,Priority Lexus Virginia Beach
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX0P5361170,Lexus of Towson
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX0P5361282,Lexus of Maplewood
+2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX0P5361282,Lexus of Maplewood
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX0P5361380,DARCARS Lexus of Silver Spring
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX0P5361461,Lindsay Lexus of Alexandria
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX0P5361489,Kendall Lexus of Eugene
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX0P5361508,Ray Catena Lexus of Freehold
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX0P5361511,JM Lexus
-2023,GX 460,Nebula Gray Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX0P5361539,Haldeman Lexus of Princeton
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX0P5361556,Serra Lexus Lansing
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX0P5361623,Lexus of Pembroke Pines
 2023,GX 460,Nebula Gray Pearl,4WD,57375,0.0,57375.0,Port to dealer,False,,JTJAM7BX0P5361704,Lexus of Omaha
@@ -55,7 +54,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX0P5362366,Lexus of Manhattan
 2023,GX 460,Black Onyx,4WD,58125,2995.0,61120.0,At dealer,False,,JTJAM7BX0P5362397,Sheehy Lexus of Annapolis
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX0P5362416,Koons Lexus of Wilmington
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX0P5362495,Lexus of Naperville
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5362545,Ourisman Lexus of Rockville
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX0P5362657,Larry H. Miller Lexus Murray
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX0P5362688,Westside Lexus
@@ -66,7 +64,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Caviar,4WD,58125,299.0,58424.0,Port to dealer,False,DealerHold,JTJAM7BX0P5362786,Spirit Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX0P5362819,Peterson Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5362870,Lindsay Lexus of Alexandria
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX0P5362898,Bell Lexus North Scottsdale
 2023,GX 460,Atomic Silver,4WD,58125,299.0,58424.0,Port to dealer,False,DealerHold,JTJAM7BX0P5362917,Spirit Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX0P5362934,Lexus of Freeport
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX0P5362979,Lexus of Cherry Hill
@@ -113,7 +110,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX0P5364134,"Lexus of Concord, LLC"
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5364151,Northside Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5364215,DARCARS Lexus of Silver Spring
-2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5364232,Ourisman Lexus of Rockville
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX0P5364232,Ourisman Lexus of Rockville
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX0P5364263,South County Lexus at Mission Viejo
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX0P5364330,Lexus of Wayzata
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX0P5364358,Valley Lexus
@@ -121,7 +118,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX0P5364408,Lexus of Fremont
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX0P5364425,Haldeman Lexus of Princeton
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5364439,Lexus of Lexington
-2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX0P5364442,Lexus of Brooklyn
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX0P5364442,Lexus of Brooklyn
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5364487,Lexus of Towson
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5364490,Smart Lexus of Quad Cities
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5364506,Koons Lexus of Wilmington
@@ -132,15 +129,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5364585,Lexus of Maplewood
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5364599,Chatham Parkway Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5364604,Northside Lexus
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5364618,Lexus San Diego
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX0P5364618,Lexus San Diego
 2023,GX 460,Eminent White Pearl,4WD,58125,299.0,58424.0,Port to dealer,False,,JTJAM7BX0P5364621,Spirit Lexus
 2023,GX 460,Atomic Silver,4WD,58125,698.0,58823.0,Port to dealer,False,DealerHold,JTJAM7BX0P5364635,Lexus of Tulsa
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5364652,Park Place Lexus Plano
-2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5364666,Lexus of Akron/Canton
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX0P5364666,Lexus of Akron/Canton
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5364683,Germain Lexus of Easton
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5364702,Lexus of Orange County
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5364733,Lexus Monterey Peninsula
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5364747,Metro Lexus
+2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5364778,Ray Catena Lexus of Monmouth
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX0P5364781,Scanlon Lexus of Fort Myers
 2023,GX 460,Eminent White Pearl,4WD,58125,895.0,59020.0,Port to dealer,False,DealerHold,JTJAM7BX0P5364795,Lexus of Chattanooga
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5364800,Lexus of Route 10
@@ -161,7 +159,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5365218,Prestige Lexus of Ramsey
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5365235,Stoler Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5365297,Lexus of Lehigh Valley
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5365316,Butler Lexus
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5365316,Butler Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5365333,Nalley Lexus - Roswell
 2023,GX 460,Black Onyx,4WD,58125,2995.0,61120.0,Port to dealer,False,,JTJAM7BX0P5365350,Sheehy Lexus of Annapolis
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5365364,Lexus of Melbourne
@@ -195,13 +193,19 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5365896,Lexus of West Kendall
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX0P5365901,Lexus of Las Vegas
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5365932,North Park Lexus Rio Grande Valley
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5365946,Lexus of Manhattan
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5365963,Lexus of Tampa Bay
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5365994,Lexus of Bellevue
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5366045,Willis Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5366062,Hendrick Lexus Kansas City North
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5366076,Butler Lexus
+2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5366112,Lexus of Orange County
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5366126,Sewell Lexus
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5366143,Ray Catena Lexus
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5366157,Ray Catena Lexus
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5366188,Lexus of Smithtown
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5366191,Northside Lexus
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5366210,Hoffman Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5366255,Westside Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX0P5366739,Herrin-Gear Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX0P5367387,Sterling McCall Lexus Clear Lake
@@ -239,19 +243,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX1P5361159,Stoler Lexus
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX1P5361212,Willis Lexus
 2023,GX 460,Nebula Gray Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX1P5361503,Lexus of Pleasanton
-2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX1P5361534,Lexus of Wayzata
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX1P5361551,Lexus of Smithtown
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,Port to dealer,False,DealerHold,JTJAM7BX1P5361632,Hendrick Lexus Kansas City
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX1P5361663,DARCARS Lexus of Silver Spring
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX1P5361677,DARCARS Lexus of Greenwich
-2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,Port to dealer,False,DealerHold,JTJAM7BX1P5361694,Lexus of Wayzata
+2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX1P5361694,Lexus of Wayzata
 2023,GX 460,Nightfall Mica,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX1P5361744,Smart Lexus of Quad Cities
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX1P5361873,Lexus of Freeport
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX1P5361906,Tom Wood Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5362196,Lindsay Lexus of Alexandria
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX1P5362232,Hennessy Lexus of Gwinnett
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5362277,Ourisman Lexus of Rockville
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5362280,Lexus of Louisville
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX1P5362358,Lexus of North Miami
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5362361,Berlin City Lexus of Portland
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX1P5362389,Willis Lexus
@@ -260,8 +261,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5362473,New Country Lexus of Great Neck
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX1P5362487,Hendrick Lexus Kansas City North
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5362554,Lexus of Watertown
-2023,GX 460,Black Onyx,4WD,58125,887.0,59012.0,At dealer,False,,JTJAM7BX1P5362618,Lexus of Birmingham
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5362621,Bell Lexus North Scottsdale
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX1P5362621,Bell Lexus North Scottsdale
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX1P5362666,Sterling McCall Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX1P5362733,Metro Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5362750,Lexus of Akron/Canton
@@ -269,9 +269,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5362800,Lexus of Brookfield
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX1P5362862,Germain Lexus of Dublin
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX1P5362991,Westside Lexus
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX1P5363008,Kendall Lexus of Alaska
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,True,DealerHold,JTJAM7BX1P5363008,Kendall Lexus of Alaska
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5363039,Putnam Lexus
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5363056,Herrin-Gear Lexus
 2023,GX 460,Atomic Silver,4WD,58125,1513.0,59638.0,At dealer,False,Available,JTJAM7BX1P5363171,Lexus of Marin
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX1P5363333,Lexus of Tucson
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX1P5363364,Stevinson Lexus of Frederick
@@ -282,7 +281,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5363574,Willis Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX1P5363591,Tustin Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5363641,Motor City Lexus of Bakersfield
-2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5363672,Lexus of Orland
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX1P5363719,Westside Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5363803,Lexus of Louisville
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX1P5363820,Ray Catena Lexus
@@ -313,7 +311,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX1P5364255,Lexus of Orlando
 2023,GX 460,Caviar,4WD,58125,299.0,58424.0,Port to dealer,False,,JTJAM7BX1P5364286,Spirit Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX1P5364305,Sterling McCall Lexus Clear Lake
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5364336,Lexus of Fremont
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX1P5364336,Lexus of Fremont
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5364353,Fresno Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX1P5364367,Lexus of Pembroke Pines
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5364384,Tri-County Lexus
@@ -328,7 +326,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX1P5364594,Lexus of Lexington
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5364613,Prestige Lexus of Ramsey
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5364627,Shottenkirk Desert Lexus
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5364658,DARCARS Lexus of Mt. Kisco
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5364658,DARCARS Lexus of Mt. Kisco
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX1P5364661,Lexus of Wayzata
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5364675,Hendrick Lexus Charlotte
 2023,GX 460,Eminent White Pearl,4WD,58125,99.0,58224.0,Port to dealer,False,,JTJAM7BX1P5364689,Lexus of Madison
@@ -340,7 +338,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5364756,Germain Lexus of Easton
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5364806,Lexus of Kendall
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX1P5364854,Sewell Lexus
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX1P5364868,Lexus of Colorado Springs
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5364871,Lexus of Cherry Hill
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX1P5364949,Westside Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX1P5364966,Price LeBlanc Lexus
@@ -383,17 +380,23 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX1P5365728,Hendrick Lexus Northlake
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX1P5365762,Westside Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5365776,Lexus of Portland
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5365809,Ira Lexus of Manchester
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5365812,Lexus of Dayton
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5365843,Lexus of Maplewood
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5365874,Lexus of Santa Barbara
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5365888,Lexus of Glendale
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX1P5365907,Sterling McCall Lexus Clear Lake
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5365941,Ray Catena Lexus of Monmouth
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5366037,Lexus of Louisville
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5366054,Lexus of Greenville
+2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5366071,Lexus of Watertown
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5366085,Lexus of North Miami
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX1P5366099,Lexus of Wesley Chapel
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5366121,Rallye Lexus
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5366183,Ray Catena Lexus of Freehold
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5366202,Lexus of Greenville
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5366247,Lexus of Pembroke Pines
+2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5366250,Lexus of North Hills
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5366636,Fresno Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5366930,Sterling McCall Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX1P5367172,Lexus of Sacramento
@@ -406,7 +409,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX2P5357637,Lexus of Pembroke Pines
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX2P5358254,DARCARS Lexus of Greenwich
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX2P5358626,Lexus of North Miami
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX2P5358772,Ira Lexus
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX2P5358965,Tustin Lexus
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX2P5359064,Stoler Lexus
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX2P5359114,Lexus of Louisville
@@ -463,8 +465,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX2P5362918,Earnhardt Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5362949,Lexus of Lexington
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX2P5363017,Balise Lexus
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX2P5363034,Spirit Lexus
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX2P5363051,Arrowhead Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX2P5363244,Superstition Springs Lexus
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5363275,Ray Catena Lexus of Freehold
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX2P5363289,Lexus El Cajon
@@ -495,8 +495,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5363907,Lexus of Tacoma at Fife
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5363969,Lexus of Knoxville
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5363972,Freeman Lexus
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5364006,Ray Catena Lexus of Monmouth
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5364040,Ray Catena Lexus of Freehold
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5364068,"Lexus of Seattle, LLC"
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5364071,Crown Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX2P5364085,Hendrick Lexus Kansas City
@@ -523,12 +521,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5364622,Lexus of Wayzata
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5364636,Lexus of Naperville
 2023,GX 460,Eminent White Pearl,4WD,58125,698.0,58823.0,Port to dealer,False,DealerHold,JTJAM7BX2P5364653,Lexus of Tulsa
-2023,GX 460,Eminent White Pearl,4WD,58125,895.0,59020.0,At dealer,False,Available,JTJAM7BX2P5364703,Lexus of Montgomery
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5364720,Lindsay Lexus of Alexandria
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5364734,Flow Lexus of Greensboro
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5364748,Lexus of Orlando
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5364765,Hendrick Lexus Northlake
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5364779,Lexus of Knoxville
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5364796,Lexus of Brooklyn
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5364801,Lexus of Louisville
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5364829,Lexus of Arlington
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5364832,North Park Lexus of San Antonio
@@ -544,7 +542,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5365057,Stevinson Lexus of Lakewood
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5365107,Lexus of Chattanooga
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5365110,Nalley Lexus-Smyrna
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5365138,Lexus of Glendale
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5365138,Lexus of Glendale
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5365141,Lexus of Winter Park
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5365155,Lexus of Riverside
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5365169,Jim Falk Lexus of Beverly Hills
@@ -582,23 +580,30 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5365768,Lexus of Thousand Oaks
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5365771,Temecula Valley Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5365799,Park Place Lexus Plano
+2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5365818,Prestige Lexus of Ramsey
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5365835,North Park Lexus at Dominion
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5365849,Lexus of Wayzata
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX2P5365902,Chatham Parkway Lexus
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5365947,Lexus of Queens
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5365950,Lexus of Tampa Bay
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5365981,Johnson Lexus of Durham
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5365995,Kendall Lexus of Eugene
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5366001,Herb Chambers Lexus
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5366080,Lexus of Watertown
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5366094,Lexus of Akron/Canton
+2023,GX 460,Black Onyx,4WD,58125,1894.0,60019.0,Port to dealer,False,,JTJAM7BX2P5366113,Northtown Lexus
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5366127,Prestige Lexus of Ramsey
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5366144,Sheehy Lexus of Richmond
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5366175,Lexus of Orlando
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5366208,Herrin-Gear Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5366239,Lexus of Lakeway
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5366256,Bob Johnson Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5366581,Lexus of Lakeway
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5366760,Price LeBlanc Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX2P5367164,Lexus of Lakeway
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5367326,Herrin-Gear Lexus
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5367441,Lexus of Riverside
-2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5367536,South County Lexus at Mission Viejo
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX2P5367570,Lexus of Riverside
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5367441,Lexus of Riverside
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX2P5367570,Lexus of Riverside
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX3P5351457,Lexus of Sarasota
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX3P5355038,Meade Lexus of Southfield
 2023,GX 460,Nebula Gray Pearl,4WD,57375,3539.0,60914.0,At dealer,False,DealerHold,JTJAM7BX3P5355203,Lexus of Warwick
@@ -642,7 +647,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX3P5361969,Flow Lexus of Greensboro
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX3P5362071,Lexus of Henderson
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5362104,Lexus of Pembroke Pines
-2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5362135,Lindsay Lexus of Alexandria
+2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX3P5362135,Priority Lexus Virginia Beach
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX3P5362166,Priority Lexus Newport News
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX3P5362183,Lexus of Clearwater
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5362247,Lexus of Pembroke Pines
@@ -678,7 +683,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX3P5363608,Lexus of Greenwood Village
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX3P5363611,Lexus of Serramonte
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5363625,Lindsay Lexus of Alexandria
-2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX3P5363656,Lexus of Merrillville
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX3P5363706,Lexus of Jacksonville
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5363723,Scanlon Lexus of Fort Myers
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5363737,Lexus of Orlando
@@ -688,12 +692,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX3P5363821,Lexus of Cherry Hill
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX3P5363849,Bergstrom Lexus
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5363866,Lexus of Las Vegas
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX3P5364001,Lexus of Lakeway
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5364015,Lexus of Chandler
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5364032,Park Place Lexus Plano
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5364046,Meade Lexus of Lakeside
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5364127,Bobby Rahal Lexus
-2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX3P5364144,Johnson Lexus of Durham
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5364158,Lexus of Serramonte
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5364161,Lexus of Wayzata
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5364175,Westside Lexus
@@ -714,20 +716,19 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nightfall Mica,4WD,58125,99.0,58224.0,Port to dealer,False,,JTJAM7BX3P5364421,Lexus of Madison
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX3P5364435,Lexus of Tucson at the Auto Mall
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX3P5364452,Lexus of Manhattan
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5364466,Treasure Coast Lexus
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5364466,Treasure Coast Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX3P5364497,Lexus of Southampton
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX3P5364502,Motor City Lexus of Bakersfield
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX3P5364533,Lexus of Riverside
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5364547,Butler Lexus
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5364550,Lexus of Sacramento
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5364578,Earnhardt Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5364581,Lexus of Arlington
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5364614,North Park Lexus at Dominion
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5364631,Flow Lexus of Greensboro
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5364645,Scanlon Lexus of Fort Myers
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5364659,Lexus of Watertown
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5364659,Lexus of Watertown
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5364676,Northside Lexus
-2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5364693,Lexus of Nashville
+2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,True,,JTJAM7BX3P5364693,Lexus of Nashville
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5364709,Hennessy Lexus of Gwinnett
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5364726,DARCARS Lexus of Greenwich
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5364757,Fresno Lexus
@@ -748,7 +749,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5365049,Metro Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5365052,Lexus of Palm Beach
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5365066,Lindsay Lexus of Alexandria
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5365083,Stevinson Lexus of Lakewood
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5365102,DARCARS Lexus of Silver Spring
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5365116,Lexus of Roseville
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5365164,Lexus of Austin
@@ -777,6 +777,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5365598,Jim Falk Lexus of Beverly Hills
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5365603,Lexus of Nashville
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5365620,Westside Lexus
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5365701,Stoler Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5365715,Lexus of Huntsville
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5365746,Johnson Lexus of Raleigh
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5365780,Lexus of Lincoln
@@ -789,12 +790,19 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,895.0,59020.0,Port to dealer,False,DealerHold,JTJAM7BX3P5365892,Lexus of Chattanooga
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5365908,Lexus of Lakeway
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5365939,Fox Lexus of El Paso
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5365942,Lexus of Queens
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5365973,Ray Catena Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX3P5365990,JM Lexus
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5366007,Herb Chambers Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,887.0,59012.0,Port to dealer,False,Available,JTJAM7BX3P5366024,Lexus of Birmingham
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX3P5366038,South County Lexus at Mission Viejo
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5366041,Nalley Lexus-Smyrna
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5366119,Herb Chambers Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX3P5366136,Lexus of New Orleans
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5366170,DARCARS Lexus of Englewood
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5366198,Thompson Lexus Doylestown
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5366234,Flow Lexus of Winston-Salem
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5366251,Herb Chambers Lexus of Hingham
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX3P5366458,Shottenkirk Desert Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5366749,Herrin-Gear Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX3P5366847,Sterling McCall Lexus
@@ -832,7 +840,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX4P5361124,Lexus of Freeport
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX4P5361155,Sheehy Lexus of Richmond
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX4P5361169,Priority Lexus Virginia Beach
-2023,GX 460,Nightfall Mica,4WD,57375,0.0,57375.0,Port to dealer,False,DealerHold,JTJAM7BX4P5361172,Lexus of Wayzata
+2023,GX 460,Nightfall Mica,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX4P5361172,Lexus of Wayzata
 2023,GX 460,Nightfall Mica,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX4P5361186,David McDermott Lexus of New Haven
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX4P5361348,Harvey Lexus of Grand Rapids
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,True,DealerHold,JTJAM7BX4P5361365,Herb Chambers Lexus of Hingham
@@ -855,17 +863,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5362175,Meade Lexus of Lakeside
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX4P5362208,Thompson Lexus Doylestown
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX4P5362211,Lexus of Omaha
-2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5362290,Lexus of Maplewood
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX4P5362354,Crown Lexus
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5362418,Ourisman Lexus of Rockville
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5362483,Harvey Lexus of Grand Rapids
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5362516,DARCARS Lexus of Silver Spring
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5362547,Dolan Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5362581,Rallye Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5362595,DARCARS Lexus of Silver Spring
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5362600,Germain Lexus of Ann Arbor
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5362614,Lexus of Colorado Springs
-2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5362659,McGrath Lexus of Westmont
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5362676,Jim White Lexus of Toledo
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5362693,Lexus of Pleasanton
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5362709,McGrath Lexus of Westmont
@@ -874,10 +879,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5362807,Lexus of Freeport
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5362841,Spirit Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX4P5362998,Lexus of Naperville
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5363052,Lexus of Wayzata
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX4P5363052,Lexus of Wayzata
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5363102,Meade Lexus of Southfield
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX4P5363147,Lexus of Louisville
-2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX4P5363150,Sewell Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5363200,Metro Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5363231,Lexus of Lexington
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5363245,Lexus of Bellevue
@@ -885,7 +889,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5363262,Fox Lexus of El Paso
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5363438,Herrin-Gear Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5363441,Willis Lexus
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX4P5363469,Northside Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX4P5363553,Lexus of Tacoma at Fife
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5363584,Flow Lexus of Winston-Salem
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5363598,Lexus of Freeport
@@ -903,7 +906,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5363889,Lexus of Orlando
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5363942,Lexus of Maplewood
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5363973,Lexus of Peoria
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX4P5363990,Larry H. Miller Lexus of Lindon
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5364007,Berlin City Lexus of Portland
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX4P5364010,Lexus of Brooklyn
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5364055,Lexus of Bellevue
@@ -911,14 +913,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5364119,Longo Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5364122,Arrowhead Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5364136,DARCARS Lexus of Silver Spring
-2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX4P5364153,Crown Lexus
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX4P5364153,Keyes Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,1228.0,59353.0,Port to dealer,False,,JTJAM7BX4P5364167,Mungenast Lexus of St. Louis
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5364170,Johnson Lexus of Raleigh
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX4P5364198,Larry H. Miller Lexus Murray
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5364217,Tom Wood Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5364220,Johnson Lexus of Durham
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5364234,Longo Lexus
-2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5364248,Lexus of Austin
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5364251,Lexus of Lincoln
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5364279,Meade Lexus of Lakeside
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5364282,Lexus of Pembroke Pines
@@ -936,13 +937,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5364542,Lexus of Towson
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5364556,Putnam Lexus
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5364623,Lexus of Greenwood Village
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5364637,Johnson Lexus of Durham
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX4P5364637,Johnson Lexus of Durham
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5364654,Sterling McCall Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5364668,Lexus of Thousand Oaks
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5364704,Bob Johnson Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5364718,Lexus of Tampa Bay
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX4P5364721,North Park Lexus Rio Grande Valley
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5364735,Hendrick Lexus Kansas City
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5364749,Stoler Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5364752,DARCARS Lexus of Mt. Kisco
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX4P5364816,Lexus of New Orleans
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX4P5364833,Lexus of Pembroke Pines
@@ -976,7 +978,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,887.0,59012.0,Port to dealer,False,DealerHold,JTJAM7BX4P5365321,Lexus of Birmingham
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5365335,Park Place Lexus Grapevine
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX4P5365349,Longo Lexus
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5365397,Jim Falk Lexus of Beverly Hills
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5365397,Jim Falk Lexus of Beverly Hills
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5365464,Lexus of Lakeway
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5365495,New Country Lexus of Latham
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5365545,"Lexus of Seattle, LLC"
@@ -989,17 +991,22 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5365691,Westside Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5365741,Motor City Lexus of Bakersfield
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5365769,South Bay Lexus
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5365819,Lexus of Watertown
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5365822,Wilkie Lexus
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5365853,Lexus of Wesley Chapel
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5365870,Westside Lexus
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5365903,Ray Catena Lexus
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5365917,Metro Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5365951,Woodfield Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX4P5365965,Nalley Lexus-Smyrna
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5365982,Germain Lexus of Dublin
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5365996,Lexus of Pembroke Pines
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5366002,Prestige Lexus of Ramsey
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5366078,Lexus of Lexington
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5366095,Lexus of Kingsport
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5366131,Park Place Lexus Grapevine
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5366145,Hendrick Lexus Kansas City
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5366159,Ira Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX4P5366162,Germain Lexus of Ann Arbor
 2023,GX 460,Nightfall Mica,4WD,58125,2342.0,60467.0,Port to dealer,False,DealerHold,JTJAM7BX4P5366193,"Jim Hudson Lexus, Columbia"
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5366209,Northside Lexus
@@ -1008,14 +1015,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5367134,Sterling McCall Lexus Clear Lake
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX4P5367361,Northside Lexus
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX5P5355025,Lexus of Brookfield
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX5P5358250,DARCARS Lexus of Englewood
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX5P5358376,Ourisman Lexus of Rockville
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX5P5358586,North Park Lexus of San Antonio
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX5P5358605,Ourisman Lexus of Rockville
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX5P5358863,Lexus of North Hills
-2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX5P5359382,Ira Lexus
-2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX5P5359446,Motor City Lexus of Bakersfield
-2023,GX 460,Nebula Gray Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX5P5359477,JM Lexus
 2023,GX 460,Nebula Gray Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX5P5359706,Temecula Valley Lexus
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,Port to dealer,False,DealerHold,JTJAM7BX5P5359771,Lexus of Wayzata
 2023,GX 460,Nebula Gray Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX5P5359897,Longo Lexus
@@ -1023,7 +1025,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nebula Gray Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX5P5360158,Lexus of Pembroke Pines
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX5P5360242,Lexus of Pembroke Pines
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX5P5360290,Lexus of Pembroke Pines
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX5P5360421,Bob Johnson Lexus
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX5P5360483,North Park Lexus Rio Grande Valley
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,Port to dealer,False,DealerHold,JTJAM7BX5P5360645,Lexus of Arlington
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX5P5360712,McGrath Lexus of Westmont
@@ -1032,7 +1033,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX5P5360788,Ray Catena Lexus of Monmouth
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX5P5360869,Lexus of Route 10
 2023,GX 460,Nightfall Mica,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX5P5360886,Lexus of Towson
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX5P5360919,Lexus of Knoxville
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX5P5360953,Ira Lexus
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX5P5360998,Kenny Kent Lexus
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX5P5361004,Lexus of Queens
@@ -1040,7 +1040,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX5P5361066,Lexus of Route 10
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX5P5361391,Lexus of Greenville
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX5P5361410,Lexus of Watertown
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,Port to dealer,False,DealerHold,JTJAM7BX5P5361455,Lexus of Wayzata
+2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX5P5361455,Lexus of Wayzata
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX5P5361570,Lexus of Freeport
 2023,GX 460,Nightfall Mica,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX5P5361584,Lexus of Watertown
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX5P5361603,DARCARS Lexus of Silver Spring
@@ -1052,13 +1052,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX5P5362038,Ray Catena Lexus
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX5P5362072,Smart Lexus of Quad Cities
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX5P5362122,Lexus Escondido
-2023,GX 460,Black Onyx,4WD,58125,2342.0,60467.0,At dealer,False,DealerHold,JTJAM7BX5P5362203,"Jim Hudson Lexus, Columbia"
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX5P5362234,Lexus of North Hills
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX5P5362279,Lexus of Lehigh Valley
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX5P5362301,Superstition Springs Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX5P5362315,Hennessy Lexus of Gwinnett
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5362329,Germain Lexus of Dublin
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX5P5362427,Lexus of Henderson
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX5P5362430,Lexus San Diego
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX5P5362492,Hendrick Lexus Northlake
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5362508,Bob Johnson Lexus
@@ -1066,7 +1064,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX5P5362556,Tustin Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX5P5362606,JM Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5362637,McGrath Lexus of Chicago
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX5P5362668,North Park Lexus at Dominion
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX5P5362797,Lexus Stevens Creek
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX5P5362802,Serra Lexus Lansing
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX5P5362864,Lexus of Henderson
@@ -1113,7 +1110,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX5P5364145,Thompson Lexus Willow Grove
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5364162,McGrath Lexus of Westmont
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX5P5364193,Lexus of Naperville
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5364209,Lexus of Lehigh Valley
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX5P5364209,Lexus of Lehigh Valley
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX5P5364226,Lexus of Orlando
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5364288,Metro Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX5P5364291,Lexus of Portland
@@ -1124,13 +1121,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,58125,99.0,58224.0,Port to dealer,False,,JTJAM7BX5P5364422,Lexus of Madison
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5364436,Lexus of Arlington
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5364467,Lexus of Santa Fe
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5364470,Lexus of Palm Beach
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX5P5364470,Lexus of Palm Beach
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5364498,Lexus of Knoxville
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX5P5364517,Lexus of Roseville
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX5P5364551,Lexus of Pleasanton
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX5P5364596,Longo Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5364629,Lexus of Austin
-2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX5P5364677,Hilton Head Lexus
+2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX5P5364677,Hilton Head Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5364727,Prestige Lexus of Ramsey
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5364744,Hendrick Lexus Charleston
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5364758,Lexus of West Kendall
@@ -1143,6 +1140,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX5P5364839,Thompson Lexus Willow Grove
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX5P5364842,Lexus of Bellevue
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX5P5364873,Lexus of Thousand Oaks
+2023,GX 460,Black Onyx,4WD,58125,3539.0,61664.0,Port to dealer,False,DealerHold,JTJAM7BX5P5364887,Lexus of Warwick
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5364890,Bobby Rahal Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5364906,Sewell Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5364923,Hendrick Lexus Northlake
@@ -1168,7 +1166,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5365358,Lexus of Brooklyn
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5365375,North Park Lexus at Dominion
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5365408,Lexus of North Miami
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5365439,Lexus of Austin
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5365442,Woodfield Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5365487,Lexus of West Kendall
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5365490,Lexus San Diego
@@ -1192,13 +1189,18 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5365800,Stevinson Lexus of Frederick
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5365845,Hendrick Lexus Kansas City
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5365859,Lexus of Pembroke Pines
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5365862,Prestige Lexus of Ramsey
 2023,GX 460,Atomic Silver,4WD,58125,299.0,58424.0,Port to dealer,False,DealerHold,JTJAM7BX5P5365876,Lexus of Memphis
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5365974,Lexus of Cherry Hill
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5365988,Stevinson Lexus of Lakewood
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX5P5366087,South Bay Lexus
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5366168,Tri-County Lexus
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5366171,Herb Chambers Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5366185,Lexus of Orlando
+2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5366204,Lexus of Lehigh Valley
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5366557,Northside Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5366767,Sterling McCall Lexus
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5367062,Lexus of Riverside
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX5P5367062,Lexus of Riverside
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX5P5367210,Eskridge Lexus of Oklahoma City
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX5P5367420,Crown Lexus
 2023,GX 460,Nebula Gray Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX6P5351971,Lexus of Rockford
@@ -1237,12 +1239,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Caviar,4WD,57375,3539.0,60914.0,At dealer,False,DealerHold,JTJAM7BX6P5361660,Lexus of Warwick
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,Port to dealer,False,Available,JTJAM7BX6P5361688,Fields Lexus Glenview
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX6P5361724,Thompson Lexus Willow Grove
-2023,GX 460,Caviar,4WD,57375,887.0,58262.0,At dealer,False,Available,JTJAM7BX6P5361738,Lexus of Birmingham
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX6P5361836,Lexus of Queens
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX6P5361870,Lexus of Northborough
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX6P5361903,Lexus of Bridgewater
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX6P5361920,Lexus of Wayzata
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX6P5362078,Bob Johnson Lexus
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX6P5361920,Lexus of Wayzata
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX6P5362081,Classic Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5362128,Ray Catena Lexus of White Plains
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5362159,Germain Lexus of Ann Arbor
@@ -1253,8 +1252,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5362341,Balise Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5362405,DARCARS Lexus of Silver Spring
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX6P5362436,Sterling McCall Lexus Clear Lake
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX6P5362453,Price LeBlanc Lexus
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX6P5362467,Lexus of Tacoma at Fife
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX6P5362467,Lexus of Tacoma at Fife
 2023,GX 460,Eminent White Pearl,4WD,58125,1099.0,59224.0,At dealer,False,DealerHold,JTJAM7BX6P5362484,Mungenast Lexus of St. Louis
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX6P5362498,Larry H. Miller Lexus of Lindon
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5362503,Lexus of Route 10
@@ -1276,9 +1274,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5363330,McGrath Lexus of Chicago
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5363344,Germain Lexus of Easton
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX6P5363358,Stevinson Lexus of Frederick
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,True,DealerHold,JTJAM7BX6P5363490,Stevinson Lexus of Lakewood
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5363523,Metro Lexus
-2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX6P5363554,Johnson Lexus of Durham
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5363571,Lexus of Las Vegas
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5363585,Ray Catena Lexus of Freehold
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5363599,Lexus Carlsbad
@@ -1290,7 +1286,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5363733,New Country Lexus of Great Neck
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5363750,Germain Lexus of Ann Arbor
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX6P5363764,Lexus of Thousand Oaks
-2023,GX 460,Eminent White Pearl,4WD,58125,895.0,59020.0,At dealer,False,,JTJAM7BX6P5363800,Lexus of Montgomery
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5363800,Lexus of Montgomery
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX6P5363845,Ray Catena Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5363859,Stevinson Lexus of Lakewood
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX6P5363862,Classic Lexus
@@ -1319,10 +1315,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5364395,Lexus of Westminster
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5364428,Bell Lexus North Scottsdale
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5364431,Lexus of Pembroke Pines
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX6P5364445,Johnson Lexus of Durham
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX6P5364445,Johnson Lexus of Durham
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5364493,North Park Lexus of San Antonio
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5364509,Lexus of Bellevue
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5364557,Lexus of Dayton
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5364560,Lexus of Queens
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX6P5364574,Lexus of Tucson at the Auto Mall
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX6P5364588,Longo Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5364591,Meade Lexus of Lakeside
@@ -1383,19 +1380,26 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5365661,North Park Lexus of San Antonio
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5365689,Lexus of Palm Beach
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX6P5365692,Park Place Lexus Plano
+2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5365739,Herb Chambers Lexus
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5365742,Rohrich Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5365787,Jim White Lexus of Toledo
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5365790,Lexus of Fremont
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX6P5365806,Lexus of Knoxville
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX6P5365823,Northside Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX6P5365854,Lexus Carlsbad
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5365885,New Country Lexus of Westport
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX6P5365904,Westside Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,99.0,58224.0,Port to dealer,False,,JTJAM7BX6P5365921,Lexus of Madison
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5366003,Ray Catena Lexus of Monmouth
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5366020,Dolan Lexus
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX6P5366034,Lexus of New Orleans
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,True,DealerHold,JTJAM7BX6P5366034,Lexus of New Orleans
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5366048,Lexus of New Orleans
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5366051,Lexus of Brooklyn
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5366079,Lexus of Omaha
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX6P5366115,Lexus of Lakeway
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5366146,Fox Lexus of El Paso
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5366194,New Country Lexus of Latham
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5366244,Lexus of North Hills
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5366695,Stevinson Lexus of Lakewood
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX6P5366728,Northside Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX6P5366731,Lexus of Sacramento
@@ -1429,7 +1433,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,Port to dealer,False,DealerHold,JTJAM7BX7P5360744,Lexus of Wayzata
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX7P5360842,New Country Lexus of Great Neck
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX7P5361053,Stevinson Lexus of Frederick
-2023,GX 460,Nebula Gray Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX7P5361067,Lexus of Wayzata
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX7P5361084,Lexus of Jacksonville
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX7P5361120,Len Stoler Lexus
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX7P5361151,Lexus of Rockford
@@ -1438,20 +1441,18 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX7P5361442,Rohrich Lexus
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX7P5361487,DARCARS Lexus of Mt. Kisco
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX7P5361635,Ourisman Lexus of Rockville
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,Port to dealer,False,Available,JTJAM7BX7P5361800,Lexus of Wayzata
+2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX7P5361800,Lexus of Wayzata
 2023,GX 460,Nightfall Mica,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX7P5361893,Rohrich Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX7P5362025,Lexus of Akron/Canton
-2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX7P5362042,Lexus of Huntsville
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5362090,Hendrick Lexus Kansas City North
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5362123,Herb Chambers Lexus
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX7P5362171,Price LeBlanc Lexus
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX7P5362171,Lexus of Austin
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX7P5362221,Lexus of Orlando
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5362302,Herb Chambers Lexus
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5362316,Lexus of Wayzata
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX7P5362316,Lexus of Wayzata
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5362364,McGrath Lexus of Chicago
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX7P5362428,Thompson Lexus Doylestown
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5362445,Thompson Lexus Willow Grove
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX7P5362476,Kendall Lexus of Eugene
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5362557,Lexus of Greenville
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5362607,Lexus of Lexington
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5362672,Lexus Monterey Peninsula
@@ -1474,7 +1475,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX7P5363353,Price LeBlanc Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5363448,North Park Lexus of San Antonio
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX7P5363451,Lexus of Chandler
-2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5363482,Fields Lexus Glenview
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,True,DealerHold,JTJAM7BX7P5363482,Fields Lexus Glenview
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX7P5363501,North Park Lexus at Dominion
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5363532,Classic Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX7P5363546,Nalley Lexus - Roswell
@@ -1482,7 +1483,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5363594,McGrath Lexus of Westmont
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5363644,Lexus of Winter Park
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5363689,Lexus of Merrillville
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5363711,Ira Lexus of Manchester
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5363711,Ira Lexus of Manchester
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX7P5363739,Lexus of New Orleans
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX7P5363756,Sewell Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5363773,Lexus of Pleasanton
@@ -1490,12 +1491,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5363837,Lexus of Bellevue
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5363840,Lexus of Pembroke Pines
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5363854,Lexus of Maplewood
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX7P5363899,Lexus of Lexington
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5363918,Lexus of Route 10
-2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,True,DealerHold,JTJAM7BX7P5363935,Lexus of Nashville
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5363952,Tri-County Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5363966,DARCARS Lexus of Englewood
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX7P5363983,Lexus of Lakeway
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5363997,Fields Lexus Glenview
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX7P5364017,Lexus of Fremont
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5364065,Park Place Lexus Plano
@@ -1515,7 +1513,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX7P5364440,Lexus of Glendale
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5364468,Scanlon Lexus of Fort Myers
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5364471,Stevinson Lexus of Frederick
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5364485,Chatham Parkway Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5364499,Hennessy Lexus of Gwinnett
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5364504,Lexus of Milwaukee
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5364518,McGrath Lexus of Westmont
@@ -1531,7 +1528,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5364700,Thompson Lexus Willow Grove
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5364714,Herb Chambers Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5364731,Park Place Lexus Grapevine
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5364762,Lexus of Lexington
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,True,DealerHold,JTJAM7BX7P5364762,Lexus of Lexington
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5364776,Lindsay Lexus of Alexandria
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5364793,Westside Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5364809,Fox Lexus of El Paso
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5364812,Lexus of Winter Park
@@ -1545,7 +1543,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5365040,Scanlon Lexus of Fort Myers
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5365068,North Park Lexus of San Antonio
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX7P5365071,Lexus of Westminster
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5365099,Jim Falk Lexus of Beverly Hills
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5365099,Jim Falk Lexus of Beverly Hills
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5365135,Fields Lexus Glenview
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5365149,Germain Lexus of Naples
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5365152,Thompson Lexus Willow Grove
@@ -1566,7 +1564,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5365541,Peterson Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX7P5365555,Lexus of Smithtown
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5365572,New Country Lexus of Great Neck
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5365586,Lexus of Southampton
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5365586,Lexus of Southampton
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5365622,Lexus of Nashville
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5365636,Lexus of Lexington
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5365703,Westside Lexus
@@ -1581,24 +1579,25 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5365944,Lexus of Naperville
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5366009,Lexus of Cool Springs
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5366012,Lexus of Lexington
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5366043,New Country Lexus of Latham
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5366057,Herrin-Gear Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5366074,Park Place Lexus Plano
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5366091,Lexus of Cerritos
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5366107,North Park Lexus at Dominion
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5366110,Lexus of Orlando
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5366169,Lexus of Route 10
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5366267,Butler Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX7P5366303,Kendall Lexus of Alaska
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX7P5366379,Lexus of Henderson
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5366821,Lexus of Cerritos
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5366897,Crown Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5367161,Temecula Valley Lexus
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX7P5367578,Lexus of Riverside
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX7P5367578,Lexus of Riverside
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX8P5354998,Germain Lexus of Dublin
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX8P5355018,Meade Lexus of Lakeside
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX8P5355732,Tri-County Lexus
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX8P5355875,Germain Lexus of Naples
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX8P5356122,DARCARS Lexus of Mt. Kisco
-2023,GX 460,Nebula Gray Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX8P5357982,Lexus of Route 10
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX8P5358226,Smart Lexus of Quad Cities
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX8P5358436,Lexus of Pembroke Pines
 2023,GX 460,Atomic Silver,4WD,57375,299.0,57674.0,At dealer,False,Available,JTJAM7BX8P5358498,Spirit Lexus
@@ -1636,11 +1635,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX8P5362244,Lexus of Chester Springs
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX8P5362325,Jim White Lexus of Toledo
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX8P5362390,North Park Lexus of San Antonio
-2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX8P5362440,Lexus of Highland Park
+2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,True,DealerHold,JTJAM7BX8P5362440,Lexus of Highland Park
 2023,GX 460,Atomic Silver,4WD,58125,100.0,58225.0,At dealer,False,Available,JTJAM7BX8P5362468,Lexus of Orland
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5362504,Lexus of Lexington
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX8P5362549,Flow Lexus of Winston-Salem
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX8P5362695,Haldeman Lexus of Princeton
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX8P5362907,Park Place Lexus Plano
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX8P5363068,Lexus of Sacramento
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX8P5363085,Lexus of Highland Park
@@ -1650,7 +1648,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX8P5363359,Superstition Springs Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX8P5363409,South Bay Lexus
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX8P5363426,Larry H. Miller Lexus Murray
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX8P5363460,Lexus of Lexington
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,True,DealerHold,JTJAM7BX8P5363460,Lexus of Lexington
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX8P5363572,Jim Falk Lexus of Beverly Hills
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5363605,Flow Lexus of Winston-Salem
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX8P5363670,Johnson Lexus of Raleigh
@@ -1676,6 +1674,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5364219,Johnson Lexus of Durham
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX8P5364253,Larry H. Miller Lexus Murray
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX8P5364267,Lexus of Jacksonville
+2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5364298,New Country Lexus of Great Neck
 2023,GX 460,Nightfall Mica,4WD,58125,2995.0,61120.0,Port to dealer,False,,JTJAM7BX8P5364303,Sheehy Lexus of Annapolis
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5364334,Westside Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX8P5364348,Rohrich Lexus
@@ -1698,14 +1697,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX8P5364592,Putnam Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5364608,Wilkie Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5364611,Johnson Lexus of Durham
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX8P5364639,Lexus of Riverside
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5364642,Lexus of Jacksonville
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX8P5364656,Park Place Lexus Plano
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX8P5364673,Lexus of Pleasanton
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5364687,Lexus of Louisville
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5364690,Lexus of Route 10
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX8P5364754,Lexus of Smithtown
-2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX8P5364785,Jim Falk Lexus of Beverly Hills
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5364799,Nalley Lexus - Roswell
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5364804,Lexus of Palm Beach
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5364818,DARCARS Lexus of Englewood
@@ -1727,12 +1724,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5365113,Lexus of Maplewood
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX8P5365127,Sterling McCall Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX8P5365158,Lexus of Orlando
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5365161,Lexus of Woodland Hills
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX8P5365161,Lexus of Woodland Hills
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5365189,Lexus of Portland
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5365192,Haldeman Lexus of Princeton
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5365211,Northside Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5365239,Park Place Lexus Grapevine
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX8P5365242,Lexus of Austin
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5365273,Lexus of Brooklyn
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5365287,Lexus of Queens
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5365290,Lexus of Chandler
@@ -1752,13 +1748,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5365712,Westside Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5365726,Lexus of Palm Beach
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5365760,Keyes Lexus
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5365774,Lexus of North Hills
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5365807,Price LeBlanc Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5365869,Northside Lexus
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5365872,Lexus of Northborough
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX8P5365886,Sewell Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5365919,Park Place Lexus Plano
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5365998,Northside Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5366035,Lexus of Brookfield
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5366052,Meade Lexus of Lakeside
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5366066,Stoler Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5366102,Germain Lexus of Dublin
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5366133,Sterling McCall Lexus Clear Lake
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5366150,Lexus of Cool Springs
@@ -1770,16 +1769,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5366942,Lexus of Sacramento
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX8P5366973,South Bay Lexus
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5367265,Lexus of Sacramento
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX8P5367315,Lexus of Cerritos
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX8P5367315,Lexus of Cerritos
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX8P5367590,Sterling McCall Lexus
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX9P5355769,Ray Catena Lexus of Freehold
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX9P5356193,Park Place Lexus Plano
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX9P5356680,Lexus of Pembroke Pines
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX9P5357778,Thompson Lexus Doylestown
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX9P5358610,DARCARS Lexus of Greenwich
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,Port to dealer,False,DealerHold,JTJAM7BX9P5359241,Lexus of Wayzata
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX9P5359255,Rohrich Lexus
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX9P5359322,Priority Lexus Virginia Beach
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX9P5359773,Jim White Lexus of Toledo
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX9P5359837,Lexus of Pembroke Pines
 2023,GX 460,Nebula Gray Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX9P5360003,Lexus of Pembroke Pines
@@ -1790,7 +1786,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX9P5360681,Moses Lexus
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX9P5360762,Fresno Lexus
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX9P5360924,Lexus of Greenville
-2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX9P5361037,Lexus of North Hills
+2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX9P5361037,Lexus of North Hills
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX9P5361040,Lexus of Freeport
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX9P5361149,Stoler Lexus
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX9P5361166,Lexus of Manhattan
@@ -1805,10 +1801,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX9P5361734,Prestige Lexus of Ramsey
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX9P5361748,Rallye Lexus
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BX9P5361751,Prestige Lexus of Ramsey
-2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,Port to dealer,False,Available,JTJAM7BX9P5361779,Lexus of Wayzata
+2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BX9P5361779,Lexus of Wayzata
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BX9P5361796,Lindsay Lexus of Alexandria
 2023,GX 460,Atomic Silver,4WD,57375,99.0,57474.0,At dealer,False,Available,JTJAM7BX9P5361880,Lexus of Madison
-2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5361894,Lexus of Wayzata
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5361894,Lexus of Wayzata
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX9P5361930,DARCARS Lexus of Greenwich
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5362009,Meade Lexus of Southfield
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX9P5362026,Lexus of Winter Park
@@ -1828,16 +1824,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX9P5362737,Lexus of Henderson
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5362768,Germain Lexus of Easton
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5362771,Valley Lexus
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX9P5362821,Lexus of Albuquerque
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX9P5362883,Lexus of Santa Fe
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5362981,Jim White Lexus of Toledo
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX9P5362995,Sterling McCall Lexus Clear Lake
-2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,True,DealerHold,JTJAM7BX9P5363015,Lexus of Lexington
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5363063,Tri-County Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5363127,Lexus of Santa Barbara
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BX9P5363208,Motor City Lexus of Bakersfield
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5363287,Larry H. Miller Lexus Murray
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5363368,Lexus of Akron/Canton
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5363368,Lexus of Akron/Canton
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX9P5363385,Classic Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5363418,Park Place Lexus Plano
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5363449,Tom Wood Lexus
@@ -1847,7 +1840,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5363581,Koons Lexus of Wilmington
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5363659,Crown Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX9P5363709,Lexus of Arlington
-2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5363712,DARCARS Lexus of Mt. Kisco
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5363712,DARCARS Lexus of Mt. Kisco
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX9P5363774,Sewell Lexus of Ft. Worth
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5363788,Price LeBlanc Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5363791,Lexus Carlsbad
@@ -1864,18 +1857,20 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364133,Sewell Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364181,Lexus of Pembroke Pines
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX9P5364200,Lexus of Wayzata
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5364228,Sheehy Lexus of Richmond
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364231,Putnam Lexus
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5364259,Classic Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364262,Lexus of Louisville
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX9P5364293,Larry H. Miller Lexus of Lindon
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364309,Flow Lexus of Greensboro
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5364312,Coliseum Lexus of Oakland
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364374,Lexus of Pembroke Pines
-2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX9P5364407,Lexus of Wesley Chapel
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BX9P5364424,Lexus of Wayzata
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364438,Lexus of Edison
 2023,GX 460,Eminent White Pearl,4WD,58125,2342.0,60467.0,Port to dealer,False,DealerHold,JTJAM7BX9P5364441,"Jim Hudson Lexus, Columbia"
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5364469,Northside Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5364472,Lexus of Lexington
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364522,DARCARS Lexus of Silver Spring
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364584,McGrath Lexus of Westmont
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364598,McGrath Lexus of Westmont
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BX9P5364617,Lexus Santa Monica
@@ -1886,12 +1881,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5364794,Lexus of Jacksonville
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364813,Sterling McCall Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364827,Serra Lexus Lansing
-2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364858,Coliseum Lexus of Oakland
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5364858,Coliseum Lexus of Oakland
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5364861,Johnson Lexus of Raleigh
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364875,Lexus of Jacksonville
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5364892,Lexus of Lakeway
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364908,Sheehy Lexus of Richmond
-2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5364956,Sterling McCall Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5364973,Lexus of Melbourne
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5365010,Bobby Rahal Lexus of Lancaster County
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5365024,Ray Catena Lexus of Monmouth
@@ -1926,7 +1920,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5365623,Sterling McCall Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5365637,Lexus of Wesley Chapel
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5365671,Classic Lexus
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5365699,DARCARS Lexus of Englewood
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5365718,North Park Lexus at Dominion
+2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5365721,Lexus of Smithtown
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5365735,Lexus of Naperville
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5365749,Westside Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BX9P5365752,Lexus of Glendale
@@ -1936,10 +1932,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5365900,Bergstrom Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5365928,Lexus of North Miami
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5366030,Sewell Lexus
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5366058,Bob Johnson Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5366061,Fields Lexus Glenview
 2023,GX 460,Eminent White Pearl,4WD,58125,2342.0,60467.0,Port to dealer,False,DealerHold,JTJAM7BX9P5366108,"Jim Hudson Lexus, Columbia"
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5366142,Lexus of North Miami
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5366173,Fresno Lexus
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BX9P5366173,Fresno Lexus
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5366187,Lexus of Brooklyn
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5366285,Kenny Kent Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5366416,Price LeBlanc Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BX9P5367226,Temecula Valley Lexus
@@ -1964,20 +1962,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BXXP5360267,Hendrick Lexus Charleston
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BXXP5360365,New Country Lexus of Latham
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BXXP5360429,Ourisman Lexus of Rockville
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BXXP5360432,Temecula Valley Lexus
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BXXP5360463,Jim White Lexus of Toledo
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BXXP5360544,Lexus of Woodland Hills
 2023,GX 460,Caviar,4WD,57375,299.0,57674.0,Port to dealer,False,DealerHold,JTJAM7BXXP5360625,Spirit Lexus
 2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BXXP5360656,Ray Catena Lexus
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BXXP5360687,Ourisman Lexus of Rockville
-2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BXXP5360799,Lexus of Wesley Chapel
 2023,GX 460,Atomic Silver,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BXXP5360835,Lexus Stevens Creek
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BXXP5360866,Lexus of Towson
 2023,GX 460,Nebula Gray Pearl,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJAM7BXXP5360897,Lexus of Pleasanton
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BXXP5361032,Berlin City Lexus of Portland
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BXXP5361080,Lexus of Pembroke Pines
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BXXP5361225,Lexus of Atlantic City
-2023,GX 460,Caviar,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BXXP5361306,Lexus of Orange County
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BXXP5361323,Sheehy Lexus of Richmond
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BXXP5361340,Lexus of Cherry Hill
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BXXP5361404,Willis Lexus
@@ -1990,7 +1984,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BXXP5361712,Prestige Lexus of Ramsey
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BXXP5361726,Motorworld Lexus
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BXXP5361760,Lexus of Freeport
-2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BXXP5361774,Lexus of Orange County
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJAM7BXXP5361788,Hendrick Lexus Kansas City
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,,JTJAM7BXXP5361824,Lexus of Chester Springs
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BXXP5361936,Herb Chambers Lexus of Hingham
@@ -2014,7 +2007,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5362813,Reliable Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5362858,Performance Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5362861,Smart Lexus of Quad Cities
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5362889,Lexus of Wayzata
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5362889,Lexus of Wayzata
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BXXP5362911,Lexus of Bellevue
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5362987,Lexus of Riverside
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5362990,McGrath Lexus of Chicago
@@ -2029,7 +2022,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5363556,Lexus of Queens
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5363573,Ray Catena Lexus of Freehold
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5363606,Kenny Kent Lexus
-2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5363623,Ira Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5363685,Lexus of Watertown
 2023,GX 460,Black Onyx,4WD,58125,2995.0,61120.0,At dealer,False,,JTJAM7BXXP5363699,Sheehy Lexus of Annapolis
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5363718,Lexus of Fremont
@@ -2038,27 +2030,24 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5363752,Reliable Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5363766,Meade Lexus of Southfield
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5363816,Lexus of Tampa Bay
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5363847,Johnson Lexus of Raleigh
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5363850,Arrowhead Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5363864,New Country Lexus of Westport
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5363878,Ourisman Lexus of Rockville
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5363881,Lexus of Brooklyn
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5363895,Lexus of Maplewood
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5363900,Lexus of Cerritos
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5363900,Lexus of Cerritos
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5363914,Lexus of Greenville
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5363928,Germain Lexus of Ann Arbor
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5363959,Flow Lexus of Greensboro
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5363959,Flow Lexus of Greensboro
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5363962,Lexus of Tucson at the Auto Mall
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5363976,Lexus of Melbourne
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BXXP5364013,Lexus of Westminster
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5364027,Johnson Lexus of Raleigh
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5364030,Lexus of Lexington
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BXXP5364044,Priority Lexus Virginia Beach
-2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5364058,Hennessy Lexus of Atlanta
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5364061,Lexus of Tampa Bay
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5364089,Lexus of Watertown
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5364108,Lexus of Queens
-2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5364111,Lexus of Kendall
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5364142,McGrath Lexus of Chicago
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5364173,Dolan Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BXXP5364187,Fresno Lexus
@@ -2072,9 +2061,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5364321,Lexus of Pembroke Pines
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5364335,Lexus of Winter Park
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5364349,Lindsay Lexus of Alexandria
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BXXP5364352,Kendall Lexus of Alaska
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5364397,Ray Catena Lexus of Monmouth
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5364433,Park Place Lexus Grapevine
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5364464,Lindsay Lexus of Alexandria
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5364478,Hendrick Lexus Kansas City
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5364528,Lexus of Sacramento
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5364545,Lexus of Kingsport
@@ -2089,12 +2078,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5364738,Lexus of Greenwood Village
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5364741,Sterling McCall Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5364772,Harvey Lexus of Grand Rapids
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5364805,Lexus of North Hills
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5364819,Bob Johnson Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5364836,Lexus of Pembroke Pines
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5364853,Rohrich Lexus
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5364867,Northside Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5364870,Keyes Lexus
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5364884,Lexus of Cerritos
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BXXP5364884,Lexus of Cerritos
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5364917,Stevinson Lexus of Frederick
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5364920,Lindsay Lexus of Alexandria
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5364934,Cavender Lexus of Lubbock
@@ -2108,7 +2098,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5365100,Lexus of Mobile
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5365128,Crown Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,At dealer,False,DealerHold,JTJAM7BXXP5365131,Lexus Escondido
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,Available,JTJAM7BXXP5365145,Temecula Valley Lexus
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,Available,JTJAM7BXXP5365145,Temecula Valley Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5365193,Hendrick Lexus Charleston
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5365212,Lexus of Glendale
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5365257,Keyes Lexus of Valencia
@@ -2117,7 +2107,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5365310,Thompson Lexus Doylestown
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5365324,Lexus of Pembroke Pines
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5365341,Hilton Head Lexus
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5365369,Lexus of Glendale
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5365369,Lexus of Glendale
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5365372,Westside Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5365453,Jim Falk Lexus of Beverly Hills
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5365470,Len Stoler Lexus
@@ -2128,9 +2118,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5365582,Sterling McCall Lexus Clear Lake
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5365615,Price LeBlanc Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5365663,Lexus of North Miami
+2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5365727,Ray Catena Lexus of Monmouth
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5365758,Peterson Lexus
 2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5365792,Lexus of Shreveport - Bossier City
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5365808,Meade Lexus of Southfield
+2023,GX 460,Caviar,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5365825,Ray Catena Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5365842,Keyes Lexus
 2023,GX 460,Black Onyx,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5365873,Northside Lexus
 2023,GX 460,Nightfall Mica,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5365971,Lexus of Dayton
@@ -2139,9 +2131,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,DealerHold,JTJAM7BXXP5366070,Lexus of Highland Park
 2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5366103,Reliable Lexus
 2023,GX 460,Black Onyx,4WD,58125,100.0,58225.0,Port to dealer,False,,JTJAM7BXXP5366151,Lexus of Orland
+2023,GX 460,Eminent White Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5366182,Herb Chambers Lexus
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5366621,South County Lexus at Mission Viejo
-2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5366974,Lexus of Cerritos
-2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5367218,Lexus of Cerritos
+2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5366974,Lexus of Cerritos
+2023,GX 460,Nebula Gray Pearl,4WD,58125,0.0,58125.0,At dealer,False,,JTJAM7BXXP5367218,Lexus of Cerritos
 2023,GX 460,Atomic Silver,4WD,58125,0.0,58125.0,Port to dealer,False,,JTJAM7BXXP5367641,South County Lexus at Mission Viejo
 2023,GX 460 Luxury,Black Onyx,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX0P5352317,Lexus of Kingsport
 2023,GX 460 Luxury,Caviar,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX0P5356416,Lexus of Kendall
@@ -2151,13 +2144,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Black Onyx,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX0P5359218,Fields Lexus Glenview
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX0P5359252,Lexus of Edison
 2023,GX 460 Luxury,Black Onyx,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX0P5359686,Kenny Kent Lexus
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX0P5359798,Flow Lexus of Greensboro
 2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX0P5360336,Lexus of Cerritos
 2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX0P5360398,Lexus of Queens
 2023,GX 460 Luxury,Nightfall Mica,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX0P5360918,Lexus of Cerritos
 2023,GX 460 Luxury,Caviar,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX0P5360935,Jim Falk Lexus of Beverly Hills
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX0P5360997,Lexus of Orlando
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX0P5361003,Lexus of Greenville
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX0P5361020,Lexus of Orlando
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX0P5361115,"Lexus of Concord, LLC"
 2023,GX 460 Luxury,Black Onyx,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX0P5361700,Hendrick Lexus Charlotte
@@ -2177,7 +2167,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX0P5363415,Park Place Lexus Plano
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX0P5363575,Lexus of Tulsa
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,Available,JTJGM7BX0P5363589,Lexus of Mobile
-2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68780,0.0,68780.0,At dealer,True,DealerHold,JTJGM7BX0P5363687,Larry H. Miller Lexus Murray
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX0P5363754,Lexus of Maplewood
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX0P5363852,JM Lexus
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX0P5363897,Sterling McCall Lexus
@@ -2220,9 +2209,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Caviar,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX1P5357882,Lexus of Wesley Chapel
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX1P5358966,Lexus of Freeport
 2023,GX 460 Luxury,Black Onyx,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX1P5359342,North Park Lexus Rio Grande Valley
-2023,GX 460 Luxury,Caviar,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX1P5359485,Ourisman Lexus of Rockville
 2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX1P5359888,Hendrick Lexus Charlotte
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX1P5360264,Priority Lexus Virginia Beach
 2023,GX 460 Luxury,Caviar,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX1P5360975,Lexus of Serramonte
 2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX1P5361351,Lexus of Lincoln
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX1P5361527,Westside Lexus
@@ -2236,12 +2223,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX1P5363486,Lexus of Knoxville
 2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX1P5363519,Lexus Stevens Creek
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX1P5363603,Lexus of Pembroke Pines
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX1P5363634,Lexus of Bellevue
-2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX1P5363746,Park Place Lexus Plano
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,True,DealerHold,JTJGM7BX1P5363908,Sewell Lexus
+2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX1P5363746,Park Place Lexus Plano
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX1P5363939,Wilkie Lexus
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX1P5363987,Westside Lexus
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,Available,JTJGM7BX1P5364038,Sewell Lexus
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,299.0,69079.0,Port to dealer,False,DealerHold,JTJGM7BX1P5364086,Spirit Lexus
 2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX1P5364203,Lexus of Lakeway
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX1P5364394,Lexus of Austin
@@ -2257,8 +2241,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX1P5365318,DARCARS Lexus of Greenwich
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX1P5365433,"Jim Hudson Lexus, Augusta"
 2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX1P5365481,Lexus of Winter Park
+2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX1P5365609,Lexus of Cherry Hill
 2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX1P5365707,Fox Lexus of El Paso
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX1P5365786,Larry H. Miller Lexus Murray
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX1P5365836,Eskridge Lexus of Oklahoma City
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,698.0,69478.0,Port to dealer,False,DealerHold,JTJGM7BX1P5365898,Lexus of Tulsa
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX1P5365948,Johnson Lexus of Raleigh
@@ -2304,7 +2288,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,Available,JTJGM7BX2P5364484,Lexus of Albuquerque
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX2P5364520,JM Lexus
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX2P5364565,Flow Lexus of Greensboro
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX2P5364582,Lexus of Lehigh Valley
+2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX2P5364582,Lexus of Lehigh Valley
 2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX2P5364632,Stevinson Lexus of Lakewood
 2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX2P5364646,Lexus of Wesley Chapel
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX2P5364680,Park Place Lexus Plano
@@ -2331,7 +2315,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Black Onyx,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX3P5355213,Lexus of Pembroke Pines
 2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX3P5357107,Lexus of Edison
 2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX3P5358922,Northside Lexus
-2023,GX 460 Luxury,Black Onyx,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX3P5359195,Sewell Lexus of Ft. Worth
 2023,GX 460 Luxury,Black Onyx,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX3P5359522,Chatham Parkway Lexus
 2023,GX 460 Luxury,Caviar,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX3P5360136,Northside Lexus
 2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX3P5360265,Lexus of Sarasota
@@ -2345,7 +2328,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX3P5362307,Sewell Lexus
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX3P5362369,JM Lexus
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX3P5362565,North Park Lexus at Dominion
-2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX3P5362582,Lexus of Henderson
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX3P5362615,Westside Lexus
 2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX3P5362713,Classic Lexus
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,99.0,68879.0,At dealer,False,,JTJGM7BX3P5362808,Lexus of Madison
@@ -2357,7 +2339,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX3P5363957,Jim Falk Lexus of Beverly Hills
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX3P5364218,McGrath Lexus of Westmont
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX3P5364302,Lexus of West Kendall
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX3P5364350,Nalley Lexus-Smyrna
+2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,Available,JTJGM7BX3P5364350,Nalley Lexus-Smyrna
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX3P5364459,Lexus of Knoxville
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX3P5364462,Nalley Lexus - Roswell
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX3P5364526,Sterling McCall Lexus
@@ -2412,6 +2394,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX4P5363630,Lexus of Wichita
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX4P5363787,Lexus of Pembroke Pines
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX4P5364003,Lexus of North Miami
+2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,True,DealerHold,JTJGM7BX4P5364048,Butler Lexus of South Atlanta
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX4P5364129,Northside Lexus
 2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX4P5364213,"Lexus of Concord, LLC"
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,698.0,69478.0,Port to dealer,False,DealerHold,JTJGM7BX4P5364261,Lexus of Tulsa
@@ -2430,7 +2413,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX4P5365216,New Country Lexus of Westport
 2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX4P5365295,Lexus of North Miami
 2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX4P5365393,Lexus of Kendall
-2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX4P5365412,Lexus of Albuquerque
 2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX4P5365460,Lexus of Austin
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX4P5365488,Westside Lexus
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX4P5365667,Lexus of Knoxville
@@ -2438,16 +2420,18 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX4P5365801,Lexus Stevens Creek
 2023,GX 460 Luxury,Nightfall Mica,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX4P5365815,Park Place Lexus Plano
 2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX4P5365829,Lexus of Kendall
+2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX4P5365846,Hoffman Lexus
+2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX4P5366205,New Country Lexus of Great Neck
 2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX4P5366253,Larry H. Miller Lexus of Lindon
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX4P5366351,Sterling McCall Lexus Clear Lake
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX4P5367046,Lexus of Austin
-2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX4P5367256,South Bay Lexus
+2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX4P5367256,South Bay Lexus
 2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX5P5352779,Koons Lexus of Wilmington
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX5P5355181,Meade Lexus of Southfield
 2023,GX 460 Luxury,Caviar,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX5P5358937,DARCARS Lexus of Silver Spring
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX5P5359585,Lexus of Palm Beach
 2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX5P5359702,Lexus of North Miami
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX5P5360042,Flow Lexus of Greensboro
+2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX5P5360042,Flow Lexus of Greensboro
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX5P5360767,Westside Lexus
 2023,GX 460 Luxury,Black Onyx,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX5P5360980,North Park Lexus of San Antonio
 2023,GX 460 Luxury,Caviar,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX5P5361255,Lexus of Pembroke Pines
@@ -2461,7 +2445,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX5P5362874,Sterling McCall Lexus
 2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX5P5363216,Sewell Lexus of Ft. Worth
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,Available,JTJGM7BX5P5363264,Findlay Lexus of Spokane
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX5P5363412,Park Place Lexus Grapevine
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX5P5363667,Stevinson Lexus of Lakewood
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX5P5363703,Lexus of Wesley Chapel
 2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX5P5363748,North Park Lexus of San Antonio
@@ -2472,15 +2455,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX5P5363913,Westside Lexus
 2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX5P5363958,Lexus of Jacksonville
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX5P5364012,Lexus of Chandler
-2023,GX 460 Luxury,Atomic Silver,4WD,68780,887.0,69667.0,At dealer,False,DealerHold,JTJGM7BX5P5364043,Lexus of Birmingham
 2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX5P5364107,Hendrick Lexus Kansas City North
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,Available,JTJGM7BX5P5364155,North Park Lexus at Dominion
-2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX5P5364169,Johnson Lexus of Durham
+2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX5P5364169,Johnson Lexus of Durham
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX5P5364236,Westside Lexus
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX5P5364270,"Jim Hudson Lexus, Augusta"
 2023,GX 460 Luxury,Nightfall Mica,4WD,68780,299.0,69079.0,Port to dealer,False,DealerHold,JTJGM7BX5P5364446,Lexus of Memphis
-2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX5P5364527,Hendrick Lexus Charleston
-2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX5P5364625,Lexus of Sarasota
+2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,True,DealerHold,JTJGM7BX5P5364527,Hendrick Lexus Charleston
+2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX5P5364625,Lexus of Sarasota
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,895.0,69675.0,Port to dealer,False,DealerHold,JTJGM7BX5P5364706,Lexus of Chattanooga
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX5P5364737,Lexus of Cherry Hill
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX5P5364740,Westside Lexus
@@ -2497,6 +2479,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,299.0,69079.0,Port to dealer,False,DealerHold,JTJGM7BX5P5365676,Lexus of Memphis
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX5P5365709,Larry H. Miller Lexus Murray
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX5P5365743,North Park Lexus of San Antonio
+2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX5P5365788,Lexus of Cherry Hill
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX5P5365791,Hennessy Lexus of Atlanta
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX5P5365984,Eskridge Lexus of Oklahoma City
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX5P5366116,Price LeBlanc Lexus
@@ -2538,7 +2521,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX6P5364021,Lexus of Freeport
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX6P5364049,Park Place Lexus Plano
 2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX6P5364102,Harvey Lexus of Grand Rapids
-2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX6P5364178,Lexus of Watertown
+2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX6P5364178,Lexus of Watertown
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX6P5364276,Peterson Lexus
 2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX6P5364326,JM Lexus
 2023,GX 460 Luxury,Caviar,4WD,68780,2342.0,71122.0,Port to dealer,False,DealerHold,JTJGM7BX6P5364360,"Jim Hudson Lexus, Columbia"
@@ -2593,13 +2576,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX7P5361287,Lexus of North Miami
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX7P5361399,Lexus of Freeport
 2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX7P5361449,Lexus of Kendall
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX7P5361600,Kenny Kent Lexus
+2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX7P5361600,Lexus of Louisville
 2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX7P5361628,Sewell Lexus
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX7P5361659,Northside Lexus
 2023,GX 460 Luxury,Caviar,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX7P5361676,Meade Lexus of Southfield
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,Available,JTJGM7BX7P5362021,Priority Lexus Virginia Beach
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX7P5362293,Nalley Lexus-Smyrna
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,Available,JTJGM7BX7P5362617,Tom Wood Lexus
+2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX7P5362617,Tom Wood Lexus
 2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX7P5362956,Ira Lexus
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX7P5363119,Sterling McCall Lexus Clear Lake
 2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX7P5363279,Lexus of Shreveport - Bossier City
@@ -2615,7 +2597,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX7P5364481,Lexus of Wesley Chapel
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX7P5364562,North Park Lexus Rio Grande Valley
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX7P5364609,Lexus of Brookfield
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,895.0,69675.0,Port to dealer,False,DealerHold,JTJGM7BX7P5364612,Lexus of Montgomery
 2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,Port to dealer,False,Available,JTJGM7BX7P5364755,Ourisman Lexus of Rockville
 2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX7P5364898,JM Lexus
 2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,Port to dealer,False,Available,JTJGM7BX7P5364903,Parker Lexus
@@ -2646,7 +2627,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX8P5356406,Lexus of Sarasota
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX8P5359502,Koons Lexus of Wilmington
 2023,GX 460 Luxury,Caviar,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX8P5360035,Kenny Kent Lexus
-2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BX8P5360911,Lexus of Wayzata
+2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX8P5360911,Lexus of Wayzata
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX8P5362156,Lexus of Pembroke Pines
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX8P5362402,Stevinson Lexus of Lakewood
 2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX8P5362433,Northside Lexus
@@ -2675,7 +2656,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,698.0,69478.0,Port to dealer,False,DealerHold,JTJGM7BX8P5365283,Lexus of Tulsa
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX8P5365381,Tri-County Lexus
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,887.0,69667.0,Port to dealer,False,,JTJGM7BX8P5365428,Lexus of Birmingham
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX8P5365493,Lexus of New Orleans
+2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX8P5365493,Lexus of New Orleans
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX8P5365915,Stevinson Lexus of Lakewood
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BX8P5366028,Sewell Lexus of Ft. Worth
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,Port to dealer,False,Available,JTJGM7BX8P5366434,Lexus of Lakeway
@@ -2691,14 +2672,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX9P5360335,Northside Lexus
 2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX9P5360495,Lexus of Lexington
 2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX9P5360674,Lexus Santa Monica
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX9P5360724,Northside Lexus
 2023,GX 460 Luxury,Black Onyx,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX9P5360836,Lexus of Greenville
 2023,GX 460 Luxury,Black Onyx,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX9P5361484,Lexus of Wayzata
 2023,GX 460 Luxury,Atomic Silver,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BX9P5361811,Lexus of Pembroke Pines
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BX9P5361839,Westside Lexus
 2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BX9P5361999,Hendrick Lexus Kansas City
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,299.0,69079.0,Port to dealer,False,DealerHold,JTJGM7BX9P5362019,Spirit Lexus
-2023,GX 460 Luxury,Black Onyx,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BX9P5362098,Hennessy Lexus of Gwinnett
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX9P5362117,Lexus of Pleasanton
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,Available,JTJGM7BX9P5362148,Sewell Lexus
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BX9P5362151,Lexus of Sarasota
@@ -2750,10 +2729,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BXXP5357699,Lexus of Freeport
 2023,GX 460 Luxury,Caviar,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BXXP5357959,Northside Lexus
 2023,GX 460 Luxury,Black Onyx,4WD,68030,0.0,68030.0,Port to dealer,False,DealerHold,JTJGM7BXXP5358397,Lexus of Wayzata
-2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BXXP5359467,Hilton Head Lexus
+2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68030,0.0,68030.0,At dealer,False,DealerHold,JTJGM7BXXP5359467,Hilton Head Lexus
 2023,GX 460 Luxury,Caviar,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BXXP5359646,New Country Lexus of Latham
 2023,GX 460 Luxury,Nebula Gray Pearl,4WD,68030,3539.0,71569.0,At dealer,False,DealerHold,JTJGM7BXXP5359887,Lexus of Warwick
-2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BXXP5360442,North Park Lexus Rio Grande Valley
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,Available,JTJGM7BXXP5360859,Lexus of New Orleans
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BXXP5360909,Lexus of Bridgewater
 2023,GX 460 Luxury,Black Onyx,4WD,68030,0.0,68030.0,At dealer,False,,JTJGM7BXXP5361512,Sheehy Lexus of Richmond
@@ -2784,7 +2762,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BXXP5364507,Northside Lexus
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BXXP5364524,Lexus of North Miami
 2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BXXP5364555,Westside Lexus
-2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,At dealer,True,DealerHold,JTJGM7BXXP5364684,Sterling McCall Lexus
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BXXP5364698,Longo Lexus
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BXXP5364751,Park Place Lexus Plano
 2023,GX 460 Luxury,Eminent White Pearl,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BXXP5364930,Lexus of Lakeway
@@ -2805,7 +2782,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BXXP5365852,Keyes Lexus
 2023,GX 460 Luxury,Atomic Silver,4WD,68780,0.0,68780.0,At dealer,False,,JTJGM7BXXP5366032,Lexus of Henderson
 2023,GX 460 Luxury,Nightfall Mica,4WD,68780,0.0,68780.0,Port to dealer,False,DealerHold,JTJGM7BXXP5366838,Northside Lexus
-2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,Port to dealer,False,,JTJGM7BXXP5367195,Lexus of Cerritos
+2023,GX 460 Luxury,Caviar,4WD,68780,0.0,68780.0,At dealer,False,DealerHold,JTJGM7BXXP5367195,Lexus of Cerritos
 2023,GX 460,Nori Green Pearl,4WD,56425,0.0,56425.0,At dealer,False,DealerHold,JTJSM7BX2P5348781,Rohrich Lexus
 2023,GX 460,Black Onyx,4WD,57375,0.0,57375.0,At dealer,False,Available,JTJSM7BX2P5355617,Germain Lexus of Naples
 2023,GX 460,Eminent White Pearl,4WD,57375,0.0,57375.0,At dealer,False,DealerHold,JTJSM7BX6P5355829,Park Place Lexus Plano
