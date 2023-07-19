@@ -1,6 +1,6 @@
 Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Status,VIN,Dealer
 2023,IS 350 F SPORT DESIGN,Infrared,RWD,43160,0.0,43160.0,Port to dealer,False,,JTHBZ1B20P5068104,Nalley Lexus-Smyrna
-2023,IS 350 F SPORT DESIGN,Atomic Silver,RWD,43160,0.0,43160.0,Port to dealer,False,,JTHBZ1B21P5067818,Lexus of Pembroke Pines
+2023,IS 350 F SPORT DESIGN,Atomic Silver,RWD,43160,0.0,43160.0,At dealer,False,,JTHBZ1B21P5067818,Lexus of Pembroke Pines
 2023,IS 350 F SPORT DESIGN,Infrared,RWD,43160,0.0,43160.0,Port to dealer,False,,JTHBZ1B22P5068024,Lexus of North Miami
 2023,IS 350 F SPORT,INCOGNITO WITH OBSIDIAN ROOF,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHBZ1B22P5068251,Cavender Lexus of Lubbock
 2023,IS 350 F SPORT,INCOGNITO WITH OBSIDIAN ROOF,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHBZ1B23P5066766,Lexus of Fremont
@@ -11,7 +11,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT DESIGN,Infrared,RWD,43160,0.0,43160.0,At dealer,False,DealerHold,JTHBZ1B24P5067246,Northside Lexus
 2023,IS 350 F SPORT DESIGN,Ultra White,RWD,43160,0.0,43160.0,At dealer,False,,JTHBZ1B24P5067568,Lexus of Pembroke Pines
 2023,IS 350 F SPORT DESIGN,Atomic Silver,RWD,43160,0.0,43160.0,Port to dealer,False,,JTHBZ1B24P5067862,JM Lexus
-2023,IS 350 F SPORT,INCOGNITO WITH OBSIDIAN ROOF,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHBZ1B24P5068297,Lexus Monterey Peninsula
+2023,IS 350 F SPORT,INCOGNITO WITH OBSIDIAN ROOF,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHBZ1B24P5068297,Lexus Monterey Peninsula
 2023,IS 350 F SPORT DESIGN,Caviar,RWD,43160,0.0,43160.0,Port to dealer,False,DealerHold,JTHBZ1B24P5068414,Northside Lexus
 2023,IS 350 F SPORT,INCOGNITO WITH OBSIDIAN ROOF,RWD,44160,0.0,44160.0,At dealer,False,Available,JTHBZ1B25P5065876,North Park Lexus at Dominion
 2023,IS 350 F SPORT DESIGN,Caviar,RWD,43160,0.0,43160.0,At dealer,False,DealerHold,JTHBZ1B25P5067174,Northside Lexus
@@ -51,7 +51,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300 AWD,Eminent White Pearl,AWD,41835,0.0,41835.0,At dealer,False,DealerHold,JTHC81F20P5052003,Lexus of Wayzata
 2023,IS 300 AWD,Cloudburst Gray,AWD,41835,0.0,41835.0,Port to dealer,False,,JTHC81F25P5051980,Lexus of Wichita
 2023,IS 300 AWD,Cloudburst Gray,AWD,41835,0.0,41835.0,At dealer,False,Available,JTHC81F27P5051768,Hendrick Lexus Kansas City North
-2023,IS 300,Matador Red Mica,RWD,39835,0.0,39835.0,At dealer,False,,JTHCA1D20P5125247,Germain Lexus of Naples
 2023,IS 300,Eminent White Pearl,RWD,39835,0.0,39835.0,At dealer,False,,JTHCA1D20P5125667,Lexus of Sarasota
 2023,IS 300,Atomic Silver,RWD,39835,0.0,39835.0,At dealer,False,Available,JTHCA1D20P5126527,Lexus of Pembroke Pines
 2023,IS 300,Atomic Silver,RWD,39835,0.0,39835.0,At dealer,False,Available,JTHCA1D20P5126558,Sewell Lexus
@@ -63,7 +62,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D20P5127418,JM Lexus
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D20P5127435,Lexus of North Miami
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D20P5127452,Lexus of Palm Beach
-2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,DealerHold,JTHCA1D20P5127497,Sterling McCall Lexus
+2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,DealerHold,JTHCA1D20P5127497,Sterling McCall Lexus
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D20P5127516,Lexus of Palm Beach
 2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D20P5127547,Keyes Lexus
 2023,IS 300,Caviar,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D20P5127581,Lexus of Sarasota
@@ -85,7 +84,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Caviar,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D21P5127170,North Park Lexus of San Antonio
 2023,IS 300,Cloudburst Gray,RWD,40085,0.0,40085.0,At dealer,False,Available,JTHCA1D21P5127198,Sewell Lexus
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,DealerHold,JTHCA1D21P5127265,Flow Lexus of Winston-Salem
-2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,DealerHold,JTHCA1D21P5127296,Price LeBlanc Lexus
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D21P5127332,Lexus of Kendall
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D21P5127346,Sterling McCall Lexus
 2023,IS 300,Matador Red Mica,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D21P5127444,Scanlon Lexus of Fort Myers
@@ -95,7 +93,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,DealerHold,JTHCA1D21P5127539,Westside Lexus
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D21P5127556,JM Lexus
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D21P5127573,Lexus of Pembroke Pines
-2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D21P5127590,Lexus of North Miami
+2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D21P5127590,Lexus of North Miami
 2023,IS 300,Caviar,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D21P5127640,Hendrick Lexus Northlake
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,DealerHold,JTHCA1D21P5127766,Park Place Lexus Plano
 2023,IS 300,Grecian Water,RWD,39835,2342.0,42177.0,At dealer,False,DealerHold,JTHCA1D22P5126061,"Jim Hudson Lexus, Columbia"
@@ -123,18 +121,17 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Matador Red Mica,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D22P5127422,Lexus of North Miami
 2023,IS 300,Cloudburst Gray,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D22P5127470,Lexus of North Miami
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D22P5127484,Lexus of Orange Park
-2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D22P5127534,Lexus of Melbourne
-2023,IS 300,Iridium,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D22P5127582,Sewell Lexus
+2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D22P5127534,Lexus of Melbourne
+2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D22P5127582,Sewell Lexus
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D22P5127601,JM Lexus
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D22P5127663,Lexus of Tampa Bay
 2023,IS 300,Iridium,RWD,40085,0.0,40085.0,Port to dealer,False,DealerHold,JTHCA1D22P5127694,Westside Lexus
 2023,IS 300,Caviar,RWD,40085,0.0,40085.0,Port to dealer,False,DealerHold,JTHCA1D22P5127761,Park Place Lexus Plano
 2023,IS 300,Eminent White Pearl,RWD,39835,0.0,39835.0,At dealer,False,,JTHCA1D23P5125503,Lexus of Sarasota
 2023,IS 300,Cloudburst Gray,RWD,39835,0.0,39835.0,At dealer,False,,JTHCA1D23P5126358,Lexus of North Miami
-2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,DealerHold,JTHCA1D23P5126988,Sterling McCall Lexus Clear Lake
+2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,Available,JTHCA1D23P5126988,Sterling McCall Lexus Clear Lake
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D23P5126991,Lexus of Sarasota
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D23P5127008,Lexus of Kendall
-2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D23P5127039,Lexus of Palm Beach
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,DealerHold,JTHCA1D23P5127087,Lexus of Kendall
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,DealerHold,JTHCA1D23P5127185,Sterling McCall Lexus
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,Available,JTHCA1D23P5127266,Lexus of Pleasanton
@@ -168,7 +165,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,Port to dealer,False,DealerHold,JTHCA1D24P5127406,Lexus of West Kendall
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D24P5127454,Lexus of Palm Beach
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D24P5127485,Lexus of Pembroke Pines
-2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D24P5127499,Lexus of Pembroke Pines
+2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D24P5127499,Lexus of Pembroke Pines
 2023,IS 300,Matador Red Mica,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D24P5127504,Lexus of North Miami
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D24P5127518,JM Lexus
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D24P5127549,Fox Lexus of El Paso
@@ -223,7 +220,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D26P5127391,Lexus of North Miami
 2023,IS 300,Caviar,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D26P5127441,Nalley Lexus-Smyrna
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D26P5127469,Lexus of North Miami
-2023,IS 300,Caviar,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D26P5127505,Lexus of North Miami
 2023,IS 300,Caviar,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D26P5127519,Lexus of North Miami
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D26P5127536,Lexus of North Miami
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D26P5127570,Lexus of New Orleans
@@ -252,8 +248,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,DealerHold,JTHCA1D27P5127349,Westside Lexus
 2023,IS 300,Grecian Water,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D27P5127397,Park Place Lexus Grapevine
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D27P5127433,Germain Lexus of Naples
-2023,IS 300,Caviar,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D27P5127450,JM Lexus
-2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D27P5127481,Lexus of Pembroke Pines
+2023,IS 300,Caviar,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D27P5127450,JM Lexus
+2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D27P5127481,Lexus of Pembroke Pines
 2023,IS 300,Grecian Water,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D27P5127495,Lexus of Orlando
 2023,IS 300,Caviar,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D27P5127528,Lexus of Winter Park
 2023,IS 300,Caviar,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D27P5127545,Lexus of North Miami
@@ -265,7 +261,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Eminent White Pearl,RWD,39835,0.0,39835.0,At dealer,False,DealerHold,JTHCA1D28P5126341,Lexus of Wesley Chapel
 2023,IS 300,Eminent White Pearl,RWD,39835,0.0,39835.0,At dealer,False,DealerHold,JTHCA1D28P5126369,Lexus of Kendall
 2023,IS 300,Iridium,RWD,39835,0.0,39835.0,At dealer,False,,JTHCA1D28P5126419,Lexus of North Miami
-2023,IS 300,Iridium,RWD,39835,0.0,39835.0,At dealer,False,DealerHold,JTHCA1D28P5126422,Lexus of Pembroke Pines
+2023,IS 300,Iridium,RWD,39835,0.0,39835.0,At dealer,False,Available,JTHCA1D28P5126422,Lexus of Pembroke Pines
 2023,IS 300,Iridium,RWD,39835,0.0,39835.0,At dealer,False,Available,JTHCA1D28P5126470,Lexus of Pembroke Pines
 2023,IS 300,Atomic Silver,RWD,39835,0.0,39835.0,At dealer,False,,JTHCA1D28P5126551,Sewell Lexus
 2023,IS 300,Eminent White Pearl,RWD,39835,0.0,39835.0,At dealer,False,DealerHold,JTHCA1D28P5126629,"Jim Hudson Lexus, Augusta"
@@ -280,7 +276,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Matador Red Mica,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D28P5127280,Lexus of Pembroke Pines
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D28P5127344,Sterling McCall Lexus
 2023,IS 300,Matador Red Mica,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D28P5127392,Lexus of Pembroke Pines
-2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D28P5127411,Scanlon Lexus of Fort Myers
+2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D28P5127411,Scanlon Lexus of Fort Myers
 2023,IS 300,Caviar,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D28P5127439,Lexus of North Miami
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D28P5127490,Germain Lexus of Naples
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D28P5127506,Lexus of North Miami
@@ -335,8 +331,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D2XP5127359,JM Lexus
 2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D2XP5127376,Sewell Lexus
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D2XP5127488,Lexus of Tampa Bay
-2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D2XP5127491,Lexus of Winter Park
-2023,IS 300,Cloudburst Gray,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D2XP5127510,Park Place Lexus Grapevine
+2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D2XP5127491,Lexus of Winter Park
+2023,IS 300,Cloudburst Gray,RWD,40085,0.0,40085.0,At dealer,False,,JTHCA1D2XP5127510,Park Place Lexus Grapevine
 2023,IS 300,Matador Red Mica,RWD,40085,0.0,40085.0,Port to dealer,False,DealerHold,JTHCA1D2XP5127619,Park Place Lexus Plano
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHCA1D2XP5127636,JM Lexus
 2023,IS 300,Caviar,RWD,40085,0.0,40085.0,Port to dealer,False,Available,JTHCA1D2XP5127684,Lexus of Austin
@@ -358,7 +354,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300 AWD,Eminent White Pearl,AWD,42085,0.0,42085.0,At dealer,False,,JTHD81F21P5052189,Cavender Lexus of Lubbock
 2023,IS 300 AWD,Caviar,AWD,42085,0.0,42085.0,At dealer,False,DealerHold,JTHD81F21P5052208,Lexus of Brooklyn
 2023,IS 300 AWD,Eminent White Pearl,AWD,42085,0.0,42085.0,Port to dealer,False,,JTHD81F21P5052225,Priority Lexus Newport News
-2023,IS 300 AWD,Cloudburst Gray,AWD,42085,895.0,42980.0,Port to dealer,False,,JTHD81F21P5052239,Lexus of Chattanooga
+2023,IS 300 AWD,Cloudburst Gray,AWD,42085,895.0,42980.0,Port to dealer,False,DealerHold,JTHD81F21P5052239,Lexus of Chattanooga
 2023,IS 300 AWD,Eminent White Pearl,AWD,41435,0.0,41435.0,At dealer,False,DealerHold,JTHD81F22P5050662,DARCARS Lexus of Greenwich
 2023,IS 300 AWD,Caviar,AWD,41835,0.0,41835.0,At dealer,False,DealerHold,JTHD81F22P5051830,Lexus of Orange County
 2023,IS 300 AWD,Caviar,AWD,41835,0.0,41835.0,At dealer,False,,JTHD81F22P5051911,Findlay Lexus of Spokane
@@ -372,7 +368,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300 AWD,Iridium,AWD,41435,0.0,41435.0,At dealer,False,DealerHold,JTHD81F23P5050959,Lexus of Kendall
 2023,IS 300 AWD,Iridium,AWD,41835,0.0,41835.0,At dealer,False,Available,JTHD81F23P5051786,"Lexus of Seattle, LLC"
 2023,IS 300 AWD,Atomic Silver,AWD,41835,0.0,41835.0,At dealer,False,,JTHD81F23P5051920,Kendall Lexus of Alaska
-2023,IS 300 AWD,Eminent White Pearl,AWD,42085,0.0,42085.0,At dealer,False,,JTHD81F23P5052033,Tri-County Lexus
 2023,IS 300 AWD,Eminent White Pearl,AWD,42085,0.0,42085.0,At dealer,False,,JTHD81F23P5052050,Sewell Lexus
 2023,IS 300 AWD,Cloudburst Gray,AWD,42085,0.0,42085.0,Port to dealer,False,,JTHD81F23P5052257,Hennessy Lexus of Gwinnett
 2023,IS 300 AWD,Eminent White Pearl,AWD,42085,0.0,42085.0,At dealer,False,,JTHD81F24P5052073,Lexus of Watertown
@@ -380,6 +375,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300 AWD,Caviar,AWD,42085,0.0,42085.0,At dealer,False,,JTHD81F24P5052168,Prestige Lexus of Ramsey
 2023,IS 300 AWD,Caviar,AWD,42085,0.0,42085.0,At dealer,False,,JTHD81F24P5052218,Butler Lexus of South Atlanta
 2023,IS 300 AWD,Eminent White Pearl,AWD,42085,0.0,42085.0,At dealer,False,,JTHD81F24P5052235,Lexus of Bellevue
+2023,IS 300 AWD,Iridium,AWD,42085,0.0,42085.0,Port to dealer,False,,JTHD81F24P5052316,Kendall Lexus of Alaska
 2023,IS 300 AWD,Eminent White Pearl,AWD,42085,0.0,42085.0,Port to dealer,False,,JTHD81F24P5052333,Lexus of Portland
 2023,IS 300 AWD,Eminent White Pearl,AWD,41435,1495.0,42930.0,At dealer,False,Available,JTHD81F25P5051157,North Park Lexus of San Antonio
 2023,IS 300 AWD,Atomic Silver,AWD,41835,0.0,41835.0,At dealer,False,,JTHD81F25P5051658,Peterson Lexus
@@ -405,7 +401,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300 AWD,Eminent White Pearl,AWD,42085,0.0,42085.0,At dealer,False,,JTHD81F28P5052139,Dolan Lexus
 2023,IS 300 AWD,Eminent White Pearl,AWD,42085,0.0,42085.0,At dealer,False,,JTHD81F28P5052268,Lexus of Cool Springs
 2023,IS 300 AWD,Caviar,AWD,41835,0.0,41835.0,At dealer,False,,JTHD81F29P5051646,Lexus of Greenwood Village
-2023,IS 300 AWD,Eminent White Pearl,AWD,41835,0.0,41835.0,At dealer,False,DealerHold,JTHD81F29P5051839,Lexus of Merrillville
+2023,IS 300 AWD,Atomic Silver,AWD,41835,0.0,41835.0,At dealer,False,Available,JTHD81F29P5051789,Bob Johnson Lexus
 2023,IS 300 AWD,Eminent White Pearl,AWD,41835,0.0,41835.0,At dealer,False,,JTHD81F29P5051999,Rallye Lexus
 2023,IS 300 AWD,Eminent White Pearl,AWD,42085,0.0,42085.0,At dealer,False,,JTHD81F29P5052098,Kendall Lexus of Eugene
 2023,IS 300 AWD,Caviar,AWD,42085,0.0,42085.0,At dealer,False,,JTHD81F29P5052120,Lexus of Bellevue
@@ -472,7 +468,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Atomic Silver,RWD,39835,0.0,39835.0,Port to dealer,False,,JTHDA1D22P5126825,Lexus of Kendall
 2023,IS 300,Grecian Water,RWD,40085,0.0,40085.0,At dealer,False,DealerHold,JTHDA1D22P5127179,Eskridge Lexus of Oklahoma City
 2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D22P5127201,Fresno Lexus
-2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,DealerHold,JTHDA1D22P5127361,Longo Lexus
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D22P5127487,Johnson Lexus of Raleigh
 2023,IS 300,Cloudburst Gray,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D22P5127568,North Park Lexus of San Antonio
 2023,IS 300,Cloudburst Gray,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D22P5127604,Sterling McCall Lexus
@@ -484,7 +479,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Eminent White Pearl,RWD,39835,0.0,39835.0,At dealer,False,,JTHDA1D23P5126512,Lexus of Pembroke Pines
 2023,IS 300,Matador Red Mica,RWD,39835,0.0,39835.0,At dealer,False,DealerHold,JTHDA1D23P5126672,Johnson Lexus of Raleigh
 2023,IS 300,Eminent White Pearl,RWD,39835,0.0,39835.0,At dealer,False,DealerHold,JTHDA1D23P5126705,Lexus of Wesley Chapel
-2023,IS 300,Atomic Silver,RWD,39835,0.0,39835.0,At dealer,False,DealerHold,JTHDA1D23P5126736,Sterling McCall Lexus Clear Lake
+2023,IS 300,Atomic Silver,RWD,39835,0.0,39835.0,At dealer,False,Available,JTHDA1D23P5126736,Sterling McCall Lexus Clear Lake
 2023,IS 300,Matador Red Mica,RWD,39835,0.0,39835.0,At dealer,False,Available,JTHDA1D23P5126784,Lexus of Santa Barbara
 2023,IS 300,Caviar,RWD,39835,0.0,39835.0,At dealer,False,,JTHDA1D23P5126820,JM Lexus
 2023,IS 300,Cloudburst Gray,RWD,39835,0.0,39835.0,Port to dealer,False,,JTHDA1D23P5126865,Lexus of Mobile
@@ -508,7 +503,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Eminent White Pearl,RWD,39835,0.0,39835.0,At dealer,True,DealerHold,JTHDA1D24P5126194,Sewell Lexus
 2023,IS 300,Iridium,RWD,39835,0.0,39835.0,At dealer,False,,JTHDA1D24P5126387,Lexus of Pembroke Pines
 2023,IS 300,Caviar,RWD,39835,0.0,39835.0,At dealer,False,DealerHold,JTHDA1D24P5126888,Westside Lexus
-2023,IS 300,Cloudburst Gray,RWD,39835,0.0,39835.0,At dealer,False,Available,JTHDA1D24P5126924,Lexus of West Kendall
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D24P5127278,Putnam Lexus
 2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,Available,JTHDA1D24P5127362,Keyes Lexus
 2023,IS 300,Matador Red Mica,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D24P5127409,North Park Lexus of San Antonio
@@ -517,7 +511,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D24P5127541,Lexus of Kendall
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D24P5127653,Lexus of Las Vegas
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D24P5127703,Lexus of Riverside
-2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D24P5127717,Lexus of Cerritos
 2023,IS 300,Cloudburst Gray,RWD,39835,0.0,39835.0,At dealer,False,Available,JTHDA1D25P5125166,Lexus of Chandler
 2023,IS 300,Iridium,RWD,39835,0.0,39835.0,At dealer,False,Available,JTHDA1D25P5125670,Lexus of West Kendall
 2023,IS 300,Caviar,RWD,39835,0.0,39835.0,At dealer,False,,JTHDA1D25P5125815,Lexus of Melbourne
@@ -529,7 +522,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Iridium,RWD,39835,0.0,39835.0,At dealer,False,,JTHDA1D25P5126642,Lexus of Sarasota
 2023,IS 300,Caviar,RWD,39835,0.0,39835.0,At dealer,False,Available,JTHDA1D25P5126690,Lexus of Pembroke Pines
 2023,IS 300,Eminent White Pearl,RWD,39835,0.0,39835.0,At dealer,False,,JTHDA1D25P5126821,Lexus of North Miami
-2023,IS 300,Caviar,RWD,39835,0.0,39835.0,At dealer,True,DealerHold,JTHDA1D25P5126902,Sewell Lexus
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D25P5127127,Lexus of Pleasanton
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,Available,JTHDA1D25P5127158,Tustin Lexus
 2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D25P5127290,South County Lexus at Mission Viejo
@@ -537,7 +529,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D25P5127371,Lexus of Pembroke Pines
 2023,IS 300,Cloudburst Gray,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D25P5127483,Lexus of West Kendall
 2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,Available,JTHDA1D25P5127564,Coliseum Lexus of Oakland
-2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D25P5127578,Lexus Escondido
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D25P5127600,Lexus of Kendall
 2023,IS 300,Cloudburst Gray,RWD,40085,0.0,40085.0,Port to dealer,False,DealerHold,JTHDA1D25P5127676,Sterling McCall Lexus Clear Lake
 2023,IS 300,Iridium,RWD,39835,0.0,39835.0,At dealer,False,DealerHold,JTHDA1D26P5125631,Northside Lexus
@@ -609,7 +600,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Matador Red Mica,RWD,39835,0.0,39835.0,At dealer,False,,JTHDA1D29P5126837,JM Lexus
 2023,IS 300,Eminent White Pearl,RWD,39835,0.0,39835.0,At dealer,False,DealerHold,JTHDA1D29P5126868,Lexus of Wesley Chapel
 2023,IS 300,Matador Red Mica,RWD,39835,0.0,39835.0,At dealer,False,,JTHDA1D29P5126871,Lexus of North Miami
-2023,IS 300,Matador Red Mica,RWD,40085,0.0,40085.0,At dealer,False,DealerHold,JTHDA1D29P5127082,Sterling McCall Lexus Clear Lake
+2023,IS 300,Matador Red Mica,RWD,40085,0.0,40085.0,At dealer,False,Available,JTHDA1D29P5127082,Sterling McCall Lexus Clear Lake
 2023,IS 300,Atomic Silver,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D29P5127275,Lexus of North Miami
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D29P5127292,Lexus of Santa Barbara
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,DealerHold,JTHDA1D29P5127311,Lexus of Thousand Oaks
@@ -618,7 +609,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Iridium,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D29P5127423,Lexus of Pembroke Pines
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D29P5127468,Lexus of Winter Park
 2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D29P5127471,Lexus of Las Vegas
-2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D29P5127695,Jim Falk Lexus of Beverly Hills
+2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,DealerHold,JTHDA1D29P5127695,Jim Falk Lexus of Beverly Hills
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D29P5127700,Earnhardt Lexus
 2023,IS 300,Cloudburst Gray,RWD,39435,0.0,39435.0,At dealer,False,Available,JTHDA1D2XP5124398,Lexus of Shreveport - Bossier City
 2023,IS 300,Caviar,RWD,39835,0.0,39835.0,At dealer,False,,JTHDA1D2XP5125907,Treasure Coast Lexus
@@ -627,7 +618,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Iridium,RWD,39835,0.0,39835.0,At dealer,False,,JTHDA1D2XP5126345,Lexus of Pembroke Pines
 2023,IS 300,Atomic Silver,RWD,39835,0.0,39835.0,At dealer,False,,JTHDA1D2XP5126393,Lexus of Pembroke Pines
 2023,IS 300,Eminent White Pearl,RWD,39835,0.0,39835.0,At dealer,False,,JTHDA1D2XP5126460,Lexus El Cajon
-2023,IS 300,Atomic Silver,RWD,39835,0.0,39835.0,At dealer,False,DealerHold,JTHDA1D2XP5126507,Lexus of West Kendall
 2023,IS 300,Cloudburst Gray,RWD,39835,887.0,40722.0,At dealer,False,Available,JTHDA1D2XP5126569,Lexus of Birmingham
 2023,IS 300,Atomic Silver,RWD,39835,0.0,39835.0,At dealer,False,DealerHold,JTHDA1D2XP5126720,Scanlon Lexus of Fort Myers
 2023,IS 300,Caviar,RWD,39835,0.0,39835.0,At dealer,False,,JTHDA1D2XP5126734,North Park Lexus Rio Grande Valley
@@ -644,7 +634,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 300,Cloudburst Gray,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D2XP5127446,Sewell Lexus
 2023,IS 300,Eminent White Pearl,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D2XP5127494,Coliseum Lexus of Oakland
 2023,IS 300,Grecian Water,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D2XP5127527,Lexus of Winter Park
-2023,IS 300,Iridium,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D2XP5127723,Lexus Escondido
+2023,IS 300,Iridium,RWD,40085,0.0,40085.0,At dealer,False,,JTHDA1D2XP5127723,Lexus Escondido
 2023,IS 300,Cloudburst Gray,RWD,40085,0.0,40085.0,Port to dealer,False,,JTHDA1D2XP5127771,Sewell Lexus
 2023,IS 350 F SPORT,Iridium,RWD,43760,0.0,43760.0,At dealer,False,,JTHGZ1B20P5062261,JM Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,43760,0.0,43760.0,At dealer,False,,JTHGZ1B20P5062597,JM Lexus
@@ -674,7 +664,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B20P5066939,Lexus of Orlando
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B20P5066973,Lexus of Thousand Oaks
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B20P5066987,Sterling McCall Lexus
-2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B20P5067010,Sewell Lexus
+2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,True,,JTHGZ1B20P5067010,Sewell Lexus
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B20P5067136,Superstition Springs Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B20P5067198,North Park Lexus Rio Grande Valley
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B20P5067329,Hennessy Lexus of Gwinnett
@@ -700,7 +690,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B20P5067864,Treasure Coast Lexus
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B20P5067878,Lexus of Melbourne
 2023,IS 350 F SPORT,Ultra White,RWD,44410,399.0,44809.0,Port to dealer,False,,JTHGZ1B20P5067895,Lexus of Tulsa
-2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B20P5067914,JM Lexus
+2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B20P5067914,JM Lexus
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B20P5067931,Lexus of North Miami
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B20P5067962,Northside Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B20P5068013,Lexus Santa Monica
@@ -717,13 +707,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B20P5068223,Lexus of Woodland Hills
 2023,IS 350 F SPORT,Ultrasonic Blue Mica 2.0,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B20P5068237,Hendrick Lexus Northlake
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B20P5068240,Lexus of Sarasota
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B20P5068254,Lexus of Riverside
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B20P5068254,Lexus of Riverside
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B20P5068268,Lexus of North Miami
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B20P5068271,Tustin Lexus
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B20P5068299,Lexus of North Miami
 2023,IS 350 F SPORT,Ultrasonic Blue Mica 2.0,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B20P5068318,Tustin Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B20P5068321,Lexus of Westminster
-2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B20P5068335,Temecula Valley Lexus
+2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B20P5068335,Temecula Valley Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B20P5068352,Keyes Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B20P5068383,Longo Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B20P5068397,Fresno Lexus
@@ -751,16 +741,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5066772,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5066853,Sewell Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5066867,Sewell Lexus
-2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5066903,Lexus of Sacramento
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5066920,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5066934,Parker Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5066965,Earnhardt Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5066996,Lexus of Austin
 2023,IS 350 F SPORT,Ultrasonic Blue Mica 2.0,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B21P5067176,Superstition Springs Lexus
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B21P5067288,Park Place Lexus Plano
-2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B21P5067310,Lexus of Kendall
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5067341,Hendrick Lexus Charlotte
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5067369,Butler Lexus
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B21P5067369,Butler Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B21P5067386,Park Place Lexus Plano
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B21P5067470,Lexus of Clearwater
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5067484,Lexus of Chandler
@@ -782,26 +770,23 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5067873,Hennessy Lexus of Gwinnett
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B21P5067906,Lexus of Thousand Oaks
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5067923,Hendrick Lexus Charlotte
-2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5067937,Coliseum Lexus of Oakland
-2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5067954,Price LeBlanc Lexus
+2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B21P5067954,Price LeBlanc Lexus
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B21P5067971,Hendrick Lexus Northlake
 2023,IS 350 F SPORT,Ultrasonic Blue Mica 2.0,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B21P5067985,North Park Lexus of San Antonio
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5067999,Cavender Lexus of Lubbock
-2023,IS 350 F SPORT,Ultra White,RWD,44410,1513.0,45923.0,Port to dealer,False,,JTHGZ1B21P5068005,Lexus of Marin
+2023,IS 350 F SPORT,Ultra White,RWD,44410,1513.0,45923.0,At dealer,False,,JTHGZ1B21P5068005,Lexus of Marin
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5068019,Flow Lexus of Greensboro
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5068022,Butler Lexus of South Atlanta
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B21P5068022,Butler Lexus of South Atlanta
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5068070,Lexus of Westminster
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5068103,Lexus of Thousand Oaks
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5068120,North Park Lexus at Dominion
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5068134,North Park Lexus at Dominion
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5068148,Lexus of North Miami
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B21P5068165,Motor City Lexus of Bakersfield
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5068182,Price LeBlanc Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B21P5068229,Jim Falk Lexus of Beverly Hills
 2023,IS 350 F SPORT,Ultra White,RWD,44410,399.0,44809.0,Port to dealer,False,DealerHold,JTHGZ1B21P5068232,Lexus of Memphis
-2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5068263,Longo Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5068294,Scanlon Lexus of Fort Myers
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5068330,Lexus of Woodland Hills
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B21P5068330,Lexus of Woodland Hills
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5068392,Fox Lexus of El Paso
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B21P5068425,Fox Lexus of El Paso
 2023,IS 350 F SPORT,Infrared,RWD,44160,0.0,44160.0,At dealer,False,DealerHold,JTHGZ1B22P5064531,Northside Lexus
@@ -828,7 +813,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B22P5066778,Arrowhead Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B22P5066814,Lexus of Kingsport
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B22P5066828,Nalley Lexus - Roswell
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B22P5066845,Lexus of Tampa Bay
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5066909,Lexus of Orange Park
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B22P5067008,Price LeBlanc Lexus
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5067123,Sewell Lexus
@@ -846,16 +830,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B22P5067509,Fox Lexus of El Paso
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5067512,Lexus Monterey Peninsula
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B22P5067526,Bell Lexus North Scottsdale
-2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5067557,Lexus of Orange Park
+2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B22P5067557,Lexus of Orange Park
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5067607,Lexus of Orlando
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B22P5067610,Lexus of Glendale
-2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B22P5067638,Lexus of Pembroke Pines
+2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5067638,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B22P5067686,Chatham Parkway Lexus
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B22P5067722,Scanlon Lexus of Fort Myers
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5067722,Scanlon Lexus of Fort Myers
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B22P5067753,Lexus of North Miami
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B22P5067784,Lexus of Mobile
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B22P5067817,Park Place Lexus Plano
-2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B22P5067848,JM Lexus
+2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5067848,JM Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B22P5067851,Lexus of Kendall
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5067865,Fresno Lexus
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5067882,Lexus of Pleasanton
@@ -863,12 +847,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B22P5067929,Fox Lexus of El Paso
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5068000,Lexus of Pleasanton
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B22P5068014,Lexus of North Miami
+2023,IS 350 F SPORT,Grecian Water,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B22P5068028,Park Place Lexus Grapevine
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B22P5068031,Hennessy Lexus of Atlanta
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B22P5068045,Lexus of Serramonte
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B22P5068059,Fox Lexus of El Paso
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B22P5068076,Lexus of Riverside
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,True,DealerHold,JTHGZ1B22P5068076,Lexus of Riverside
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B22P5068112,Lexus of Orlando
-2023,IS 350 F SPORT,Ultrasonic Blue Mica 2.0,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B22P5068126,Lexus of Fremont
+2023,IS 350 F SPORT,Ultrasonic Blue Mica 2.0,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B22P5068126,Lexus of Fremont
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5068143,Keyes Lexus
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5068157,Temecula Valley Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B22P5068174,Lexus of Westminster
@@ -886,7 +871,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B22P5068417,North Park Lexus of San Antonio
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B23P5065669,Lexus of Freeport
 2023,IS 350 F SPORT,Infrared,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B23P5065803,Germain Lexus of Naples
-2023,IS 350 F SPORT,Iridium,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B23P5065865,Sewell Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44160,0.0,44160.0,At dealer,False,DealerHold,JTHGZ1B23P5066028,Price LeBlanc Lexus
 2023,IS 350 F SPORT,Caviar,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B23P5066059,Nalley Lexus-Smyrna
 2023,IS 350 F SPORT,Atomic Silver,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B23P5066174,Sewell Lexus
@@ -923,12 +907,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B23P5067616,"Jim Hudson Lexus, Augusta"
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B23P5067633,Butler Lexus of South Atlanta
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B23P5067664,JM Lexus
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B23P5067678,Park Place Lexus Plano
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B23P5067678,Park Place Lexus Plano
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B23P5067681,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B23P5067700,Lexus of Clearwater
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B23P5067714,"Jim Hudson Lexus, Augusta"
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B23P5067731,Hendrick Lexus Northlake
-2023,IS 350 F SPORT,Ultra White,RWD,44410,399.0,44809.0,Port to dealer,False,DealerHold,JTHGZ1B23P5067762,Lexus of Memphis
+2023,IS 350 F SPORT,Ultra White,RWD,44410,399.0,44809.0,At dealer,False,DealerHold,JTHGZ1B23P5067762,Lexus of Memphis
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B23P5067826,Lexus of North Miami
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B23P5067843,Lexus of Winter Park
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B23P5067874,North Park Lexus at Dominion
@@ -951,7 +935,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B23P5068202,Lexus of Thousand Oaks
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B23P5068247,Lexus of North Miami
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B23P5068264,Temecula Valley Lexus
-2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B23P5068281,Lexus of Riverside
+2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B23P5068281,Lexus of Riverside
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B23P5068295,Lexus of Kendall
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B23P5068300,Lexus of Serramonte
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B23P5068314,Lexus San Diego
@@ -959,7 +943,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B23P5068345,Lexus of Glendale
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B23P5068359,Putnam Lexus
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B23P5068376,Jim Falk Lexus of Beverly Hills
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B23P5068409,Lexus of Riverside
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B23P5068409,Lexus of Riverside
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B24P5063784,Lexus of Knoxville
 2023,IS 350 F SPORT,Ultra White,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B24P5064482,Lexus of Sarasota
 2023,IS 350 F SPORT,Infrared,RWD,44160,0.0,44160.0,At dealer,False,Available,JTHGZ1B24P5064790,Lexus of Pembroke Pines
@@ -978,14 +962,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5066765,Scanlon Lexus of Fort Myers
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5066779,Scanlon Lexus of Fort Myers
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5066782,JM Lexus
-2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B24P5066846,Price LeBlanc Lexus
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5066927,JM Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5067155,Earnhardt Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5067186,Fox Lexus of El Paso
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5067284,Price LeBlanc Lexus
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5067298,Lexus of Sacramento
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5067317,Sewell Lexus of Ft. Worth
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B24P5067334,Lexus of Mobile
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B24P5067334,Lexus of Mobile
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B24P5067365,Chatham Parkway Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5067379,Lexus of Orange Park
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B24P5067382,Lexus of Wesley Chapel
@@ -995,8 +978,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5067513,Cavender Lexus of Lubbock
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5067530,Herrin-Gear Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B24P5067544,Park Place Lexus Grapevine
-2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B24P5067544,Park Place Lexus Grapevine
-2023,IS 350 F SPORT,Ultra White,RWD,44410,399.0,44809.0,At dealer,False,,JTHGZ1B24P5067558,Lexus of Tulsa
+2023,IS 350 F SPORT,Ultra White,RWD,44410,399.0,44809.0,At dealer,False,Available,JTHGZ1B24P5067558,Lexus of Tulsa
 2023,IS 350 F SPORT,Ultrasonic Blue Mica 2.0,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5067561,Hendrick Lexus Charlotte
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5067575,Lexus of Orange Park
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B24P5067608,Johnson Lexus of Raleigh
@@ -1027,9 +1009,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5068080,Lexus Stevens Creek
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5068094,Crown Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B24P5068127,Sterling McCall Lexus Clear Lake
-2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5068158,Putnam Lexus
+2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5068158,Putnam Lexus
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5068175,Lexus of Kendall
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5068189,Lexus of Santa Barbara
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5068189,Lexus of Santa Barbara
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5068192,Valley Lexus
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5068208,Fresno Lexus
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5068239,Lexus of Pleasanton
@@ -1039,10 +1021,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5068287,Arrowhead Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,Available,JTHGZ1B24P5068290,Arrowhead Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5068337,Herrin-Gear Lexus
-2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5068340,Longo Lexus
+2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5068340,Longo Lexus
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B24P5068354,Lexus of Lakeway
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5068371,Lexus of Westminster
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5068399,Tustin Lexus
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B24P5068399,Shottenkirk Desert Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B24P5068404,Crown Lexus
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B24P5068418,Lexus Stevens Creek
 2023,IS 350 F SPORT,Caviar,RWD,43760,0.0,43760.0,At dealer,False,DealerHold,JTHGZ1B25P5062997,Lexus of Sarasota
@@ -1076,6 +1058,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5067326,Lexus of Orlando
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B25P5067357,Johnson Lexus of Durham
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B25P5067374,Lexus of Glendale
+2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B25P5067407,JM Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B25P5067410,Valley Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5067438,Hennessy Lexus of Gwinnett
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B25P5067469,Lexus of New Orleans
@@ -1084,32 +1067,30 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5067519,Sewell Lexus
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B25P5067536,Lexus of Sarasota
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5067553,Putnam Lexus
-2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B25P5067567,Hendrick Lexus Northlake
+2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5067567,Hendrick Lexus Northlake
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5067598,Putnam Lexus
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5067603,Lexus of North Miami
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B25P5067665,Hendrick Lexus Charleston
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5067696,JM Lexus
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B25P5067715,Germain Lexus of Naples
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,True,DealerHold,JTHGZ1B25P5067732,Lexus of Riverside
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5067715,Germain Lexus of Naples
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B25P5067732,Lexus of Riverside
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B25P5067746,Lexus of Thousand Oaks
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5067763,Lexus of Oxnard
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B25P5067777,Hendrick Lexus Charlotte
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5067813,Lexus of Pleasanton
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5067830,Lexus of Las Vegas
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B25P5067858,Lexus of Thousand Oaks
-2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B25P5067861,Lexus of Westminster
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B25P5067889,Lexus of Melbourne
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B25P5067892,Hendrick Lexus Northlake
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B25P5067908,Lexus Santa Monica
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B25P5067911,Shottenkirk Desert Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B25P5067939,Lexus of Chandler
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B25P5067973,Lexus of Glendale
-2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B25P5067987,Westside Lexus
+2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B25P5067987,Westside Lexus
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B25P5068007,Sterling McCall Lexus Clear Lake
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B25P5068038,Lexus El Cajon
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B25P5068072,Lexus of Winter Park
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B25P5068086,Lexus of Kendall
-2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B25P5068136,Lexus Monterey Peninsula
+2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B25P5068136,Lexus Monterey Peninsula
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5068153,Temecula Valley Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B25P5068167,Lexus of Glendale
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,True,DealerHold,JTHGZ1B25P5068217,Lexus of Las Vegas
@@ -1120,7 +1101,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B25P5068301,Lexus of Austin
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B25P5068332,Price LeBlanc Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B25P5068346,Lexus of Cerritos
-2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B25P5068380,Lexus of Riverside
+2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B25P5068380,Lexus of Riverside
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B25P5068413,Lexus of Santa Fe
 2023,IS 350 F SPORT,Iridium,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B26P5063589,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Ultra White,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B26P5063821,Lexus of Sarasota
@@ -1157,7 +1138,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Ultrasonic Blue Mica 2.0,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B26P5067318,"Lexus of Concord, LLC"
 2023,IS 350 F SPORT,Ultra White,RWD,44410,2342.0,46752.0,At dealer,False,DealerHold,JTHGZ1B26P5067366,"Jim Hudson Lexus, Columbia"
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B26P5067383,JM Lexus
-2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B26P5067447,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B26P5067450,Lexus of Glendale
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,True,DealerHold,JTHGZ1B26P5067464,Sewell Lexus of Ft. Worth
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B26P5067478,Lexus of Pembroke Pines
@@ -1165,16 +1145,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B26P5067514,Lexus of Kendall
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B26P5067528,Lexus of Thousand Oaks
 2023,IS 350 F SPORT,Ultrasonic Blue Mica 2.0,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B26P5067545,Lexus of Pembroke Pines
-2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B26P5067593,Lexus of Wesley Chapel
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B26P5067609,Lexus of Orlando
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B26P5067612,Johnson Lexus of Durham
-2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B26P5067626,JM Lexus
+2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B26P5067626,JM Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B26P5067643,Lexus of Wesley Chapel
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B26P5067657,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B26P5067707,Westside Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B26P5067738,Westside Lexus
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B26P5067755,Lexus of Clearwater
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B26P5067769,Lexus of New Orleans
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B26P5067769,Lexus of New Orleans
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B26P5067772,Sewell Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B26P5067819,Bell Lexus North Scottsdale
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B26P5067853,Longo Lexus
@@ -1190,7 +1169,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B26P5068064,Herrin-Gear Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B26P5068078,North Park Lexus of San Antonio
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B26P5068081,Jim Falk Lexus of Beverly Hills
-2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B26P5068100,Keyes Lexus
+2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B26P5068100,South County Lexus at Mission Viejo
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B26P5068114,Park Place Lexus Grapevine
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B26P5068131,Lexus of Riverside
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B26P5068162,Keyes Lexus of Valencia
@@ -1220,7 +1199,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Ultra White,RWD,44160,0.0,44160.0,Port to dealer,False,DealerHold,JTHGZ1B27P5066596,Westside Lexus
 2023,IS 350 F SPORT,Caviar,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B27P5066601,DARCARS Lexus of Silver Spring
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B27P5066713,Freeman Lexus
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B27P5066727,Sterling McCall Lexus
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5066727,Sterling McCall Lexus
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5066825,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Ultra White,RWD,44410,895.0,45305.0,At dealer,False,,JTHGZ1B27P5066923,Lexus of Chattanooga
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B27P5066940,Hennessy Lexus of Gwinnett
@@ -1233,26 +1212,23 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067327,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067344,Butler Lexus
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067361,Germain Lexus of Naples
-2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067392,Nalley Lexus-Smyrna
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B27P5067408,North Park Lexus at Dominion
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067442,Lexus of Mobile
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067473,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067487,Lexus of Jacksonville
-2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B27P5067540,Lexus of Palm Beach
+2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067540,Lexus of Palm Beach
 2023,IS 350 F SPORT,Ultra White,RWD,44410,2342.0,46752.0,At dealer,False,DealerHold,JTHGZ1B27P5067554,"Jim Hudson Lexus, Columbia"
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B27P5067571,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B27P5067585,"Jim Hudson Lexus, Augusta"
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067599,Herrin-Gear Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,895.0,45305.0,Port to dealer,False,DealerHold,JTHGZ1B27P5067604,Lexus of Chattanooga
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067618,Lexus of Winter Park
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067649,Keyes Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,2342.0,46752.0,At dealer,False,DealerHold,JTHGZ1B27P5067666,"Jim Hudson Lexus, Columbia"
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B27P5067683,Lexus of Huntsville
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067702,Lexus of West Kendall
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B27P5067733,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B27P5067750,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B27P5067764,Lexus of Tampa Bay
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B27P5067778,Lexus of Pembroke Pines
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067778,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B27P5067781,Park Place Lexus Grapevine
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B27P5067795,Lexus of Albuquerque
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067800,Lexus Monterey Peninsula
@@ -1260,10 +1236,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B27P5067845,Butler Lexus of South Atlanta
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B27P5067909,Lexus Carlsbad
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B27P5067912,Nalley Lexus - Roswell
-2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B27P5067926,Treasure Coast Lexus
+2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067926,Treasure Coast Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067957,Lexus of Sacramento
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5067960,Keyes Lexus
-2023,IS 350 F SPORT,Ultra White,RWD,44410,1513.0,45923.0,Port to dealer,False,,JTHGZ1B27P5068008,Lexus of Marin
+2023,IS 350 F SPORT,Ultra White,RWD,44410,1513.0,45923.0,At dealer,False,,JTHGZ1B27P5068008,Lexus of Marin
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B27P5068025,Sewell Lexus of Ft. Worth
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B27P5068039,Lexus of Shreveport - Bossier City
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B27P5068056,Temecula Valley Lexus
@@ -1302,7 +1278,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B28P5066820,Keyes Lexus
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B28P5066879,Lexus of Pembroke Pines
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B28P5066896,Lexus of Knoxville
-2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B28P5067031,Eskridge Lexus of Oklahoma City
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B28P5067157,Lexus of Santa Barbara
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B28P5067207,North Park Lexus of San Antonio
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B28P5067210,Westside Lexus
@@ -1347,13 +1322,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B28P5068311,Lexus Stevens Creek
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B28P5068325,Lexus of Pleasanton
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B28P5068356,Sterling McCall Lexus Clear Lake
-2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B28P5068387,Longo Lexus
+2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B28P5068387,Longo Lexus
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B28P5068390,North Park Lexus of San Antonio
 2023,IS 350 F SPORT,Iridium,RWD,44160,0.0,44160.0,At dealer,False,Available,JTHGZ1B29P5063876,Sewell Lexus of Ft. Worth
 2023,IS 350 F SPORT,Ultra White,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B29P5064171,Lexus of Sarasota
 2023,IS 350 F SPORT,Iridium,RWD,44160,0.0,44160.0,At dealer,False,Available,JTHGZ1B29P5064557,Price LeBlanc Lexus
 2023,IS 350 F SPORT,Iridium,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B29P5064588,Lexus of North Miami
-2023,IS 350 F SPORT,Ultra White,RWD,44160,0.0,44160.0,At dealer,False,Available,JTHGZ1B29P5065403,Lexus of Mobile
 2023,IS 350 F SPORT,Atomic Silver,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B29P5065515,DARCARS Lexus of Greenwich
 2023,IS 350 F SPORT,Iridium,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B29P5065563,DARCARS Lexus of Silver Spring
 2023,IS 350 F SPORT,Caviar,RWD,44160,0.0,44160.0,At dealer,False,DealerHold,JTHGZ1B29P5065577,Westside Lexus
@@ -1367,7 +1341,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Caviar,RWD,44160,0.0,44160.0,At dealer,False,DealerHold,JTHGZ1B29P5066471,Northside Lexus
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44160,0.0,44160.0,At dealer,False,,JTHGZ1B29P5066602,Hendrick Lexus Charleston
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B29P5066664,Lexus of Orlando
-2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B29P5066695,Sterling McCall Lexus
+2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B29P5066695,Sterling McCall Lexus
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B29P5066700,Longo Lexus
 2023,IS 350 F SPORT,Ultrasonic Blue Mica 2.0,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B29P5066826,Johnson Lexus of Durham
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B29P5066843,Hendrick Lexus Charleston
@@ -1375,6 +1349,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B29P5066924,Lexus of Orlando
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B29P5067099,Lexus of Fremont
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B29P5067166,Keyes Lexus
+2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,Available,JTHGZ1B29P5067247,Sewell Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B29P5067278,Lexus of Austin
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B29P5067281,Fox Lexus of El Paso
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B29P5067295,Hendrick Lexus Charleston
@@ -1423,10 +1398,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B29P5068205,Lexus of Pleasanton
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B29P5068222,Lexus of Glendale
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B29P5068267,South Bay Lexus
-2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B29P5068298,Lexus of Glendale
+2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B29P5068298,Lexus of Glendale
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B29P5068303,Northside Lexus
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B29P5068317,Tustin Lexus
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B29P5068334,Lexus of Cerritos
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B29P5068382,Keyes Lexus of Valencia
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B29P5068396,Temecula Valley Lexus
 2023,IS 350 F SPORT,Caviar,RWD,44410,399.0,44809.0,Port to dealer,False,DealerHold,JTHGZ1B29P5068432,Lexus of Memphis
@@ -1467,7 +1441,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B2XP5067712,Putnam Lexus
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B2XP5067726,Lexus of North Miami
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B2XP5067743,Lexus of Henderson
-2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B2XP5067760,Northside Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B2XP5067788,Hendrick Lexus Charleston
 2023,IS 350 F SPORT,Infrared,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B2XP5067791,Park Place Lexus Grapevine
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B2XP5067807,Lexus of Westminster
@@ -1483,13 +1456,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B2XP5068004,Lexus Stevens Creek
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B2XP5068021,Johnson Lexus of Durham
 2023,IS 350 F SPORT,Iridium,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B2XP5068035,Lexus of Fremont
-2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B2XP5068049,Temecula Valley Lexus
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B2XP5068066,Lexus of Cerritos
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B2XP5068083,Lexus of Clearwater
 2023,IS 350 F SPORT,Ultrasonic Blue Mica 2.0,RWD,44410,0.0,44410.0,Port to dealer,False,DealerHold,JTHGZ1B2XP5068102,Eskridge Lexus of Oklahoma City
 2023,IS 350 F SPORT,Caviar,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B2XP5068116,Park Place Lexus Grapevine
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B2XP5068133,Lexus of Glendale
-2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,DealerHold,JTHGZ1B2XP5068164,Longo Lexus
+2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,Available,JTHGZ1B2XP5068164,Longo Lexus
 2023,IS 350 F SPORT,Ultra White,RWD,44410,0.0,44410.0,At dealer,False,,JTHGZ1B2XP5068178,Keyes Lexus
 2023,IS 350 F SPORT,Atomic Silver,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B2XP5068195,Lexus of Westminster
 2023,IS 350 F SPORT,Cloudburst Gray,RWD,44410,0.0,44410.0,Port to dealer,False,,JTHGZ1B2XP5068214,North Park Lexus Rio Grande Valley
@@ -1509,13 +1481,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E20P5030633,Lexus of Lexington
 2023,IS 350 F SPORT AWD,Caviar,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E20P5030647,Lexus of Watertown
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E20P5030714,Lexus of Wichita
-2023,IS 350 F SPORT AWD,Caviar,AWD,46160,0.0,46160.0,At dealer,False,DealerHold,JTHGZ1E20P5030731,Lexus of Wayzata
 2023,IS 350 F SPORT AWD,Caviar,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E20P5030762,Ray Catena Lexus of Monmouth
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E20P5030874,Lexus of Colorado Springs
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E20P5030910,Lexus of Lexington
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E20P5031037,Hendrick Lexus Kansas City
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E20P5031054,David McDermott Lexus of New Haven
-2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E20P5031118,Lexus of Brooklyn
+2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E20P5031118,Lexus of Queens
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E20P5031152,DARCARS Lexus of Silver Spring
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E20P5031166,Tri-County Lexus
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E20P5031183,Lexus of Cherry Hill
@@ -1529,8 +1500,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,Available,JTHGZ1E20P5031328,Meade Lexus of Southfield
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E20P5031359,Priority Lexus Virginia Beach
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E20P5031362,Lexus of Smithtown
-2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E20P5031376,Wilkie Lexus
-2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E20P5031393,Lexus of Route 10
+2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E20P5031376,Wilkie Lexus
+2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E20P5031393,Lexus of Route 10
+2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,299.0,46709.0,Port to dealer,False,,JTHGZ1E20P5031412,Spirit Lexus
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E20P5031426,Johnson Lexus of Raleigh
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E20P5031460,Ourisman Lexus of Rockville
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E20P5031488,Lexus of Naperville
@@ -1566,12 +1538,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E21P5031290,Rallye Lexus
 2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E21P5031306,Motorworld Lexus
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E21P5031323,Lexus of Portland
+2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E21P5031337,Tri-County Lexus
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E21P5031368,Lexus of Pembroke Pines
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E21P5031385,Tri-County Lexus
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E21P5031399,Larry H. Miller Lexus Murray
 2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E21P5031404,Lexus of Towson
 2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E21P5031418,Lindsay Lexus of Alexandria
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E21P5031435,Lexus of Lehigh Valley
+2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E21P5031449,Lexus of Bellevue
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E21P5031452,Jordan Lexus of Mishawaka
 2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E21P5031483,Lexus of Ft. Wayne
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,2539.0,48949.0,Port to dealer,False,DealerHold,JTHGZ1E21P5031502,Lexus of Warwick
@@ -1590,33 +1564,28 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E22P5030701,Lexus of Peoria
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E22P5030729,Lexus of Atlantic City
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E22P5030861,Lexus of Queens
-2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,True,DealerHold,JTHGZ1E22P5030892,Meade Lexus of Southfield
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E22P5030956,Lindsay Lexus of Alexandria
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E22P5030987,Larry H. Miller Lexus Murray
-2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E22P5031072,Lexus of Rockford
-2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E22P5031119,McGrath Lexus of Westmont
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E22P5031170,Lexus of Queens
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E22P5031184,Kendall Lexus of Eugene
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E22P5031198,Ray Catena Lexus of Freehold
-2023,IS 350 F SPORT AWD,Infrared,AWD,46410,2539.0,48949.0,Port to dealer,False,DealerHold,JTHGZ1E22P5031217,Lexus of Warwick
+2023,IS 350 F SPORT AWD,Infrared,AWD,46410,2539.0,48949.0,At dealer,False,DealerHold,JTHGZ1E22P5031217,Lexus of Warwick
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E22P5031265,Metro Lexus
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E22P5031279,Motorworld Lexus
-2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E22P5031296,Ray Catena Lexus of Freehold
+2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E22P5031296,Ray Catena Lexus of Freehold
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E22P5031301,North Park Lexus Rio Grande Valley
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E22P5031329,Bobby Rahal Lexus of Lewistown
-2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E22P5031332,Findlay Lexus of Spokane
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E22P5031377,Woodfield Lexus
 2023,IS 350 F SPORT AWD,Infrared,AWD,46410,1478.0,47888.0,Port to dealer,False,,JTHGZ1E22P5031380,Northtown Lexus
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E22P5031394,Ray Catena Lexus of Freehold
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E22P5031430,Len Stoler Lexus
-2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E22P5031461,Eskridge Lexus of Oklahoma City
+2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E22P5031461,Eskridge Lexus of Oklahoma City
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E22P5031475,Lexus of Tacoma at Fife
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E22P5031492,Lexus of Cherry Hill
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E22P5031525,Larry H. Miller Lexus Murray
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E22P5031556,Johnson Lexus of Raleigh
 2022,IS 350 F SPORT AWD,Iridium,AWD,45550,0.0,45550.0,At dealer,False,Available,JTHGZ1E23N5026976,Lexus of Smithtown
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E23P5029847,Lexus of Bridgewater
-2023,IS 350 F SPORT AWD,Caviar,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E23P5030304,Lexus of Ft. Wayne
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E23P5030383,New Country Lexus of Westport
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46160,0.0,46160.0,At dealer,False,DealerHold,JTHGZ1E23P5030447,Motorworld Lexus
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E23P5030495,Lexus of Atlantic City
@@ -1629,7 +1598,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E23P5030741,Kendall Lexus of Eugene
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E23P5030867,Ira Lexus of Manchester
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E23P5030870,Ourisman Lexus of Rockville
-2023,IS 350 F SPORT AWD,Infrared,AWD,46410,2995.0,49405.0,At dealer,False,,JTHGZ1E23P5030903,Sheehy Lexus of Annapolis
+2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E23P5030903,Priority Lexus Virginia Beach
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E23P5030917,DARCARS Lexus of Greenwich
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E23P5030920,Lexus of Arlington
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E23P5030951,Lexus of Tacoma at Fife
@@ -1637,7 +1606,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E23P5031193,Bob Johnson Lexus
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,2539.0,48949.0,At dealer,False,DealerHold,JTHGZ1E23P5031209,Lexus of Warwick
 2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E23P5031212,Lexus of Smithtown
-2023,IS 350 F SPORT AWD,Grecian Water,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E23P5031243,Bobby Rahal Lexus
+2023,IS 350 F SPORT AWD,Grecian Water,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E23P5031243,Bobby Rahal Lexus
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E23P5031260,Prestige Lexus of Ramsey
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E23P5031274,Lindsay Lexus of Alexandria
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E23P5031288,Lexus of Greenwood Village
@@ -1660,11 +1629,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E23P5031498,Lexus of Cool Springs
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,1478.0,47888.0,Port to dealer,False,,JTHGZ1E23P5031517,Northtown Lexus
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E23P5031520,Germain Lexus of Dublin
-2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46160,0.0,46160.0,At dealer,False,DealerHold,JTHGZ1E24P5030313,Lexus of Wayzata
 2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E24P5030327,Berlin City Lexus of Portland
 2023,IS 350 F SPORT AWD,Caviar,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E24P5030389,New Country Lexus of Latham
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E24P5030392,Reliable Lexus
-2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E24P5030439,Jim White Lexus of Toledo
 2023,IS 350 F SPORT AWD,Iridium,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E24P5030487,Tri-County Lexus
 2023,IS 350 F SPORT AWD,Caviar,AWD,46160,0.0,46160.0,At dealer,False,DealerHold,JTHGZ1E24P5030635,Herb Chambers Lexus
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E24P5030666,Bobby Rahal Lexus of Lewistown
@@ -1679,13 +1646,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,2995.0,49405.0,At dealer,False,Available,JTHGZ1E24P5031154,Sheehy Lexus of Annapolis
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E24P5031171,Findlay Lexus of Spokane
 2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E24P5031185,Lexus of Tacoma at Fife
-2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E24P5031218,Ray Catena Lexus of White Plains
 2023,IS 350 F SPORT AWD,Grecian Water,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E24P5031235,Tri-County Lexus
-2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E24P5031249,Larry H. Miller Lexus Murray
+2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E24P5031249,Lexus of Greenwood Village
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E24P5031252,David McDermott Lexus of New Haven
 2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E24P5031266,David McDermott Lexus of New Haven
-2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E24P5031283,Lexus of Towson
-2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E24P5031297,Lexus of Greenwood Village
+2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E24P5031283,Lexus of Towson
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E24P5031302,Rohrich Lexus
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E24P5031316,Lexus of Louisville
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E24P5031347,Lexus of Merrillville
@@ -1706,7 +1671,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E24P5031591,Eskridge Lexus of Oklahoma City
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E25P5029882,New Country Lexus of Latham
 2023,IS 350 F SPORT AWD,Iridium,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E25P5030045,Germain Lexus of Easton
-2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,DealerHold,JTHGZ1E25P5030384,Lexus of Akron/Canton
+2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E25P5030384,Lexus of Akron/Canton
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E25P5030529,Meade Lexus of Southfield
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E25P5030546,Lexus of Freeport
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E25P5030580,DARCARS Lexus of Greenwich
@@ -1723,7 +1688,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E25P5031146,DARCARS Lexus of Greenwich
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E25P5031177,Lexus of Route 10
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,998.0,47408.0,Port to dealer,False,Available,JTHGZ1E25P5031180,Jordan Lexus of Mishawaka
-2023,IS 350 F SPORT AWD,Caviar,AWD,46410,2539.0,48949.0,At dealer,False,DealerHold,JTHGZ1E25P5031194,Lexus of Warwick
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E25P5031230,Lexus of Freeport
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E25P5031244,Lexus of Santa Fe
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E25P5031258,Lexus of Naperville
@@ -1742,6 +1706,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E25P5031471,Burdick Lexus
 2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E25P5031485,Ray Catena Lexus of Monmouth
 2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E25P5031499,Lindsay Lexus of Alexandria
+2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E25P5031504,Ray Catena Lexus of Monmouth
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E25P5031633,Larry H. Miller Lexus Murray
 2023,IS 350 F SPORT AWD,Iridium,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E26P5029292,Peterson Lexus
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E26P5030247,Lexus of Highland Park
@@ -1760,16 +1725,17 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,1478.0,47888.0,At dealer,False,,JTHGZ1E26P5030927,Northtown Lexus
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E26P5030930,DARCARS Lexus of Mt. Kisco
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E26P5030992,Peterson Lexus
-2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E26P5031026,Lexus of Arlington
+2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E26P5031026,Lexus of Arlington
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,Available,JTHGZ1E26P5031141,Reliable Lexus
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E26P5031205,Lindsay Lexus of Alexandria
-2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031236,Bobby Rahal Lexus
+2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E26P5031236,Bobby Rahal Lexus
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031253,Stoler Lexus
-2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031267,Lexus of Watertown
-2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031270,Lexus of Watertown
+2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E26P5031267,Lexus of Watertown
+2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E26P5031270,Lexus of Watertown
 2023,IS 350 F SPORT AWD,Grecian Water,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031298,Lindsay Lexus of Alexandria
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E26P5031317,Stoler Lexus
-2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031320,DARCARS Lexus of Mt. Kisco
+2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E26P5031320,DARCARS Lexus of Mt. Kisco
+2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031348,Lexus of Bridgewater
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031351,McGrath Lexus of Westmont
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,Available,JTHGZ1E26P5031365,Performance Lexus RiverCenter
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031379,Ira Lexus of Manchester
@@ -1777,19 +1743,20 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031396,Koons Lexus of Wilmington
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031401,Bob Johnson Lexus
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031415,Tri-County Lexus
+2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031429,Kendall Lexus of Eugene
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031432,Lexus of Brooklyn
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031463,Lexus of Bellevue
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E26P5031477,Hoffman Lexus
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031513,Lexus of Northborough
+2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031527,Sheehy Lexus of Richmond
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E26P5031592,Larry H. Miller Lexus of Lindon
 2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46160,0.0,46160.0,At dealer,False,DealerHold,JTHGZ1E27P5029768,David McDermott Lexus of New Haven
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46160,0.0,46160.0,At dealer,False,DealerHold,JTHGZ1E27P5030158,Wilkie Lexus
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,DealerHold,JTHGZ1E27P5030600,Lexus of Rockford
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E27P5030631,Mungenast Lexus of St. Louis
-2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E27P5030676,McGrath Lexus of Westmont
+2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E27P5030676,Lexus of Ft. Wayne
 2023,IS 350 F SPORT AWD,Iridium,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E27P5030791,Lexus of Maplewood
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,DealerHold,JTHGZ1E27P5030824,Bobby Rahal Lexus
-2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E27P5030838,Lexus of Smithtown
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E27P5030872,Kendall Lexus of Alaska
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E27P5030919,Lexus of Colorado Springs
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E27P5030936,Performance Lexus RiverCenter
@@ -1798,7 +1765,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E27P5031021,Bergstrom Lexus
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E27P5031049,Meade Lexus of Lakeside
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E27P5031116,Lexus of Akron/Canton
-2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E27P5031133,Lexus of Orange County
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E27P5031164,DARCARS Lexus of Englewood
 2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E27P5031178,Lexus of Orange County
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E27P5031200,Lexus of Colorado Springs
@@ -1819,10 +1785,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46410,0.0,46410.0,Port to dealer,False,Available,JTHGZ1E27P5031410,Larry H. Miller Lexus Murray
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E27P5031441,Sheehy Lexus of Richmond
 2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46410,299.0,46709.0,Port to dealer,False,DealerHold,JTHGZ1E27P5031455,Spirit Lexus
+2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E27P5031469,Hoffman Lexus
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E27P5031505,Jim White Lexus of Toledo
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E27P5031519,David McDermott Lexus of New Haven
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,Available,JTHGZ1E27P5031584,Sewell Lexus
-2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46160,896.0,47056.0,At dealer,False,Available,JTHGZ1E28P5029794,Lexus of Madison
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46160,0.0,46160.0,At dealer,False,DealerHold,JTHGZ1E28P5030122,DARCARS Lexus of Mt. Kisco
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E28P5030525,Lexus of Santa Barbara
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,2495.0,48655.0,At dealer,False,Available,JTHGZ1E28P5030556,Berlin City Lexus of Portland
@@ -1841,7 +1807,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E28P5031237,Lexus of Watertown
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E28P5031240,Meade Lexus of Southfield
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E28P5031254,Hoffman Lexus
-2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E28P5031285,Lexus of Madison
+2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E28P5031285,Lexus of Madison
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E28P5031304,Lexus of Route 10
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E28P5031321,Lexus of Lehigh Valley
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E28P5031349,Lexus of Lexington
@@ -1854,13 +1820,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E28P5031464,Priority Lexus Newport News
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E28P5031478,"Lexus of Seattle, LLC"
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E28P5031481,Findlay Lexus of Spokane
+2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E28P5031495,Burdick Lexus
+2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E28P5031514,David McDermott Lexus of New Haven
 2023,IS 350 F SPORT AWD,Grecian Water,AWD,46160,0.0,46160.0,At dealer,False,DealerHold,JTHGZ1E29P5029416,Motorworld Lexus
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46160,0.0,46160.0,At dealer,False,Available,JTHGZ1E29P5029920,Thompson Lexus Doylestown
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46160,0.0,46160.0,At dealer,False,DealerHold,JTHGZ1E29P5030226,Performance Lexus
 2023,IS 350 F SPORT AWD,Iridium,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E29P5030310,Thompson Lexus Doylestown
 2023,IS 350 F SPORT AWD,Infrared,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E29P5030596,Peterson Lexus
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E29P5030677,Len Stoler Lexus
-2023,IS 350 F SPORT AWD,Iridium,AWD,46160,0.0,46160.0,At dealer,False,,JTHGZ1E29P5030727,Lexus of Edison
 2023,IS 350 F SPORT AWD,Caviar,AWD,46160,0.0,46160.0,At dealer,False,DealerHold,JTHGZ1E29P5030775,Sheehy Lexus of Richmond
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E29P5030873,Reliable Lexus
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E29P5030906,Lexus of Towson
@@ -1870,12 +1837,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E29P5031148,Lexus of Route 10
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E29P5031151,Lexus of Lexington
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E29P5031182,Sheehy Lexus of Richmond
-2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,Available,JTHGZ1E29P5031196,Lexus of Wayzata
+2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E29P5031196,Lexus of Wayzata
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E29P5031215,Germain Lexus of Dublin
-2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E29P5031229,Wilkie Lexus
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E29P5031232,DARCARS Lexus of Englewood
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E29P5031246,Berlin City Lexus of Portland
-2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,Available,JTHGZ1E29P5031263,Hendrick Lexus Northlake
+2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E29P5031263,Hendrick Lexus Northlake
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E29P5031277,Tri-County Lexus
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E29P5031280,Lexus of Albuquerque
 2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E29P5031294,Lexus of Bellevue
@@ -1894,7 +1860,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E29P5031490,Larry H. Miller Lexus Murray
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E29P5031523,Findlay Lexus of Spokane
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E29P5031540,Stevinson Lexus of Frederick
-2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E29P5031554,Larry H. Miller Lexus Murray
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E29P5031604,North Park Lexus at Dominion
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E29P5031652,Lexus of Colorado Springs
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,45760,0.0,45760.0,At dealer,False,Available,JTHGZ1E2XP5028579,Lexus of Peoria
@@ -1912,15 +1877,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E2XP5030879,Ourisman Lexus of Rockville
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E2XP5030901,Sewell Lexus of Ft. Worth
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E2XP5030980,Ray Catena Lexus of White Plains
-2023,IS 350 F SPORT AWD,Iridium,AWD,46410,998.0,47408.0,At dealer,False,DealerHold,JTHGZ1E2XP5031000,Jordan Lexus of Mishawaka
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E2XP5031045,Metro Lexus
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E2XP5031059,Peterson Lexus
-2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E2XP5031112,Lexus of Merrillville
+2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E2XP5031112,Lexus of Merrillville
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E2XP5031126,Lexus of Northborough
 2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E2XP5031143,Lexus of Brooklyn
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E2XP5031157,DARCARS Lexus of Mt. Kisco
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E2XP5031160,Lexus of Orange County
-2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E2XP5031174,McGrath Lexus of Chicago
+2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,Available,JTHGZ1E2XP5031174,Lexus of Madison
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E2XP5031224,Peterson Lexus
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E2XP5031238,Lexus of Lexington
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,DealerHold,JTHGZ1E2XP5031241,Ira Lexus
@@ -1930,14 +1894,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E2XP5031319,Lindsay Lexus of Alexandria
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E2XP5031322,Lexus of Smithtown
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E2XP5031367,Lexus of Wayzata
-2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E2XP5031370,Ourisman Lexus of Rockville
+2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E2XP5031370,Ourisman Lexus of Rockville
 2023,IS 350 F SPORT AWD,Ultra White,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E2XP5031384,Lexus of Tacoma at Fife
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E2XP5031403,Ray Catena Lexus of Monmouth
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E2XP5031417,Tom Wood Lexus
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E2XP5031420,Moses Lexus
 2023,IS 350 F SPORT AWD,Atomic Silver,AWD,46410,0.0,46410.0,At dealer,False,,JTHGZ1E2XP5031451,Larry H. Miller Lexus Murray
 2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E2XP5031465,Germain Lexus of Easton
+2023,IS 350 F SPORT AWD,Infrared,AWD,46410,0.0,46410.0,Port to dealer,False,DealerHold,JTHGZ1E2XP5031482,Lexus of Manhattan
 2023,IS 350 F SPORT AWD,Cloudburst Gray,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E2XP5031496,Ray Catena Lexus of Monmouth
+2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E2XP5031501,Herb Chambers Lexus
 2023,IS 350 F SPORT AWD,Ultrasonic Blue Mica 2.0,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E2XP5031515,Lexus of Maplewood
 2023,IS 350 F SPORT AWD,Iridium,AWD,46410,0.0,46410.0,Port to dealer,False,,JTHGZ1E2XP5031529,Lexus of Lexington
 2023,IS 350 F SPORT AWD,Caviar,AWD,46410,0.0,46410.0,Port to dealer,False,Available,JTHGZ1E2XP5031546,Larry H. Miller Lexus Murray

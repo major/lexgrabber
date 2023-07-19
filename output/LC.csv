@@ -26,7 +26,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LC 500,Infrared,RWD,94450,0.0,94450.0,At dealer,False,DealerHold,JTHBP5AY0PA107526,Lexus of Knoxville
 2023,LC 500,Caviar,RWD,94450,0.0,94450.0,At dealer,False,Available,JTHBP5AY0PA107767,Park Place Lexus Grapevine
 2024,LC 500,Atomic Silver,RWD,97700,0.0,97700.0,Port to dealer,False,,JTHBP5AY0RA108095,Ray Catena Lexus of Freehold
-2023,LC 500,Infrared,RWD,94450,0.0,94450.0,At dealer,True,DealerHold,JTHBP5AY1PA107566,Lexus of Lexington
 2023,LC 500,Atomic Silver,RWD,94450,0.0,94450.0,At dealer,False,Available,JTHBP5AY1PA107647,Lexus of Portland
 2024,LC 500,Ultra White,RWD,97700,0.0,97700.0,At dealer,False,,JTHBP5AY1RA108025,Lexus of North Miami
 2024,LC 500,Infrared,RWD,97700,0.0,97700.0,Port to dealer,False,DealerHold,JTHBP5AY1RA108168,Bell Lexus North Scottsdale
@@ -37,7 +36,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,LC 500,Ultra White,RWD,97700,2342.0,100042.0,At dealer,False,DealerHold,JTHBP5AY2RA108048,"Jim Hudson Lexus, Columbia"
 2024,LC 500,Caviar,RWD,97700,0.0,97700.0,At dealer,False,DealerHold,JTHBP5AY2RA108051,Westside Lexus
 2024,LC 500,Caviar,RWD,97700,0.0,97700.0,Port to dealer,False,DealerHold,JTHBP5AY2RA108163,Northside Lexus
-2023,LC 500,Nightfall Mica,RWD,94450,0.0,94450.0,At dealer,False,DealerHold,JTHBP5AY3PA107715,Lexus of Wayzata
+2023,LC 500,Nightfall Mica,RWD,94450,0.0,94450.0,At dealer,False,DealerHold,JTHBP5AY3PA107715,Jordan Lexus of Mishawaka
 2024,LC 500,Ultra White,RWD,97700,0.0,97700.0,Port to dealer,False,DealerHold,JTHBP5AY3RA108155,Herb Chambers Lexus
 2024,LC 500,Ultra White,RWD,97700,0.0,97700.0,Port to dealer,False,,JTHBP5AY3RA108186,Lexus of Montgomery
 2023,LC 500,Ultra White,RWD,94450,0.0,94450.0,At dealer,False,DealerHold,JTHBP5AY4PA107125,Bobby Rahal Lexus of Lancaster County
@@ -60,6 +59,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,LC 500,Nori Green Pearl,RWD,97700,0.0,97700.0,At dealer,False,DealerHold,JTHBP5AY7RA108076,Lexus of Woodland Hills
 2024,LC 500,Infrared,RWD,97700,0.0,97700.0,At dealer,False,,JTHBP5AY7RA108093,Lexus of Orlando
 2023,LC 500,Ultra White,RWD,94450,0.0,94450.0,At dealer,False,Available,JTHBP5AY8PA107578,Bell Lexus North Scottsdale
+2024,LC 500,Caviar,RWD,97700,0.0,97700.0,At dealer,False,DealerHold,JTHBP5AY8RA108006,Crown Lexus
 2024,LC 500,Infrared,RWD,97700,0.0,97700.0,Port to dealer,False,DealerHold,JTHBP5AY8RA108054,Flow Lexus of Winston-Salem
 2024,LC 500,Ultra White,RWD,97700,0.0,97700.0,Port to dealer,False,DealerHold,JTHBP5AY8RA108264,Fresno Lexus
 2023,LC 500,Ultra White,RWD,94450,0.0,94450.0,At dealer,False,Available,JTHBP5AY9PA107265,Lexus of Pembroke Pines
@@ -70,7 +70,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LC 500,Ultra White,RWD,94450,0.0,94450.0,At dealer,False,Available,JTHBP5AY9PA107783,Lexus of Tampa Bay
 2023,LC 500,Ultra White,RWD,94450,0.0,94450.0,At dealer,False,,JTHBP5AY9PA107797,Lexus of Nashville
 2023,LC 500,Ultra White,RWD,94450,0.0,94450.0,At dealer,False,,JTHBP5AYXPA107243,Lexus of Cerritos
-2023,LC 500,Nori Green Pearl,RWD,94450,0.0,94450.0,At dealer,False,Available,JTHBP5AYXPA107629,Lexus of Wayzata
 2023,LC 500,Cloudburst Gray,RWD,94450,0.0,94450.0,At dealer,False,DealerHold,JTHBP5AYXPA107663,Wilkie Lexus
 2023,LC 500,Ultra White,RWD,94450,0.0,94450.0,At dealer,False,DealerHold,JTHBP5AYXPA107808,Johnson Lexus of Raleigh
 2024,LC 500,Caviar,RWD,97700,0.0,97700.0,At dealer,False,DealerHold,JTHBP5AYXRA108069,Tustin Lexus
@@ -78,6 +77,5 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,LC 500,Infrared,RWD,97700,0.0,97700.0,Port to dealer,False,DealerHold,JTHBP5AYXRA108248,North Park Lexus of San Antonio
 2024,LC 500,Infrared,RWD,97700,0.0,97700.0,Port to dealer,False,DealerHold,JTHJP5AY9RA108172,Earnhardt Lexus
 2024,LC 500,Atomic Silver,RWD,97700,0.0,97700.0,Port to dealer,False,DealerHold,JTHLP5AY0RA108201,Northside Lexus
-2023,LC 500,Caviar,RWD,94450,0.0,94450.0,At dealer,True,DealerHold,JTHLP5AY3PA107685,Lexus of Nashville
 2024,LC 500,Infrared,RWD,97700,0.0,97700.0,Port to dealer,False,DealerHold,JTHLP5AY4RA108234,Lexus of Serramonte
 2024,LC 500,Caviar,RWD,97700,0.0,97700.0,Port to dealer,False,,JTHLP5AY5RA107920,Germain Lexus of Dublin
