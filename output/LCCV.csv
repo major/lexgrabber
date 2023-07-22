@@ -1,8 +1,7 @@
 Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Status,VIN,Dealer
-2023,LC 500 Convertible,Ultra White,RWD,101500,0.0,101500.0,At dealer,False,Available,JTHMPAAY0PA106815,Mungenast Lexus of St. Louis
+2023,LC 500 Convertible,Ultra White,RWD,101500,0.0,101500.0,At dealer,False,DealerHold,JTHMPAAY0PA106815,Mungenast Lexus of St. Louis
 2023,LC 500 Convertible,Ultra White,RWD,102500,4995.0,107495.0,At dealer,False,Available,JTHMPAAY0PA107138,Sheehy Lexus of Annapolis
 2023,LC 500 Convertible,Infrared,RWD,102500,0.0,102500.0,At dealer,False,,JTHMPAAY0PA107253,Treasure Coast Lexus
-2023,LC 500 Convertible,Caviar,RWD,102500,0.0,102500.0,At dealer,True,DealerHold,JTHMPAAY0PA107513,Butler Lexus of South Atlanta
 2023,LC 500 Convertible,Atomic Silver,RWD,102500,0.0,102500.0,At dealer,False,,JTHMPAAY0PA107527,Longo Lexus
 2023,LC 500 Convertible,Infrared,RWD,102500,0.0,102500.0,At dealer,False,DealerHold,JTHMPAAY0PA107530,David McDermott Lexus of New Haven
 2023,LC 500 Convertible,Caviar,RWD,102500,0.0,102500.0,At dealer,False,,JTHMPAAY0PA107561,Lexus of Greenwood Village
@@ -14,8 +13,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,At dealer,False,,JTHMPAAY0RA107868,Park Place Lexus Grapevine
 2024,LC 500 Convertible,Caviar,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY0RA107935,Lexus of Towson
 2024,LC 500 Convertible,Infrared,RWD,105200,0.0,105200.0,At dealer,False,DealerHold,JTHMPAAY0RA107966,Lexus of Jacksonville
-2024,LC 500 Convertible,Cloudburst Gray,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY0RA108065,Sterling McCall Lexus
-2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,Port to dealer,False,DealerHold,JTHMPAAY0RA108129,Eskridge Lexus of Oklahoma City
+2024,LC 500 Convertible,Cloudburst Gray,RWD,105200,0.0,105200.0,At dealer,False,,JTHMPAAY0RA108065,Sterling McCall Lexus
+2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,At dealer,False,DealerHold,JTHMPAAY0RA108129,Eskridge Lexus of Oklahoma City
 2024,LC 500 Convertible,Nori Green Pearl,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY0RA108325,Park Place Lexus Grapevine
 2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY0RA108356,Parker Lexus
 2023,LC 500 Convertible,Cloudburst Gray,RWD,101500,0.0,101500.0,At dealer,False,DealerHold,JTHMPAAY1PA106497,Lexus of Pembroke Pines
@@ -80,7 +79,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LC 500 Convertible,Infrared,RWD,102500,0.0,102500.0,At dealer,False,Available,JTHMPAAY3PA107800,Crown Lexus
 2024,LC 500 Convertible,Ultrasonic Blue Mica 2.0,RWD,105200,0.0,105200.0,At dealer,False,,JTHMPAAY3RA107931,Park Place Lexus Grapevine
 2024,LC 500 Convertible,Ultrasonic Blue Mica 2.0,RWD,105200,0.0,105200.0,At dealer,False,,JTHMPAAY3RA108139,Lexus San Diego
-2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY3RA108142,Lexus of Jacksonville
+2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,At dealer,False,,JTHMPAAY3RA108142,Lexus of Jacksonville
 2024,LC 500 Convertible,Caviar,RWD,105200,0.0,105200.0,At dealer,False,DealerHold,JTHMPAAY3RA108187,Jim Falk Lexus of Beverly Hills
 2024,LC 500 Convertible,Cloudburst Gray,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY3RA108206,Earnhardt Lexus
 2024,LC 500 Convertible,Caviar,RWD,105200,0.0,105200.0,Port to dealer,False,DealerHold,JTHMPAAY3RA108352,Sterling McCall Lexus Clear Lake
@@ -106,7 +105,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LC 500 Convertible,Infrared,RWD,102500,0.0,102500.0,At dealer,False,Available,JTHMPAAY4PA107806,Hendrick Lexus Charlotte
 2023,LC 500 Convertible,Ultra White,RWD,102500,0.0,102500.0,At dealer,False,,JTHMPAAY4PA107823,Lexus of North Miami
 2023,LC 500 Convertible,Infrared,RWD,102500,0.0,102500.0,At dealer,False,DealerHold,JTHMPAAY4PA107837,Performance Lexus
-2024,LC 500 Convertible,Copper Crest,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY4RA108005,Sterling McCall Lexus
+2024,LC 500 Convertible,Copper Crest,RWD,105200,0.0,105200.0,At dealer,False,,JTHMPAAY4RA108005,Sterling McCall Lexus
 2024,LC 500 Convertible,Cloudburst Gray,RWD,105200,0.0,105200.0,At dealer,False,,JTHMPAAY4RA108053,Lexus of Pembroke Pines
 2024,LC 500 Convertible,Infrared,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY4RA108070,JM Lexus
 2024,LC 500 Convertible,Caviar,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY4RA108098,Herrin-Gear Lexus
@@ -132,7 +131,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LC 500 Convertible,Ultra White,RWD,102500,0.0,102500.0,At dealer,False,DealerHold,JTHMPAAY5PA107846,Stoler Lexus
 2024,LC 500 Convertible,Copper Crest,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY5RA107977,Prestige Lexus of Ramsey
 2024,LC 500 Convertible,Caviar,RWD,105200,0.0,105200.0,At dealer,False,,JTHMPAAY5RA107994,Parker Lexus
-2024,LC 500 Convertible,Atomic Silver,RWD,105200,0.0,105200.0,At dealer,False,DealerHold,JTHMPAAY5RA108062,Lexus Stevens Creek
 2024,LC 500 Convertible,Nori Green Pearl,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY5RA108109,Germain Lexus of Naples
 2024,LC 500 Convertible,Atomic Silver,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY5RA108126,Wilkie Lexus
 2024,LC 500 Convertible,Nori Green Pearl,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY5RA108157,Bell Lexus North Scottsdale
@@ -154,7 +152,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LC 500 Convertible,Infrared,RWD,102500,0.0,102500.0,At dealer,False,,JTHMPAAY6PA107774,JM Lexus
 2023,LC 500 Convertible,Ultra White,RWD,102500,0.0,102500.0,At dealer,False,,JTHMPAAY6PA107807,Bell Lexus North Scottsdale
 2023,LC 500 Convertible,Infrared,RWD,102500,0.0,102500.0,Port to dealer,False,,JTHMPAAY6PA107824,Lexus of Omaha
-2023,LC 500 Convertible,Infrared,RWD,102500,0.0,102500.0,At dealer,False,,JTHMPAAY6PA107838,Lexus of Austin
 2023,LC 500 Convertible,Ultra White,RWD,102500,0.0,102500.0,At dealer,False,DealerHold,JTHMPAAY6PA107841,Park Place Lexus Plano
 2024,LC 500 Convertible,Infrared,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY6RA107972,DARCARS Lexus of Silver Spring
 2024,LC 500 Convertible,Infrared,RWD,105200,0.0,105200.0,At dealer,False,DealerHold,JTHMPAAY6RA108118,Northside Lexus
@@ -162,6 +159,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,LC 500 Convertible,Infrared,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY6RA108149,Hendrick Lexus Northlake
 2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY6RA108247,Cavender Lexus of Lubbock
 2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAY6RA108278,Lexus of Cerritos
+2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,Port to dealer,False,DealerHold,JTHMPAAY6RA108409,Tustin Lexus
 2022,LC 500 Convertible,Infrared,RWD,101100,0.0,101100.0,At dealer,False,Available,JTHMPAAY7NA105268,Lexus of Highland Park
 2023,LC 500 Convertible,Atomic Silver,RWD,101500,0.0,101500.0,At dealer,False,Available,JTHMPAAY7PA106942,Lexus of Pleasanton
 2023,LC 500 Convertible,Ultra White,RWD,102500,0.0,102500.0,At dealer,False,,JTHMPAAY7PA107217,Temecula Valley Lexus
@@ -171,7 +169,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LC 500 Convertible,Cloudburst Gray,RWD,102500,0.0,102500.0,At dealer,False,,JTHMPAAY7PA107556,Lexus of Santa Barbara
 2023,LC 500 Convertible,Caviar,RWD,102500,0.0,102500.0,At dealer,False,,JTHMPAAY7PA107587,Sterling McCall Lexus
 2023,LC 500 Convertible,Infrared,RWD,102500,0.0,102500.0,At dealer,False,Available,JTHMPAAY7PA107668,Harvey Lexus of Grand Rapids
-2023,LC 500 Convertible,Ultra White,RWD,102500,0.0,102500.0,At dealer,False,,JTHMPAAY7PA107802,Sewell Lexus of Ft. Worth
 2023,LC 500 Convertible,Caviar,RWD,102500,0.0,102500.0,At dealer,False,,JTHMPAAY7PA107816,Lexus of Orlando
 2023,LC 500 Convertible,Caviar,RWD,102500,0.0,102500.0,At dealer,False,,JTHMPAAY7PA107850,Lexus of Pembroke Pines
 2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,At dealer,False,DealerHold,JTHMPAAY7RA107852,Park Place Lexus Plano
@@ -219,6 +216,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LC 500 Convertible,Ultra White,RWD,102500,0.0,102500.0,At dealer,False,Available,JTHMPAAY9PA107848,Fresno Lexus
 2024,LC 500 Convertible,Atomic Silver,RWD,105200,0.0,105200.0,At dealer,False,,JTHMPAAY9RA107996,Lexus of Pembroke Pines
 2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,At dealer,False,,JTHMPAAY9RA108016,Keyes Lexus
+2024,LC 500 Convertible,Caviar,RWD,105200,0.0,105200.0,Port to dealer,False,DealerHold,JTHMPAAY9RA108064,Ray Catena Lexus of Freehold
 2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,At dealer,False,DealerHold,JTHMPAAY9RA108145,Lexus of Shreveport - Bossier City
 2023,LC 500 Convertible,Atomic Silver,RWD,101500,0.0,101500.0,At dealer,False,,JTHMPAAYXPA106921,Lexus of Tacoma at Fife
 2023,LC 500 Convertible,Ultra White,RWD,102500,0.0,102500.0,At dealer,False,Available,JTHMPAAYXPA107017,Sterling McCall Lexus
@@ -240,14 +238,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,LC 500 Convertible,Cloudburst Gray,RWD,105200,0.0,105200.0,At dealer,False,Available,JTHMPAAYXRA108090,Sewell Lexus
 2024,LC 500 Convertible,Caviar,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAYXRA108154,Hendrick Lexus Charleston
 2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAYXRA108218,Keyes Lexus
-2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,Port to dealer,False,Available,JTHMPAAYXRA108235,Lexus of Henderson
+2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,Port to dealer,False,DealerHold,JTHMPAAYXRA108235,Lexus of Henderson
 2024,LC 500 Convertible,Atomic Silver,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAYXRA108297,Fresno Lexus
 2024,LC 500 Convertible,Infrared,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHMPAAYXRA108350,Bell Lexus North Scottsdale
 2024,LC 500 Convertible,Caviar,RWD,105200,0.0,105200.0,Port to dealer,False,Available,JTHNPAAY0RA107910,Lexus of Wayzata
 2024,LC 500 Convertible,Nori Green Pearl,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHNPAAY0RA108085,Kenny Kent Lexus
 2024,LC 500 Convertible,Caviar,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHNPAAY2RA108024,McGrath Lexus of Chicago
 2024,LC 500 Convertible,Caviar,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHNPAAY4RA107876,Lexus of Merrillville
-2024,LC 500 Convertible,Caviar,RWD,105200,0.0,105200.0,Port to dealer,False,DealerHold,JTHNPAAY4RA107912,Lexus of Naperville
+2024,LC 500 Convertible,Caviar,RWD,105200,0.0,105200.0,At dealer,False,DealerHold,JTHNPAAY4RA107912,Lexus of Naperville
 2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,Port to dealer,False,DealerHold,JTHNPAAY4RA108056,Lexus of Louisville
 2024,LC 500 Convertible,Ultra White,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHNPAAY6RA108141,Lexus of Wayzata
 2024,LC 500 Convertible,Caviar,RWD,105200,0.0,105200.0,Port to dealer,False,,JTHNPAAY7RA107998,Metro Lexus

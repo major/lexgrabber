@@ -3,10 +3,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500,Obsidian,RWD,76885,0.0,76885.0,At dealer,False,DealerHold,JTHD51FF0P5018451,North Park Lexus of San Antonio
 2023,LS 500,Caviar,RWD,76885,0.0,76885.0,At dealer,False,,JTHD51FF0P5018501,Lexus of Kendall
 2023,LS 500,Iridium,RWD,77385,0.0,77385.0,At dealer,False,,JTHD51FF0P5018692,North Park Lexus Rio Grande Valley
-2023,LS 500,Manganese Luster,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF0P5018711,Lexus of Albuquerque
+2023,LS 500,Manganese Luster,RWD,77385,0.0,77385.0,At dealer,False,,JTHD51FF0P5018711,Lexus of Albuquerque
 2023,LS 500,Obsidian,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF0P5018725,JM Lexus
 2023,LS 500,Manganese Luster,RWD,77385,0.0,77385.0,At dealer,False,,JTHD51FF0P5018739,Lexus Monterey Peninsula
-2023,LS 500,Obsidian,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF0P5018756,JM Lexus
+2023,LS 500,Obsidian,RWD,77385,0.0,77385.0,At dealer,False,,JTHD51FF0P5018756,JM Lexus
 2023,LS 500,Iridium,RWD,77385,0.0,77385.0,Port to dealer,True,DealerHold,JTHD51FF0P5018773,Sterling McCall Lexus
 2023,LS 500,Manganese Luster,RWD,77385,0.0,77385.0,At dealer,False,,JTHD51FF0P5018787,Motor City Lexus of Bakersfield
 2023,LS 500,Manganese Luster,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF0P5018806,Lexus of Tucson
@@ -28,7 +28,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500,Iridium,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF1P5018829,Johnson Lexus of Raleigh
 2023,LS 500,Manganese Luster,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF1P5018877,Superstition Springs Lexus
 2023,LS 500,Atomic Silver,RWD,76885,0.0,76885.0,At dealer,False,DealerHold,JTHD51FF2P5018130,Lexus of Huntsville
-2023,LS 500,Iridium,RWD,76885,0.0,76885.0,At dealer,False,DealerHold,JTHD51FF2P5018144,Lexus of Melbourne
 2023,LS 500,Caviar,RWD,76885,0.0,76885.0,At dealer,False,Available,JTHD51FF2P5018533,Lexus of Cerritos
 2023,LS 500,Matador Red Mica,RWD,76885,0.0,76885.0,At dealer,False,Available,JTHD51FF2P5018581,Performance Lexus
 2023,LS 500,Manganese Luster,RWD,77385,0.0,77385.0,At dealer,False,,JTHD51FF2P5018659,Crown Lexus
@@ -84,8 +83,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500,Manganese Luster,RWD,77385,0.0,77385.0,At dealer,False,,JTHD51FF5P5018722,Lexus Stevens Creek
 2023,LS 500,Eminent White Pearl,RWD,77385,0.0,77385.0,Port to dealer,False,DealerHold,JTHD51FF5P5018767,Park Place Lexus Plano
 2023,LS 500,Atomic Silver,RWD,77385,0.0,77385.0,At dealer,False,,JTHD51FF5P5018784,Shottenkirk Desert Lexus
-2023,LS 500,Atomic Silver,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF5P5018817,Lexus of Las Vegas
-2023,LS 500,Manganese Luster,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF5P5018851,South Bay Lexus
+2023,LS 500,Atomic Silver,RWD,77385,0.0,77385.0,At dealer,False,,JTHD51FF5P5018817,Lexus of Las Vegas
+2023,LS 500,Manganese Luster,RWD,77385,0.0,77385.0,At dealer,False,,JTHD51FF5P5018851,South Bay Lexus
 2023,LS 500,Manganese Luster,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF5P5018865,Lexus of Austin
 2023,LS 500,Eminent White Pearl,RWD,76385,0.0,76385.0,At dealer,False,Available,JTHD51FF6P5017871,Lexus of Sarasota
 2023,LS 500,Eminent White Pearl,RWD,76885,0.0,76885.0,At dealer,False,DealerHold,JTHD51FF6P5018549,Sterling McCall Lexus
@@ -134,11 +133,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500,Iridium,RWD,77385,0.0,77385.0,At dealer,False,,JTHD51FF8P5018827,Shottenkirk Desert Lexus
 2023,LS 500,Manganese Luster,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF8P5018861,Lexus of Riverside
 2023,LS 500,Iridium,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF8P5018875,Sewell Lexus of Ft. Worth
+2023,LS 500,Nightfall Mica,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF8P5018889,North Park Lexus at Dominion
 2023,LS 500,Manganese Luster,RWD,76885,0.0,76885.0,At dealer,False,DealerHold,JTHD51FF9P5017959,Northside Lexus
 2023,LS 500,Caviar,RWD,76885,0.0,76885.0,At dealer,False,DealerHold,JTHD51FF9P5018058,Germain Lexus of Naples
 2023,LS 500,Caviar,RWD,76885,0.0,76885.0,At dealer,False,Available,JTHD51FF9P5018416,Lexus of Knoxville
 2023,LS 500,Iridium,RWD,77385,698.0,78083.0,At dealer,False,,JTHD51FF9P5018707,Lexus of Tulsa
-2023,LS 500,Caviar,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF9P5018741,Lexus of Sarasota
+2023,LS 500,Caviar,RWD,77385,0.0,77385.0,At dealer,False,,JTHD51FF9P5018741,Lexus of Sarasota
 2023,LS 500,Nightfall Mica,RWD,77385,0.0,77385.0,At dealer,False,DealerHold,JTHD51FF9P5018755,Westside Lexus
 2023,LS 500,Obsidian,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF9P5018769,Lexus of Pembroke Pines
 2023,LS 500,Obsidian,RWD,77385,0.0,77385.0,Port to dealer,False,DealerHold,JTHD51FF9P5018772,Scanlon Lexus of Fort Myers
@@ -148,7 +148,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500,Atomic Silver,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FF9P5018867,Earnhardt Lexus
 2022,LS 500,Caviar,RWD,76100,0.0,76100.0,At dealer,False,DealerHold,JTHD51FFXN5016865,Westside Lexus
 2023,LS 500,Eminent White Pearl,RWD,76885,0.0,76885.0,At dealer,False,DealerHold,JTHD51FFXP5018330,Lexus of Kendall
-2023,LS 500,Eminent White Pearl,RWD,76885,0.0,76885.0,Port to dealer,False,DealerHold,JTHD51FFXP5018537,North Park Lexus Rio Grande Valley
+2023,LS 500,Eminent White Pearl,RWD,76885,0.0,76885.0,At dealer,False,DealerHold,JTHD51FFXP5018537,North Park Lexus Rio Grande Valley
 2023,LS 500,Atomic Silver,RWD,76885,0.0,76885.0,At dealer,False,,JTHD51FFXP5018540,Lexus of Sarasota
 2023,LS 500,Atomic Silver,RWD,76885,0.0,76885.0,At dealer,False,Available,JTHD51FFXP5018599,JM Lexus
 2023,LS 500,Obsidian,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FFXP5018733,Lexus of Orlando
@@ -157,6 +157,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500,Iridium,RWD,77385,0.0,77385.0,At dealer,False,,JTHD51FFXP5018795,Crown Lexus
 2023,LS 500,Eminent White Pearl,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FFXP5018814,Parker Lexus
 2023,LS 500,Iridium,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHD51FFXP5018862,North Park Lexus of San Antonio
+2023,LS 500,Obsidian,RWD,77385,0.0,77385.0,Port to dealer,False,DealerHold,JTHD51FFXP5018876,Park Place Lexus Plano
+2023,LS 500,Obsidian,RWD,77385,0.0,77385.0,Port to dealer,False,DealerHold,JTHD51FFXP5018909,Northside Lexus
 2023,LS 500,Obsidian,AWD,80135,0.0,80135.0,At dealer,False,Available,JTHD51GF0P5011322,Lindsay Lexus of Alexandria
 2023,LS 500,Eminent White Pearl,AWD,80135,0.0,80135.0,At dealer,False,,JTHD51GF0P5011420,New Country Lexus of Latham
 2023,LS 500,Eminent White Pearl,AWD,80635,0.0,80635.0,At dealer,False,DealerHold,JTHD51GF0P5011580,Eskridge Lexus of Oklahoma City
@@ -193,6 +195,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500,Manganese Luster,AWD,80635,0.0,80635.0,Port to dealer,False,,JTHD51GFXP5011585,Ray Catena Lexus of Monmouth
 2023,LS 500 F SPORT,Ultra White,RWD,80985,0.0,80985.0,At dealer,False,Available,JTHF51FF0P5018698,Lexus of Westminster
 2023,LS 500 F SPORT,Caviar,RWD,80985,0.0,80985.0,At dealer,False,,JTHF51FF0P5018734,Lexus San Diego
+2023,LS 500 F SPORT,Ultra White,RWD,80985,0.0,80985.0,Port to dealer,False,,JTHF51FF2P5018914,Keyes Lexus
 2023,LS 500 F SPORT,Atomic Silver,RWD,80985,0.0,80985.0,At dealer,False,DealerHold,JTHF51FF3P5018727,Westside Lexus
 2023,LS 500 F SPORT,Atomic Silver,RWD,80985,0.0,80985.0,At dealer,False,,JTHF51FF3P5018758,Freeman Lexus
 2023,LS 500 F SPORT,Ultra White,RWD,80485,0.0,80485.0,At dealer,False,DealerHold,JTHF51FF4P5018560,Nalley Lexus - Roswell
@@ -223,6 +226,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500 F SPORT,Caviar,AWD,83735,0.0,83735.0,At dealer,False,,JTHF51GF1P5011323,Bob Johnson Lexus
 2023,LS 500 F SPORT,Iridium,AWD,84235,0.0,84235.0,At dealer,False,,JTHF51GF1P5011533,Lexus of Pleasanton
 2023,LS 500 F SPORT,Caviar,AWD,84235,0.0,84235.0,At dealer,False,,JTHF51GF1P5011550,Hoffman Lexus
+2023,LS 500 F SPORT,Ultra White,AWD,84235,0.0,84235.0,Port to dealer,False,,JTHF51GF1P5011628,Stevinson Lexus of Lakewood
 2023,LS 500 F SPORT,Ultra White,AWD,83735,0.0,83735.0,At dealer,False,Available,JTHF51GF2P5011248,Reliable Lexus
 2023,LS 500 F SPORT,Caviar,AWD,83735,0.0,83735.0,At dealer,False,Available,JTHF51GF2P5011279,Germain Lexus of Dublin
 2023,LS 500 F SPORT,Obsidian,AWD,83735,0.0,83735.0,At dealer,False,Available,JTHF51GF2P5011346,Lexus of Louisville
@@ -250,7 +254,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500 F SPORT,Manganese Luster,AWD,83735,0.0,83735.0,At dealer,False,Available,JTHF51GF8P5011304,Metro Lexus
 2023,LS 500 F SPORT,Manganese Luster,AWD,83735,0.0,83735.0,At dealer,False,Available,JTHF51GF8P5011318,Hendrick Lexus Kansas City North
 2023,LS 500 F SPORT,Ultra White,AWD,83735,0.0,83735.0,At dealer,False,,JTHF51GF8P5011433,Harvey Lexus of Grand Rapids
-2023,LS 500 F SPORT,Ultra White,AWD,84235,0.0,84235.0,At dealer,False,Available,JTHF51GF8P5011514,Germain Lexus of Dublin
+2023,LS 500 F SPORT,Ultra White,AWD,84235,0.0,84235.0,At dealer,False,Available,JTHF51GF8P5011514,Lexus of Louisville
 2023,LS 500 F SPORT,Manganese Luster,AWD,84235,0.0,84235.0,At dealer,False,DealerHold,JTHF51GF8P5011545,Lexus of Brooklyn
 2023,LS 500 F SPORT,Obsidian,AWD,83735,0.0,83735.0,At dealer,False,,JTHF51GF9P5011392,Lexus of Ft. Wayne
 2023,LS 500 F SPORT,Ultra White,AWD,83735,0.0,83735.0,At dealer,False,,JTHF51GF9P5011456,Fields Lexus Glenview
@@ -265,6 +269,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500,Eminent White Pearl,RWD,76885,0.0,76885.0,At dealer,False,,JTHG5LFF2P5018296,Lexus of Sarasota
 2023,LS 500,Iridium,RWD,77385,0.0,77385.0,Port to dealer,False,DealerHold,JTHG5LFF2P5018816,Westside Lexus
 2023,LS 500,Obsidian,RWD,77385,0.0,77385.0,Port to dealer,False,,JTHG5LFF2P5018850,North Park Lexus Rio Grande Valley
+2023,LS 500,Iridium,RWD,77385,0.0,77385.0,Port to dealer,False,DealerHold,JTHG5LFF3P5018873,Northside Lexus
 2022,LS 500,Matador Red Mica,RWD,76100,0.0,76100.0,At dealer,False,DealerHold,JTHG5LFF4N5017129,Westside Lexus
 2023,LS 500,Obsidian,RWD,76885,0.0,76885.0,At dealer,False,,JTHG5LFF4P5018378,Lexus of Pembroke Pines
 2023,LS 500,Eminent White Pearl,RWD,76885,895.0,77780.0,At dealer,False,DealerHold,JTHG5LFF4P5018445,Lexus of Chattanooga
@@ -277,7 +282,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500,Obsidian,RWD,77385,0.0,77385.0,At dealer,False,DealerHold,JTHG5LFF9P5018618,Sterling McCall Lexus
 2023,LS 500,Obsidian,RWD,77385,0.0,77385.0,At dealer,False,,JTHG5LFFXP5018630,Hendrick Lexus Charlotte
 2023,LS 500,Obsidian,RWD,77385,0.0,77385.0,At dealer,True,DealerHold,JTHG5LFFXP5018708,Sewell Lexus
-2023,LS 500,Iridium,RWD,77385,0.0,77385.0,Port to dealer,False,DealerHold,JTHG5LFFXP5018742,Park Place Lexus Grapevine
+2023,LS 500,Iridium,RWD,77385,0.0,77385.0,At dealer,False,DealerHold,JTHG5LFFXP5018742,Park Place Lexus Grapevine
 2023,LS 500,Obsidian,RWD,77385,0.0,77385.0,Port to dealer,False,Available,JTHG5LFFXP5018790,Johnson Lexus of Durham
 2023,LS 500,Atomic Silver,AWD,80135,0.0,80135.0,At dealer,False,Available,JTHG5LGF0P5011216,Butler Lexus of South Atlanta
 2023,LS 500,Eminent White Pearl,AWD,80135,0.0,80135.0,At dealer,False,,JTHG5LGF0P5011250,Ourisman Lexus of Rockville
@@ -287,7 +292,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500,Eminent White Pearl,AWD,80135,0.0,80135.0,At dealer,False,Available,JTHG5LGF0P5011443,Lindsay Lexus of Alexandria
 2023,LS 500,Eminent White Pearl,AWD,80135,0.0,80135.0,At dealer,False,,JTHG5LGF0P5011507,Bob Johnson Lexus
 2023,LS 500,Eminent White Pearl,AWD,80635,0.0,80635.0,Port to dealer,False,,JTHG5LGF0P5011541,Lexus of Wichita
-2023,LS 500,Eminent White Pearl,AWD,80635,0.0,80635.0,Port to dealer,False,,JTHG5LGF0P5011569,Priority Lexus Virginia Beach
+2023,LS 500,Eminent White Pearl,AWD,80635,0.0,80635.0,At dealer,False,,JTHG5LGF0P5011569,Priority Lexus Virginia Beach
 2023,LS 500,Iridium,AWD,80635,0.0,80635.0,Port to dealer,False,DealerHold,JTHG5LGF0P5011586,Lexus of Route 10
 2023,LS 500,Obsidian,AWD,80135,0.0,80135.0,At dealer,False,,JTHG5LGF1P5011404,Reliable Lexus
 2023,LS 500,Caviar,AWD,80135,0.0,80135.0,At dealer,False,,JTHG5LGF1P5011421,McGrath Lexus of Chicago
@@ -300,14 +305,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500,Caviar,AWD,80635,0.0,80635.0,At dealer,False,,JTHG5LGF3P5011551,Lexus of Merrillville
 2023,LS 500,Eminent White Pearl,AWD,80135,0.0,80135.0,At dealer,False,DealerHold,JTHG5LGF4P5011414,Lexus of Rockford
 2023,LS 500,Eminent White Pearl,AWD,80135,0.0,80135.0,At dealer,False,,JTHG5LGF4P5011428,Kenny Kent Lexus
-2023,LS 500,Obsidian,AWD,80135,0.0,80135.0,At dealer,False,Available,JTHG5LGF4P5011445,Hendrick Lexus Kansas City
-2023,LS 500,Caviar,AWD,80635,0.0,80635.0,At dealer,False,,JTHG5LGF4P5011526,Lexus of Naperville
+2023,LS 500,Caviar,AWD,80635,0.0,80635.0,At dealer,False,Available,JTHG5LGF4P5011526,Lexus of Akron/Canton
 2023,LS 500,Obsidian,AWD,80635,0.0,80635.0,At dealer,False,,JTHG5LGF4P5011560,DARCARS Lexus of Englewood
 2023,LS 500,Eminent White Pearl,AWD,80135,0.0,80135.0,At dealer,False,DealerHold,JTHG5LGF5P5011387,Ira Lexus
 2023,LS 500,Caviar,AWD,80635,0.0,80635.0,At dealer,False,,JTHG5LGF5P5011549,Lexus of Northborough
 2023,LS 500,Caviar,AWD,80135,0.0,80135.0,At dealer,False,,JTHG5LGF6P5011379,Koons Lexus of Wilmington
 2023,LS 500,Matador Red Mica,AWD,80135,0.0,80135.0,At dealer,False,,JTHG5LGF6P5011463,Lexus of Northborough
-2023,LS 500,Caviar,AWD,80635,0.0,80635.0,At dealer,False,DealerHold,JTHG5LGF6P5011558,Lexus of Louisville
+2023,LS 500,Caviar,AWD,80635,0.0,80635.0,At dealer,False,DealerHold,JTHG5LGF6P5011558,Germain Lexus of Dublin
 2023,LS 500,Manganese Luster,AWD,80635,0.0,80635.0,Port to dealer,False,,JTHG5LGF6P5011589,Herb Chambers Lexus
 2022,LS 500,Eminent White Pearl,AWD,79350,0.0,79350.0,At dealer,False,Available,JTHG5LGF7N5010853,Reliable Lexus
 2023,LS 500,Iridium,AWD,79635,0.0,79635.0,At dealer,False,DealerHold,JTHG5LGF7P5011066,Lexus of Freeport
@@ -316,7 +320,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500,Caviar,AWD,80635,0.0,80635.0,At dealer,False,,JTHG5LGF7P5011522,Lexus of Peoria
 2023,LS 500,Caviar,AWD,80635,100.0,80735.0,Port to dealer,False,,JTHG5LGF7P5011567,Lexus of Orland
 2023,LS 500,Iridium,AWD,80135,0.0,80135.0,At dealer,False,Available,JTHG5LGF8P5011237,Ray Catena Lexus of White Plains
-2023,LS 500,Nightfall Mica,AWD,80135,3539.0,83674.0,At dealer,False,,JTHG5LGF8P5011285,Lexus of Warwick
+2023,LS 500,Nightfall Mica,AWD,80135,3539.0,83674.0,At dealer,False,DealerHold,JTHG5LGF8P5011285,Lexus of Warwick
 2023,LS 500,Eminent White Pearl,AWD,80135,0.0,80135.0,At dealer,False,DealerHold,JTHG5LGF8P5011321,Wilkie Lexus
 2023,LS 500,Manganese Luster,AWD,80135,0.0,80135.0,At dealer,False,,JTHG5LGF8P5011397,Lindsay Lexus of Alexandria
 2023,LS 500,Obsidian,AWD,80135,0.0,80135.0,At dealer,False,,JTHG5LGF8P5011416,Lexus of Wichita
@@ -332,4 +336,3 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LS 500,Eminent White Pearl,AWD,80135,0.0,80135.0,At dealer,False,,JTHG5LGFXP5011367,Haldeman Lexus of Princeton
 2023,LS 500,Caviar,AWD,80135,0.0,80135.0,At dealer,False,DealerHold,JTHG5LGFXP5011448,Len Stoler Lexus
 2023,LS 500,Eminent White Pearl,AWD,80635,1498.0,82133.0,At dealer,False,,JTHG5LGFXP5011546,Mungenast Lexus of St. Louis
-2023,LS 500,Caviar,AWD,80635,0.0,80635.0,At dealer,False,,JTHG5LGFXP5011577,Sheehy Lexus of Richmond
