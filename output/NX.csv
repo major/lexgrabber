@@ -14,6 +14,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250,Caviar,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ0RC010131,Keyes Lexus of Valencia
 2024,NX 250,Grecian Water,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ0RC010145,Lexus of North Miami
 2024,NX 250,Nori Green Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ0RC010159,Lexus of Woodland Hills
+2024,NX 250,Nori Green Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ0RC010162,JM Lexus
 2024,NX 250,Redline,FWD,39055,0.0,39055.0,At dealer,False,Available,2T2ADCAZ1RC006010,Lexus of Greenville
 2024,NX 250,Nori Green Pearl,FWD,39055,0.0,39055.0,At dealer,False,DealerHold,2T2ADCAZ1RC009635,Northside Lexus
 2024,NX 250,Nori Green Pearl,FWD,39055,0.0,39055.0,At dealer,True,DealerHold,2T2ADCAZ1RC009764,Lexus of New Orleans
@@ -24,7 +25,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250,Eminent White Pearl,FWD,39055,0.0,39055.0,At dealer,True,DealerHold,2T2ADCAZ1RC009974,Tom Wood Lexus
 2024,NX 250,Cloudburst Gray,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ1RC009991,Lexus of Chandler
 2024,NX 250,Grecian Water,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ1RC010039,Lexus of Jacksonville
-2024,NX 250,Nori Green Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ1RC010087,Keyes Lexus of Valencia
+2024,NX 250,Nori Green Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ1RC010087,Keyes Lexus of Valencia
 2024,NX 250,Eminent White Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ1RC010106,Lexus of Oxnard
 2024,NX 250,Caviar,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ1RC010137,Keyes Lexus
 2024,NX 250,Caviar,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ1RC010140,Tustin Lexus
@@ -47,7 +48,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250,Cloudburst Gray,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ3RC009832,JM Lexus
 2024,NX 250,Atomic Silver,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ3RC009846,Keyes Lexus of Valencia
 2024,NX 250,Nori Green Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ3RC009877,Lexus of West Kendall
-2024,NX 250,Atomic Silver,FWD,39055,0.0,39055.0,Port to dealer,True,DealerHold,2T2ADCAZ3RC009894,Longo Lexus
 2024,NX 250,Cloudburst Gray,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ3RC009958,Lexus of Riverside
 2024,NX 250,Eminent White Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ3RC009975,Newport Lexus
 2024,NX 250,Grecian Water,FWD,39055,0.0,39055.0,Port to dealer,False,Available,2T2ADCAZ3RC009992,Lexus Stevens Creek
@@ -67,7 +67,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250,Atomic Silver,FWD,39055,0.0,39055.0,Port to dealer,False,Available,2T2ADCAZ4RC010018,Scanlon Lexus of Fort Myers
 2024,NX 250,Atomic Silver,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ4RC010035,Longo Lexus
 2024,NX 250,Caviar,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ4RC010083,Jim Falk Lexus of Beverly Hills
-2024,NX 250,Caviar,FWD,39055,0.0,39055.0,Port to dealer,False,Available,2T2ADCAZ4RC010097,JM Lexus
+2024,NX 250,Caviar,FWD,39055,0.0,39055.0,Port to dealer,True,DealerHold,2T2ADCAZ4RC010097,JM Lexus
 2024,NX 250,Eminent White Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ4RC010116,Lexus of Westminster
 2024,NX 250,Grecian Water,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ4RC010133,Tustin Lexus
 2024,NX 250,Caviar,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ4RC010147,Scanlon Lexus of Fort Myers
@@ -92,6 +92,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250,Redline,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ5RC010108,Keyes Lexus
 2024,NX 250,Nori Green Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ5RC010125,Lexus of Glendale
 2024,NX 250,Eminent White Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ5RC010139,Tustin Lexus
+2024,NX 250,Atomic Silver,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ5RC010156,South Bay Lexus
 2024,NX 250,Grecian Water,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ6RC009873,Lexus of North Miami
 2024,NX 250,Atomic Silver,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ6RC009906,Tustin Lexus
 2024,NX 250,Eminent White Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ6RC009937,Tustin Lexus
@@ -107,6 +108,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250,Atomic Silver,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ6RC010103,Lexus of Las Vegas
 2024,NX 250,Caviar,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ6RC010120,Lexus of Woodland Hills
 2024,NX 250,Atomic Silver,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ6RC010134,Johnson Lexus of Raleigh
+2024,NX 250,Eminent White Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ6RC010151,Crown Lexus
 2024,NX 250,Atomic Silver,FWD,39055,0.0,39055.0,At dealer,True,DealerHold,2T2ADCAZ7RC009770,North Park Lexus of San Antonio
 2024,NX 250,Nori Green Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ7RC009817,Westside Lexus
 2024,NX 250,Caviar,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ7RC009851,Tustin Lexus
@@ -158,6 +160,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250,Cloudburst Gray,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ9RC010130,Lexus of Wesley Chapel
 2024,NX 250,Nori Green Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZ9RC010144,Willis Lexus
 2024,NX 250,Cloudburst Gray,FWD,39055,0.0,39055.0,Port to dealer,True,DealerHold,2T2ADCAZ9RC010158,Longo Lexus
+2024,NX 250,Cloudburst Gray,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZ9RC010161,Keyes Lexus
 2024,NX 250,Cadmium Orange,FWD,39055,0.0,39055.0,At dealer,False,DealerHold,2T2ADCAZXRC006040,Shottenkirk Desert Lexus
 2024,NX 250,Atomic Silver,FWD,39055,0.0,39055.0,Port to dealer,False,DealerHold,2T2ADCAZXRC009813,Westside Lexus
 2024,NX 250,Nori Green Pearl,FWD,39055,0.0,39055.0,Port to dealer,False,,2T2ADCAZXRC009844,Lexus of Fremont
@@ -179,7 +182,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250 AWD,Cloudburst Gray,AWD,40655,0.0,40655.0,Port to dealer,False,Available,2T2ADCEZ3RC004298,Ourisman Lexus of Rockville
 2024,NX 250 AWD,Caviar,AWD,40655,0.0,40655.0,Port to dealer,False,DealerHold,2T2ADCEZXRC004282,Lexus of Atlantic City
 2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,At dealer,False,,2T2AGCEZ0RC035435,Kendall Lexus of Eugene
-2024,NX 350 AWD,Redline,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ0RC035726,Keyes Lexus
+2024,NX 350 AWD,Redline,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ0RC035726,Lexus San Diego
 2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,At dealer,False,,2T2AGCEZ0RC036522,Kendall Lexus of Eugene
 2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ0RC036861,Shottenkirk Desert Lexus
 2024,NX 350 AWD,Cloudburst Gray,AWD,42815,0.0,42815.0,At dealer,False,,2T2AGCEZ0RC037167,Lexus Monterey Peninsula
@@ -192,7 +195,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 AWD,Grecian Water,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ0RC039212,Keyes Lexus of Valencia
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,Port to dealer,False,DealerHold,2T2AGCEZ0RC039405,Lexus of Milwaukee
 2024,NX 350 AWD,Grecian Water,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ0RC039579,Tustin Lexus
-2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,At dealer,False,DealerHold,2T2AGCEZ0RC039646,Lexus of Glendale
 2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,At dealer,False,DealerHold,2T2AGCEZ0RC039713,Wilkie Lexus
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,Port to dealer,True,DealerHold,2T2AGCEZ0RC039730,Bobby Rahal Lexus of Lewistown
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ0RC039758,Freeman Lexus
@@ -214,7 +216,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,Port to dealer,False,DealerHold,2T2AGCEZ1RC040000,Lexus of Wayzata
 2024,NX 350 AWD,Atomic Silver,AWD,42815,0.0,42815.0,Port to dealer,True,,2T2AGCEZ1RC040028,Lexus of Smithtown
 2024,NX 350 AWD,Atomic Silver,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ1RC040045,Keyes Lexus
-2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ1RC040112,Herb Chambers Lexus of Hingham
+2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,Port to dealer,False,Available,2T2AGCEZ1RC040112,Herb Chambers Lexus of Hingham
 2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,At dealer,False,DealerHold,2T2AGCEZ1RC040174,Prestige Lexus of Ramsey
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,At dealer,False,DealerHold,2T2AGCEZ1RC040269,Motorworld Lexus
 2024,NX 350 AWD,Nori Green Pearl,AWD,42815,0.0,42815.0,Port to dealer,False,DealerHold,2T2AGCEZ1RC040272,Lexus of Smithtown
@@ -230,7 +232,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 AWD,Grecian Water,AWD,42815,0.0,42815.0,At dealer,False,,2T2AGCEZ2RC037624,David McDermott Lexus of New Haven
 2024,NX 350 AWD,Atomic Silver,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ2RC037803,Superstition Springs Lexus
 2024,NX 350 AWD,Cloudburst Gray,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ2RC037980,Lexus of Bridgewater
-2024,NX 350 AWD,Nori Green Pearl,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ2RC038384,Lexus San Diego
+2024,NX 350 AWD,Nori Green Pearl,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ2RC038384,Keyes Lexus
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ2RC039437,Lexus of Bridgewater
 2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ2RC039535,Lexus of Glendale
 2024,NX 350 AWD,Grecian Water,AWD,42815,0.0,42815.0,Port to dealer,False,Available,2T2AGCEZ2RC039888,Lexus of Oxnard
@@ -245,7 +247,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 AWD,Atomic Silver,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ3RC039219,Lexus of Henderson
 2024,NX 350 AWD,Atomic Silver,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ3RC039222,Lexus of Fremont
 2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,Port to dealer,False,DealerHold,2T2AGCEZ3RC039303,Lexus San Diego
-2024,NX 350 AWD,Atomic Silver,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ3RC039415,Keyes Lexus
 2024,NX 350 AWD,Cloudburst Gray,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ3RC039527,Newport Lexus
 2024,NX 350 AWD,Atomic Silver,AWD,42815,0.0,42815.0,At dealer,False,DealerHold,2T2AGCEZ3RC039608,Prestige Lexus of Ramsey
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,Port to dealer,False,DealerHold,2T2AGCEZ3RC039687,Ira Lexus
@@ -297,7 +298,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,Port to dealer,False,Available,2T2AGCEZ5RC040422,Butler Lexus
 2024,NX 350 AWD,Grecian Water,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ6RC037478,Lexus of Westminster
 2024,NX 350 AWD,Cloudburst Gray,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ6RC038081,Lexus of Ft. Wayne
-2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,At dealer,False,,2T2AGCEZ6RC038498,Keyes Lexus
 2024,NX 350 AWD,Cloudburst Gray,AWD,42815,0.0,42815.0,At dealer,False,,2T2AGCEZ6RC039277,Ray Catena Lexus of Freehold
 2024,NX 350 AWD,Grecian Water,AWD,42815,0.0,42815.0,At dealer,False,DealerHold,2T2AGCEZ6RC039442,Lexus of Lehigh Valley
 2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,Port to dealer,False,DealerHold,2T2AGCEZ6RC039487,Dolan Lexus
@@ -319,7 +319,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,Port to dealer,False,DealerHold,2T2AGCEZ6RC040378,Lexus of Milwaukee
 2024,NX 350 AWD,Cloudburst Gray,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ6RC040445,Ray Catena Lexus of Freehold
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ7RC033598,Lexus of Lexington
-2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ7RC033844,Lexus of Louisville
 2024,NX 350 AWD,Atomic Silver,AWD,42815,0.0,42815.0,At dealer,False,,2T2AGCEZ7RC034542,Kendall Lexus of Eugene
 2024,NX 350 AWD,Atomic Silver,AWD,42815,0.0,42815.0,At dealer,False,,2T2AGCEZ7RC035321,Lexus of Portland
 2024,NX 350 AWD,Atomic Silver,AWD,42815,0.0,42815.0,At dealer,False,,2T2AGCEZ7RC036419,Lexus of Wichita
@@ -345,7 +344,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 AWD,Nori Green Pearl,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ8RC034758,Lindsay Lexus of Alexandria
 2024,NX 350 AWD,Grecian Water,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ8RC035098,Keyes Lexus
 2024,NX 350 AWD,Cloudburst Gray,AWD,42815,0.0,42815.0,At dealer,False,DealerHold,2T2AGCEZ8RC037708,Wilkie Lexus
-2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,At dealer,False,Available,2T2AGCEZ8RC039183,Crown Lexus
 2024,NX 350 AWD,Cadmium Orange,AWD,42815,0.0,42815.0,Port to dealer,False,DealerHold,2T2AGCEZ8RC039247,Herb Chambers Lexus
 2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,At dealer,False,,2T2AGCEZ8RC039555,Lexus of Edison
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,Port to dealer,False,DealerHold,2T2AGCEZ8RC039846,Stoler Lexus
@@ -353,6 +351,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 AWD,Cloudburst Gray,AWD,42815,0.0,42815.0,Port to dealer,False,DealerHold,2T2AGCEZ8RC040155,Herb Chambers Lexus
 2024,NX 350 AWD,Cloudburst Gray,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ8RC040236,Hendrick Lexus Kansas City
 2024,NX 350 AWD,Atomic Silver,AWD,42815,0.0,42815.0,Port to dealer,False,DealerHold,2T2AGCEZ8RC040365,Superstition Springs Lexus
+2024,NX 350 AWD,Atomic Silver,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ8RC040513,Lexus of Woodland Hills
 2024,NX 350 AWD,Cloudburst Gray,AWD,42815,0.0,42815.0,At dealer,False,,2T2AGCEZ9RC037281,Lexus of Colorado Springs
 2024,NX 350 AWD,Cloudburst Gray,AWD,42815,0.0,42815.0,Port to dealer,False,,2T2AGCEZ9RC037779,Jim Falk Lexus of Beverly Hills
 2024,NX 350 AWD,Caviar,AWD,42815,0.0,42815.0,At dealer,False,,2T2AGCEZ9RC039144,Fields Lexus Glenview
@@ -388,7 +387,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250 Premium,Caviar,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZ0RC007501,Germain Lexus of Naples
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,True,DealerHold,2T2GDCAZ0RC007725,Meade Lexus of Lakeside
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZ0RC007868,New Country Lexus of Latham
-2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZ0RC009443,JM Lexus
 2024,NX 250 Premium,Redline,FWD,42105,0.0,42105.0,Port to dealer,False,Available,2T2GDCAZ0RC009474,Lexus of Kendall
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZ0RC009636,Germain Lexus of Naples
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,2T2GDCAZ0RC009670,JM Lexus
@@ -397,7 +395,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250 Premium,Redline,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,2T2GDCAZ0RC009930,Lexus of West Kendall
 2024,NX 250 Premium,Eminent White Pearl,FWD,42105,895.0,43000.0,Port to dealer,False,Available,2T2GDCAZ0RC010012,Lexus of Montgomery
 2024,NX 250 Premium,Redline,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZ0RC010060,Scanlon Lexus of Fort Myers
-2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZ0RC010107,Lexus of Winter Park
+2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,2T2GDCAZ0RC010107,Lexus of Winter Park
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZ0RC010124,Lexus of Sarasota
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ1RC007412,Serra Lexus Lansing
 2024,NX 250 Premium,Caviar,FWD,42105,0.0,42105.0,At dealer,False,Available,2T2GDCAZ1RC007541,Lexus of Wayzata
@@ -407,7 +405,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250 Premium,Eminent White Pearl,FWD,42105,0.0,42105.0,At dealer,False,Available,2T2GDCAZ1RC007720,Lexus of Orland
 2024,NX 250 Premium,Caviar,FWD,42105,0.0,42105.0,At dealer,False,Available,2T2GDCAZ1RC007877,Lexus of Highland Park
 2024,NX 250 Premium,Caviar,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ1RC009144,JM Lexus
-2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZ1RC009161,JM Lexus
 2024,NX 250 Premium,Redline,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZ1RC009385,Lexus of Winter Park
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ1RC009757,Scanlon Lexus of Fort Myers
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,2T2GDCAZ1RC009791,Lexus of Palm Beach
@@ -423,7 +420,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250 Premium,Eminent White Pearl,FWD,42105,2342.0,44447.0,At dealer,False,DealerHold,2T2GDCAZ2RC009217,"Jim Hudson Lexus, Columbia"
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZ2RC009542,JM Lexus
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZ2RC009573,JM Lexus
-2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ2RC009623,Lexus of West Kendall
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,2T2GDCAZ2RC009637,Lexus of Orange Park
 2024,NX 250 Premium,Caviar,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZ2RC009833,Scanlon Lexus of Fort Myers
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,2T2GDCAZ2RC009878,Lexus of Palm Beach
@@ -443,12 +439,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZ3RC009758,Scanlon Lexus of Fort Myers
 2024,NX 250 Premium,Redline,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZ3RC009887,Lexus of Jacksonville
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZ3RC009923,Lexus of Palm Beach
+2024,NX 250 Premium,Eminent White Pearl,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,2T2GDCAZ3RC010148,Hennessy Lexus of Gwinnett
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ4RC007436,Lexus of Arlington
 2024,NX 250 Premium,Caviar,FWD,42105,0.0,42105.0,At dealer,False,Available,2T2GDCAZ4RC007453,Lexus of Merrillville
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,At dealer,False,Available,2T2GDCAZ4RC007551,McGrath Lexus of Westmont
 2024,NX 250 Premium,Eminent White Pearl,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ4RC007727,Woodfield Lexus
 2024,NX 250 Premium,Caviar,FWD,42105,0.0,42105.0,At dealer,False,Available,2T2GDCAZ4RC007825,Lexus of Brookfield
-2024,NX 250 Premium,Redline,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZ4RC009557,JM Lexus
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,2T2GDCAZ4RC009865,Lexus of Wesley Chapel
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,Port to dealer,True,DealerHold,2T2GDCAZ4RC009946,JM Lexus
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,Port to dealer,False,Available,2T2GDCAZ4RC009980,Lexus of Tampa Bay
@@ -459,7 +455,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250 Premium,Eminent White Pearl,FWD,42105,0.0,42105.0,Port to dealer,False,Available,2T2GDCAZ5RC009910,Lexus of North Miami
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZ5RC009969,Scanlon Lexus of Fort Myers
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,Port to dealer,True,DealerHold,2T2GDCAZ5RC010023,JM Lexus
-2024,NX 250 Premium,Nori Green Pearl,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZ5RC010121,Lexus of Pembroke Pines
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,2342.0,44447.0,Port to dealer,False,DealerHold,2T2GDCAZ5RC010152,"Jim Hudson Lexus, Columbia"
 2024,NX 250 Premium,Caviar,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ6RC007728,Lexus of Arlington
 2024,NX 250 Premium,Nori Green Pearl,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZ6RC009043,JM Lexus
@@ -468,11 +463,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ6RC009639,Lexus of Kendall
 2024,NX 250 Premium,Redline,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZ6RC009687,Lexus of Winter Park
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,2T2GDCAZ6RC009785,"Jim Hudson Lexus, Augusta"
-2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,2T2GDCAZ6RC009799,Lexus of Kendall
+2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ6RC009799,Lexus of Kendall
 2024,NX 250 Premium,Caviar,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ6RC009866,North Park Lexus at Dominion
 2024,NX 250 Premium,Eminent White Pearl,FWD,42105,0.0,42105.0,At dealer,False,Available,2T2GDCAZ7RC007656,Lexus of Wayzata
 2024,NX 250 Premium,Caviar,FWD,42105,0.0,42105.0,At dealer,False,Available,2T2GDCAZ7RC007740,Fields Lexus Glenview
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,Available,2T2GDCAZ7RC007768,Lexus of Maplewood
+2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZ7RC009486,JM Lexus
 2024,NX 250 Premium,Redline,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZ7RC009634,Germain Lexus of Naples
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ7RC009777,Lexus of Melbourne
 2024,NX 250 Premium,Caviar,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ7RC009908,Lexus of West Kendall
@@ -486,7 +482,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250 Premium,Cadmium Orange,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ8RC008735,Lexus of Thousand Oaks
 2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ8RC009688,Lexus of Birmingham
 2024,NX 250 Premium,Nori Green Pearl,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZ8RC009772,Lexus of Sarasota
-2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,2T2GDCAZ8RC009819,Lexus of Kendall
+2024,NX 250 Premium,Cloudburst Gray,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZ8RC009819,Lexus of Kendall
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZ8RC009836,Lexus of Kendall
 2024,NX 250 Premium,Redline,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZ8RC009965,Lexus of Sarasota
 2024,NX 250 Premium,Nori Green Pearl,FWD,42105,698.0,42803.0,Port to dealer,False,DealerHold,2T2GDCAZ8RC010002,Lexus of Tulsa
@@ -512,7 +508,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,2T2GDCAZXRC009191,Germain Lexus of Naples
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,,2T2GDCAZXRC009384,Germain Lexus of Naples
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,At dealer,False,Available,2T2GDCAZXRC009420,JM Lexus
-2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZXRC009532,Lexus of Orlando
+2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,2T2GDCAZXRC009532,Lexus of Orlando
 2024,NX 250 Premium,Redline,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZXRC009837,Lexus of Pembroke Pines
 2024,NX 250 Premium,Nori Green Pearl,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,2T2GDCAZXRC009966,Lexus of Wesley Chapel
 2024,NX 250 Premium,Atomic Silver,FWD,42105,0.0,42105.0,Port to dealer,False,,2T2GDCAZXRC010082,JM Lexus
@@ -530,7 +526,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ0RC037132,Shottenkirk Desert Lexus
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ0RC037275,Lexus of North Hills
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ0RC037549,Ray Catena Lexus of Freehold
-2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ0RC038085,Fox Lexus of El Paso
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ0RC038295,Lexus of Chester Springs
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ0RC038300,Ray Catena Lexus of Freehold
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,998.0,46863.0,At dealer,False,,2T2GGCEZ0RC038524,Jordan Lexus of Mishawaka
@@ -601,7 +596,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ1RC039522,Park Place Lexus Plano
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,Available,2T2GGCEZ1RC039553,Keyes Lexus
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ1RC039570,Lexus of Southampton
-2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ1RC039696,Longo Lexus
+2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ1RC039696,Longo Lexus
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ1RC039729,Fields Lexus Glenview
 2024,NX 350 Premium AWD,Nori Green Pearl,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ1RC039777,Ray Catena Lexus of Freehold
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ1RC039858,Koons Lexus of Wilmington
@@ -640,13 +635,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ2RC038329,Longo Lexus
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ2RC038539,Lexus of Cherry Hill
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ2RC038587,Lexus of Glendale
-2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ2RC038654,Lexus of Kendall
+2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ2RC038654,Lexus of Kendall
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ2RC038668,Arrowhead Lexus
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ2RC038685,Rallye Lexus
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ2RC038864,Keyes Lexus
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ2RC038914,Lexus of Woodland Hills
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,True,DealerHold,2T2GGCEZ2RC038962,Lexus of Lincoln
-2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ2RC039061,Ourisman Lexus of Rockville
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ2RC039089,Park Place Lexus Grapevine
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ2RC039187,DARCARS Lexus of Englewood
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ2RC039206,Sterling McCall Lexus
@@ -661,7 +655,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ2RC039433,Lexus of North Hills
 2024,NX 350 Premium AWD,Nori Green Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ2RC039447,Park Place Lexus Grapevine
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ2RC039531,Newport Lexus
-2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ2RC039609,Lexus of Sacramento
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ2RC039688,Lexus of Lehigh Valley
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ2RC039691,Lexus of Brooklyn
 2024,NX 350 Premium AWD,Redline,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ2RC039707,Willis Lexus
@@ -686,6 +679,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Nori Green Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ2RC040324,Ray Catena Lexus of Freehold
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,Available,2T2GGCEZ2RC040372,Lexus of Lehigh Valley
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,Available,2T2GGCEZ2RC040386,DARCARS Lexus of Mt. Kisco
+2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ2RC040484,Lexus of Arlington
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ3RC034094,Findlay Lexus of Spokane
 2024,NX 350 Premium AWD,Redline,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ3RC034886,Findlay Lexus of Spokane
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ3RC035293,Lexus of Thousand Oaks
@@ -753,7 +747,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ4RC038817,Lexus of Tacoma at Fife
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ4RC038879,Rallye Lexus
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ4RC038980,Lexus of Bridgewater
-2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ4RC039014,Crown Lexus
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ4RC039076,Lexus of Kendall
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ4RC039255,Lexus of Manhattan
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ4RC039272,Lexus of Glendale
@@ -781,6 +774,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ4RC040406,Lexus of Lehigh Valley
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ4RC040423,Lexus of Route 10
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ4RC040485,Lexus of Wayzata
+2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,Available,2T2GGCEZ4RC040504,DARCARS Lexus of Silver Spring
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ5RC034100,Newport Lexus
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ5RC034145,Mungenast Lexus of St. Louis
 2024,NX 350 Premium AWD,Redline,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ5RC035148,Newport Lexus
@@ -856,7 +850,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ6RC038821,Lexus of Wesley Chapel
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ6RC038916,Rohrich Lexus
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ6RC039192,Len Stoler Lexus
-2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ6RC039211,Lexus of Kendall
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ6RC039340,Lexus of Serramonte
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ6RC039404,Lexus of Route 10
 2024,NX 350 Premium AWD,Grecian Water,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ6RC039483,Lexus of Lehigh Valley
@@ -872,7 +865,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,Available,2T2GGCEZ6RC040195,Lindsay Lexus of Alexandria
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ6RC040200,Ira Lexus
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ6RC040245,Ray Catena Lexus
-2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ6RC040276,Performance Lexus
+2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ6RC040276,Performance Lexus
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ6RC040360,Stoler Lexus
 2024,NX 350 Premium AWD,Nori Green Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ6RC040374,Hoffman Lexus
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ6RC040388,DARCARS Lexus of Greenwich
@@ -926,9 +919,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ7RC039895,Lexus of Kingsport
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ7RC039928,DARCARS Lexus of Silver Spring
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ7RC039959,Ray Catena Lexus of Monmouth
-2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,True,DealerHold,2T2GGCEZ7RC040027,JM Lexus
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ7RC040092,Hoffman Lexus
-2024,NX 350 Premium AWD,Grecian Water,AWD,45865,0.0,45865.0,Port to dealer,False,Available,2T2GGCEZ7RC040111,Lexus of Bellevue
+2024,NX 350 Premium AWD,Grecian Water,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ7RC040111,Lexus of Bellevue
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ7RC040156,Lexus of Akron/Canton
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ7RC040190,Ira Lexus
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,Available,2T2GGCEZ7RC040271,DARCARS Lexus of Mt. Kisco
@@ -942,13 +934,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ7RC040383,Meade Lexus of Southfield
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ7RC040416,Jim Falk Lexus of Beverly Hills
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ7RC040433,Stoler Lexus
+2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,Available,2T2GGCEZ7RC040495,Burdick Lexus
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ8RC034723,"Jim Hudson Lexus, Augusta"
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ8RC036049,Lexus Monterey Peninsula
 2024,NX 350 Premium AWD,Nori Green Pearl,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ8RC036469,Tustin Lexus
 2024,NX 350 Premium AWD,Nori Green Pearl,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ8RC036858,Lexus of Westminster
 2024,NX 350 Premium AWD,Redline,AWD,45865,0.0,45865.0,Port to dealer,True,Available,2T2GGCEZ8RC037170,Lexus of Tucson at the Auto Mall
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ8RC037489,Newport Lexus
-2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ8RC037900,"Lexus of Concord, LLC"
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ8RC038142,Lexus of Colorado Springs
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ8RC038691,Lexus of Edison
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ8RC038867,Chatham Parkway Lexus
@@ -1003,11 +995,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ9RC038327,Lexus of Tucson
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ9RC038697,Hendrick Lexus Charleston
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ9RC038781,Lexus of Cerritos
-2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZ9RC038831,Stevinson Lexus of Frederick
+2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ9RC038831,Stevinson Lexus of Frederick
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ9RC038876,Wilkie Lexus
 2024,NX 350 Premium AWD,Redline,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ9RC039008,Lexus of Freeport
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,,2T2GGCEZ9RC039025,Lexus of Woodland Hills
-2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,2T2GGCEZ9RC039199,Jim Falk Lexus of Beverly Hills
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ9RC039414,Lexus of Wayzata
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZ9RC039428,Jordan Lexus of Mishawaka
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZ9RC039459,Lexus of Orange County
@@ -1100,6 +1091,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Grecian Water,AWD,45865,0.0,45865.0,Port to dealer,False,,2T2GGCEZXRC040393,Lexus Stevens Creek
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,Available,2T2GGCEZXRC040457,Jordan Lexus of Mishawaka
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZXRC040491,New Country Lexus of Great Neck
+2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,2T2GGCEZXRC040510,Lexus of Akron/Canton
 2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ0RC032971,Lexus of Towson
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,Available,2T2HGCEZ0RC033473,Thompson Lexus Willow Grove
 2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ0RC033618,DARCARS Lexus of Mt. Kisco
@@ -1160,7 +1152,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,Available,2T2HGCEZ2RC032695,Larry H. Miller Lexus Murray
 2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ2RC033314,David McDermott Lexus of New Haven
 2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ2RC033474,Lexus of Wichita
-2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,True,DealerHold,2T2HGCEZ2RC033734,Lexus of Lexington
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ2RC034303,Haldeman Lexus of Princeton
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ2RC034446,Jim Falk Lexus of Beverly Hills
 2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ2RC034981,Lexus of Westminster
@@ -1190,13 +1181,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,At dealer,False,Available,2T2HGCEZ3RC033256,Shottenkirk Desert Lexus
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,Available,2T2HGCEZ3RC033435,Lexus of Lehigh Valley
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ3RC033452,Stevinson Lexus of Lakewood
-2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,True,DealerHold,2T2HGCEZ3RC033547,Lexus of Lexington
 2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ3RC034035,Jim Falk Lexus of Beverly Hills
 2024,NX 350 Luxury AWD,Nori Green Pearl,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ3RC034746,Valley Lexus
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ3RC035668,Lindsay Lexus of Alexandria
 2024,NX 350 Luxury AWD,Redline,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ3RC035816,Lindsay Lexus of Alexandria
 2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,At dealer,False,Available,2T2HGCEZ3RC035881,Findlay Lexus of Spokane
-2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ3RC035962,Lexus Escondido
 2024,NX 350 Luxury AWD,Nori Green Pearl,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ3RC036187,Newport Lexus
 2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,At dealer,False,Available,2T2HGCEZ3RC036285,Germain Lexus of Dublin
 2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ3RC036447,Lexus of Tacoma at Fife
@@ -1211,6 +1200,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,Port to dealer,False,,2T2HGCEZ3RC039364,Lexus of Las Vegas
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,False,Available,2T2HGCEZ4RC033458,Priority Lexus Virginia Beach
 2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ4RC033797,Lexus of Lexington
+2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ4RC035257,Lexus of Glendale
 2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ4RC035470,Rallye Lexus
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,Available,2T2HGCEZ4RC035792,Lexus Escondido
 2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ4RC035856,Lexus San Diego
@@ -1276,12 +1266,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Luxury AWD,Redline,AWD,48955,0.0,48955.0,Port to dealer,False,,2T2HGCEZ6RC039987,North Park Lexus at Dominion
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,False,DealerHold,2T2HGCEZ6RC040086,Ira Lexus
 2024,NX 350 Luxury AWD,Redline,AWD,48955,0.0,48955.0,Port to dealer,False,,2T2HGCEZ6RC040122,Lexus of Orlando
+2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,False,DealerHold,2T2HGCEZ6RC040489,Lexus of Chester Springs
 2023,NX 350 Luxury AWD,Grecian Water,AWD,50265,0.0,50265.0,At dealer,False,,2T2HGCEZ7PC030079,Kendall Lexus of Alaska
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,Available,2T2HGCEZ7RC032613,New Country Lexus of Westport
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,Available,2T2HGCEZ7RC032840,Lexus of Peoria
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ7RC032854,DARCARS Lexus of Englewood
 2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,At dealer,False,Available,2T2HGCEZ7RC033678,Mungenast Lexus of St. Louis
-2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,True,DealerHold,2T2HGCEZ7RC033714,Lexus of Lexington
 2024,NX 350 Luxury AWD,Nori Green Pearl,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ7RC034510,New Country Lexus of Latham
 2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ7RC034765,Smart Lexus of Quad Cities
 2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ7RC034782,Jim Falk Lexus of Beverly Hills
@@ -1335,7 +1325,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ9RC033424,South County Lexus at Mission Viejo
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ9RC033567,Spirit Lexus
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ9RC033648,Lexus of Lexington
-2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ9RC034945,Shottenkirk Desert Lexus
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ9RC035075,Jim Falk Lexus of Beverly Hills
 2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,At dealer,False,Available,2T2HGCEZ9RC035190,Lexus of Glendale
 2024,NX 350 Luxury AWD,Grecian Water,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ9RC035755,South County Lexus at Mission Viejo
@@ -1350,8 +1339,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZ9RC038977,Peterson Lexus
 2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ9RC039174,Park Place Lexus Plano
 2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,Port to dealer,False,,2T2HGCEZ9RC039188,Kendall Lexus of Alaska
-2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,Port to dealer,True,DealerHold,2T2HGCEZ9RC039241,Sewell Lexus
-2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,False,DealerHold,2T2HGCEZ9RC039269,Lexus of Pembroke Pines
+2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ9RC039269,Lexus of Pembroke Pines
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,False,DealerHold,2T2HGCEZ9RC040258,Lexus of Maplewood
 2023,NX 350 Luxury AWD,Cloudburst Gray,AWD,49815,0.0,49815.0,At dealer,False,DealerHold,2T2HGCEZXPC020579,Lexus of Shreveport - Bossier City
 2024,NX 350 Luxury AWD,Nori Green Pearl,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZXRC033240,Temecula Valley Lexus
@@ -1370,7 +1358,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,At dealer,True,DealerHold,2T2HGCEZXRC037269,Kendall Lexus of Alaska
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,False,Available,2T2HGCEZXRC037367,Lexus of Bellevue
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZXRC037823,Kendall Lexus of Eugene
-2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZXRC038650,"Lexus of Concord, LLC"
 2024,NX 350 Luxury AWD,Cloudburst Gray,AWD,48955,0.0,48955.0,Port to dealer,False,,2T2HGCEZXRC038664,Lexus of Colorado Springs
 2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZXRC038681,Lexus of Riverside
 2024,NX 350 Luxury AWD,Redline,AWD,48955,0.0,48955.0,Port to dealer,False,DealerHold,2T2HGCEZXRC039135,Park Place Lexus Plano
@@ -1378,10 +1365,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,False,,2T2HGCEZXRC039491,Ira Lexus of Manchester
 2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,Port to dealer,False,,2T2HGCEZXRC039507,Lexus of Sarasota
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,False,,2T2HGCEZXRC039572,Prestige Lexus of Ramsey
+2024,NX 350 Luxury AWD,Atomic Silver,AWD,48955,0.0,48955.0,Port to dealer,False,,2T2HGCEZXRC040429,Lexus El Cajon
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ0RC032507,Serra Lexus Lansing
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ0RC035312,Rallye Lexus
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ0RC036203,Hoffman Lexus
-2024,NX 350 FSPORT AWD,Redline,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ0RC036492,Lexus of Pembroke Pines
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ0RC036525,Lexus of Colorado Springs
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ0RC036573,JM Lexus
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ0RC036637,Lexus Santa Monica
@@ -1457,7 +1444,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ1RC037473,Shottenkirk Desert Lexus
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ1RC037490,Lexus of Greenwood Village
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ1RC037599,Putnam Lexus
-2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ1RC037795,Lexus of Tampa Bay
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,2995.0,50910.0,At dealer,False,,2T2KGCEZ1RC037845,Sheehy Lexus of Annapolis
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ1RC037893,Sewell Lexus
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ1RC038087,"Lexus of Seattle, LLC"
@@ -1500,7 +1486,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ1RC040373,Lexus of Wesley Chapel
 2023,NX 350 FSPORT AWD,Redline,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ2PC029783,Treasure Coast Lexus
 2024,NX 350 FSPORT AWD,Ultrasonic Blue Mica 2.0,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ2RC032802,Len Stoler Lexus
-2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ2RC032900,Sheehy Lexus of Annapolis
+2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,2995.0,50910.0,At dealer,False,Available,2T2KGCEZ2RC032900,Sheehy Lexus of Annapolis
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ2RC033402,Lexus of Tucson at the Auto Mall
 2024,NX 350 FSPORT AWD,Redline,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ2RC034307,Ray Catena Lexus of White Plains
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ2RC035568,Stevinson Lexus of Lakewood
@@ -1531,7 +1517,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ2RC038535,Hendrick Lexus Charleston
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ2RC038597,Lexus of Serramonte
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ2RC038647,Lexus of Pembroke Pines
-2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ2RC038695,South Bay Lexus
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ2RC038759,Ira Lexus
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,True,DealerHold,2T2KGCEZ2RC038793,Park Place Lexus Plano
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ2RC038907,Bergstrom Lexus
@@ -1589,7 +1574,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ3RC036762,Lexus Santa Monica
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ3RC036924,Stevinson Lexus of Lakewood
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ3RC037104,Lexus of Birmingham
-2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,True,DealerHold,2T2KGCEZ3RC037166,Longo Lexus
+2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ3RC037166,Longo Lexus
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ3RC037197,Earnhardt Lexus
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ3RC037538,McGrath Lexus of Chicago
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ3RC037748,Fresno Lexus
@@ -1598,7 +1583,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ3RC037927,Fresno Lexus
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ3RC037975,Sewell Lexus
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ3RC037992,Lexus of Wayzata
-2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ3RC038219,Lexus of Cerritos
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ3RC038429,Lexus of Lincoln
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ3RC038446,Lexus of Pleasanton
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ3RC038463,Lexus Monterey Peninsula
@@ -1606,7 +1590,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,1513.0,49428.0,At dealer,False,,2T2KGCEZ3RC038494,Lexus of Marin
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ3RC038513,Lexus El Cajon
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ3RC038639,Larry H. Miller Lexus Murray
-2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ3RC038687,Lexus of Pembroke Pines
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ3RC038737,Lexus of Woodland Hills
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ3RC038754,Lexus of Madison
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ3RC038768,South County Lexus at Mission Viejo
@@ -1652,9 +1635,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ3RC040357,Lexus of Kendall
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ3RC040438,Lexus of New Orleans
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ3RC040472,Herrin-Gear Lexus
+2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ3RC040486,Northside Lexus
 2023,NX 350 FSPORT AWD,Atomic Silver,AWD,47465,0.0,47465.0,At dealer,False,DealerHold,2T2KGCEZ4PC018896,Lexus of Wesley Chapel
 2023,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ4PC024228,Wilkie Lexus
-2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ4RC032932,Earnhardt Lexus
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ4RC034082,Len Stoler Lexus
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ4RC034731,Bell Lexus North Scottsdale
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ4RC034924,Temecula Valley Lexus
@@ -1744,7 +1727,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Ultrasonic Blue Mica 2.0,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ5RC038187,Newport Lexus
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ5RC038349,Lexus of Cerritos
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ5RC038464,Lexus of Route 10
-2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ5RC038500,Herb Chambers Lexus
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ5RC038514,Lexus of Serramonte
 2024,NX 350 FSPORT AWD,Ultrasonic Blue Mica 2.0,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ5RC038559,Sewell Lexus
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ5RC038626,Lexus of Tucson at the Auto Mall
@@ -1829,7 +1811,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ6RC039171,Lexus of Maplewood
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ6RC039204,Lexus of Louisville
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ6RC039266,Bergstrom Lexus
-2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ6RC039297,Lexus of Pembroke Pines
+2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ6RC039297,Lexus of Pembroke Pines
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ6RC039302,Ray Catena Lexus
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ6RC039350,Stevinson Lexus of Lakewood
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ6RC039378,Crown Lexus
@@ -1862,7 +1844,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ7RC032861,Metro Lexus
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ7RC033038,Lexus of Sacramento
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ7RC033573,Wilkie Lexus
-2024,NX 350 FSPORT AWD,Redline,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ7RC033802,Ourisman Lexus of Rockville
 2024,NX 350 FSPORT AWD,Redline,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ7RC033976,Lindsay Lexus of Alexandria
 2024,NX 350 FSPORT AWD,Redline,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ7RC034917,Stevinson Lexus of Frederick
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ7RC034951,Lexus of Cherry Hill
@@ -1901,7 +1882,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ7RC038840,Lexus of Arlington
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ7RC038868,Lexus Stevens Creek
 2024,NX 350 FSPORT AWD,Cadmium Orange,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ7RC038918,Lexus of Tulsa
-2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ7RC038935,Lexus of Pembroke Pines
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ7RC039020,Temecula Valley Lexus
 2024,NX 350 FSPORT AWD,Ultrasonic Blue Mica 2.0,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ7RC039051,Motor City Lexus of Bakersfield
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ7RC039146,Stevinson Lexus of Lakewood
@@ -1961,16 +1941,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC036854,Larry H. Miller Lexus Murray
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ8RC036918,Lindsay Lexus of Alexandria
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,Available,2T2KGCEZ8RC036935,Earnhardt Lexus
-2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ8RC037003,Jim Falk Lexus of Beverly Hills
+2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ8RC037003,Crown Lexus
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC037048,Lexus of Cerritos
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,True,DealerHold,2T2KGCEZ8RC037258,JM Lexus
-2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ8RC037261,Lexus of West Kendall
-2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ8RC037339,Keyes Lexus
+2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ8RC037261,Lexus of West Kendall
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,True,DealerHold,2T2KGCEZ8RC037356,JM Lexus
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC037423,Crown Lexus
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC037485,Larry H. Miller Lexus of Lindon
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC037602,Lexus of Glendale
-2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC037616,Lexus Carlsbad
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ8RC037793,Park Place Lexus Grapevine
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC037924,Lexus of Woodland Hills
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ8RC037972,Lexus of Winter Park
@@ -1980,7 +1958,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC038376,Lexus Escondido
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ8RC038443,Germain Lexus of Ann Arbor
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ8RC038460,South Bay Lexus
-2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ8RC038572,Lexus of Greenwood Village
+2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC038572,Lexus of Greenwood Village
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC038619,Rallye Lexus
 2024,NX 350 FSPORT AWD,Ultrasonic Blue Mica 2.0,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZ8RC038832,Sterling McCall Lexus Clear Lake
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ8RC038913,Lexus of Sacramento
@@ -1991,7 +1969,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC039060,Herb Chambers Lexus
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ8RC039088,Park Place Lexus Plano
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ8RC039169,Lexus of Pleasanton
-2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC039186,Motor City Lexus of Bakersfield
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ8RC039253,Lexus of Milwaukee
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ8RC039270,Lexus of North Hills
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC039317,Lexus of Towson
@@ -2006,7 +1983,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ8RC039804,Park Place Lexus Grapevine
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ8RC039821,Lexus of Orlando
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ8RC039835,Westside Lexus
-2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,True,DealerHold,2T2KGCEZ8RC039866,North Park Lexus of San Antonio
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ8RC039883,Lexus of Orlando
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ8RC039897,Sterling McCall Lexus Clear Lake
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ8RC039902,Stevinson Lexus of Frederick
@@ -2029,6 +2005,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ8RC040354,Bob Johnson Lexus
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ8RC040385,Westside Lexus
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ8RC040449,North Park Lexus at Dominion
+2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ8RC040466,Superstition Springs Lexus
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ9RC033641,Ray Catena Lexus of Monmouth
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ9RC034370,Lindsay Lexus of Alexandria
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ9RC035132,Treasure Coast Lexus
@@ -2070,7 +2047,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ9RC038404,Sewell Lexus
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ9RC038421,Lexus of Henderson
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ9RC038581,Lexus of Henderson
-2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ9RC038662,Valley Lexus
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ9RC038743,Lexus of Pleasanton
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ9RC038760,Valley Lexus
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ9RC038810,Fox Lexus of El Paso
@@ -2092,7 +2068,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ9RC039360,Park Place Lexus Plano
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ9RC039410,"Lexus of Concord, LLC"
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,True,DealerHold,2T2KGCEZ9RC039455,Lexus Stevens Creek
-2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ9RC039486,Lexus of Pembroke Pines
+2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ9RC039486,Lexus of Pembroke Pines
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ9RC039567,Lexus of Watertown
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ9RC039584,Lexus of Cool Springs
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZ9RC039598,Hennessy Lexus of Gwinnett
@@ -2111,9 +2087,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ9RC040041,Hennessy Lexus of Atlanta
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ9RC040136,"Lexus of Seattle, LLC"
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZ9RC040220,Bob Johnson Lexus
+2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZ9RC040248,Lexus of Dayton
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ9RC040265,Lexus of Tampa Bay
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ9RC040279,Lexus of Winter Park
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ9RC040301,Peterson Lexus
+2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZ9RC040492,Lexus of Westminster
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZXRC032871,Hendrick Lexus Kansas City North
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZXRC032921,Lexus of Towson
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZXRC034796,Lexus of Albuquerque
@@ -2124,7 +2102,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZXRC036693,Fresno Lexus
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZXRC036726,Lexus of Glendale
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZXRC036953,Lexus of Austin
-2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,Port to dealer,True,DealerHold,2T2KGCEZXRC037035,Lexus of Fremont
+2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,Port to dealer,False,DealerHold,2T2KGCEZXRC037035,Lexus of Fremont
 2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZXRC037455,Tustin Lexus
 2024,NX 350 FSPORT AWD,Cloudburst Gray,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZXRC037472,Lexus of Woodland Hills
 2024,NX 350 FSPORT AWD,Redline,AWD,47915,0.0,47915.0,At dealer,False,Available,2T2KGCEZXRC037519,North Park Lexus of San Antonio
@@ -2138,7 +2116,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZXRC038198,Lexus of Towson
 2024,NX 350 FSPORT AWD,Ultra White,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZXRC038234,Lexus of North Miami
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZXRC038332,Hoffman Lexus
-2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,Port to dealer,False,,2T2KGCEZXRC038363,Stevinson Lexus of Frederick
+2024,NX 350 FSPORT AWD,Obsidian,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZXRC038363,Stevinson Lexus of Frederick
 2024,NX 350 FSPORT AWD,Atomic Silver,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZXRC038394,North Park Lexus of San Antonio
 2024,NX 350 FSPORT AWD,Ultrasonic Blue Mica 2.0,AWD,47915,0.0,47915.0,At dealer,False,DealerHold,2T2KGCEZXRC038413,Sterling McCall Lexus Clear Lake
 2024,NX 350 FSPORT AWD,Ultrasonic Blue Mica 2.0,AWD,47915,0.0,47915.0,At dealer,False,,2T2KGCEZXRC038492,New Country Lexus of Latham
@@ -2181,7 +2159,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 250,Eminent White Pearl,FWD,39155,0.0,39155.0,Port to dealer,False,DealerHold,JTJADCAZ1R5017524,Lexus San Diego
 2024,NX 250,Cloudburst Gray,FWD,39055,0.0,39055.0,At dealer,False,Available,JTJADCAZ3R5016357,Lexus of Fremont
 2024,NX 250,Eminent White Pearl,FWD,39055,0.0,39055.0,At dealer,False,Available,JTJADCAZ4R2008818,DARCARS Lexus of Mt. Kisco
-2024,NX 250,Nori Green Pearl,FWD,39055,0.0,39055.0,At dealer,False,DealerHold,JTJADCAZ4R2009676,Lexus of Serramonte
 2024,NX 250,Cloudburst Gray,FWD,39055,0.0,39055.0,At dealer,False,Available,JTJADCAZ4R5016545,Lexus of Albuquerque
 2024,NX 250,Atomic Silver,FWD,39055,0.0,39055.0,At dealer,False,Available,JTJADCAZ5R5016408,Bell Lexus North Scottsdale
 2024,NX 250,Redline,FWD,39055,0.0,39055.0,At dealer,False,,JTJADCAZ6R2009596,Superstition Springs Lexus
@@ -2192,7 +2169,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,At dealer,False,DealerHold,JTJAGCEZ0R5006452,Ray Catena Lexus of White Plains
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,At dealer,False,DealerHold,JTJAGCEZ0R5006564,Hoffman Lexus
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,At dealer,False,DealerHold,JTJAGCEZ1R5006458,Herb Chambers Lexus
-2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,At dealer,False,Available,JTJAGCEZ2R2011508,Lindsay Lexus of Alexandria
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,Port to dealer,False,DealerHold,JTJAGCEZ2R5006551,Stoler Lexus
 2024,NX 350 AWD,Eminent White Pearl,AWD,42915,0.0,42915.0,Port to dealer,False,,JTJAGCEZ3R5007000,Lexus of Greenwood Village
 2024,NX 350 AWD,Eminent White Pearl,AWD,42815,0.0,42815.0,At dealer,False,Available,JTJAGCEZ4R5006504,Superstition Springs Lexus
@@ -2200,6 +2176,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 AWD,Eminent White Pearl,AWD,42915,0.0,42915.0,Port to dealer,False,,JTJAGCEZ9R5006997,Lexus of Thousand Oaks
 2024,NX 250 Premium,Eminent White Pearl,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,JTJGDCAZ0R5015631,Lexus of Sarasota
 2024,NX 250 Premium,Eminent White Pearl,FWD,42105,0.0,42105.0,Port to dealer,False,Available,JTJGDCAZ0R5016794,Flow Lexus of Winston-Salem
+2024,NX 250 Premium,Eminent White Pearl,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,JTJGDCAZ0R5017136,Hendrick Lexus Charleston
 2024,NX 250 Premium,Eminent White Pearl,FWD,42105,0.0,42105.0,At dealer,False,,JTJGDCAZ1R5016688,Lexus of Sarasota
 2024,NX 250 Premium,Eminent White Pearl,FWD,42105,0.0,42105.0,At dealer,False,DealerHold,JTJGDCAZ1R5016822,Hendrick Lexus Northlake
 2024,NX 250 Premium,Eminent White Pearl,FWD,42105,0.0,42105.0,Port to dealer,False,DealerHold,JTJGDCAZ1R5016870,Hendrick Lexus Charlotte
@@ -2226,14 +2203,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Cadmium Orange,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,JTJGGCEZ0R2010738,Findlay Lexus of Spokane
 2024,NX 350 Premium AWD,Redline,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,JTJGGCEZ0R2011887,North Park Lexus of San Antonio
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,,JTJGGCEZ0R2012196,Dolan Lexus
-2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,,JTJGGCEZ0R5006607,Lexus of Sarasota
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ0R5006669,Herrin-Gear Lexus
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,Available,JTJGGCEZ0R5006686,DARCARS Lexus of Silver Spring
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ0R5006705,"Lexus of Concord, LLC"
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ0R5006719,Lexus of Chandler
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ0R5006736,Westside Lexus
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ0R5006753,Hendrick Lexus Charlotte
+2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,2995.0,48860.0,Port to dealer,False,,JTJGGCEZ0R5006767,Sheehy Lexus of Annapolis
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ0R5006817,Sterling McCall Lexus Clear Lake
+2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ0R5006820,Johnson Lexus of Durham
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45965,0.0,45965.0,Port to dealer,False,,JTJGGCEZ0R5006963,Lexus of Thousand Oaks
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45965,0.0,45965.0,Port to dealer,False,,JTJGGCEZ0R5006977,Newport Lexus
 2024,NX 350 Premium AWD,Redline,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ1R2011929,Lexus of Portland
@@ -2258,7 +2236,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,Available,JTJGGCEZ2R5006592,Freeman Lexus
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ2R5006625,North Park Lexus of San Antonio
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,JTJGGCEZ2R5006639,Northside Lexus
-2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ2R5006706,Johnson Lexus of Raleigh
+2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,JTJGGCEZ2R5006706,Johnson Lexus of Raleigh
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ2R5006754,Park Place Lexus Plano
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ2R5006799,Park Place Lexus Plano
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ2R5006835,Eskridge Lexus of Oklahoma City
@@ -2296,13 +2274,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ4R5006741,Lexus Monterey Peninsula
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,JTJGGCEZ4R5006772,Lexus of Riverside
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,,JTJGGCEZ4R5006786,Lexus of Sacramento
+2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ4R5006805,Lexus of Greenville
+2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ4R5006822,Flow Lexus of Greensboro
 2024,NX 350 Premium AWD,Nori Green Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ5R2011951,Park Place Lexus Plano
-2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ5R2012047,Treasure Coast Lexus
+2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,,JTJGGCEZ5R2012047,Treasure Coast Lexus
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ5R2012114,Lexus of New Orleans
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ5R2012422,Lexus of Westminster
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,Available,JTJGGCEZ5R5005937,Lexus of Tacoma at Fife
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ5R5006604,Park Place Lexus Plano
-2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,JTJGGCEZ5R5006649,Stoler Lexus
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ5R5006697,Lexus of Pembroke Pines
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,,JTJGGCEZ5R5006781,Lexus Santa Monica
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ5R5006795,Lexus of North Miami
@@ -2315,7 +2294,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,Available,JTJGGCEZ6R5006658,Lexus El Cajon
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ6R5006689,Arrowhead Lexus
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ6R5006756,Stoler Lexus
-2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,,JTJGGCEZ6R5006806,Tustin Lexus
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ6R5006868,Lexus of Fremont
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,JTJGGCEZ7R2011899,Lexus of Huntsville
 2024,NX 350 Premium AWD,Redline,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ7R2012003,North Park Lexus Rio Grande Valley
@@ -2328,10 +2306,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ7R5006720,Lexus of North Miami
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ7R5006748,Coliseum Lexus of Oakland
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,Available,JTJGGCEZ7R5006751,Sewell Lexus of Ft. Worth
-2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ7R5006765,Lexus of Kendall
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ7R5006779,Northside Lexus
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ7R5006782,Lexus of Jacksonville
-2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,,JTJGGCEZ7R5006815,Lexus of Fremont
+2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,JTJGGCEZ7R5006815,Lexus of Fremont
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ7R5006863,Lexus of Thousand Oaks
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ7R5006894,Lexus of Henderson
 2024,NX 350 Premium AWD,Nori Green Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ8R2011880,Lexus of West Kendall
@@ -2342,14 +2319,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ8R5006631,Bell Lexus North Scottsdale
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ8R5006662,Sterling McCall Lexus Clear Lake
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,Available,JTJGGCEZ8R5006693,Lexus of Riverside
-2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,,JTJGGCEZ8R5006788,Crown Lexus
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ8R5006807,Eskridge Lexus of Oklahoma City
-2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ8R5006824,Putnam Lexus
+2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,,JTJGGCEZ8R5006824,Putnam Lexus
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ8R5006869,Price LeBlanc Lexus
-2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45965,0.0,45965.0,Port to dealer,False,,JTJGGCEZ8R5006984,Newport Lexus
+2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45965,0.0,45965.0,Port to dealer,False,DealerHold,JTJGGCEZ8R5006984,Newport Lexus
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ9R2012066,Sewell Lexus
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,At dealer,False,,JTJGGCEZ9R2012133,Newport Lexus
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ9R2012147,Northside Lexus
+2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZ9R2012231,Lexus of Pembroke Pines
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,At dealer,False,,JTJGGCEZ9R5006069,Findlay Lexus of Spokane
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,At dealer,False,DealerHold,JTJGGCEZ9R5006573,Park Place Lexus Grapevine
 2024,NX 350 Premium AWD,Caviar,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZ9R5006590,Park Place Lexus Grapevine
@@ -2368,7 +2345,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,,JTJGGCEZXR5006632,Lexus of North Miami
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZXR5006677,New Country Lexus of Latham
 2024,NX 350 Premium AWD,Cloudburst Gray,AWD,45865,0.0,45865.0,Port to dealer,False,DealerHold,JTJGGCEZXR5006744,Hennessy Lexus of Atlanta
-2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZXR5006758,Lexus of Serramonte
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45865,0.0,45865.0,At dealer,False,,JTJGGCEZXR5006775,Temecula Valley Lexus
 2024,NX 350 Premium AWD,Atomic Silver,AWD,45865,0.0,45865.0,Port to dealer,False,,JTJGGCEZXR5006890,Lexus of Cerritos
 2024,NX 350 Premium AWD,Eminent White Pearl,AWD,45965,0.0,45965.0,Port to dealer,False,DealerHold,JTJGGCEZXR5006940,Lexus of Glendale
@@ -2379,6 +2355,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,False,,JTJHGCEZ1R2011949,Bell Lexus North Scottsdale
 2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,At dealer,False,,JTJHGCEZ1R2011966,Park Place Lexus Grapevine
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,False,DealerHold,JTJHGCEZ1R2012048,Lexus of Austin
+2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,False,,JTJHGCEZ1R2012258,Hendrick Lexus Charleston
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,False,Available,JTJHGCEZ1R2012308,Lexus of Santa Fe
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,False,,JTJHGCEZ1R2012440,Superstition Springs Lexus
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,True,DealerHold,JTJHGCEZ2R2012110,Park Place Lexus Plano
@@ -2399,7 +2376,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,False,,JTJHGCEZ5R2012392,Lexus of Colorado Springs
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,False,,JTJHGCEZ5R2012411,Lexus of Las Vegas
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,False,,JTJHGCEZ5R2012487,Keyes Lexus
-2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,False,,JTJHGCEZ6R2011980,Lexus Escondido
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,At dealer,False,,JTJHGCEZ6R2012014,Kendall Lexus of Eugene
 2024,NX 350 Luxury AWD,Caviar,AWD,48955,0.0,48955.0,At dealer,False,,JTJHGCEZ6R2012031,Lexus of Orlando
 2024,NX 350 Luxury AWD,Eminent White Pearl,AWD,48955,0.0,48955.0,Port to dealer,False,,JTJHGCEZ6R2012174,Lexus of Greenville
