@@ -11,7 +11,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB0PA005787,Lexus of Thousand Oaks
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB0PA005918,Tustin Lexus
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB0PA006065,South County Lexus at Mission Viejo
-2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB0PA006177,Bob Johnson Lexus
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB0PA006292,Motor City Lexus of Bakersfield
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB0PA006325,Fresno Lexus
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB0PA006440,DARCARS Lexus of Greenwich
@@ -42,7 +41,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB0PA008530,Lexus of Pleasanton
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB0PA008544,Lexus of Westminster
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB0PA008656,Westside Lexus
-2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB0PA008673,Valley Lexus
+2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB0PA008673,Valley Lexus
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB0PA008723,Keyes Lexus
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB0PA008799,Lexus of Pleasanton
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB0PA008804,Keyes Lexus
@@ -66,7 +65,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB0PA009693,Johnson Lexus of Raleigh
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB0PA009757,Lexus of Brooklyn
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB0PA009788,Jim Falk Lexus of Beverly Hills
-2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB0PA009824,Herb Chambers Lexus
+2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB0PA009824,Herb Chambers Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB0PA009886,South County Lexus at Mission Viejo
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB0PA009919,Shottenkirk Desert Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB0PA009922,Herb Chambers Lexus of Hingham
@@ -80,15 +79,20 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB0PA010536,Lexus of Pleasanton
 2023,RZ 450e PREMIUM,Caviar,AWD,59740,0.0,59740.0,Port to dealer,False,DealerHold,JTJAAAAB0PA010584,Germain Lexus of Dublin
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB0PA010617,Temecula Valley Lexus
+2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,DealerHold,JTJAAAAB0PA010648,Dolan Lexus
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB0PA010830,Lexus of Sacramento
-2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB0PA010861,Lexus San Diego
+2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB0PA010844,Lexus of Thousand Oaks
+2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB0PA010861,Lexus San Diego
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB0PA010892,Stevinson Lexus of Frederick
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB0PA010973,Fox Lexus of El Paso
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB0PA011198,Shottenkirk Desert Lexus
 2023,RZ 450e PREMIUM,Ether and Black Onyx,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB0PA011220,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB0PA011265,Lexus of Cerritos
+2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB0PA011430,South County Lexus at Mission Viejo
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB0PA011508,Lexus of Sacramento
+2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB0PA011587,Lexus of Roseville
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB0PA011671,Lexus of Glendale
+2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB0PA011704,Motor City Lexus of Bakersfield
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB1PA001666,Sterling McCall Lexus Clear Lake
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB1PA001800,Burdick Lexus
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB1PA002140,Butler Lexus of South Atlanta
@@ -118,7 +122,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA006687,Hilton Head Lexus
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA006768,Lexus of Woodland Hills
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB1PA006866,Lexus of Southampton
-2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB1PA006883,Lexus of Bellevue
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB1PA006933,Lexus of Sacramento
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA006995,Temecula Valley Lexus
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB1PA007001,Lexus of Cerritos
@@ -152,7 +155,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB1PA008827,Hoffman Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA008861,Treasure Coast Lexus
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA008987,DARCARS Lexus of Englewood
-2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB1PA009007,Stevinson Lexus of Frederick
+2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA009007,Stevinson Lexus of Frederick
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB1PA009072,Stevinson Lexus of Frederick
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,Available,JTJAAAAB1PA009105,Hendrick Lexus Kansas City North
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB1PA009119,Len Stoler Lexus
@@ -162,7 +165,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB1PA009329,Park Place Lexus Plano
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA009363,Wilkie Lexus
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA009380,Lexus of Woodland Hills
-2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB1PA009427,Stevinson Lexus of Lakewood
+2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB1PA009427,Stevinson Lexus of Lakewood
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB1PA009461,Longo Lexus
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA009475,Temecula Valley Lexus
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA009489,Valley Lexus
@@ -192,13 +195,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB1PA010545,Sterling McCall Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB1PA010612,Coliseum Lexus of Oakland
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB1PA010626,Prestige Lexus of Ramsey
-2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB1PA010738,Fresno Lexus
+2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA010738,Fresno Lexus
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA010769,Lexus of Cerritos
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB1PA010822,Lexus of Watertown
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA010836,Keyes Lexus
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA011047,Lexus of Glendale
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB1PA011114,Newport Lexus
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB1PA011274,Lexus of Cerritos
+2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB1PA011680,Lexus Monterey Peninsula
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB1PA011954,Lexus of Riverside
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,1144.0,59644.0,At dealer,False,DealerHold,JTJAAAAB2PA002602,Lexus of Warwick
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB2PA002678,Burdick Lexus
@@ -210,11 +214,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB2PA004351,Lexus of Manhattan
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB2PA004964,Lexus of Cerritos
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB2PA005113,Herb Chambers Lexus
-2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB2PA005337,Thompson Lexus Doylestown
+2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB2PA005337,Hennessy Lexus of Gwinnett
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB2PA005435,Lexus of Fremont
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB2PA005466,Lexus of Pleasanton
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB2PA005600,Wilkie Lexus
-2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB2PA005614,North Park Lexus Rio Grande Valley
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB2PA005676,Lexus Escondido
 2023,RZ 450e PREMIUM,Ether and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB2PA005810,Butler Lexus of South Atlanta
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB2PA005838,Lexus of Wayzata
@@ -273,18 +276,17 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB2PA009064,Herb Chambers Lexus
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,59740,0.0,59740.0,At dealer,False,,JTJAAAAB2PA009095,Meade Lexus of Southfield
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB2PA009162,Jim Falk Lexus of Beverly Hills
-2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB2PA009310,Lexus San Diego
 2023,RZ 450e PREMIUM,Ether and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB2PA009338,Lexus of Watertown
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB2PA009372,Lexus of North Miami
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB2PA009386,Koons Lexus of Wilmington
-2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB2PA009470,Lexus of Chester Springs
+2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB2PA009470,Lexus of Chester Springs
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA009498,Lexus of Wayzata
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB2PA009517,Lexus El Cajon
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA009551,JM Lexus
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB2PA009601,Lexus of Riverside
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB2PA009615,Johnson Lexus of Raleigh
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB2PA009646,DARCARS Lexus of Silver Spring
-2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB2PA009694,Lexus of Serramonte
+2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB2PA009694,Lexus of Serramonte
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB2PA009730,Ray Catena Lexus of Freehold
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,Port to dealer,False,Available,JTJAAAAB2PA009744,Northside Lexus
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB2PA009789,Lexus of Bellevue
@@ -293,9 +295,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB2PA009906,Hoffman Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA009968,Coliseum Lexus of Oakland
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,Available,JTJAAAAB2PA010022,Butler Lexus of South Atlanta
-2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA010098,Lexus of Watertown
-2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB2PA010103,Lexus of Westminster
-2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA010120,Ray Catena Lexus of Freehold
+2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB2PA010098,Lexus of Watertown
+2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB2PA010103,Lexus of Westminster
+2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB2PA010120,Lindsay Lexus of Alexandria
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB2PA010134,Lexus of Cerritos
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA010151,Fox Lexus of El Paso
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB2PA010165,Keyes Lexus of Valencia
@@ -307,15 +309,18 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB2PA010571,Westside Lexus
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,Port to dealer,False,DealerHold,JTJAAAAB2PA010585,Lexus of Santa Fe
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB2PA010621,Lexus of Las Vegas
+2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA010652,New Country Lexus of Westport
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA010733,Lexus of Sacramento
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA010831,Ray Catena Lexus of Freehold
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA011025,Keyes Lexus
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB2PA011056,Lexus of Santa Barbara
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA011106,Stevinson Lexus of Frederick
+2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA011123,Putnam Lexus
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA011378,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB2PA011445,Lexus of Riverside
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA011557,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB2PA011705,Newport Lexus
+2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB2PA011865,Lexus of New Orleans
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB3PA002415,Lexus of Manhattan
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB3PA002754,Bob Johnson Lexus
 2023,RZ 450e PREMIUM,Iridium,AWD,59740,0.0,59740.0,At dealer,False,Available,JTJAAAAB3PA002804,North Park Lexus Rio Grande Valley
@@ -338,7 +343,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB3PA006660,David McDermott Lexus of New Haven
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB3PA006805,Keyes Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB3PA006853,Lexus of Westminster
-2023,RZ 450e PREMIUM,Ether,AWD,59740,0.0,59740.0,At dealer,False,Available,JTJAAAAB3PA006948,Eskridge Lexus of Oklahoma City
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB3PA007033,Tustin Lexus
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB3PA007047,South Bay Lexus
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB3PA007050,Lexus of Route 10
@@ -367,11 +371,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB3PA008652,Longo Lexus
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB3PA008747,Lexus Carlsbad
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA008795,New Country Lexus of Great Neck
-2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB3PA008831,Ray Catena Lexus of Freehold
+2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB3PA008831,Lindsay Lexus of Alexandria
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA008876,Herb Chambers Lexus of Hingham
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA009087,Keyes Lexus
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB3PA009154,Lexus San Diego
-2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB3PA009185,Keyes Lexus
+2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB3PA009185,Keyes Lexus
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA009204,Coliseum Lexus of Oakland
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB3PA009395,Lexus of Woodland Hills
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA009526,Lexus of Pleasanton
@@ -382,24 +386,27 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA009770,Lexus of Sacramento
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA009848,Lexus of Smithtown
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB3PA009915,David McDermott Lexus of New Haven
-2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB3PA009963,DARCARS Lexus of Englewood
+2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA009963,DARCARS Lexus of Englewood
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,Available,JTJAAAAB3PA009977,Eskridge Lexus of Oklahoma City
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB3PA009980,Longo Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA010028,Temecula Valley Lexus
-2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB3PA010059,Prestige Lexus of Ramsey
-2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,2995.0,66995.0,Port to dealer,False,,JTJAAAAB3PA010160,Sheehy Lexus of Annapolis
-2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB3PA010210,"Lexus of Concord, LLC"
+2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA010059,Prestige Lexus of Ramsey
+2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,2995.0,66995.0,At dealer,False,,JTJAAAAB3PA010160,Sheehy Lexus of Annapolis
+2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB3PA010319,Ira Lexus
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA010322,Keyes Lexus of Valencia
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB3PA010465,Ray Catena Lexus
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB3PA010532,Parker Lexus
+2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB3PA010546,Lexus of Bellevue
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA010675,Lexus Carlsbad
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA010689,"Lexus of Concord, LLC"
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB3PA010692,Lexus of Pleasanton
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB3PA010871,Temecula Valley Lexus
+2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB3PA010966,Haldeman Lexus of Princeton
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA010997,Lexus of Glendale
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB3PA011020,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,1513.0,60013.0,Port to dealer,False,,JTJAAAAB3PA011129,Lexus of Marin
-2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB3PA011146,Lexus of Serramonte
+2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB3PA011146,Lexus of Serramonte
+2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB3PA011485,Keyes Lexus
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB4PA003492,Parker Lexus
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,1.0,58501.0,At dealer,False,,JTJAAAAB4PA003735,Lexus of North Hills
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB4PA003881,Rallye Lexus
@@ -474,7 +481,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB4PA009812,Lexus of Glendale
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB4PA009924,Stevinson Lexus of Frederick
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB4PA010104,Lexus of Glendale
-2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB4PA010118,Westside Lexus
+2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB4PA010118,Westside Lexus
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB4PA010135,Newport Lexus
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB4PA010152,Longo Lexus
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB4PA010233,Bell Lexus North Scottsdale
@@ -487,9 +494,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB4PA010717,Keyes Lexus
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB4PA010751,Lexus of Glendale
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB4PA010779,Lexus of Oxnard
-2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB4PA011088,Lexus of Westminster
+2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB4PA010913,Lexus of Glendale
+2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB4PA011088,Lexus of Westminster
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB4PA011141,Keyes Lexus
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB4PA011186,Lexus Escondido
+2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB4PA011592,Newport Lexus
+2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB4PA011852,Lexus of Greenwood Village
+2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB4PA011995,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,59740,0.0,59740.0,At dealer,False,Available,JTJAAAAB5PA002576,Serra Lexus Lansing
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB5PA002951,DARCARS Lexus of Greenwich
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB5PA003369,Valley Lexus
@@ -514,7 +525,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB5PA006661,Herb Chambers Lexus of Hingham
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB5PA006708,South County Lexus at Mission Viejo
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB5PA006739,Lexus of Woodland Hills
-2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB5PA006742,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA006756,Lexus of Santa Barbara
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB5PA006885,Lexus of Colorado Springs
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB5PA006899,Nalley Lexus-Smyrna
@@ -543,7 +553,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA008023,Shottenkirk Desert Lexus
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB5PA008054,Lexus of Orange County
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA008118,Lexus of Colorado Springs
-2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB5PA008149,DARCARS Lexus of Silver Spring
+2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA008149,DARCARS Lexus of Silver Spring
 2023,RZ 450e PREMIUM,Ether and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB5PA008314,Longo Lexus
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA008362,Lexus of Oxnard
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA008426,DARCARS Lexus of Greenwich
@@ -554,7 +564,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB5PA008572,Temecula Valley Lexus
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB5PA008586,Lexus of Glendale
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB5PA008653,Lexus of Santa Barbara
-2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,True,DealerHold,JTJAAAAB5PA008703,Sterling McCall Lexus
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA008782,Herb Chambers Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA008796,Lexus of Freeport
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,1513.0,60013.0,At dealer,False,,JTJAAAAB5PA008832,Lexus of Marin
@@ -562,7 +571,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB5PA008930,Lexus Santa Monica
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB5PA008944,Herb Chambers Lexus of Hingham
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA008961,Shottenkirk Desert Lexus
-2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB5PA009012,Lexus of Bridgewater
+2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA009012,Lexus of Bridgewater
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB5PA009060,Newport Lexus
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA009124,South County Lexus at Mission Viejo
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB5PA009169,Lexus of Brooklyn
@@ -578,11 +587,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB5PA009561,Lexus San Diego
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB5PA009592,Lexus of Pleasanton
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB5PA009673,Lexus of Santa Barbara
-2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB5PA009690,McGrath Lexus of Chicago
+2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA009690,McGrath Lexus of Chicago
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA009768,Freeman Lexus
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB5PA009835,"Lexus of Concord, LLC"
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB5PA009849,Longo Lexus
-2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB5PA009916,Stevinson Lexus of Frederick
+2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB5PA009916,Stevinson Lexus of Frederick
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB5PA009950,Keyes Lexus
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB5PA009978,Keyes Lexus
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB5PA009981,Lexus of Greenwood Village
@@ -598,6 +607,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB5PA010693,Lexus Santa Monica
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB5PA010712,Lexus of Serramonte
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB5PA010760,Jim Falk Lexus of Beverly Hills
+2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB5PA010807,New Country Lexus of Great Neck
+2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB5PA010872,Eskridge Lexus of Oklahoma City
+2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB5PA011178,Lexus of Glendale
+2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB5PA011374,Keyes Lexus
+2023,RZ 450e PREMIUM,Ether and Black Onyx,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB5PA011567,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB5PA011617,Lexus Stevens Creek
 2023,RZ 450e PREMIUM,Ether,AWD,59740,0.0,59740.0,At dealer,False,Available,JTJAAAAB6PA002716,Lexus of Orange Park
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB6PA003199,Lexus of Thousand Oaks
@@ -625,7 +639,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Ether,AWD,59740,0.0,59740.0,At dealer,False,Available,JTJAAAAB6PA006829,Park Place Lexus Grapevine
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB6PA006877,Lexus of Serramonte
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB6PA006894,Lexus of Serramonte
-2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB6PA006992,Herb Chambers Lexus
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB6PA007026,Lexus of Thousand Oaks
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB6PA007043,Putnam Lexus
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB6PA007060,Longo Lexus
@@ -666,7 +679,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB6PA008709,New Country Lexus of Latham
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB6PA008791,DARCARS Lexus of Englewood
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB6PA008841,Lexus El Cajon
-2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB6PA008905,DARCARS Lexus of Englewood
+2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB6PA008905,DARCARS Lexus of Englewood
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB6PA008970,Longo Lexus
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB6PA008984,South Bay Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB6PA009049,Lexus of Wayzata
@@ -710,11 +723,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB6PA010475,Larry H. Miller Lexus Murray
 2023,RZ 450e LUXURY,Ether,AWD,64000,1513.0,65513.0,Port to dealer,False,,JTJAAAAB6PA010556,Lexus of Marin
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB6PA010668,Lexus Santa Monica
+2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB6PA010699,DARCARS Lexus of Mt. Kisco
+2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,1144.0,59644.0,Port to dealer,False,DealerHold,JTJAAAAB6PA010752,Lexus of Warwick
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB6PA010766,Prestige Lexus of Ramsey
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB6PA010900,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB6PA010914,Tustin Lexus
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB6PA010976,Price LeBlanc Lexus
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB6PA011061,DARCARS Lexus of Silver Spring
+2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB6PA011349,South County Lexus at Mission Viejo
+2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB6PA011383,Lexus Escondido
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB6PA011416,Tustin Lexus
 2023,RZ 450e PREMIUM,Caviar,AWD,59740,0.0,59740.0,At dealer,False,Available,JTJAAAAB7PA002286,Lexus of Maplewood
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB7PA003003,McGrath Lexus of Chicago
@@ -757,16 +774,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA007925,Lexus of Woodland Hills
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB7PA007939,Lexus of Oxnard
 2023,RZ 450e PREMIUM,Ether and Black Onyx,AWD,59740,0.0,59740.0,At dealer,False,Available,JTJAAAAB7PA007956,Lexus of Maplewood
-2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA008010,Stevinson Lexus of Frederick
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB7PA008069,Lexus Carlsbad
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB7PA008105,Nalley Lexus - Roswell
-2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA008136,Putnam Lexus
+2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB7PA008136,Putnam Lexus
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB7PA008153,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA008203,Putnam Lexus
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB7PA008248,Sewell Lexus of Ft. Worth
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA008427,Crown Lexus
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB7PA008587,South Bay Lexus
-2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB7PA008685,Lexus of Orlando
+2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA008685,Lexus of Orlando
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB7PA008699,Lexus San Diego
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA008718,DARCARS Lexus of Englewood
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB7PA008749,Putnam Lexus
@@ -776,7 +792,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB7PA008864,Lexus of Jacksonville
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA008881,Coliseum Lexus of Oakland
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB7PA008900,Lexus of Thousand Oaks
-2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,Available,JTJAAAAB7PA008928,Lexus of Northborough
+2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB7PA008928,Lexus of Northborough
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB7PA008931,Sewell Lexus of Ft. Worth
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB7PA009061,Lexus of Mobile
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB7PA009089,Ray Catena Lexus of White Plains
@@ -786,11 +802,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA009223,Haldeman Lexus of Princeton
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA009268,Fresno Lexus
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA009271,Lexus of Watertown
-2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB7PA009304,Stevinson Lexus of Frederick
+2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB7PA009304,Stevinson Lexus of Frederick
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB7PA009321,Lexus of Clearwater
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB7PA009433,Fresno Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA009478,Lexus of North Hills
-2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB7PA009531,Lexus of Chester Springs
+2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA009531,Lexus of Chester Springs
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA009612,Lexus of Colorado Springs
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA009626,Koons Lexus of Wilmington
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA009643,Lexus of North Miami
@@ -813,19 +829,20 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB7PA010405,DARCARS Lexus of Mt. Kisco
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA010436,Lexus of Pleasanton
 2023,RZ 450e LUXURY,Iridium,AWD,64000,1513.0,65513.0,Port to dealer,False,,JTJAAAAB7PA010503,Lexus of Marin
-2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB7PA010548,Lexus of Bellevue
+2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB7PA010548,Lexus of Bellevue
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB7PA010565,Lexus Stevens Creek
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB7PA010646,Longo Lexus
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB7PA010744,Herb Chambers Lexus
-2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB7PA010761,South Bay Lexus
+2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA010761,South Bay Lexus
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA010775,Lexus El Cajon
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB7PA010937,Temecula Valley Lexus
+2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB7PA010999,Haldeman Lexus of Princeton
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA011005,Lexus of Cerritos
-2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB7PA011067,Motor City Lexus of Bakersfield
+2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB7PA011067,Motor City Lexus of Bakersfield
+2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB7PA011344,Lexus of Woodland Hills
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB7PA011540,Lexus of Riverside
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB7PA011683,Lexus of Glendale
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB8PA000403,Hennessy Lexus of Atlanta
-2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB8PA003012,South County Lexus at Mission Viejo
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB8PA003656,Haldeman Lexus of Princeton
 2023,RZ 450e PREMIUM,Ether and Black Onyx,AWD,58500,1.0,58501.0,At dealer,False,Available,JTJAAAAB8PA003821,Rohrich Lexus
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,59740,0.0,59740.0,Port to dealer,False,DealerHold,JTJAAAAB8PA004726,Lexus of Sarasota
@@ -838,7 +855,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB8PA005889,Stoler Lexus
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB8PA005939,Lexus of Cerritos
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB8PA006122,Lexus of Wayzata
-2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB8PA006136,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB8PA006167,Hoffman Lexus
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB8PA006170,Lexus of Tulsa
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB8PA006198,Lexus of Pleasanton
@@ -855,9 +871,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB8PA006816,Lexus of Sacramento
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB8PA006900,Lexus of Westminster
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB8PA007061,Lexus Escondido
-2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,Available,JTJAAAAB8PA007254,Park Place Lexus Grapevine
+2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB8PA007254,Park Place Lexus Grapevine
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB8PA007271,"Lexus of Concord, LLC"
-2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB8PA007285,Newport Lexus
+2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB8PA007285,Tustin Lexus
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB8PA007450,Keyes Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB8PA007609,Lexus of North Hills
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB8PA007626,Bobby Rahal Lexus of Lancaster County
@@ -910,21 +926,24 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB8PA010011,Lexus of Bridgewater
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB8PA010221,Lexus of Route 10
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB8PA010235,Bob Johnson Lexus
-2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB8PA010266,Lexus of Serramonte
+2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB8PA010266,Lexus of Serramonte
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB8PA010297,Lexus of Tucson at the Auto Mall
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB8PA010302,Lexus of Tucson
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB8PA010378,Earnhardt Lexus
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB8PA010428,Lexus Stevens Creek
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,1144.0,59644.0,Port to dealer,False,DealerHold,JTJAAAAB8PA010459,Lexus of Warwick
-2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB8PA010557,Crown Lexus
+2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB8PA010557,Crown Lexus
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB8PA010591,Lexus of Fremont
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB8PA010607,Lexus of Pleasanton
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB8PA010638,Lexus of Smithtown
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB8PA010770,Putnam Lexus
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB8PA010798,Lexus Stevens Creek
+2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB8PA010977,Lexus of Roseville
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB8PA011028,Lexus of Cerritos
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB8PA011045,"Lexus of Concord, LLC"
+2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB8PA011112,Len Stoler Lexus
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB8PA011305,Lexus of Cerritos
+2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB8PA011398,Lexus of Glendale
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB8PA011661,Keyes Lexus
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB8PA012003,Keyes Lexus
 2023,RZ 450e PREMIUM,Ether and Black Onyx,AWD,58500,2995.0,61495.0,At dealer,False,,JTJAAAAB9PA004699,Sheehy Lexus of Annapolis
@@ -951,10 +970,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB9PA006761,Crown Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,2995.0,66995.0,At dealer,False,,JTJAAAAB9PA006811,Sheehy Lexus of Annapolis
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB9PA006923,Lexus Escondido
-2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB9PA006999,DARCARS Lexus of Mt. Kisco
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB9PA007019,South Bay Lexus
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB9PA007182,Jim Falk Lexus of Beverly Hills
-2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB9PA007263,DARCARS Lexus of Greenwich
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB9PA007294,Lexus of Freeport
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB9PA007487,Hendrick Lexus Kansas City
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB9PA007599,Lexus of Tucson
@@ -979,7 +996,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB9PA009028,Longo Lexus
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB9PA009109,Lexus Santa Monica
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB9PA009112,Lexus of Fremont
-2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB9PA009160,Balise Lexus
+2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAAB9PA009160,Balise Lexus
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB9PA009188,Lexus of Glendale
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAAB9PA009224,South County Lexus at Mission Viejo
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB9PA009269,Keyes Lexus
@@ -989,14 +1006,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB9PA009420,Johnson Lexus of Durham
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB9PA009434,Lexus Stevens Creek
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,1513.0,60013.0,At dealer,False,,JTJAAAAB9PA009496,Lexus of Marin
-2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAAB9PA009515,Lexus of Fremont
 2023,RZ 450e LUXURY,Iridium,AWD,64000,2342.0,66342.0,Port to dealer,False,DealerHold,JTJAAAAB9PA009627,"Jim Hudson Lexus, Columbia"
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB9PA009630,Hennessy Lexus of Gwinnett
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB9PA009689,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB9PA009692,Flow Lexus of Greensboro
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB9PA009708,Ray Catena Lexus of Monmouth
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB9PA009725,Lexus of Sacramento
-2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB9PA009806,McGrath Lexus of Westmont
+2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB9PA009806,McGrath Lexus of Westmont
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB9PA009823,Newport Lexus
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB9PA009837,Tustin Lexus
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAAB9PA009997,Johnson Lexus of Durham
@@ -1013,9 +1029,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB9PA010440,Lexus Monterey Peninsula
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAAB9PA010468,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB9PA010471,Larry H. Miller Lexus of Lindon
+2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB9PA010535,Lexus of Edison
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB9PA010583,Lexus Stevens Creek
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAAB9PA010731,Lexus of Fremont
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAAB9PA010745,Lexus Santa Monica
+2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB9PA010776,Ray Catena Lexus of Monmouth
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB9PA010910,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB9PA010969,Lexus of Towson
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB9PA010972,Lexus Escondido
@@ -1024,6 +1042,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB9PA011152,Lexus Stevens Creek
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB9PA011202,Lexus Escondido
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAAB9PA011541,Lexus of Woodland Hills
+2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB9PA011782,Newport Lexus
+2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAAB9PA011796,Longo Lexus
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA003710,Lexus of Cerritos
 2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAABXPA004212,Shottenkirk Desert Lexus
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAABXPA004274,Stevinson Lexus of Frederick
@@ -1046,7 +1066,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA006316,Lexus of Cerritos
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA006557,Rallye Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAABXPA006588,Jim Falk Lexus of Beverly Hills
-2023,RZ 450e PREMIUM,Cloudburst Gray and Black Onyx,AWD,59740,0.0,59740.0,At dealer,False,DealerHold,JTJAAAABXPA006591,Northside Lexus
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA006624,DARCARS Lexus of Greenwich
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA006641,New Country Lexus of Great Neck
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA006669,Shottenkirk Desert Lexus
@@ -1071,16 +1090,17 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA007644,Motorworld Lexus
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA007692,Lexus of Sarasota
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAABXPA007725,Lexus Santa Monica
-2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAABXPA007806,Lexus of Greenville
+2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA007806,Lexus of Greenville
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA007854,Lexus of Westminster
 2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAABXPA008020,Lexus Carlsbad
-2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAABXPA008065,Park Place Lexus Grapevine
+2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAABXPA008065,Park Place Lexus Grapevine
 2023,RZ 450e PREMIUM,Ether and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAABXPA008115,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA008129,Lexus San Diego
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA008146,Lexus of Serramonte
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA008230,Lexus of Freeport
-2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,Port to dealer,False,DealerHold,JTJAAAABXPA008258,Lexus of Albuquerque
+2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAABXPA008258,Lexus of Albuquerque
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA008406,Lexus of Sacramento
+2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAABXPA008504,Findlay Lexus of Spokane
 2023,RZ 450e PREMIUM,Ether,AWD,59740,0.0,59740.0,At dealer,False,Available,JTJAAAABXPA008583,Lexus of Wayzata
 2023,RZ 450e PREMIUM,Ether and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA008602,Tustin Lexus
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA008700,Motor City Lexus of Bakersfield
@@ -1092,14 +1112,13 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA008969,Putnam Lexus
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,Available,JTJAAAABXPA008972,Lexus of Fremont
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA009068,Keyes Lexus of Valencia
-2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAABXPA009071,Lexus of Milwaukee
+2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,Available,JTJAAAABXPA009071,Lexus of Milwaukee
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA009099,Keyes Lexus
 2023,RZ 450e PREMIUM,Ether and Black Onyx,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA009135,Fresno Lexus
 2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA009152,Lexus of Pleasanton
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA009183,Lexus of Route 10
-2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAABXPA009202,Lexus of Serramonte
+2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA009202,Lexus of Serramonte
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAABXPA009250,North Park Lexus at Dominion
-2023,RZ 450e PREMIUM,Eminent White Pearl,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA009300,Lexus of Roseville
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAABXPA009328,Lexus of Pembroke Pines
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA009331,Fresno Lexus
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,At dealer,False,,JTJAAAABXPA009359,Lexus of Thousand Oaks
@@ -1113,7 +1132,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Caviar,AWD,58500,0.0,58500.0,At dealer,False,DealerHold,JTJAAAABXPA009877,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e LUXURY,Ether and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,Available,JTJAAAABXPA009927,Lexus of Naperville
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA009944,South Bay Lexus
-2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA009989,Crown Lexus
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,Port to dealer,False,DealerHold,JTJAAAABXPA010026,David McDermott Lexus of New Haven
 2023,RZ 450e LUXURY,Caviar,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA010060,Lexus El Cajon
 2023,RZ 450e LUXURY,Ether,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA010074,Lexus of Serramonte
@@ -1129,6 +1147,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e LUXURY,Cloudburst Gray and Black Onyx,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAABXPA010530,Rallye Lexus
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAABXPA010575,Freeman Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,DealerHold,JTJAAAABXPA010608,Jim Falk Lexus of Beverly Hills
+2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAABXPA010687,DARCARS Lexus of Englewood
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA010690,Lexus of Glendale
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAABXPA010723,Putnam Lexus
 2023,RZ 450e LUXURY,Cloudburst Gray,AWD,64000,0.0,64000.0,At dealer,False,,JTJAAAABXPA010821,South County Lexus at Mission Viejo
@@ -1139,4 +1158,5 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RZ 450e PREMIUM,Cloudburst Gray,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAABXPA011175,Putnam Lexus
 2023,RZ 450e PREMIUM,Ether,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAABXPA011242,Lexus of Greenwood Village
 2023,RZ 450e LUXURY,Eminent White Pearl,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAABXPA011256,Lexus of Cerritos
+2023,RZ 450e PREMIUM,Iridium,AWD,58500,0.0,58500.0,Port to dealer,False,,JTJAAAABXPA011516,Jim Falk Lexus of Beverly Hills
 2023,RZ 450e LUXURY,Iridium,AWD,64000,0.0,64000.0,Port to dealer,False,,JTJAAAABXPA011595,Newport Lexus

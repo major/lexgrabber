@@ -1,19 +1,22 @@
 Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Status,VIN,Dealer
 2023,LX 600 Premium,Eminent White Pearl,4WD,98765,0.0,98765.0,Port to dealer,False,DealerHold,JTJAB7CX0P4031538,Westside Lexus
 2023,LX 600 Premium,Eminent White Pearl,4WD,98765,0.0,98765.0,Port to dealer,False,DealerHold,JTJAB7CX1P4030513,Lexus of Lehigh Valley
-2023,LX 600 Premium,Eminent White Pearl,4WD,98765,0.0,98765.0,Port to dealer,False,DealerHold,JTJAB7CX1P4031578,Park Place Lexus Plano
+2023,LX 600 Premium,Eminent White Pearl,4WD,98765,0.0,98765.0,At dealer,False,DealerHold,JTJAB7CX1P4031578,Park Place Lexus Plano
 2023,LX 600 Premium,Manganese Luster,4WD,98765,0.0,98765.0,At dealer,False,Available,JTJAB7CX2P4028530,Ray Catena Lexus of Monmouth
-2023,LX 600 Premium,Nori Green Pearl,4WD,98765,0.0,98765.0,Port to dealer,False,DealerHold,JTJAB7CX2P4030410,Westside Lexus
+2023,LX 600 Premium,Nori Green Pearl,4WD,98765,0.0,98765.0,At dealer,False,DealerHold,JTJAB7CX2P4030410,Westside Lexus
+2023,LX 600 Premium,Eminent White Pearl,4WD,98765,0.0,98765.0,Port to dealer,False,DealerHold,JTJAB7CX2P4031329,Bob Johnson Lexus
 2023,LX 600 Premium,Caviar,4WD,98765,0.0,98765.0,Port to dealer,False,DealerHold,JTJAB7CX2P4031475,Lexus of Montgomery
 2023,LX 600 Premium,Atomic Silver,4WD,98765,0.0,98765.0,At dealer,False,DealerHold,JTJAB7CX3P4029525,Len Stoler Lexus
 2023,LX 600 Premium,Atomic Silver,4WD,98765,0.0,98765.0,At dealer,False,DealerHold,JTJAB7CX3P4029704,Lexus of Thousand Oaks
 2023,LX 600 Premium,Manganese Luster,4WD,98765,0.0,98765.0,Port to dealer,False,,JTJAB7CX4P4031073,Ray Catena Lexus of Monmouth
+2023,LX 600 Premium,Atomic Silver,4WD,97265,0.0,97265.0,At dealer,False,DealerHold,JTJAB7CX6P4026568,Lexus of Cherry Hill
 2023,LX 600 Premium,Atomic Silver,4WD,98765,0.0,98765.0,At dealer,False,DealerHold,JTJAB7CX6P4030250,Wilkie Lexus
-2023,LX 600 Premium,Eminent White Pearl,4WD,98765,0.0,98765.0,Port to dealer,False,DealerHold,JTJAB7CX6P4030314,North Park Lexus Rio Grande Valley
+2023,LX 600 Premium,Eminent White Pearl,4WD,98765,0.0,98765.0,At dealer,False,DealerHold,JTJAB7CX6P4030314,North Park Lexus Rio Grande Valley
 2023,LX 600 Premium,Manganese Luster,4WD,98765,0.0,98765.0,At dealer,False,DealerHold,JTJAB7CX6P4030765,Hennessy Lexus of Gwinnett
-2023,LX 600 Premium,Atomic Silver,4WD,98765,0.0,98765.0,Port to dealer,False,,JTJAB7CX7P4030807,Valley Lexus
+2023,LX 600 Premium,Atomic Silver,4WD,98765,0.0,98765.0,At dealer,False,,JTJAB7CX7P4030807,Valley Lexus
 2023,LX 600 Premium,Nori Green Pearl,4WD,98765,0.0,98765.0,Port to dealer,False,DealerHold,JTJAB7CX7P4030984,North Park Lexus of San Antonio
-2023,LX 600 Premium,Eminent White Pearl,4WD,98765,0.0,98765.0,At dealer,False,,JTJAB7CX7P4031049,Lexus of Tampa Bay
+2023,LX 600 Premium,Eminent White Pearl,4WD,98765,0.0,98765.0,At dealer,False,DealerHold,JTJAB7CX7P4031049,Lexus of Tampa Bay
+2023,LX 600 Premium,Manganese Luster,4WD,98765,0.0,98765.0,Port to dealer,False,,JTJAB7CX7P4031777,Lexus of Winter Park
 2023,LX 600 Premium,Caviar,4WD,98765,0.0,98765.0,At dealer,False,DealerHold,JTJAB7CX8P4030332,Len Stoler Lexus
 2023,LX 600 Premium,Eminent White Pearl,4WD,98765,0.0,98765.0,Port to dealer,False,DealerHold,JTJAB7CX8P4031268,Nalley Lexus - Roswell
 2023,LX 600 Premium,Caviar,4WD,98765,0.0,98765.0,At dealer,False,DealerHold,JTJAB7CX9P4030436,Northside Lexus
@@ -23,70 +26,74 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LX 600 Luxury,Nori Green Pearl,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX0P4030058,Lexus of Pembroke Pines
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX0P4030304,Performance Lexus RiverCenter
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX0P4030447,Lexus of Akron/Canton
-2023,LX 600 Luxury,Nori Green Pearl,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX0P4030724,Northside Lexus
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,Available,JTJGB7CX0P4030741,Lexus of Huntsville
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX0P4030755,Peterson Lexus
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX0P4030934,Northside Lexus
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX0P4031226,Lexus of Jacksonville
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX0P4031310,Westside Lexus
+2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX0P4031419,Lexus of Brooklyn
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX0P4031422,Lexus of Orlando
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX0P4031551,Westside Lexus
 2023,LX 600 Luxury,Nori Green Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX0P4031727,Park Place Lexus Plano
+2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX0P4031789,Lexus of Knoxville
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX1P4029243,Lexus of Maplewood
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,At dealer,False,,JTJGB7CX1P4029601,Herrin-Gear Lexus
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX1P4029727,Hendrick Lexus Charlotte
-2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,2197.0,108962.0,Port to dealer,False,DealerHold,JTJGB7CX1P4030067,Smart Lexus of Quad Cities
+2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,2197.0,108962.0,At dealer,False,DealerHold,JTJGB7CX1P4030067,Smart Lexus of Quad Cities
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX1P4030165,McGrath Lexus of Chicago
-2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX1P4030408,Hoffman Lexus
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX1P4030506,Reliable Lexus
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX1P4030523,McGrath Lexus of Westmont
-2023,LX 600 Luxury,Nori Green Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX1P4030568,North Park Lexus at Dominion
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX1P4030571,Hendrick Lexus Charlotte
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX1P4030800,Putnam Lexus
-2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX1P4030876,Earnhardt Lexus
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX1P4030893,Hendrick Lexus Kansas City North
-2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,Available,JTJGB7CX1P4030926,Ira Lexus of Manchester
+2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX1P4030926,Ira Lexus of Manchester
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX1P4031428,McGrath Lexus of Chicago
 2023,LX 600 Luxury,Nori Green Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX1P4031509,Classic Lexus
+2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX1P4031784,Lexus of Melbourne
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX1P4032272,Fox Lexus of El Paso
-2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX2P4029090,Lexus of Cherry Hill
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX2P4029381,Lexus of Wayzata
-2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX2P4029686,Burdick Lexus
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX2P4029719,Lexus of Kingsport
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX2P4029932,DARCARS Lexus of Greenwich
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX2P4029977,Nalley Lexus-Smyrna
-2023,LX 600 Luxury,Atomic Silver,4WD,106765,895.0,107660.0,Port to dealer,False,DealerHold,JTJGB7CX2P4030109,Lexus of Chattanooga
+2023,LX 600 Luxury,Atomic Silver,4WD,106765,895.0,107660.0,At dealer,False,DealerHold,JTJGB7CX2P4030109,Lexus of Chattanooga
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX2P4030174,Lexus of Milwaukee
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX2P4030322,Lexus of Arlington
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX2P4030904,Freeman Lexus
 2023,LX 600 Luxury,Nori Green Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX2P4030966,Eskridge Lexus of Oklahoma City
-2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX2P4031017,Rohrich Lexus
+2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX2P4031017,Rohrich Lexus
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX2P4031034,Scanlon Lexus of Fort Myers
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX2P4031129,Lexus of Henderson
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX2P4031289,Park Place Lexus Grapevine
+2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX2P4031616,New Country Lexus of Great Neck
+2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX2P4031776,Lexus of North Miami
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX2P4031857,Eskridge Lexus of Oklahoma City
+2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX2P4032023,Lexus of Huntsville
+2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX3P4029096,Jim White Lexus of Toledo
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX3P4030247,Butler Lexus
-2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX3P4030457,North Park Lexus of San Antonio
+2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,At dealer,True,DealerHold,JTJGB7CX3P4030457,North Park Lexus of San Antonio
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX3P4030488,Lexus of Brooklyn
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX3P4030605,Ray Catena Lexus
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX3P4030944,Park Place Lexus Grapevine
+2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX3P4031494,Rohrich Lexus
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX3P4031625,Hendrick Lexus Charlotte
 2023,LX 600 Luxury,Nori Green Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX3P4031754,Sterling McCall Lexus
+2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX3P4031981,Lexus of Wesley Chapel
+2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX3P4032175,Johnson Lexus of Raleigh
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX3P4032225,Earnhardt Lexus
-2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX4P4029530,Ray Catena Lexus
+2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX4P4029530,Ray Catena Lexus
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX4P4030225,Cavender Lexus of Lubbock
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX4P4030659,Lexus of Rockford
+2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX4P4030872,Parker Lexus
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX4P4030922,Sterling McCall Lexus Clear Lake
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX4P4030998,North Park Lexus Rio Grande Valley
-2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX4P4031181,Jordan Lexus of Mishawaka
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX4P4031424,Lexus of Kingsport
-2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,True,DealerHold,JTJGB7CX4P4031648,Sewell Lexus of Ft. Worth
+2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX4P4032007,Hennessy Lexus of Atlanta
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX4P4032086,Westside Lexus
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,1513.0,108278.0,At dealer,False,,JTJGB7CX5P4029231,Lexus of Marin
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,At dealer,True,DealerHold,JTJGB7CX5P4029715,North Park Lexus of San Antonio
-2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX5P4029746,Lexus of Knoxville
+2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX5P4029746,Lexus of Knoxville
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX5P4030136,Lexus of Shreveport - Bossier City
-2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX5P4030394,Lexus of Melbourne
+2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,At dealer,False,Available,JTJGB7CX5P4030394,Lexus of Pembroke Pines
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX5P4030430,Lexus of Kingsport
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX5P4030542,Sterling McCall Lexus Clear Lake
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,895.0,107660.0,Port to dealer,False,DealerHold,JTJGB7CX5P4030671,Lexus of Montgomery
@@ -94,41 +101,37 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX5P4030850,Haldeman Lexus of Princeton
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX5P4031156,Lexus of Orange Park
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX5P4031352,Germain Lexus of Naples
-2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX6P4029061,Price LeBlanc Lexus
-2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX6P4029383,Lexus of Brooklyn
-2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX6P4029562,New Country Lexus of Latham
-2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX6P4029707,Bergstrom Lexus
+2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX6P4029304,Tustin Lexus
+2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX6P4029562,New Country Lexus of Latham
+2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX6P4029707,Bergstrom Lexus
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX6P4030596,Prestige Lexus of Ramsey
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,24995.0,131760.0,At dealer,False,,JTJGB7CX6P4030677,Sheehy Lexus of Annapolis
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,At dealer,False,,JTJGB7CX6P4030825,Lexus of Tampa Bay
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX6P4030937,Sterling McCall Lexus
-2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX6P4030985,Lexus of Shreveport - Bossier City
+2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX6P4030985,Lexus of Shreveport - Bossier City
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX6P4031022,Westside Lexus
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX6P4031148,Lexus of Milwaukee
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX6P4031490,Lexus of Tampa Bay
+2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX6P4031604,Priority Lexus Newport News
+2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX6P4031800,Nalley Lexus-Smyrna
 2023,LX 600 Luxury,Nori Green Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX6P4031831,Westside Lexus
 2023,LX 600 Luxury,Eminent White Pearl,4WD,105265,0.0,105265.0,At dealer,False,DealerHold,JTJGB7CX7P4026136,Lexus of Shreveport - Bossier City
-2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX7P4028369,Lexus of Pembroke Pines
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,At dealer,False,,JTJGB7CX7P4030025,Herrin-Gear Lexus
-2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,At dealer,True,DealerHold,JTJGB7CX7P4030106,Herb Chambers Lexus of Hingham
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,At dealer,False,,JTJGB7CX7P4030252,Tri-County Lexus
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,24995.0,131760.0,At dealer,False,Available,JTJGB7CX7P4030350,Sheehy Lexus of Annapolis
 2023,LX 600 Luxury,Nori Green Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX7P4030557,Scanlon Lexus of Fort Myers
-2023,LX 600 Luxury,Atomic Silver,4WD,106765,299.0,107064.0,Port to dealer,False,DealerHold,JTJGB7CX7P4030817,Lexus of Memphis
+2023,LX 600 Luxury,Atomic Silver,4WD,106765,299.0,107064.0,At dealer,False,DealerHold,JTJGB7CX7P4030817,Lexus of Memphis
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX7P4030980,Hennessy Lexus of Gwinnett
-2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,At dealer,False,,JTJGB7CX7P4031014,Lexus El Cajon
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX7P4031093,Butler Lexus
-2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,At dealer,False,Available,JTJGB7CX8P4029322,Lexus of Dayton
-2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,At dealer,False,,JTJGB7CX8P4029577,Lexus of North Miami
+2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX7P4031465,Lexus of Manhattan
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,At dealer,False,Available,JTJGB7CX8P4030082,Ray Catena Lexus of Monmouth
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX8P4030714,Germain Lexus of Naples
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX8P4030843,Lexus Santa Monica
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX8P4031068,Ray Catena Lexus of Freehold
-2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,True,DealerHold,JTJGB7CX8P4031345,North Park Lexus of San Antonio
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX8P4031457,Lexus of Wayzata
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX8P4031586,Park Place Lexus Grapevine
+2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX8P4031720,Hennessy Lexus of Gwinnett
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX9P4030270,Nalley Lexus - Roswell
-2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CX9P4030348,Lexus of Orange Park
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX9P4030379,Lexus of Bellevue
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,At dealer,False,,JTJGB7CX9P4030463,DARCARS Lexus of Englewood
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX9P4030561,Lexus of Edison
@@ -139,23 +142,22 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,895.0,107660.0,Port to dealer,False,DealerHold,JTJGB7CX9P4031662,Lexus of Chattanooga
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX9P4031726,"Lexus of Concord, LLC"
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX9P4031922,Park Place Lexus Plano
+2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CX9P4031967,Lexus of Jacksonville
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CX9P4032097,Fox Lexus of El Paso
-2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CXXP4029533,Ira Lexus
+2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CXXP4029533,Ira Lexus
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CXXP4029838,Bob Johnson Lexus
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CXXP4029855,DARCARS Lexus of Mt. Kisco
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CXXP4029886,Lexus of Maplewood
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,At dealer,False,,JTJGB7CXXP4029998,Lexus of Colorado Springs
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CXXP4030049,Herb Chambers Lexus
-2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CXXP4030147,Johnson Lexus of Durham
 2023,LX 600 Luxury,Nori Green Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,Available,JTJGB7CXXP4030150,Lexus of Wayzata
-2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,At dealer,False,DealerHold,JTJGB7CXXP4030228,Lexus of Jacksonville
 2023,LX 600 Luxury,Caviar,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CXXP4030424,Thompson Lexus Doylestown
 2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CXXP4030813,North Park Lexus at Dominion
 2023,LX 600 Luxury,Eminent White Pearl,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CXXP4031055,Lexus of Tampa Bay
-2023,LX 600 Luxury,Manganese Luster,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CXXP4031959,South Bay Lexus
+2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,DealerHold,JTJGB7CXXP4031363,Bergstrom Lexus
 2023,LX 600 Luxury,Atomic Silver,4WD,106765,0.0,106765.0,Port to dealer,False,,JTJGB7CXXP4032125,Lexus Carlsbad
 2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,At dealer,False,DealerHold,JTJLBACX0P4029357,Lexus of Jacksonville
-2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,Port to dealer,False,Available,JTJLBACX0P4030640,Lexus of West Kendall
+2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX0P4030640,Lexus of West Kendall
 2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,At dealer,False,DealerHold,JTJLBACX0P4030721,Park Place Lexus Plano
 2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX0P4032145,Park Place Lexus Plano
 2023,LX 600 Ultra Luxury,Nori Green Pearl,4WD,129405,0.0,129405.0,Port to dealer,False,DealerHold,JTJLBACX1P4027195,Willis Lexus
@@ -166,47 +168,53 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,At dealer,False,,JTJLBACX2P4029540,Ourisman Lexus of Rockville
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,At dealer,False,,JTJLBACX2P4029747,Lexus of Orland
 2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,At dealer,False,Available,JTJLBACX2P4030039,Lexus of Tampa Bay
-2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,Port to dealer,False,,JTJLBACX2P4030462,Lexus of Winter Park
+2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,At dealer,False,,JTJLBACX2P4030462,Lexus of Winter Park
 2023,LX 600 Ultra Luxury,Nori Green Pearl,4WD,130905,0.0,130905.0,Port to dealer,False,,JTJLBACX2P4030588,Willis Lexus
+2023,LX 600 Ultra Luxury,Nori Green Pearl,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX2P4031305,Lexus of Greenville
+2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX2P4031319,Lexus of Greenville
+2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,Port to dealer,False,,JTJLBACX2P4031563,Lexus of Pembroke Pines
 2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,At dealer,False,DealerHold,JTJLBACX3P4028218,Lexus of Maplewood
 2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,At dealer,False,DealerHold,JTJLBACX3P4029675,Westside Lexus
 2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,At dealer,False,DealerHold,JTJLBACX3P4030017,Eskridge Lexus of Oklahoma City
-2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,Port to dealer,True,DealerHold,JTJLBACX3P4030132,JM Lexus
 2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,Port to dealer,False,,JTJLBACX3P4030163,Metro Lexus
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,At dealer,False,Available,JTJLBACX3P4030731,Fresno Lexus
 2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,Port to dealer,False,,JTJLBACX3P4031393,Butler Lexus of South Atlanta
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,Port to dealer,False,Available,JTJLBACX3P4031474,Hilton Head Lexus
+2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,Port to dealer,False,,JTJLBACX3P4031670,Lexus of Sarasota
 2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX4P4031211,Northside Lexus
-2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,Port to dealer,False,Available,JTJLBACX4P4031483,Park Place Lexus Grapevine
+2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX4P4031483,Park Place Lexus Grapevine
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,At dealer,False,DealerHold,JTJLBACX5P4029189,Superstition Springs Lexus
 2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,At dealer,False,,JTJLBACX6P4028939,Lexus of Colorado Springs
 2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,At dealer,False,DealerHold,JTJLBACX6P4029203,Prestige Lexus of Ramsey
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,At dealer,False,DealerHold,JTJLBACX6P4029783,Lexus of Peoria
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,At dealer,False,,JTJLBACX6P4030268,Lexus of Kendall
-2023,LX 600 Ultra Luxury,Atomic Silver,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX6P4030366,David McDermott Lexus of New Haven
+2023,LX 600 Ultra Luxury,Atomic Silver,4WD,130905,0.0,130905.0,At dealer,False,DealerHold,JTJLBACX6P4030366,David McDermott Lexus of New Haven
 2023,LX 600 Ultra Luxury,Atomic Silver,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX6P4030383,Hennessy Lexus of Gwinnett
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,Port to dealer,False,,JTJLBACX6P4030805,Lexus of Kendall
+2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,Port to dealer,False,,JTJLBACX6P4030870,Priority Lexus Newport News
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,Port to dealer,True,DealerHold,JTJLBACX6P4031078,Lexus of Pleasanton
-2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX6P4031162,Nalley Lexus - Roswell
 2023,LX 600 Ultra Luxury,Atomic Silver,4WD,130905,0.0,130905.0,Port to dealer,False,Available,JTJLBACX6P4031176,Park Place Lexus Grapevine
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,129405,0.0,129405.0,At dealer,False,DealerHold,JTJLBACX7P4025631,Lexus of Melbourne
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,At dealer,False,DealerHold,JTJLBACX7P4028254,Westside Lexus
-2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,At dealer,False,Available,JTJLBACX7P4028495,Sewell Lexus
-2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,Port to dealer,False,Available,JTJLBACX7P4028917,Balise Lexus
+2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,At dealer,False,Available,JTJLBACX7P4028917,Balise Lexus
 2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,At dealer,False,Available,JTJLBACX7P4029372,Lexus Escondido
 2023,LX 600 Ultra Luxury,Caviar,4WD,130905,299.0,131204.0,Port to dealer,False,DealerHold,JTJLBACX7P4029498,Spirit Lexus
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,At dealer,True,DealerHold,JTJLBACX7P4030375,Sterling McCall Lexus
-2023,LX 600 Ultra Luxury,Nori Green Pearl,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX7P4030540,Sterling McCall Lexus
+2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX7P4031932,Hennessy Lexus of Atlanta
+2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,Port to dealer,False,,JTJLBACX7P4032000,Lexus of Sarasota
 2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,At dealer,False,,JTJLBACX8P4029378,Lexus of Watertown
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,At dealer,False,DealerHold,JTJLBACX8P4029638,Hoffman Lexus
 2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,Port to dealer,False,,JTJLBACX8P4030739,Lexus of Orlando
+2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX8P4030935,McGrath Lexus of Chicago
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX8P4031406,"Jim Hudson Lexus, Augusta"
+2023,LX 600 Ultra Luxury,Atomic Silver,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX8P4031549,Flow Lexus of Winston-Salem
+2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX8P4032054,Lexus of Knoxville
 2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,At dealer,False,DealerHold,JTJLBACX9P4028725,Lexus Escondido
-2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,At dealer,False,DealerHold,JTJLBACX9P4029048,Metro Lexus
 2023,LX 600 Ultra Luxury,Atomic Silver,4WD,130905,0.0,130905.0,Port to dealer,False,Available,JTJLBACX9P4029860,Lexus of Tampa Bay
 2023,LX 600 Ultra Luxury,Manganese Luster,4WD,130905,0.0,130905.0,Port to dealer,False,,JTJLBACX9P4030426,New Country Lexus of Westport
 2023,LX 600 Ultra Luxury,Atomic Silver,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX9P4030989,Westside Lexus
 2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX9P4031110,Nalley Lexus - Roswell
+2023,LX 600 Ultra Luxury,Atomic Silver,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX9P4031608,Johnson Lexus of Durham
 2023,LX 600 Ultra Luxury,Eminent White Pearl,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACX9P4031821,Bell Lexus North Scottsdale
 2023,LX 600 Ultra Luxury,Manganese Luster,4WD,129405,0.0,129405.0,At dealer,False,DealerHold,JTJLBACXXP4023842,Len Stoler Lexus
 2023,LX 600 Ultra Luxury,Caviar,4WD,129405,299.0,129704.0,Port to dealer,False,DealerHold,JTJLBACXXP4027924,Spirit Lexus
@@ -216,85 +224,92 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,At dealer,False,Available,JTJLBACXXP4030452,Lexus of Watertown
 2023,LX 600 Ultra Luxury,Caviar,4WD,130905,0.0,130905.0,Port to dealer,False,DealerHold,JTJLBACXXP4031911,Park Place Lexus Plano
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX0P4030113,New Country Lexus of Latham
-2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX0P4030614,Lexus of Fremont
+2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,At dealer,True,DealerHold,JTJMB7CX0P4030614,Lexus of Fremont
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX0P4030841,Burdick Lexus
+2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX0P4031150,Balise Lexus
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX0P4031293,Earnhardt Lexus
+2023,LX 600 F SPORT HANDLING,Nori Green Pearl,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX0P4031603,Lexus of West Kendall
+2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX0P4031634,Ira Lexus of Manchester
 2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX0P4031892,Lexus Monterey Peninsula
-2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX0P4032265,Lexus of Cerritos
+2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX0P4032265,Lexus of Cerritos
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX0P4032721,Lexus of Roseville
 2023,LX 600 F SPORT HANDLING,Nori Green Pearl,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX1P4030458,Lexus of Knoxville
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX1P4030864,DARCARS Lexus of Mt. Kisco
-2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX1P4031741,Lexus Monterey Peninsula
+2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,Available,JTJMB7CX1P4031187,Chatham Parkway Lexus
+2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX1P4031528,Lexus of North Miami
+2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX1P4031710,DARCARS Lexus of Englewood
 2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX1P4032016,South County Lexus at Mission Viejo
+2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX1P4032193,Johnson Lexus of Raleigh
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,103525,0.0,103525.0,Port to dealer,False,Available,JTJMB7CX2P4027648,Lexus of Wayzata
 2023,LX 600 F SPORT HANDLING,Nori Green Pearl,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX2P4028377,Lexus of Knoxville
 2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX2P4029738,Lexus of Jacksonville
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX2P4029853,Lexus of Thousand Oaks
-2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX2P4030291,Balise Lexus
+2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,At dealer,False,Available,JTJMB7CX2P4030291,Balise Lexus
 2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX2P4030517,Coliseum Lexus of Oakland
-2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX2P4030680,Motorworld Lexus
+2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX2P4030680,Motorworld Lexus
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX2P4030856,Lexus of Colorado Springs
 2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX2P4031912,Fresno Lexus
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX2P4032381,Lexus of Cerritos
 2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX3P4029649,Lexus of Merrillville
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX3P4029666,Lexus of Wichita
-2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX3P4030056,Lexus of Sarasota
-2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX3P4030168,Lexus of Albuquerque
-2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,Port to dealer,True,DealerHold,JTJMB7CX3P4030509,Bell Lexus North Scottsdale
-2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX3P4030722,North Park Lexus Rio Grande Valley
+2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,At dealer,False,,JTJMB7CX3P4030056,Lexus of Sarasota
+2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX3P4030168,Lexus of Albuquerque
+2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX3P4030722,North Park Lexus Rio Grande Valley
 2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX3P4030879,Thompson Lexus Doylestown
 2023,LX 600 F SPORT HANDLING,Nori Green Pearl,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX3P4031160,Lexus of Wichita
 2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX3P4031403,Jim Falk Lexus of Beverly Hills
+2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX3P4031482,Bergstrom Lexus
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX3P4031580,Newport Lexus
-2023,LX 600 F SPORT HANDLING,Nori Green Pearl,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX3P4031644,Lexus of Sarasota
+2023,LX 600 F SPORT HANDLING,Nori Green Pearl,4WD,105025,0.0,105025.0,At dealer,False,,JTJMB7CX3P4031644,Lexus of Sarasota
 2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX3P4031868,Lexus of Shreveport - Bossier City
 2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX3P4032051,Lexus Carlsbad
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX3P4032132,Superstition Springs Lexus
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX3P4032387,Crown Lexus
-2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX3P4032776,"Lexus of Concord, LLC"
+2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX3P4032776,"Lexus of Concord, LLC"
 2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,At dealer,False,Available,JTJMB7CX4P4028087,Lexus of Pembroke Pines
-2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,At dealer,False,Available,JTJMB7CX4P4029319,Metro Lexus
-2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,At dealer,False,Available,JTJMB7CX4P4029904,DARCARS Lexus of Englewood
 2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX4P4030745,Lexus of West Kendall
 2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX4P4030762,Westside Lexus
 2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX4P4030888,Lexus of Greenwood Village
-2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX4P4030972,Jim Falk Lexus of Beverly Hills
+2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX4P4030924,McGrath Lexus of Westmont
 2023,LX 600 F SPORT HANDLING,Nori Green Pearl,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX4P4031412,Northside Lexus
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX4P4031443,Lexus of Oxnard
+2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX4P4031880,Johnson Lexus of Raleigh
 2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX4P4032592,Putnam Lexus
 2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,103525,0.0,103525.0,At dealer,False,DealerHold,JTJMB7CX5P4025246,Lexus of Knoxville
-2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX5P4030527,DARCARS Lexus of Englewood
+2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,At dealer,False,,JTJMB7CX5P4030527,DARCARS Lexus of Englewood
 2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX5P4030799,Fields Lexus Glenview
-2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX5P4030804,Lexus of Orlando
+2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,At dealer,False,,JTJMB7CX5P4030804,Lexus of Orlando
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX5P4031998,Lexus of Serramonte
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX6P4028110,Lexus of Winter Park
-2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX6P4030682,Lexus of Orlando
-2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX6P4031010,Johnson Lexus of Raleigh
+2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,At dealer,False,,JTJMB7CX6P4030682,Lexus of Orlando
+2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX6P4031010,Johnson Lexus of Raleigh
 2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX6P4031024,Koons Lexus of Wilmington
+2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX6P4031105,Dolan Lexus
+2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX6P4031380,Tri-County Lexus
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX7P4028438,Lexus of Tampa Bay
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,At dealer,False,Available,JTJMB7CX7P4030027,Berlin City Lexus of Portland
-2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX7P4030416,Nalley Lexus - Roswell
-2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX7P4030822,Lexus of Bellevue
+2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,Available,JTJMB7CX7P4031954,Lexus of Pembroke Pines
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX8P4029520,Priority Lexus Virginia Beach
-2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,At dealer,False,,JTJMB7CX8P4030439,Ray Catena Lexus of Freehold
+2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,At dealer,False,Available,JTJMB7CX8P4030439,Ray Catena Lexus of Monmouth
 2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX8P4030733,Nalley Lexus-Smyrna
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX8P4030781,Lexus of Greenwood Village
-2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX8P4031039,Lexus of Knoxville
+2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,At dealer,False,,JTJMB7CX8P4031039,Lexus of Knoxville
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX8P4031848,Arrowhead Lexus
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX9P4029042,Lexus of Milwaukee
-2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX9P4030224,Koons Lexus of Wilmington
 2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CX9P4030787,Ourisman Lexus of Rockville
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CX9P4031339,Tustin Lexus
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,1513.0,106538.0,Port to dealer,False,,JTJMB7CX9P4031390,Lexus of Marin
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX9P4031566,Bell Lexus North Scottsdale
+2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX9P4031731,Lexus of Cherry Hill
+2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,895.0,105920.0,Port to dealer,False,DealerHold,JTJMB7CX9P4032166,Lexus of Chattanooga
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CX9P4032619,Valley Lexus
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CXXP4029468,Lexus of Westminster
 2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,At dealer,False,,JTJMB7CXXP4029552,Germain Lexus of Naples
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CXXP4030197,Peterson Lexus
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CXXP4030474,Lexus of Riverside
-2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CXXP4030992,Arrowhead Lexus
 2023,LX 600 F SPORT HANDLING,Black Onyx,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CXXP4031172,Hennessy Lexus of Gwinnett
 2023,LX 600 F SPORT HANDLING,Ultra White,4WD,105025,0.0,105025.0,At dealer,False,DealerHold,JTJMB7CXXP4031317,Freeman Lexus
+2023,LX 600 F SPORT HANDLING,Atomic Silver,4WD,105025,0.0,105025.0,Port to dealer,False,DealerHold,JTJMB7CXXP4031737,Dolan Lexus
 2023,LX 600 F SPORT HANDLING,Manganese Luster,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CXXP4031740,Stevinson Lexus of Frederick
 2023,LX 600 F SPORT HANDLING,Nori Green Pearl,4WD,105025,0.0,105025.0,Port to dealer,False,,JTJMB7CXXP4031852,Fox Lexus of El Paso
 2023,LX 600,Caviar,4WD,90815,0.0,90815.0,At dealer,False,,JTJNB7CX4P4029793,Herrin-Gear Lexus
