@@ -12,7 +12,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,FWD,38000,0.0,38000.0,Port to dealer,False,,JTHB6JBH1R2174742,South County Lexus at Mission Viejo
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,DealerHold,JTHB6JBH2R2171719,Lexus of Tucson at the Auto Mall
 2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,FWD,37800,0.0,37800.0,Port to dealer,False,,JTHB6JBH2R2173292,Keyes Lexus
-2024,UX 250h F SPORT DESIGN,Redline with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,DealerHold,JTHB6JBH2R2173387,Tustin Lexus
+2024,UX 250h F SPORT DESIGN,Redline with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,Available,JTHB6JBH2R2173387,Tustin Lexus
 2024,UX 250h F SPORT DESIGN,Ultra White with Obsidian roof,FWD,38000,0.0,38000.0,At dealer,False,DealerHold,JTHB6JBH2R2175401,Jim Falk Lexus of Beverly Hills
 2023,UX 250h F SPORT DESIGN,Redline with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,,JTHB6JBH3P2156563,Germain Lexus of Naples
 2024,UX 250h F SPORT DESIGN,Ultra White with Obsidian roof,FWD,38000,0.0,38000.0,Port to dealer,False,,JTHB6JBH3R2174550,Hennessy Lexus of Gwinnett
@@ -21,7 +21,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h F SPORT DESIGN,Ultra White with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,Available,JTHB6JBH4R2170300,Lexus Escondido
 2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,FWD,37800,0.0,37800.0,Port to dealer,False,DealerHold,JTHB6JBH4R2173519,"Lexus of Concord, LLC"
 2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,FWD,38000,0.0,38000.0,Port to dealer,False,,JTHB6JBH4R2175075,Butler Lexus of South Atlanta
-2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,FWD,38000,0.0,38000.0,Port to dealer,False,,JTHB6JBH4R2175609,Earnhardt Lexus
+2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,FWD,38000,0.0,38000.0,Port to dealer,False,DealerHold,JTHB6JBH4R2175609,Earnhardt Lexus
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,,JTHB6JBH5R2168135,Germain Lexus of Naples
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,,JTHB6JBH5R2168944,Lexus of North Miami
 2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,DealerHold,JTHB6JBH5R2171391,"Lexus of Concord, LLC"
@@ -42,6 +42,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,,JTHB6JBH7R2171358,Fresno Lexus
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,DealerHold,JTHB6JBH7R2171392,South County Lexus at Mission Viejo
 2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,,JTHB6JBH7R2172137,Keyes Lexus of Valencia
+2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,DealerHold,JTHB6JBH7R2172381,Lexus of Glendale
 2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,Available,JTHB6JBH7R2172719,Lexus of Serramonte
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,FWD,37800,0.0,37800.0,Port to dealer,False,,JTHB6JBH7R2173238,Lexus of Pleasanton
 2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,FWD,37800,0.0,37800.0,At dealer,False,,JTHB6JBH7R2174132,Lexus of Orlando
@@ -67,7 +68,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHB9JBH1R2073188,Lexus of Wayzata
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHB9JBH1R2073420,Lexus of Arlington
 2024,UX 250h F SPORT DESIGN,Ultra White with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,,JTHB9JBH1R2073465,Lexus of Bellevue
-2024,UX 250h F SPORT DESIGN,Ultra White with Obsidian roof,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHB9JBH1R2073546,Earnhardt Lexus
+2024,UX 250h F SPORT DESIGN,Ultra White with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHB9JBH1R2073546,Earnhardt Lexus
 2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHB9JBH1R2073725,McGrath Lexus of Westmont
 2024,UX 250h F SPORT DESIGN,Ultra White with Obsidian roof,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHB9JBH1R2073935,Lexus of Lexington
 2024,UX 250h F SPORT DESIGN,Ultra White with Obsidian roof,AWD,39400,0.0,39400.0,Port to dealer,False,,JTHB9JBH1R2074101,Lexus of Pleasanton
@@ -90,9 +91,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h F SPORT DESIGN,Redline with Obsidian roof,AWD,39400,0.0,39400.0,At dealer,False,,JTHB9JBH3R2074293,Lexus of Las Vegas
 2024,UX 250h F SPORT DESIGN,Ultra White with Obsidian roof,AWD,39400,0.0,39400.0,Port to dealer,False,,JTHB9JBH3R2074455,Fresno Lexus
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,,JTHB9JBH4R2072813,Stevinson Lexus of Frederick
-2024,UX 250h F SPORT DESIGN,Ultrasonic Blue Mica 2.0  with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,Available,JTHB9JBH4R2073329,"Lexus of Seattle, LLC"
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,,JTHB9JBH4R2073539,Stevinson Lexus of Lakewood
-2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHB9JBH4R2073590,New Country Lexus of Westport
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,,JTHB9JBH4R2073668,Lexus of Portland
 2024,UX 250h F SPORT DESIGN,Ultra White with Obsidian roof,AWD,39400,0.0,39400.0,Port to dealer,False,Available,JTHB9JBH4R2074111,Stevinson Lexus of Lakewood
 2024,UX 250h F SPORT DESIGN,Redline with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHB9JBH5R2073419,Lexus of Orange County
@@ -119,7 +118,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h F SPORT DESIGN,Ultra White with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,,JTHB9JBH8R2072961,Germain Lexus of Easton
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,,JTHB9JBH8R2073155,Stevinson Lexus of Lakewood
 2024,UX 250h F SPORT DESIGN,Ultrasonic Blue Mica 2.0  with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHB9JBH8R2073284,Lexus of Lexington
-2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,,JTHB9JBH8R2073298,Lexus of Las Vegas
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,,JTHB9JBH8R2073317,Lexus of Portland
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,AWD,39400,0.0,39400.0,Port to dealer,False,,JTHB9JBH8R2074094,Findlay Lexus of Spokane
 2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,Available,JTHB9JBH9R2073021,Metro Lexus
@@ -133,7 +131,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h F SPORT DESIGN,Iridium with Obsidian roof,AWD,39200,0.0,39200.0,At dealer,False,,JTHB9JBHXR2071424,Lexus of Maplewood
 2024,UX 250h F SPORT DESIGN,Cloudburst Gray with Obsidian roof,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHB9JBHXR2073660,Lexus of Lexington
 2024,UX 250h PREMIUM,Eminent White Pearl,FWD,37800,0.0,37800.0,Port to dealer,False,Available,JTHP6JBH0R2165360,Scanlon Lexus of Fort Myers
-2024,UX 250h PREMIUM,Grecian Water,FWD,37800,0.0,37800.0,Port to dealer,False,Available,JTHP6JBH0R2165875,Hennessy Lexus of Atlanta
+2024,UX 250h PREMIUM,Grecian Water,FWD,37800,0.0,37800.0,Port to dealer,False,DealerHold,JTHP6JBH0R2165875,Hennessy Lexus of Atlanta
 2024,UX 250h PREMIUM,Cloudburst Gray,FWD,37800,0.0,37800.0,At dealer,False,,JTHP6JBH0R2166850,Lexus of Pembroke Pines
 2024,UX 250h PREMIUM,Obsidian,FWD,37800,0.0,37800.0,Port to dealer,False,Available,JTHP6JBH0R2170221,Lexus of Huntsville
 2024,UX 250h PREMIUM,Obsidian,FWD,38000,0.0,38000.0,Port to dealer,False,DealerHold,JTHP6JBH0R2174253,Park Place Lexus Grapevine
@@ -148,7 +146,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h PREMIUM,Eminent White Pearl,FWD,38000,0.0,38000.0,Port to dealer,False,DealerHold,JTHP6JBH1R2176450,South Bay Lexus
 2024,UX 250h PREMIUM,Iridium,FWD,37800,0.0,37800.0,Port to dealer,False,DealerHold,JTHP6JBH2R2165134,Hendrick Lexus Northlake
 2024,UX 250h PREMIUM,Obsidian,FWD,38000,0.0,38000.0,Port to dealer,False,DealerHold,JTHP6JBH2R2175579,Northside Lexus
-2024,UX 250h PREMIUM,Caviar,FWD,37800,0.0,37800.0,At dealer,False,DealerHold,JTHP6JBH3R2169015,Hendrick Lexus Northlake
 2024,UX 250h PREMIUM,Redline,FWD,37800,0.0,37800.0,At dealer,False,,JTHP6JBH3R2170567,JM Lexus
 2024,UX 250h PREMIUM,Obsidian,FWD,37800,0.0,37800.0,At dealer,False,,JTHP6JBH3R2170665,Lexus of Pembroke Pines
 2024,UX 250h PREMIUM,Redline,FWD,37800,0.0,37800.0,Port to dealer,False,,JTHP6JBH3R2174084,Lexus of Kendall
@@ -175,8 +172,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h PREMIUM,Caviar,FWD,38000,0.0,38000.0,Port to dealer,False,,JTHP6JBH5R2174278,Lexus of Pembroke Pines
 2024,UX 250h PREMIUM,Redline,FWD,37800,0.0,37800.0,At dealer,False,Available,JTHP6JBH6R2163418,Sewell Lexus
 2024,UX 250h PREMIUM,Grecian Water,FWD,37800,0.0,37800.0,At dealer,False,,JTHP6JBH6R2168621,Lexus of North Miami
-2024,UX 250h PREMIUM,Redline,FWD,37800,0.0,37800.0,At dealer,False,,JTHP6JBH6R2170689,JM Lexus
-2024,UX 250h PREMIUM,Redline,FWD,37800,0.0,37800.0,At dealer,False,DealerHold,JTHP6JBH6R2172832,Arrowhead Lexus
 2024,UX 250h PREMIUM,Redline,FWD,37800,0.0,37800.0,At dealer,False,DealerHold,JTHP6JBH6R2172961,Lexus of Wesley Chapel
 2024,UX 250h PREMIUM,Iridium,FWD,37800,0.0,37800.0,At dealer,False,,JTHP6JBH6R2174032,Lexus of North Miami
 2024,UX 250h PREMIUM,Redline,FWD,38000,0.0,38000.0,Port to dealer,False,DealerHold,JTHP6JBH6R2174676,Westside Lexus
@@ -194,11 +189,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h PREMIUM,Redline,FWD,37800,0.0,37800.0,At dealer,False,,JTHP6JBH8R2164313,Lexus of Sarasota
 2024,UX 250h PREMIUM,Cloudburst Gray,FWD,37800,0.0,37800.0,Port to dealer,False,Available,JTHP6JBH8R2165221,Lexus of Palm Beach
 2024,UX 250h PREMIUM,Redline,FWD,37800,0.0,37800.0,At dealer,False,DealerHold,JTHP6JBH8R2172198,Lexus Escondido
+2024,UX 250h PREMIUM,Eminent White Pearl,FWD,37800,0.0,37800.0,At dealer,False,DealerHold,JTHP6JBH8R2173805,Shottenkirk Desert Lexus
 2024,UX 250h PREMIUM,Obsidian,FWD,38000,0.0,38000.0,Port to dealer,False,Available,JTHP6JBH8R2174890,Lexus of North Miami
 2024,UX 250h PREMIUM,Iridium,FWD,38000,0.0,38000.0,Port to dealer,False,,JTHP6JBH8R2175120,Sewell Lexus
 2023,UX 250h PREMIUM,Obsidian,FWD,37800,0.0,37800.0,At dealer,False,,JTHP6JBH9P2158629,Fox Lexus of El Paso
 2024,UX 250h PREMIUM,Cloudburst Gray,FWD,37800,0.0,37800.0,Port to dealer,False,,JTHP6JBH9R2174056,Germain Lexus of Naples
-2024,UX 250h PREMIUM,Redline,FWD,38000,0.0,38000.0,Port to dealer,False,,JTHP6JBH9R2174915,Park Place Lexus Plano
 2024,UX 250h PREMIUM,Nori Green Pearl,FWD,37800,0.0,37800.0,At dealer,False,Available,JTHP6JBHXR2168279,Sewell Lexus
 2024,UX 250h PREMIUM,Cadmium Orange,FWD,37800,0.0,37800.0,At dealer,False,DealerHold,JTHP6JBHXR2168914,Lexus of West Kendall
 2024,UX 250h PREMIUM,Caviar,FWD,37800,887.0,38687.0,At dealer,False,DealerHold,JTHP6JBHXR2169805,Lexus of Birmingham
@@ -208,11 +203,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h PREMIUM,Nori Green Pearl,FWD,38000,0.0,38000.0,Port to dealer,False,,JTHP6JBHXR2175099,JM Lexus
 2024,UX 250h PREMIUM,Eminent White Pearl,FWD,38000,887.0,38887.0,Port to dealer,False,Available,JTHP6JBHXR2175152,Lexus of Birmingham
 2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH0R2072104,Lexus of Orlando
-2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,At dealer,False,Available,JTHP9JBH0R2072684,Findlay Lexus of Spokane
-2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH0R2073110,Lexus of Lehigh Valley
 2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH0R2073530,Hendrick Lexus Northlake
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH0R2073561,McGrath Lexus of Westmont
-2024,UX 250h PREMIUM,Obsidian,AWD,39200,0.0,39200.0,At dealer,False,Available,JTHP9JBH0R2073611,Ourisman Lexus of Rockville
 2024,UX 250h PREMIUM,Caviar,AWD,39200,2995.0,42195.0,At dealer,False,,JTHP9JBH0R2073754,Sheehy Lexus of Annapolis
 2024,UX 250h PREMIUM,Nori Green Pearl,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH0R2073852,Lexus of Lehigh Valley
 2024,UX 250h PREMIUM,Redline,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH0R2073916,Lexus of Naperville
@@ -230,7 +222,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h PREMIUM,Caviar,AWD,39400,0.0,39400.0,Port to dealer,False,,JTHP9JBH0R2074693,Lexus of Albuquerque
 2023,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,995.0,40195.0,At dealer,False,Available,JTHP9JBH1P2069273,Lexus of Madison
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH1R2072838,Lexus of Omaha
-2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH1R2073259,Hoffman Lexus
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,Available,JTHP9JBH1R2073424,DARCARS Lexus of Greenwich
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBH1R2073455,DARCARS Lexus of Mt. Kisco
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH1R2073648,Classic Lexus
@@ -245,8 +236,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,At dealer,False,Available,JTHP9JBH2R2072993,Lexus of Atlantic City
 2024,UX 250h PREMIUM,Obsidian,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH2R2073061,Lexus of Arlington
 2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBH2R2073075,Performance Lexus
-2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH2R2073139,DARCARS Lexus of Greenwich
-2024,UX 250h PREMIUM,Obsidian,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH2R2073321,Lexus of North Hills
+2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,At dealer,False,Available,JTHP9JBH2R2073139,DARCARS Lexus of Englewood
 2024,UX 250h PREMIUM,Redline,AWD,39200,0.0,39200.0,Port to dealer,False,Available,JTHP9JBH2R2073366,Lexus of Louisville
 2024,UX 250h PREMIUM,Nori Green Pearl,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH2R2073402,Bergstrom Lexus
 2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH2R2073447,McGrath Lexus of Chicago
@@ -258,24 +248,20 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h PREMIUM,Obsidian,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH2R2073772,DARCARS Lexus of Greenwich
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBH2R2073805,Stevinson Lexus of Frederick
 2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH2R2073836,"Lexus of Seattle, LLC"
-2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH2R2073853,Lexus of Manhattan
 2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,Port to dealer,False,Available,JTHP9JBH2R2073884,Metro Lexus
 2024,UX 250h PREMIUM,Redline,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH2R2073903,Lexus of Bellevue
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,Available,JTHP9JBH2R2073934,Reliable Lexus
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH2R2073982,Motorworld Lexus
 2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH2R2074047,DARCARS Lexus of Englewood
-2024,UX 250h PREMIUM,Iridium,AWD,39200,649.0,39849.0,Port to dealer,False,Available,JTHP9JBH2R2074064,Mungenast Lexus of St. Louis
+2024,UX 250h PREMIUM,Iridium,AWD,39200,649.0,39849.0,Port to dealer,False,DealerHold,JTHP9JBH2R2074064,Mungenast Lexus of St. Louis
 2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39400,0.0,39400.0,Port to dealer,False,Available,JTHP9JBH2R2074260,Lexus of Portland
 2024,UX 250h PREMIUM,Nori Green Pearl,AWD,39400,0.0,39400.0,Port to dealer,False,Available,JTHP9JBH2R2074307,Lindsay Lexus of Alexandria
 2024,UX 250h PREMIUM,Redline,AWD,39400,0.0,39400.0,Port to dealer,False,,JTHP9JBH2R2074744,Lexus of Oxnard
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH3R2071092,Lexus of Arlington
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBH3R2072999,Germain Lexus of Easton
-2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,At dealer,False,Available,JTHP9JBH3R2073098,Lexus of Bridgewater
-2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH3R2073103,Tom Wood Lexus
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,At dealer,False,Available,JTHP9JBH3R2073229,Ray Catena Lexus of Monmouth
 2024,UX 250h PREMIUM,Redline,AWD,39200,0.0,39200.0,Port to dealer,False,Available,JTHP9JBH3R2073439,Lexus of Wayzata
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBH3R2073473,Lexus of Thousand Oaks
-2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH3R2073571,Lexus of Bridgewater
 2024,UX 250h PREMIUM,Obsidian,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH3R2073666,Burdick Lexus
 2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH3R2073893,Dolan Lexus
 2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH3R2073943,Metro Lexus
@@ -293,13 +279,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h PREMIUM,Redline,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH4R2072901,Lexus of Naperville
 2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH4R2073191,Metro Lexus
 2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,998.0,40198.0,Port to dealer,False,DealerHold,JTHP9JBH4R2073398,Jordan Lexus of Mishawaka
-2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH4R2073871,Stoler Lexus
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH4R2073885,New Country Lexus of Great Neck
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH4R2073949,Lexus of Milwaukee
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH4R2074034,Ray Catena Lexus of Monmouth
 2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39400,0.0,39400.0,Port to dealer,False,,JTHP9JBH4R2074227,DARCARS Lexus of Greenwich
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39400,0.0,39400.0,Port to dealer,False,Available,JTHP9JBH4R2074230,Lexus of Tacoma at Fife
-2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39400,0.0,39400.0,Port to dealer,False,DealerHold,JTHP9JBH4R2074308,Ourisman Lexus of Rockville
+2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39400,0.0,39400.0,Port to dealer,False,Available,JTHP9JBH4R2074308,Ourisman Lexus of Rockville
 2024,UX 250h PREMIUM,Caviar,AWD,39400,0.0,39400.0,Port to dealer,False,Available,JTHP9JBH4R2074339,Coliseum Lexus of Oakland
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39400,0.0,39400.0,Port to dealer,False,DealerHold,JTHP9JBH4R2074342,Eskridge Lexus of Oklahoma City
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH5R2071983,Herb Chambers Lexus of Hingham
@@ -316,16 +301,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h PREMIUM,Nori Green Pearl,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBH5R2073409,Lexus of Louisville
 2024,UX 250h PREMIUM,Nori Green Pearl,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH5R2073703,Lexus of West Kendall
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH5R2073717,Lexus of Bellevue
-2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBH5R2073720,Wilkie Lexus
 2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH5R2073765,McGrath Lexus of Chicago
-2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,At dealer,False,Available,JTHP9JBH5R2073832,Lindsay Lexus of Alexandria
 2024,UX 250h PREMIUM,Obsidian,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH5R2073880,Lexus of Omaha
 2024,UX 250h PREMIUM,Redline,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH5R2073944,Dolan Lexus
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,Available,JTHP9JBH5R2073989,Lexus of Rockford
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH5R2073992,Lexus of Pembroke Pines
 2024,UX 250h PREMIUM,Redline,AWD,39400,0.0,39400.0,Port to dealer,False,,JTHP9JBH5R2074110,Bergstrom Lexus
 2024,UX 250h PREMIUM,Iridium,AWD,39400,0.0,39400.0,Port to dealer,False,DealerHold,JTHP9JBH5R2074172,Lexus of Santa Fe
-2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39400,0.0,39400.0,Port to dealer,False,DealerHold,JTHP9JBH5R2074236,Performance Lexus
+2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39400,0.0,39400.0,Port to dealer,False,Available,JTHP9JBH5R2074236,Performance Lexus
 2024,UX 250h PREMIUM,Obsidian,AWD,39400,0.0,39400.0,Port to dealer,False,,JTHP9JBH5R2074284,Serra Lexus Lansing
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39400,0.0,39400.0,Port to dealer,False,DealerHold,JTHP9JBH5R2074298,Ira Lexus
 2024,UX 250h PREMIUM,Iridium,AWD,39400,0.0,39400.0,Port to dealer,False,Available,JTHP9JBH5R2074334,Kendall Lexus of Eugene
@@ -347,12 +330,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH6R2073998,Dolan Lexus
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39400,895.0,40295.0,Port to dealer,False,DealerHold,JTHP9JBH6R2074312,Lexus of Chattanooga
 2023,UX 250h PREMIUM,Redline,AWD,38635,995.0,39630.0,At dealer,False,Available,JTHP9JBH7P2067544,Lexus of Madison
-2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH7R2071984,Lexus of Queens
 2024,UX 250h PREMIUM,Obsidian,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH7R2072777,Lexus of Jacksonville
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH7R2073010,Lexus of Louisville
 2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,At dealer,False,Available,JTHP9JBH7R2073069,Tom Wood Lexus
 2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH7R2073251,Lexus of Chester Springs
-2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBH7R2073301,Hennessy Lexus of Gwinnett
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH7R2073315,Hennessy Lexus of Gwinnett
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBH7R2073413,Lexus of Lehigh Valley
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH7R2073542,Lexus of Ft. Wayne
@@ -370,10 +351,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,At dealer,False,Available,JTHP9JBH8R2072951,Bob Johnson Lexus
 2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH8R2072965,Motorworld Lexus
 2024,UX 250h PREMIUM,Obsidian,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBH8R2073047,Bobby Rahal Lexus of Lancaster County
-2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH8R2073405,Koons Lexus of Wilmington
+2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,At dealer,False,Available,JTHP9JBH8R2073405,Koons Lexus of Wilmington
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH8R2073453,Peterson Lexus
 2024,UX 250h PREMIUM,Redline,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH8R2073551,Lexus of Lexington
-2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBH8R2073646,Kendall Lexus of Eugene
+2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBH8R2073646,Kendall Lexus of Eugene
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH8R2073663,Lexus of Tacoma at Fife
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH8R2073792,Lexus of Louisville
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH8R2073887,Hendrick Lexus Charleston
@@ -384,7 +365,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39400,0.0,39400.0,Port to dealer,False,Available,JTHP9JBH8R2074571,Lexus of Albuquerque
 2024,UX 250h PREMIUM,Redline,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH9R2072263,Herb Chambers Lexus
 2024,UX 250h PREMIUM,Grecian Water,AWD,39200,0.0,39200.0,At dealer,False,Available,JTHP9JBH9R2072621,Lexus of Maplewood
-2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBH9R2072697,Hennessy Lexus of Atlanta
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH9R2073168,Lexus of Freeport
 2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBH9R2073252,Lexus of Lexington
 2024,UX 250h PREMIUM,Cadmium Orange,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBH9R2073350,Ray Catena Lexus
@@ -410,11 +390,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBHXR2073356,Woodfield Lexus
 2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBHXR2073471,Serra Lexus Lansing
 2024,UX 250h PREMIUM,Redline,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBHXR2073678,Metro Lexus
-2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,Port to dealer,False,Available,JTHP9JBHXR2073714,Lexus of Wayzata
+2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBHXR2073714,Lexus of Wayzata
 2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBHXR2073793,Bell Lexus North Scottsdale
 2024,UX 250h PREMIUM,Cloudburst Gray,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBHXR2073812,Balise Lexus
 2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,Port to dealer,False,,JTHP9JBHXR2073826,Lexus of Portland
-2024,UX 250h PREMIUM,Redline,AWD,39200,0.0,39200.0,At dealer,False,DealerHold,JTHP9JBHXR2073857,Northside Lexus
 2024,UX 250h PREMIUM,Eminent White Pearl,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBHXR2073860,Spirit Lexus
 2024,UX 250h PREMIUM,Caviar,AWD,39200,0.0,39200.0,At dealer,False,,JTHP9JBHXR2073891,Stevinson Lexus of Lakewood
 2024,UX 250h PREMIUM,Iridium,AWD,39200,0.0,39200.0,Port to dealer,False,DealerHold,JTHP9JBHXR2073938,Ira Lexus
@@ -458,7 +437,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,UX 250h F SPORT HANDLING,Iridium with Obsidian roof,FWD,42770,0.0,42770.0,At dealer,False,Available,JTHR6JBH4P2159597,Lexus of Clearwater
 2024,UX 250h F SPORT HANDLING,Ultra White with Obsidian roof,FWD,42770,0.0,42770.0,At dealer,False,DealerHold,JTHR6JBH4R2162339,Park Place Lexus Plano
 2024,UX 250h F SPORT HANDLING,Ultra White with Obsidian roof,FWD,42770,0.0,42770.0,Port to dealer,False,Available,JTHR6JBH4R2165967,Lexus of North Miami
-2024,UX 250h F SPORT HANDLING,Iridium with Obsidian roof,FWD,42770,0.0,42770.0,At dealer,False,DealerHold,JTHR6JBH4R2171459,North Park Lexus at Dominion
+2024,UX 250h F SPORT HANDLING,Iridium with Obsidian roof,FWD,42770,0.0,42770.0,At dealer,False,Available,JTHR6JBH4R2171459,North Park Lexus of San Antonio
 2023,UX 250h F SPORT HANDLING,Iridium with Obsidian roof,FWD,42770,0.0,42770.0,At dealer,False,,JTHR6JBH5P2157888,Fox Lexus of El Paso
 2024,UX 250h F SPORT HANDLING,Ultra White with Obsidian roof,FWD,42770,0.0,42770.0,At dealer,False,Available,JTHR6JBH5R2160180,JM Lexus
 2024,UX 250h F SPORT HANDLING,Ultra White with Obsidian roof,FWD,42770,0.0,42770.0,At dealer,False,,JTHR6JBH5R2165105,Lexus of West Kendall
@@ -513,9 +492,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h F SPORT AWD,Iridium with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBH0R2072418,Bobby Rahal Lexus of Lewistown
 2024,UX 250h F SPORT AWD,Cloudburst Gray with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,DealerHold,JTHR9JBH0R2072595,Westside Lexus
 2024,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44170,0.0,44170.0,Port to dealer,False,DealerHold,JTHR9JBH0R2073262,Meade Lexus of Southfield
-2024,UX 250h F SPORT AWD,Cloudburst Gray with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBH0R2073293,New Country Lexus of Westport
 2024,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBH0R2073553,Sewell Lexus
-2024,UX 250h F SPORT AWD,Redline with Obsidian roof,AWD,44170,0.0,44170.0,Port to dealer,False,DealerHold,JTHR9JBH0R2073813,Lexus of Brookfield
+2024,UX 250h F SPORT AWD,Redline with Obsidian roof,AWD,44170,0.0,44170.0,Port to dealer,False,Available,JTHR9JBH0R2073813,Lexus of Brookfield
 2024,UX 250h F SPORT AWD,Redline with Obsidian roof,AWD,44170,0.0,44170.0,Port to dealer,False,,JTHR9JBH0R2074038,Park Place Lexus Grapevine
 2024,UX 250h F SPORT AWD,Cloudburst Gray with Obsidian roof,AWD,44370,0.0,44370.0,Port to dealer,False,,JTHR9JBH0R2074282,North Park Lexus at Dominion
 2023,UX 250h F SPORT AWD,Ultrasonic Blue Mica 2.0  with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBH1P2068455,Reliable Lexus
@@ -541,11 +519,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h F SPORT AWD,Iridium with Obsidian roof,AWD,44370,0.0,44370.0,Port to dealer,False,,JTHR9JBH3R2074437,Lexus of Austin
 2023,UX 250h F SPORT AWD,Iridium with Obsidian roof,AWD,43605,0.0,43605.0,At dealer,False,Available,JTHR9JBH4P2066652,Germain Lexus of Ann Arbor
 2024,UX 250h F SPORT AWD,Iridium with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,Available,JTHR9JBH4R2071532,Lexus of Warwick
-2024,UX 250h F SPORT AWD,Iridium with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,DealerHold,JTHR9JBH4R2073135,Lexus of Wayzata
 2024,UX 250h F SPORT AWD,Redline with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,DealerHold,JTHR9JBH4R2073507,"Jim Hudson Lexus, Augusta"
 2024,UX 250h F SPORT AWD,Cloudburst Gray with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBH4R2073572,Lexus of Smithtown
 2024,UX 250h F SPORT AWD,Redline with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBH4R2073667,Sewell Lexus
-2024,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBH4R2073670,Herb Chambers Lexus
+2024,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,DealerHold,JTHR9JBH4R2073670,Herb Chambers Lexus
 2024,UX 250h F SPORT AWD,Iridium with Obsidian roof,AWD,44170,0.0,44170.0,Port to dealer,False,,JTHR9JBH4R2073846,Lexus of Austin
 2024,UX 250h F SPORT AWD,Iridium with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,DealerHold,JTHR9JBH5R2072138,Meade Lexus of Lakeside
 2024,UX 250h F SPORT AWD,Cloudburst Gray with Obsidian roof,AWD,44170,0.0,44170.0,Port to dealer,False,,JTHR9JBH5R2073015,DARCARS Lexus of Greenwich
@@ -563,12 +540,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBH6R2073458,Sewell Lexus
 2024,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,DealerHold,JTHR9JBH6R2073508,Ray Catena Lexus
 2024,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44170,0.0,44170.0,Port to dealer,False,DealerHold,JTHR9JBH6R2073766,Classic Lexus
-2024,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44170,0.0,44170.0,Port to dealer,False,,JTHR9JBH6R2073878,Tri-County Lexus
 2023,UX 250h F SPORT AWD,Ultrasonic Blue Mica 2.0  with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBH7P2070145,Reliable Lexus
 2024,UX 250h F SPORT AWD,Redline with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBH7R2072934,Sewell Lexus
 2024,UX 250h F SPORT AWD,Redline with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,DealerHold,JTHR9JBH7R2073372,Park Place Lexus Plano
 2024,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44170,0.0,44170.0,Port to dealer,False,DealerHold,JTHR9JBH7R2073422,Westside Lexus
-2024,UX 250h F SPORT AWD,Cloudburst Gray with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBH7R2073789,Lexus of Watertown
 2024,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44170,0.0,44170.0,Port to dealer,False,DealerHold,JTHR9JBH7R2073825,Park Place Lexus Plano
 2024,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44170,0.0,44170.0,Port to dealer,False,DealerHold,JTHR9JBH7R2074067,Ray Catena Lexus
 2024,UX 250h F SPORT AWD,Cloudburst Gray with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBH8R2073185,Bob Johnson Lexus
@@ -578,11 +553,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44170,698.0,44868.0,Port to dealer,False,Available,JTHR9JBH8R2073946,Lexus of Tulsa
 2024,UX 250h F SPORT AWD,Cloudburst Gray with Obsidian roof,AWD,44170,0.0,44170.0,Port to dealer,False,DealerHold,JTHR9JBH8R2074014,Bob Johnson Lexus
 2023,UX 250h F SPORT AWD,Redline with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,Available,JTHR9JBH9P2069790,Germain Lexus of Dublin
-2023,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,DealerHold,JTHR9JBH9P2070325,Lexus of Lexington
 2024,UX 250h F SPORT AWD,Cloudburst Gray with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBH9R2073342,Ira Lexus of Manchester
 2024,UX 250h F SPORT AWD,Ultra White with Obsidian roof,AWD,44370,0.0,44370.0,Port to dealer,False,,JTHR9JBH9R2074149,Lexus of Lincoln
 2023,UX 250h F SPORT AWD,Ultrasonic Blue Mica 2.0  with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBHXP2069345,Hoffman Lexus
-2024,UX 250h F SPORT AWD,Ultrasonic Blue Mica 2.0  with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBHXR2073169,DARCARS Lexus of Englewood
+2024,UX 250h F SPORT AWD,Ultrasonic Blue Mica 2.0  with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,Available,JTHR9JBHXR2073169,DARCARS Lexus of Greenwich
 2024,UX 250h F SPORT AWD,Iridium with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBHXR2073219,Sewell Lexus
 2024,UX 250h F SPORT AWD,Redline with Obsidian roof,AWD,44170,0.0,44170.0,At dealer,False,,JTHR9JBHXR2073396,Lexus of Greenville
 2024,UX 250h F SPORT AWD,Ultrasonic Blue Mica 2.0  with Obsidian roof,AWD,44170,0.0,44170.0,Port to dealer,False,,JTHR9JBHXR2073480,North Park Lexus of San Antonio
@@ -597,10 +571,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h,Eminent White Pearl,FWD,35340,0.0,35340.0,At dealer,False,DealerHold,JTHX6JBH1R2166386,Shottenkirk Desert Lexus
 2024,UX 250h,Cloudburst Gray,FWD,35340,0.0,35340.0,At dealer,False,,JTHX6JBH1R2173130,Lexus of Cerritos
 2024,UX 250h,Eminent White Pearl,FWD,35340,0.0,35340.0,At dealer,False,DealerHold,JTHX6JBH1R2173242,South Bay Lexus
-2024,UX 250h,Eminent White Pearl,FWD,35340,0.0,35340.0,At dealer,False,DealerHold,JTHX6JBH1R2173922,Lexus of Cerritos
 2024,UX 250h,Cloudburst Gray,FWD,35540,0.0,35540.0,At dealer,False,DealerHold,JTHX6JBH1R2175105,Lexus of Tucson at the Auto Mall
 2024,UX 250h,Eminent White Pearl,FWD,35540,0.0,35540.0,Port to dealer,False,,JTHX6JBH1R2175637,Temecula Valley Lexus
-2024,UX 250h,Caviar,FWD,35540,0.0,35540.0,At dealer,False,DealerHold,JTHX6JBH1R2175993,Jim Falk Lexus of Beverly Hills
 2024,UX 250h,Caviar,FWD,35540,0.0,35540.0,Port to dealer,False,,JTHX6JBH1R2176478,Lexus Stevens Creek
 2024,UX 250h,Iridium,FWD,35540,0.0,35540.0,Port to dealer,False,,JTHX6JBH1R2176528,Newport Lexus
 2024,UX 250h,Eminent White Pearl,FWD,35540,0.0,35540.0,Port to dealer,False,,JTHX6JBH1R2176660,Lexus of Henderson
@@ -622,7 +594,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h,Iridium,FWD,35540,0.0,35540.0,At dealer,False,DealerHold,JTHX6JBH4R2175843,Lexus of Glendale
 2024,UX 250h,Cloudburst Gray,FWD,35540,0.0,35540.0,Port to dealer,False,,JTHX6JBH4R2176636,Lexus of Glendale
 2024,UX 250h,Redline,FWD,35340,0.0,35340.0,At dealer,False,Available,JTHX6JBH5R2168044,Lexus of Las Vegas
-2024,UX 250h,Iridium,FWD,35340,0.0,35340.0,At dealer,False,Available,JTHX6JBH5R2171395,JM Lexus
 2024,UX 250h,Cloudburst Gray,FWD,35340,0.0,35340.0,At dealer,False,,JTHX6JBH5R2173793,Lexus Carlsbad
 2024,UX 250h,Iridium,FWD,35540,0.0,35540.0,At dealer,False,DealerHold,JTHX6JBH5R2174913,Lexus Monterey Peninsula
 2024,UX 250h,Iridium,FWD,35540,0.0,35540.0,At dealer,False,DealerHold,JTHX6JBH5R2175396,Lexus of Glendale
@@ -637,7 +608,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h,Caviar,FWD,35540,0.0,35540.0,Port to dealer,False,,JTHX6JBH7R2176047,Keyes Lexus
 2024,UX 250h,Caviar,FWD,35340,0.0,35340.0,At dealer,False,Available,JTHX6JBH8R2171374,Lexus of Pleasanton
 2024,UX 250h,Iridium,FWD,35340,0.0,35340.0,At dealer,False,Available,JTHX6JBH8R2172069,Lexus Stevens Creek
-2024,UX 250h,Cloudburst Gray,FWD,35340,0.0,35340.0,At dealer,False,,JTHX6JBH8R2172864,Crown Lexus
+2024,UX 250h,Cloudburst Gray,FWD,35340,0.0,35340.0,At dealer,False,DealerHold,JTHX6JBH8R2172864,Crown Lexus
 2024,UX 250h,Caviar,FWD,35340,0.0,35340.0,At dealer,False,,JTHX6JBH8R2173853,Lexus of Cerritos
 2024,UX 250h,Eminent White Pearl,FWD,35540,0.0,35540.0,Port to dealer,False,,JTHX6JBH8R2175134,Lexus of Fremont
 2024,UX 250h,Redline,FWD,35540,0.0,35540.0,Port to dealer,False,,JTHX6JBH8R2175280,Lexus Stevens Creek
@@ -653,8 +624,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,UX 250h,Caviar,FWD,35340,0.0,35340.0,At dealer,False,DealerHold,JTHX6JBHXR2173319,Lexus of Riverside
 2024,UX 250h,Cloudburst Gray,FWD,35540,0.0,35540.0,Port to dealer,False,,JTHX6JBHXR2175765,Newport Lexus
 2024,UX 250h,Eminent White Pearl,FWD,35540,0.0,35540.0,Port to dealer,False,,JTHX6JBHXR2175975,Lexus of Woodland Hills
-2024,UX 250h AWD,Obsidian,AWD,36740,0.0,36740.0,At dealer,False,DealerHold,JTHX9JBH3R2073327,Herb Chambers Lexus of Hingham
+2024,UX 250h AWD,Obsidian,AWD,36740,0.0,36740.0,At dealer,False,Available,JTHX9JBH3R2073327,Herb Chambers Lexus of Hingham
 2024,UX 250h AWD,Obsidian,AWD,36740,0.0,36740.0,At dealer,False,,JTHX9JBH5R2072471,Herb Chambers Lexus
-2024,UX 250h AWD,Iridium,AWD,36740,0.0,36740.0,At dealer,False,Available,JTHX9JBH9R2073493,Lexus of Santa Fe
+2024,UX 250h AWD,Iridium,AWD,36740,0.0,36740.0,At dealer,False,DealerHold,JTHX9JBH9R2073493,Fox Lexus of El Paso
 2024,UX 250h AWD,Nori Green Pearl,AWD,36740,0.0,36740.0,At dealer,False,DealerHold,JTHX9JBHXR2073681,Len Stoler Lexus
 2024,UX 250h AWD,Obsidian,AWD,36940,0.0,36940.0,Port to dealer,False,Available,JTHX9JBHXR2074409,Lexus of Lexington
