@@ -8,7 +8,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA0PC012180,Longo Lexus
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA0PC012664,Lexus of Thousand Oaks
 2023,RX 350 PREMIUM+,Copper Crest,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBA0PC012826,Lexus of Riverside
-2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA0PC012857,Fresno Lexus
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA0PC012874,Lexus of Glendale
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA0PC013006,South Bay Lexus
 2023,RX 350 PREMIUM,Nebula Gray Pearl,FWD,49800,0.0,49800.0,At dealer,False,Available,2T2BAMBA0PC013040,Lexus San Diego
@@ -25,7 +24,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA0PC015094,Keyes Lexus of Valencia
 2023,RX 350 PREMIUM+,Nightfall Mica,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA0PC015239,Keyes Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA0PC015337,South Bay Lexus
-2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA0PC015418,Lexus of North Miami
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBA0PC015452,Earnhardt Lexus
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA0PC015578,North Park Lexus of San Antonio
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA0PC015581,Lexus of Woodland Hills
@@ -34,7 +32,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA0PC015872,Longo Lexus
 2023,RX 350 PREMIUM+,Nightfall Mica,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,2T2BAMBA0PC016066,Park Place Lexus Grapevine
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA0PC016097,Jim Falk Lexus of Beverly Hills
-2023,RX 350 PREMIUM,Nebula Gray Pearl,FWD,49800,0.0,49800.0,At dealer,False,,2T2BAMBA0PC016195,Temecula Valley Lexus
 2023,RX 350 PREMIUM+,Nori Green Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA0PC016245,Crown Lexus
 2023,RX 350 LUXURY,Copper Crest,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA0PC016262,Lexus of Pembroke Pines
 2023,RX 350 LUXURY,Matador Red Mica,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA0PC016293,North Park Lexus of San Antonio
@@ -61,8 +58,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,2T2BAMBA0PC017878,Lexus of Thousand Oaks
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA0PC017881,Westside Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA0PC017962,Newport Lexus
-2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,At dealer,False,Available,2T2BAMBA0PC017976,Lexus of Oxnard
-2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA0PC017993,Keyes Lexus of Valencia
+2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA0PC017993,Keyes Lexus of Valencia
 2023,RX 350 PREMIUM+,Nori Green Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA0PC018027,Superstition Springs Lexus
 2023,RX 350 LUXURY,Nightfall Mica,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA0PC018061,"Jim Hudson Lexus, Augusta"
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,2T2BAMBA0PC018092,Shottenkirk Desert Lexus
@@ -74,6 +70,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Copper Crest,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA0PC018321,Lexus of Jacksonville
 2023,RX 350 PREMIUM+,Nori Green Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA0PC018335,Shottenkirk Desert Lexus
 2023,RX 350 PREMIUM,Nebula Gray Pearl,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,2T2BAMBA0PC018383,Lexus of Glendale
+2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,At dealer,False,Available,2T2BAMBA0PC018402,Longo Lexus
 2023,RX 350 LUXURY,Nightfall Mica,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA0PC018416,North Park Lexus of San Antonio
 2023,RX 350,Eminent White Pearl,FWD,47800,0.0,47800.0,Port to dealer,False,DealerHold,2T2BAMBA0PC018433,Lexus of Orlando
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA0PC018447,Lexus of Henderson
@@ -212,7 +209,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA1PC012043,Lexus of Thousand Oaks
 2023,RX 350 PREMIUM+,Copper Crest,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA1PC012186,Superstition Springs Lexus
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA1PC012270,JM Lexus
-2023,RX 350 PREMIUM+,Copper Crest,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBA1PC012558,Longo Lexus
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA1PC012897,Jim Falk Lexus of Beverly Hills
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA1PC013130,Lexus of Riverside
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBA1PC013192,Lexus of Santa Barbara
@@ -237,7 +233,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Copper Crest,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA1PC015489,Park Place Lexus Plano
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA1PC015606,Lexus of Tucson
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA1PC015833,Germain Lexus of Naples
-2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA1PC015900,Lexus of Cerritos
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA1PC016089,Lexus of Las Vegas
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA1PC016142,Lexus El Cajon
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA1PC016268,Lexus of Thousand Oaks
@@ -267,7 +262,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBA1PC017470,Fresno Lexus
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA1PC017498,Longo Lexus
 2023,RX 350 LUXURY,Nightfall Mica,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA1PC017520,Price LeBlanc Lexus
-2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA1PC017579,Fresno Lexus
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA1PC017596,Lexus of Wesley Chapel
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA1PC017632,Lexus of Westminster
 2023,RX 350 PREMIUM,Nori Green Pearl,FWD,49800,0.0,49800.0,At dealer,False,Available,2T2BAMBA1PC017663,Lexus of Santa Barbara
@@ -303,7 +297,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Nightfall Mica,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA1PC018442,Germain Lexus of Naples
 2023,RX 350 LUXURY,Nightfall Mica,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA1PC018473,Flow Lexus of Greensboro
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA1PC018487,Lexus of Roseville
-2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA1PC018490,JM Lexus
+2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,At dealer,False,,2T2BAMBA1PC018490,JM Lexus
 2023,RX 350 PREMIUM,Caviar,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,2T2BAMBA1PC018506,Flow Lexus of Greensboro
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA1PC018523,Sterling McCall Lexus Clear Lake
 2023,RX 350 LUXURY,Nightfall Mica,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA1PC018540,Nalley Lexus - Roswell
@@ -475,11 +469,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA2PC016859,Lexus of Thousand Oaks
 2023,RX 350 LUXURY,Nightfall Mica,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA2PC017154,Park Place Lexus Plano
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBA2PC017199,Keyes Lexus of Valencia
-2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA2PC017218,Tustin Lexus
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA2PC017266,Lexus of Tucson at the Auto Mall
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA2PC017316,North Park Lexus at Dominion
 2023,RX 350 PREMIUM+,Copper Crest,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA2PC017364,Crown Lexus
-2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,At dealer,False,,2T2BAMBA2PC017445,Lexus of Sacramento
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA2PC017512,Northside Lexus
 2023,RX 350,Nebula Gray Pearl,FWD,47800,0.0,47800.0,Port to dealer,False,,2T2BAMBA2PC017557,Lexus Carlsbad
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA2PC017588,Northside Lexus
@@ -501,7 +493,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA2PC018238,North Park Lexus Rio Grande Valley
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA2PC018269,Keyes Lexus
 2023,RX 350 PREMIUM,Matador Red Mica,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA2PC018319,Lexus of Orlando
-2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,At dealer,False,,2T2BAMBA2PC018367,Lexus Carlsbad
+2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,At dealer,False,Available,2T2BAMBA2PC018367,Longo Lexus
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA2PC018370,Herrin-Gear Lexus
 2023,RX 350 PREMIUM+,Copper Crest,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA2PC018420,Lexus of Sarasota
 2023,RX 350 LUXURY,Nori Green Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA2PC018434,Lexus of Austin
@@ -516,7 +508,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA2PC018577,Lexus of Orlando
 2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA2PC018580,Lexus of North Miami
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA2PC018594,Sewell Lexus
-2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA2PC018613,Lexus of Cerritos
+2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA2PC018613,Lexus of Cerritos
 2023,RX 350 LUXURY,Nightfall Mica,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA2PC018627,Lexus of Melbourne
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA2PC018644,Lexus of Roseville
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA2PC018661,Lexus of Orange Park
@@ -639,7 +631,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350,Caviar,FWD,47800,0.0,47800.0,Port to dealer,False,,2T2BAMBA2PC020250,Lexus of Pembroke Pines
 2023,RX 350 PREMIUM,Nightfall Mica,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA2PC020264,Lexus of Orlando
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA2PC020295,Sewell Lexus
-2023,RX 350 LUXURY,Copper Crest,FWD,55400,0.0,55400.0,At dealer,False,Available,2T2BAMBA3PC001576,Longo Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55400,0.0,55400.0,At dealer,False,Available,2T2BAMBA3PC009225,Lexus of Tucson at the Auto Mall
 2023,RX 350 PREMIUM,Iridium,FWD,49400,0.0,49400.0,At dealer,False,DealerHold,2T2BAMBA3PC009600,DARCARS Lexus of Greenwich
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52000,0.0,52000.0,At dealer,False,DealerHold,2T2BAMBA3PC010603,Jim Falk Lexus of Beverly Hills
@@ -705,7 +696,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Nori Green Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA3PC017700,Lexus of Orlando
 2023,RX 350 PREMIUM,Caviar,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,2T2BAMBA3PC017731,Lexus of Wesley Chapel
 2023,RX 350 PREMIUM,Nori Green Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA3PC017745,Lexus of West Kendall
-2023,RX 350 PREMIUM+,Nori Green Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA3PC017759,North Park Lexus of San Antonio
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA3PC017762,Lexus of Glendale
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA3PC017826,Newport Lexus
 2023,RX 350 PREMIUM+,Nori Green Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA3PC017907,Lexus of Lakeway
@@ -719,7 +709,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA3PC018250,JM Lexus
 2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA3PC018264,Lexus of Orlando
 2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,At dealer,False,,2T2BAMBA3PC018281,Bell Lexus North Scottsdale
-2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA3PC018295,Longo Lexus
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA3PC018345,JM Lexus
 2023,RX 350 PREMIUM+,Nori Green Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,2T2BAMBA3PC018362,Johnson Lexus of Raleigh
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA3PC018426,South Bay Lexus
@@ -737,11 +726,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Matador Red Mica,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA3PC018653,North Park Lexus at Dominion
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA3PC018667,Scanlon Lexus of Fort Myers
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA3PC018670,Westside Lexus
-2023,RX 350,Eminent White Pearl,FWD,47800,0.0,47800.0,Port to dealer,False,,2T2BAMBA3PC018684,Lexus of Thousand Oaks
+2023,RX 350,Eminent White Pearl,FWD,47800,0.0,47800.0,Port to dealer,False,DealerHold,2T2BAMBA3PC018684,Lexus of Thousand Oaks
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,2T2BAMBA3PC018698,Northside Lexus
 2023,RX 350 PREMIUM,Nori Green Pearl,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,2T2BAMBA3PC018720,Lexus of Shreveport - Bossier City
 2023,RX 350 PREMIUM,Caviar,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA3PC018734,Scanlon Lexus of Fort Myers
-2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA3PC018751,Lexus of Lakeway
+2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA3PC018751,Lexus of Lakeway
 2023,RX 350,Nebula Gray Pearl,FWD,47800,0.0,47800.0,Port to dealer,False,DealerHold,2T2BAMBA3PC018765,Lexus of Jacksonville
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA3PC018779,Lexus of Montgomery
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,2T2BAMBA3PC018782,Johnson Lexus of Raleigh
@@ -891,10 +880,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA4PC016863,Lexus of Glendale
 2023,RX 350 PREMIUM+,Nightfall Mica,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA4PC016930,Lexus of Tucson at the Auto Mall
 2023,RX 350 LUXURY,Nori Green Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA4PC016975,Lexus of North Miami
-2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA4PC017088,North Park Lexus of San Antonio
 2023,RX 350 LUXURY,Matador Red Mica,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA4PC017107,Sterling McCall Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA4PC017110,Lexus of Tucson at the Auto Mall
-2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA4PC017124,Lexus of North Miami
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA4PC017169,Park Place Lexus Plano
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA4PC017222,Lexus of Thousand Oaks
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA4PC017320,North Park Lexus Rio Grande Valley
@@ -921,7 +908,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA4PC018225,Shottenkirk Desert Lexus
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA4PC018239,Lexus of Henderson
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA4PC018256,Lexus of Cerritos
-2023,RX 350,Nebula Gray Pearl,FWD,47800,0.0,47800.0,At dealer,False,DealerHold,2T2BAMBA4PC018323,Lexus of Riverside
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA4PC018354,Lexus of Cerritos
 2023,RX 350 PREMIUM,Nebula Gray Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA4PC018371,Earnhardt Lexus
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA4PC018385,North Park Lexus of San Antonio
@@ -929,7 +915,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA4PC018435,Keyes Lexus
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA4PC018449,Lexus of Pembroke Pines
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,2T2BAMBA4PC018483,Johnson Lexus of Raleigh
-2023,RX 350 PREMIUM,Caviar,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA4PC018497,JM Lexus
+2023,RX 350 PREMIUM,Caviar,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,2T2BAMBA4PC018497,JM Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA4PC018502,Longo Lexus
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA4PC018516,North Park Lexus Rio Grande Valley
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA4PC018533,Lexus of Chandler
@@ -1065,7 +1051,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA5PC012255,South County Lexus at Mission Viejo
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA5PC012949,Lexus of Woodland Hills
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA5PC013082,Temecula Valley Lexus
-2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA5PC013213,Lexus of Fremont
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA5PC013471,Germain Lexus of Naples
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA5PC014040,Tustin Lexus
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA5PC014328,Jim Falk Lexus of Beverly Hills
@@ -1073,7 +1058,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA5PC014538,Lexus of Las Vegas
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA5PC014622,Lexus of Thousand Oaks
 2023,RX 350 LUXURY,Nightfall Mica,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA5PC014653,Lexus of Chandler
-2023,RX 350 PREMIUM+,Nori Green Pearl,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBA5PC014992,Lexus of Westminster
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA5PC015088,Jim Falk Lexus of Beverly Hills
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA5PC015141,Lexus of Woodland Hills
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA5PC015155,Lexus of Sarasota
@@ -1086,11 +1070,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Nightfall Mica,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA5PC016094,North Park Lexus Rio Grande Valley
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBA5PC016189,Fresno Lexus
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA5PC016371,Tustin Lexus
-2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA5PC016449,Longo Lexus
 2023,RX 350,Eminent White Pearl,FWD,47800,0.0,47800.0,At dealer,False,Available,2T2BAMBA5PC016631,Lexus of Serramonte
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA5PC016659,Longo Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA5PC016712,Lexus of Glendale
-2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA5PC016841,Arrowhead Lexus
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA5PC016869,Park Place Lexus Plano
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA5PC016998,Lexus of Thousand Oaks
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA5PC017021,Lexus of Sacramento
@@ -1102,7 +1084,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA5PC017259,Lexus of New Orleans
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA5PC017276,Westside Lexus
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA5PC017312,Germain Lexus of Naples
-2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA5PC017357,Tustin Lexus
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA5PC017388,Arrowhead Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBA5PC017410,Arrowhead Lexus
 2023,RX 350 LUXURY,Copper Crest,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA5PC017441,Scanlon Lexus of Fort Myers
@@ -1132,7 +1113,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA5PC018315,Tustin Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA5PC018363,Lexus of Orlando
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA5PC018394,Lexus of Louisville
-2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA5PC018427,Lexus of Woodland Hills
+2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA5PC018427,Lexus of Woodland Hills
 2023,RX 350 LUXURY,Nori Green Pearl,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA5PC018458,Sterling McCall Lexus Clear Lake
 2023,RX 350,Eminent White Pearl,FWD,47800,0.0,47800.0,Port to dealer,False,Available,2T2BAMBA5PC018461,Lexus of Oxnard
 2023,RX 350 PREMIUM,Nebula Gray Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA5PC018489,Jim Falk Lexus of Beverly Hills
@@ -1475,12 +1456,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA6PC020221,Lexus of Pembroke Pines
 2023,RX 350 PREMIUM,Caviar,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA6PC020235,JM Lexus
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,Port to dealer,False,Available,2T2BAMBA6PC020266,Sterling McCall Lexus
-2023,RX 350 PREMIUM+,Caviar,FWD,52000,0.0,52000.0,At dealer,False,Available,2T2BAMBA7PC009793,Lexus of Westminster
 2023,RX 350 PREMIUM,Iridium,FWD,49400,0.0,49400.0,At dealer,False,Available,2T2BAMBA7PC010216,Burdick Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52000,0.0,52000.0,At dealer,False,Available,2T2BAMBA7PC011267,Lexus of Naperville
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA7PC011463,Motor City Lexus of Bakersfield
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA7PC011611,Jim Falk Lexus of Beverly Hills
-2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBA7PC011804,Keyes Lexus
 2023,RX 350 PREMIUM+,Nightfall Mica,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA7PC013035,Fresno Lexus
 2023,RX 350 LUXURY,Nori Green Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA7PC013326,Lexus of Glendale
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA7PC013343,Fresno Lexus
@@ -1498,7 +1477,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Nori Green Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA7PC014878,Germain Lexus of Naples
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA7PC015075,Lexus of Thousand Oaks
 2023,RX 350 PREMIUM+,Nightfall Mica,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA7PC015142,Lexus of Westminster
-2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA7PC015268,Lexus of Woodland Hills
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA7PC015450,Arrowhead Lexus
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA7PC016274,Lexus Santa Monica
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA7PC016484,Jim Falk Lexus of Beverly Hills
@@ -1515,7 +1493,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA7PC017053,Keyes Lexus of Valencia
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA7PC017098,Lexus of Tucson
 2023,RX 350 LUXURY,Nori Green Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA7PC017151,Lexus of Henderson
-2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,2T2BAMBA7PC017179,Lexus of Thousand Oaks
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA7PC017215,Lexus of Cerritos
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA7PC017246,JM Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA7PC017263,Lexus of Las Vegas
@@ -1541,7 +1518,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Nori Green Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA7PC017926,Crown Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA7PC017957,Tustin Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA7PC017974,Lexus of Glendale
-2023,RX 350,Iridium,FWD,47800,0.0,47800.0,At dealer,False,DealerHold,2T2BAMBA7PC018011,Lexus San Diego
+2023,RX 350,Iridium,FWD,47800,0.0,47800.0,At dealer,False,DealerHold,2T2BAMBA7PC018011,South County Lexus at Mission Viejo
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA7PC018025,Arrowhead Lexus
 2023,RX 350 PREMIUM+,Nori Green Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA7PC018039,Lexus of Pleasanton
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA7PC018042,Park Place Lexus Plano
@@ -1686,6 +1663,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,Port to dealer,False,Available,2T2BAMBA7PC020230,Herrin-Gear Lexus
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA7PC020244,Bell Lexus North Scottsdale
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA7PC020258,Lexus of Wesley Chapel
+2023,RX 350 PREMIUM,Nightfall Mica,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA7PC020275,Park Place Lexus Plano
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA7PC020289,Lexus of Pembroke Pines
 2023,RX 350 PREMIUM+,Matador Red Mica,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA7PC020292,Sewell Lexus
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55400,0.0,55400.0,At dealer,False,Available,2T2BAMBA8PC008314,Lexus of Pembroke Pines
@@ -1695,7 +1673,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA8PC011973,Lexus of Thousand Oaks
 2023,RX 350 LUXURY,Copper Crest,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA8PC012332,Fox Lexus of El Paso
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA8PC012430,Shottenkirk Desert Lexus
-2023,RX 350 PREMIUM+,Nightfall Mica,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBA8PC012881,Putnam Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA8PC013299,Newport Lexus
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA8PC013805,Keyes Lexus of Valencia
 2023,RX 350 LUXURY,Nightfall Mica,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA8PC013917,Lexus of Pleasanton
@@ -1730,7 +1707,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA8PC016915,Lexus of Glendale
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA8PC016929,Lexus of North Miami
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA8PC017093,Keyes Lexus
-2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA8PC017109,Lexus of Sacramento
 2023,RX 350 LUXURY,Matador Red Mica,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA8PC017188,Lexus of Henderson
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA8PC017207,Park Place Lexus Grapevine
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA8PC017238,Temecula Valley Lexus
@@ -1743,9 +1719,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA8PC017661,Flow Lexus of Winston-Salem
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,2T2BAMBA8PC017739,Hendrick Lexus Charleston
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA8PC017871,Earnhardt Lexus
-2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBA8PC017885,Bell Lexus North Scottsdale
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA8PC017918,Park Place Lexus Plano
-2023,RX 350,Caviar,FWD,47800,0.0,47800.0,At dealer,False,Available,2T2BAMBA8PC017935,Tustin Lexus
 2023,RX 350,Eminent White Pearl,FWD,47800,0.0,47800.0,At dealer,False,DealerHold,2T2BAMBA8PC017952,South County Lexus at Mission Viejo
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,Available,2T2BAMBA8PC018003,JM Lexus
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA8PC018020,Temecula Valley Lexus
@@ -1768,7 +1742,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA8PC018468,Lexus of Woodland Hills
 2023,RX 350 PREMIUM,Nori Green Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA8PC018485,Lexus of Winter Park
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA8PC018504,Herrin-Gear Lexus
-2023,RX 350,Iridium,FWD,47800,0.0,47800.0,Port to dealer,False,,2T2BAMBA8PC018518,JM Lexus
+2023,RX 350,Iridium,FWD,47800,0.0,47800.0,At dealer,False,,2T2BAMBA8PC018518,JM Lexus
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA8PC018521,Motor City Lexus of Bakersfield
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA8PC018535,Park Place Lexus Plano
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA8PC018549,Keyes Lexus
@@ -1792,7 +1766,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Matador Red Mica,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA8PC018860,North Park Lexus of San Antonio
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,2T2BAMBA8PC018888,Johnson Lexus of Raleigh
 2023,RX 350 PREMIUM,Caviar,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA8PC018891,North Park Lexus at Dominion
-2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA8PC018907,Lexus of North Miami
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA8PC018910,Westside Lexus
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA8PC018924,Lexus Monterey Peninsula
 2023,RX 350 PREMIUM+,Matador Red Mica,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA8PC018941,Cavender Lexus of Lubbock
@@ -1879,7 +1852,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,887.0,56687.0,Port to dealer,False,Available,2T2BAMBA8PC020124,Lexus of Birmingham
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA8PC020138,Hendrick Lexus Northlake
 2023,RX 350 PREMIUM,Nightfall Mica,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA8PC020141,Lexus of Orlando
-2023,RX 350 PREMIUM,Matador Red Mica,FWD,49800,0.0,49800.0,Port to dealer,False,Available,2T2BAMBA8PC020155,Lexus of Santa Barbara
 2023,RX 350 LUXURY,Matador Red Mica,FWD,55800,0.0,55800.0,Port to dealer,False,Available,2T2BAMBA8PC020169,Lexus of Mobile
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA8PC020172,Sewell Lexus of Ft. Worth
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,Port to dealer,False,Available,2T2BAMBA8PC020186,Lexus of Montgomery
@@ -1903,7 +1875,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA9PC013781,Motor City Lexus of Bakersfield
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA9PC013831,Keyes Lexus of Valencia
 2023,RX 350 LUXURY,Nightfall Mica,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA9PC014493,Lexus of Glendale
-2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA9PC014607,Lexus of Westminster
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBA9PC015045,Keyes Lexus
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA9PC015076,Scanlon Lexus of Fort Myers
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA9PC015434,Lexus of Pleasanton
@@ -1943,13 +1914,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA9PC017524,"Lexus of Concord, LLC"
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA9PC017541,Lexus of Woodland Hills
 2023,RX 350,Nebula Gray Pearl,FWD,47800,0.0,47800.0,At dealer,False,DealerHold,2T2BAMBA9PC017605,Lexus of Thousand Oaks
-2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,2T2BAMBA9PC017698,Lexus of West Kendall
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,2T2BAMBA9PC017734,Lexus of Wesley Chapel
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA9PC017765,Price LeBlanc Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBA9PC017796,Earnhardt Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,Port to dealer,False,Available,2T2BAMBA9PC017815,Lexus of Oxnard
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA9PC017877,Sewell Lexus of Ft. Worth
-2023,RX 350,Nebula Gray Pearl,FWD,47800,0.0,47800.0,At dealer,False,DealerHold,2T2BAMBA9PC017880,South Bay Lexus
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA9PC017975,Longo Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA9PC017992,Fresno Lexus
 2023,RX 350,Nebula Gray Pearl,FWD,47800,0.0,47800.0,At dealer,False,Available,2T2BAMBA9PC018026,Lexus of Las Vegas
@@ -1963,12 +1932,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Nori Green Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA9PC018267,Lexus Stevens Creek
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA9PC018303,Lexus of Glendale
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBA9PC018348,Westside Lexus
-2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA9PC018379,Lexus of Woodland Hills
+2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBA9PC018379,Lexus of Woodland Hills
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA9PC018382,Lexus of Fremont
 2023,RX 350 PREMIUM,Nebula Gray Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBA9PC018401,Lexus of Orlando
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA9PC018415,Scanlon Lexus of Fort Myers
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA9PC018429,Germain Lexus of Naples
-2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,Port to dealer,False,Available,2T2BAMBA9PC018432,JM Lexus
+2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,At dealer,False,Available,2T2BAMBA9PC018432,JM Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA9PC018446,Lexus of Pembroke Pines
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,At dealer,False,,2T2BAMBA9PC018463,Longo Lexus
 2023,RX 350 LUXURY,Copper Crest,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA9PC018480,Westside Lexus
@@ -1981,7 +1950,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350,Caviar,FWD,47800,0.0,47800.0,Port to dealer,False,,2T2BAMBA9PC018639,Jim Falk Lexus of Beverly Hills
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBA9PC018642,Lexus of Glendale
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA9PC018656,Lexus of Winter Park
-2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,True,DealerHold,2T2BAMBA9PC018687,Longo Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,2T2BAMBA9PC018690,Lexus of Huntsville
 2023,RX 350 LUXURY,Nightfall Mica,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA9PC018754,Lexus of Clearwater
 2023,RX 350 LUXURY,Copper Crest,FWD,55800,698.0,56498.0,Port to dealer,False,,2T2BAMBA9PC018785,Lexus of Tulsa
@@ -2018,7 +1986,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Caviar,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBA9PC019242,Crown Lexus
 2023,RX 350 LUXURY,Iridium,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA9PC019256,Lexus of Montgomery
 2023,RX 350 LUXURY,Nebula Gray Pearl,FWD,55800,0.0,55800.0,Port to dealer,False,DealerHold,2T2BAMBA9PC019287,Nalley Lexus-Smyrna
-2023,RX 350 PREMIUM+,Copper Crest,FWD,52400,0.0,52400.0,Port to dealer,False,Available,2T2BAMBA9PC019306,JM Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,FWD,55800,0.0,55800.0,Port to dealer,False,,2T2BAMBA9PC019337,Lexus of Greenville
 2023,RX 350,Eminent White Pearl,FWD,47800,0.0,47800.0,Port to dealer,False,,2T2BAMBA9PC019340,Lexus El Cajon
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,2T2BAMBA9PC019354,Price LeBlanc Lexus
@@ -2140,22 +2107,20 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,2T2BAMBAXPC017547,Lexus of Glendale
 2023,RX 350,Eminent White Pearl,FWD,47800,0.0,47800.0,At dealer,False,DealerHold,2T2BAMBAXPC017578,Shottenkirk Desert Lexus
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBAXPC017595,Newport Lexus
-2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBAXPC017614,Jim Falk Lexus of Beverly Hills
+2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBAXPC017614,Temecula Valley Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBAXPC017659,Lexus of Tampa Bay
 2023,RX 350 PREMIUM+,Matador Red Mica,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBAXPC017676,North Park Lexus at Dominion
-2023,RX 350 PREMIUM+,Copper Crest,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBAXPC017743,Lexus of Kendall
 2023,RX 350 PREMIUM,Nightfall Mica,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBAXPC017757,Lexus of Winter Park
 2023,RX 350 LUXURY,Caviar,FWD,55800,0.0,55800.0,At dealer,False,DealerHold,2T2BAMBAXPC017788,Lexus of Austin
 2023,RX 350 PREMIUM+,Nightfall Mica,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBAXPC017791,Hilton Head Lexus
 2023,RX 350 PREMIUM,Nori Green Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,Available,2T2BAMBAXPC017869,Lexus of Palm Beach
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBAXPC017872,Lexus of Glendale
 2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,2T2BAMBAXPC017922,Keyes Lexus
-2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBAXPC017984,Motor City Lexus of Bakersfield
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,Available,2T2BAMBAXPC018018,Motor City Lexus of Bakersfield
 2023,RX 350 PREMIUM,Caviar,FWD,49800,0.0,49800.0,At dealer,False,,2T2BAMBAXPC018035,Germain Lexus of Naples
 2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,Port to dealer,False,,2T2BAMBAXPC018052,Jim Falk Lexus of Beverly Hills
 2023,RX 350,Eminent White Pearl,FWD,47800,0.0,47800.0,Port to dealer,False,Available,2T2BAMBAXPC018097,Lexus of Oxnard
-2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,,2T2BAMBAXPC018116,Lexus of Westminster
+2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,2T2BAMBAXPC018116,Lexus of Westminster
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,Available,2T2BAMBAXPC018147,South County Lexus at Mission Viejo
 2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,At dealer,False,,2T2BAMBAXPC018164,Earnhardt Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,At dealer,False,,2T2BAMBAXPC018200,Longo Lexus
@@ -2167,7 +2132,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Matador Red Mica,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,2T2BAMBAXPC018357,Hilton Head Lexus
 2023,RX 350 PREMIUM+,Nightfall Mica,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,2T2BAMBAXPC018360,Price LeBlanc Lexus
 2023,RX 350 PREMIUM,Nebula Gray Pearl,FWD,49800,0.0,49800.0,At dealer,False,,2T2BAMBAXPC018374,Lexus San Diego
-2023,RX 350 PREMIUM,Matador Red Mica,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,2T2BAMBAXPC018407,Jim Falk Lexus of Beverly Hills
+2023,RX 350 PREMIUM,Matador Red Mica,FWD,49800,0.0,49800.0,At dealer,False,Available,2T2BAMBAXPC018407,Lexus San Diego
 2023,RX 350,Eminent White Pearl,FWD,47800,0.0,47800.0,At dealer,False,DealerHold,2T2BAMBAXPC018438,Lexus Carlsbad
 2023,RX 350 PREMIUM,Nebula Gray Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,2T2BAMBAXPC018441,Lexus of Orlando
 2023,RX 350 PREMIUM+,Copper Crest,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,2T2BAMBAXPC018455,Northside Lexus
@@ -2386,10 +2351,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCA0PC031360,New Country Lexus of Latham
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA0PC031374,Newport Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA0PC031391,Lexus of Westminster
+2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA0PC031407,Lexus of Greenville
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,Available,2T2BAMCA0PC031522,Lexus of New Orleans
 2023,RX 350 PREMIUM,Nori Green Pearl,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA0PC031536,Priority Lexus Virginia Beach
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA0PC031567,Lexus of Sacramento
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,Port to dealer,False,DealerHold,2T2BAMCA0PC031617,Lexus of Shreveport - Bossier City
+2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA0PC031665,Lexus of Freeport
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,True,DealerHold,2T2BAMCA0PC031682,Butler Lexus of South Atlanta
 2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA0PC031715,JM Lexus
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA0PC031729,Woodfield Lexus
@@ -2401,7 +2368,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA0PC031861,Lexus of Smithtown
 2023,RX 350 LUXURY,Iridium,AWD,57400,0.0,57400.0,Port to dealer,False,DealerHold,2T2BAMCA0PC031875,Lexus of Knoxville
 2023,RX 350 F SPORT HANDLING,Grecian Water,AWD,57000,100.0,57100.0,At dealer,False,,2T2BAMCA0PC031889,Lexus of Orland
-2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA0PC031892,Lexus of Maplewood
+2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA0PC031892,Lexus of Maplewood
 2023,RX 350 PREMIUM+,Nightfall Mica,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA0PC031939,Stevinson Lexus of Lakewood
 2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA0PC031956,Hendrick Lexus Kansas City North
 2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,At dealer,False,,2T2BAMCA0PC032007,Meade Lexus of Southfield
@@ -2463,7 +2430,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA0PC033111,New Country Lexus of Great Neck
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA0PC033125,North Park Lexus at Dominion
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCA0PC033156,Lexus of Brooklyn
-2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA0PC033187,South County Lexus at Mission Viejo
+2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA0PC033187,South County Lexus at Mission Viejo
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA0PC033190,Smart Lexus of Quad Cities
 2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,At dealer,False,,2T2BAMCA0PC033240,New Country Lexus of Latham
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,DealerHold,2T2BAMCA0PC033254,Lexus of Louisville
@@ -2509,6 +2476,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA0PC033951,Keyes Lexus
 2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,Port to dealer,False,DealerHold,2T2BAMCA0PC033965,Ray Catena Lexus of White Plains
 2023,RX 350 LUXURY,Nightfall Mica,AWD,57400,0.0,57400.0,Port to dealer,False,Available,2T2BAMCA0PC033979,Herb Chambers Lexus of Hingham
+2023,RX 350 LUXURY,Matador Red Mica,AWD,57400,2995.0,60395.0,Port to dealer,False,,2T2BAMCA0PC033996,Sheehy Lexus of Annapolis
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA0PC034002,Fields Lexus Glenview
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,Port to dealer,False,DealerHold,2T2BAMCA0PC034016,Butler Lexus
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA0PC034047,Herb Chambers Lexus
@@ -2623,12 +2591,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Nori Green Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA1PC031268,Lexus of Brooklyn
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA1PC031285,Sheehy Lexus of Richmond
 2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA1PC031299,Fresno Lexus
-2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCA1PC031383,Lexus of West Kendall
 2023,RX 350 LUXURY,Copper Crest,AWD,57400,0.0,57400.0,At dealer,False,Available,2T2BAMCA1PC031433,JM Lexus
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA1PC031450,DARCARS Lexus of Englewood
 2023,RX 350 PREMIUM+,Copper Crest,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA1PC031478,Lexus of Fremont
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA1PC031514,Lindsay Lexus of Alexandria
 2023,RX 350 PREMIUM+,Iridium,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA1PC031528,Stevinson Lexus of Lakewood
+2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA1PC031531,Lexus of Freeport
 2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA1PC031545,Lexus of Winter Park
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,DealerHold,2T2BAMCA1PC031609,Hendrick Lexus Kansas City
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA1PC031612,Lexus of Lexington
@@ -2647,7 +2615,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA1PC031965,Kenny Kent Lexus
 2023,RX 350 PREMIUM+,Matador Red Mica,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA1PC031982,Meade Lexus of Southfield
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,Port to dealer,False,Available,2T2BAMCA1PC032002,Lexus of Manhattan
-2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,Port to dealer,False,DealerHold,2T2BAMCA1PC032016,Lexus of Maplewood
+2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA1PC032016,Lexus of Maplewood
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA1PC032047,Lexus of Portland
 2023,RX 350 PREMIUM+,Matador Red Mica,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA1PC032050,Sewell Lexus
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA1PC032064,Herb Chambers Lexus
@@ -2783,6 +2751,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA1PC034364,Lexus of Cherry Hill
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,DealerHold,2T2BAMCA1PC034378,Bob Johnson Lexus
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA1PC034400,Ray Catena Lexus of Freehold
+2023,RX 350 PREMIUM,Caviar,AWD,51400,2995.0,54395.0,Port to dealer,False,Available,2T2BAMCA1PC034428,Sheehy Lexus of Annapolis
 2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,Port to dealer,False,Available,2T2BAMCA1PC034459,Lexus of Serramonte
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA1PC034462,Stevinson Lexus of Lakewood
 2023,RX 350 LUXURY,Nightfall Mica,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA1PC034476,Germain Lexus of Naples
@@ -2842,7 +2811,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA2PC030145,Fresno Lexus
 2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA2PC030209,Putnam Lexus
 2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,At dealer,False,,2T2BAMCA2PC030226,Stevinson Lexus of Frederick
-2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,Available,2T2BAMCA2PC030243,"Lexus of Concord, LLC"
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA2PC030257,Lexus of Lehigh Valley
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA2PC030274,"Lexus of Seattle, LLC"
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA2PC030372,Lexus of Queens
@@ -2871,6 +2839,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Matador Red Mica,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA2PC031294,Lexus of Watertown
 2023,RX 350 PREMIUM+,Nightfall Mica,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA2PC031344,Lexus of Orange Park
 2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA2PC031411,Lindsay Lexus of Alexandria
+2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,2539.0,53939.0,At dealer,False,DealerHold,2T2BAMCA2PC031425,Lexus of Warwick
 2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA2PC031456,New Country Lexus of Great Neck
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA2PC031487,Moses Lexus
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA2PC031523,Haldeman Lexus of Princeton
@@ -3068,18 +3037,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,Available,2T2BAMCA3PC026007,Ray Catena Lexus of Monmouth
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,Available,2T2BAMCA3PC026203,New Country Lexus of Great Neck
 2023,RX 350 PREMIUM+,Nori Green Pearl,AWD,54000,0.0,54000.0,At dealer,False,,2T2BAMCA3PC026234,Stevinson Lexus of Frederick
-2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA3PC026699,"Lexus of Seattle, LLC"
 2023,RX 350 F SPORT HANDLING,Grecian Water,AWD,57000,0.0,57000.0,At dealer,False,Available,2T2BAMCA3PC026928,Lexus of Henderson
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA3PC027111,Earnhardt Lexus
 2023,RX 350 PREMIUM+,Matador Red Mica,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA3PC027206,Ray Catena Lexus of Monmouth
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,Available,2T2BAMCA3PC027254,Lexus of Wichita
 2023,RX 350 LUXURY,Nori Green Pearl,AWD,57400,0.0,57400.0,At dealer,False,Available,2T2BAMCA3PC027318,Lexus of Highland Park
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA3PC027321,Lexus of Atlantic City
-2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA3PC027383,Lexus of Sacramento
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA3PC027724,Putnam Lexus
 2023,RX 350 F SPORT HANDLING,Nightfall Mica,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA3PC027769,Lexus of Cherry Hill
 2023,RX 350 F SPORT HANDLING,Nightfall Mica,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA3PC027805,Lexus of Sacramento
-2023,RX 350 F SPORT HANDLING,Grecian Water,AWD,57000,0.0,57000.0,At dealer,False,Available,2T2BAMCA3PC027853,South Bay Lexus
 2023,RX 350 LUXURY,Nori Green Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA3PC027934,Lexus of Greenville
 2023,RX 350 LUXURY,Nightfall Mica,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCA3PC028033,Germain Lexus of Ann Arbor
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA3PC028047,Motor City Lexus of Bakersfield
@@ -3124,7 +3090,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,Port to dealer,False,Available,2T2BAMCA3PC031076,Lexus of Tucson at the Auto Mall
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCA3PC031093,Stoler Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA3PC031112,Earnhardt Lexus
-2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA3PC031143,Larry H. Miller Lexus of Lindon
+2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,At dealer,False,,2T2BAMCA3PC031143,Larry H. Miller Lexus of Lindon
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,Port to dealer,False,DealerHold,2T2BAMCA3PC031174,Sewell Lexus of Ft. Worth
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA3PC031191,Lexus of Kingsport
 2023,RX 350,Eminent White Pearl,AWD,49400,0.0,49400.0,Port to dealer,False,DealerHold,2T2BAMCA3PC031207,Newport Lexus
@@ -3133,7 +3099,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Iridium,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA3PC031269,Lexus of Freeport
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA3PC031272,Prestige Lexus of Ramsey
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA3PC031319,Lexus Carlsbad
-2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA3PC031367,Larry H. Miller Lexus of Lindon
+2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,At dealer,False,,2T2BAMCA3PC031367,Larry H. Miller Lexus of Lindon
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA3PC031384,Kenny Kent Lexus
 2023,RX 350 PREMIUM+,Nori Green Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA3PC031398,Stevinson Lexus of Lakewood
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,Port to dealer,False,DealerHold,2T2BAMCA3PC031420,Lexus of Milwaukee
@@ -3389,7 +3355,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCA4PC030499,Lexus of Freeport
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA4PC030504,Lexus of Towson
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA4PC030518,Lexus of Greenwood Village
-2023,RX 350 PREMIUM+,Iridium,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA4PC030535,Larry H. Miller Lexus of Lindon
+2023,RX 350 PREMIUM+,Iridium,AWD,54000,0.0,54000.0,At dealer,False,,2T2BAMCA4PC030535,Larry H. Miller Lexus of Lindon
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,,2T2BAMCA4PC030552,Lexus of Atlantic City
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA4PC030616,"Lexus of Seattle, LLC"
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,2539.0,59539.0,At dealer,False,DealerHold,2T2BAMCA4PC030633,Lexus of Warwick
@@ -3415,10 +3381,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA4PC031281,Kenny Kent Lexus
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA4PC031300,Herb Chambers Lexus
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,Port to dealer,False,DealerHold,2T2BAMCA4PC031331,Lexus of Albuquerque
-2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA4PC031362,Lexus of Bellevue
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCA4PC031376,Lexus of Wayzata
 2023,RX 350 PREMIUM+,Matador Red Mica,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA4PC031457,Willis Lexus
-2023,RX 350 PREMIUM+,Matador Red Mica,AWD,54000,0.0,54000.0,Port to dealer,False,Available,2T2BAMCA4PC031474,Keyes Lexus of Valencia
+2023,RX 350 PREMIUM+,Matador Red Mica,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA4PC031474,Keyes Lexus of Valencia
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA4PC031507,South County Lexus at Mission Viejo
 2023,RX 350 PREMIUM,Nori Green Pearl,AWD,51400,0.0,51400.0,At dealer,False,,2T2BAMCA4PC031510,Lexus of Akron/Canton
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA4PC031572,Lexus of Fremont
@@ -3539,7 +3504,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA4PC033726,DARCARS Lexus of Silver Spring
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,DealerHold,2T2BAMCA4PC033743,Lexus of Queens
 2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA4PC033760,Larry H. Miller Lexus Murray
-2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,Port to dealer,False,DealerHold,2T2BAMCA4PC033774,Lexus of Akron/Canton
+2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCA4PC033774,Lexus of Akron/Canton
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA4PC033788,Ray Catena Lexus of Freehold
 2023,RX 350 PREMIUM+,Matador Red Mica,AWD,54000,0.0,54000.0,Port to dealer,False,Available,2T2BAMCA4PC033791,Lexus of New Orleans
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA4PC033807,Stevinson Lexus of Lakewood
@@ -3557,6 +3522,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Nightfall Mica,AWD,51400,0.0,51400.0,Port to dealer,False,DealerHold,2T2BAMCA4PC034004,Len Stoler Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA4PC034018,Ourisman Lexus of Rockville
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,DealerHold,2T2BAMCA4PC034021,Thompson Lexus Doylestown
+2023,RX 350 LUXURY,Iridium,AWD,57400,2995.0,60395.0,At dealer,False,,2T2BAMCA4PC034035,Sheehy Lexus of Annapolis
 2023,RX 350 LUXURY,Copper Crest,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA4PC034066,Hoffman Lexus
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA4PC034083,Lexus of Smithtown
 2023,RX 350 F SPORT HANDLING,Nightfall Mica,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA4PC034102,Superstition Springs Lexus
@@ -3650,15 +3616,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Copper Crest,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA5PC030172,Lexus of Cerritos
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,At dealer,False,Available,2T2BAMCA5PC030267,Ray Catena Lexus of White Plains
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCA5PC030303,Johnson Lexus of Raleigh
-2023,RX 350 PREMIUM,Matador Red Mica,AWD,51400,698.0,52098.0,Port to dealer,False,DealerHold,2T2BAMCA5PC030317,Lexus of Tulsa
+2023,RX 350 PREMIUM,Matador Red Mica,AWD,51400,698.0,52098.0,At dealer,False,DealerHold,2T2BAMCA5PC030317,Lexus of Tulsa
 2023,RX 350 PREMIUM+,Copper Crest,AWD,54000,0.0,54000.0,At dealer,False,,2T2BAMCA5PC030348,Bell Lexus North Scottsdale
 2023,RX 350 LUXURY,Iridium,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA5PC030351,Findlay Lexus of Spokane
 2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA5PC030382,Sheehy Lexus of Richmond
 2023,RX 350 LUXURY,Matador Red Mica,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCA5PC030396,Lexus of Brooklyn
 2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,At dealer,False,,2T2BAMCA5PC030415,Moses Lexus
-2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA5PC030527,Rallye Lexus
+2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA5PC030527,Rallye Lexus
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA5PC030544,Germain Lexus of Ann Arbor
-2023,RX 350 PREMIUM+,Caviar,AWD,54000,698.0,54698.0,Port to dealer,False,DealerHold,2T2BAMCA5PC030575,Lexus of Tulsa
+2023,RX 350 PREMIUM+,Caviar,AWD,54000,698.0,54698.0,At dealer,False,DealerHold,2T2BAMCA5PC030575,Lexus of Tulsa
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCA5PC030690,Lexus of Wesley Chapel
 2023,RX 350 LUXURY,Copper Crest,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA5PC030723,Lexus San Diego
 2023,RX 350 PREMIUM,Nebula Gray Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA5PC030771,Stevinson Lexus of Lakewood
@@ -3687,6 +3653,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Copper Crest,AWD,54000,0.0,54000.0,At dealer,False,,2T2BAMCA5PC031452,Lexus of Cerritos
 2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA5PC031466,Lexus of Tacoma at Fife
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA5PC031547,Lexus of Greenwood Village
+2023,RX 350 PREMIUM+,Matador Red Mica,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA5PC031550,Lexus of Freeport
 2023,RX 350 F SPORT HANDLING,Nightfall Mica,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCA5PC031578,Lexus of Louisville
 2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA5PC031600,Fresno Lexus
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,DealerHold,2T2BAMCA5PC031614,Lexus of Omaha
@@ -3882,13 +3849,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Iridium,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA6PC025109,Lexus of Tacoma at Fife
 2023,RX 350 LUXURY,Iridium,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA6PC025269,Lexus of Tacoma at Fife
 2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,At dealer,False,,2T2BAMCA6PC025398,Lexus of Colorado Springs
-2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,At dealer,False,,2T2BAMCA6PC026423,Lexus of Glendale
+2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA6PC026423,Lexus of Glendale
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA6PC026552,Ray Catena Lexus of Monmouth
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCA6PC026714,Lexus of Riverside
 2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA6PC026826,Putnam Lexus
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA6PC026891,"Lexus of Seattle, LLC"
 2023,RX 350 PREMIUM+,Matador Red Mica,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA6PC027104,Lexus of Greenville
-2023,RX 350 PREMIUM+,Nori Green Pearl,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA6PC027149,Putnam Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA6PC027300,Haldeman Lexus of Princeton
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,Available,2T2BAMCA6PC027314,Stevinson Lexus of Lakewood
 2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,At dealer,False,Available,2T2BAMCA6PC027345,Rallye Lexus
@@ -3900,7 +3866,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA6PC027975,New Country Lexus of Great Neck
 2023,RX 350 LUXURY,Copper Crest,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA6PC028205,Lexus of Queens
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA6PC028382,Keyes Lexus
-2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA6PC028415,DARCARS Lexus of Silver Spring
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,At dealer,False,Available,2T2BAMCA6PC028429,Lexus of Southampton
 2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA6PC028611,Herb Chambers Lexus
 2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,At dealer,False,Available,2T2BAMCA6PC028656,Tustin Lexus
@@ -3953,12 +3918,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA6PC030925,Lexus of Melbourne
 2023,RX 350 PREMIUM,Matador Red Mica,AWD,51400,0.0,51400.0,At dealer,False,Available,2T2BAMCA6PC030942,Lexus of Portland
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA6PC030956,Lexus of Towson
-2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA6PC030973,Herb Chambers Lexus of Hingham
+2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA6PC030973,Herb Chambers Lexus of Hingham
 2023,RX 350 LUXURY,Copper Crest,AWD,57400,0.0,57400.0,At dealer,False,Available,2T2BAMCA6PC031010,Germain Lexus of Easton
-2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,Port to dealer,False,DealerHold,2T2BAMCA6PC031024,Bergstrom Lexus
+2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCA6PC031024,Bergstrom Lexus
 2023,RX 350 PREMIUM+,Copper Crest,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA6PC031038,Lexus of Fremont
 2023,RX 350 F SPORT HANDLING,Nightfall Mica,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA6PC031041,Scanlon Lexus of Fort Myers
-2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA6PC031055,Keyes Lexus of Valencia
+2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA6PC031055,Keyes Lexus of Valencia
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA6PC031086,Haldeman Lexus of Princeton
 2023,RX 350,Eminent White Pearl,AWD,49400,0.0,49400.0,Port to dealer,False,Available,2T2BAMCA6PC031119,Valley Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,DealerHold,2T2BAMCA6PC031122,Park Place Lexus Grapevine
@@ -4026,7 +3991,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,998.0,58398.0,Port to dealer,False,DealerHold,2T2BAMCA6PC032643,Jordan Lexus of Mishawaka
 2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA6PC032660,Stevinson Lexus of Frederick
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA6PC032688,Jim White Lexus of Toledo
-2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA6PC032710,Lexus of Akron/Canton
+2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA6PC032710,Lexus of Akron/Canton
 2023,RX 350 PREMIUM+,Iridium,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA6PC032724,Lexus of Greenwood Village
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA6PC032738,Koons Lexus of Wilmington
 2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA6PC032772,Keyes Lexus of Valencia
@@ -4050,9 +4015,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCA6PC033078,Bob Johnson Lexus
 2023,RX 350 PREMIUM+,Copper Crest,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA6PC033081,Northside Lexus
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA6PC033095,Rohrich Lexus
+2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA6PC033100,Lexus of Dayton
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,Port to dealer,False,DealerHold,2T2BAMCA6PC033114,Bergstrom Lexus
 2023,RX 350 PREMIUM+,Copper Crest,AWD,54000,2342.0,56342.0,Port to dealer,False,DealerHold,2T2BAMCA6PC033145,"Jim Hudson Lexus, Columbia"
-2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCA6PC033162,DARCARS Lexus of Silver Spring
+2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,Available,2T2BAMCA6PC033162,DARCARS Lexus of Silver Spring
 2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA6PC033176,Lexus of Glendale
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA6PC033193,JM Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA6PC033209,Spirit Lexus
@@ -4068,7 +4034,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA6PC033419,Hendrick Lexus Charleston
 2023,RX 350 PREMIUM+,Matador Red Mica,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA6PC033422,Lexus of Albuquerque
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA6PC033436,Lexus of Route 10
-2023,RX 350 PREMIUM+,Nebula Gray Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA6PC033470,Woodfield Lexus
+2023,RX 350 PREMIUM+,Nebula Gray Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA6PC033470,Woodfield Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,DealerHold,2T2BAMCA6PC033498,Northside Lexus
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,,2T2BAMCA6PC033503,Germain Lexus of Dublin
 2023,RX 350 LUXURY,Iridium,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCA6PC033517,Lexus of Lexington
@@ -4168,7 +4134,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA7PC027516,Lexus of Las Vegas
 2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA7PC027760,Lexus of Greenwood Village
 2023,RX 350 PREMIUM+,Nori Green Pearl,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA7PC027807,Bobby Rahal Lexus of Lancaster County
-2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,At dealer,False,Available,2T2BAMCA7PC027905,Lexus of Pleasanton
 2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,At dealer,False,,2T2BAMCA7PC027922,"Lexus of Seattle, LLC"
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA7PC028150,Keyes Lexus of Valencia
 2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCA7PC028309,Lexus of Brooklyn
@@ -4184,7 +4149,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA7PC029587,New Country Lexus of Great Neck
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA7PC029623,Ray Catena Lexus of Freehold
 2023,RX 350,Iridium,AWD,49400,0.0,49400.0,At dealer,False,,2T2BAMCA7PC029654,Lexus of Portland
-2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA7PC029668,Lexus of Oxnard
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCA7PC029766,Lexus of Fremont
 2023,RX 350 LUXURY,Iridium,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCA7PC029783,Flow Lexus of Greensboro
 2023,RX 350 PREMIUM,Nori Green Pearl,AWD,51400,0.0,51400.0,At dealer,False,Available,2T2BAMCA7PC029797,Ray Catena Lexus of Freehold
@@ -4208,7 +4172,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,Port to dealer,False,Available,2T2BAMCA7PC030531,Germain Lexus of Easton
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCA7PC030545,Peterson Lexus
 2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA7PC030576,"Lexus of Seattle, LLC"
-2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,698.0,58098.0,Port to dealer,False,DealerHold,2T2BAMCA7PC030593,Lexus of Tulsa
+2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,698.0,58098.0,At dealer,False,DealerHold,2T2BAMCA7PC030593,Lexus of Tulsa
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA7PC030609,DARCARS Lexus of Greenwich
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA7PC030643,Lexus of Towson
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA7PC030660,Dolan Lexus
@@ -4246,6 +4210,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA7PC031551,DARCARS Lexus of Greenwich
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA7PC031579,Priority Lexus Virginia Beach
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA7PC031582,Lexus of Freeport
+2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA7PC031596,Lexus of Freeport
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,,2T2BAMCA7PC031601,Jim White Lexus of Toledo
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,977.0,54977.0,At dealer,False,DealerHold,2T2BAMCA7PC031615,Mungenast Lexus of St. Louis
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA7PC031629,Lexus of Huntsville
@@ -4292,7 +4257,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,2995.0,54395.0,At dealer,False,,2T2BAMCA7PC032487,Sheehy Lexus of Annapolis
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,Port to dealer,False,DealerHold,2T2BAMCA7PC032490,Lexus of West Kendall
 2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA7PC032506,Scanlon Lexus of Fort Myers
-2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA7PC032523,Lexus of Serramonte
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA7PC032537,Scanlon Lexus of Fort Myers
 2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA7PC032540,Ira Lexus
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA7PC032599,Lexus of Glendale
@@ -4441,8 +4405,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,,2T2BAMCA8PC027671,Lexus of Tacoma at Fife
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA8PC027752,Rallye Lexus
 2023,RX 350 F SPORT HANDLING,Grecian Water,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA8PC027783,Lexus Stevens Creek
-2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,At dealer,False,Available,2T2BAMCA8PC027802,North Park Lexus of San Antonio
-2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA8PC027847,DARCARS Lexus of Silver Spring
+2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,Available,2T2BAMCA8PC027847,DARCARS Lexus of Silver Spring
 2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA8PC028108,Lexus of Greenville
 2023,RX 350 F SPORT HANDLING,Grecian Water,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA8PC028156,Lexus Carlsbad
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,Available,2T2BAMCA8PC028190,Berlin City Lexus of Portland
@@ -4456,7 +4419,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA8PC028819,Meade Lexus of Southfield
 2023,RX 350 PREMIUM+,Nori Green Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA8PC028982,Lexus of Arlington
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA8PC029033,DARCARS Lexus of Mt. Kisco
-2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA8PC029162,Bell Lexus North Scottsdale
 2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA8PC029176,Herb Chambers Lexus
 2023,RX 350,Eminent White Pearl,AWD,49400,0.0,49400.0,Port to dealer,False,,2T2BAMCA8PC029226,Lexus Stevens Creek
 2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA8PC029260,Kendall Lexus of Eugene
@@ -4483,7 +4445,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA8PC030456,Sheehy Lexus of Richmond
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCA8PC030506,Lexus of Sarasota
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA8PC030523,Lexus of Tacoma at Fife
-2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,DealerHold,2T2BAMCA8PC030554,Motor City Lexus of Bakersfield
+2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCA8PC030554,Motor City Lexus of Bakersfield
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCA8PC030683,Superstition Springs Lexus
 2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA8PC030747,Lindsay Lexus of Alexandria
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA8PC030764,New Country Lexus of Latham
@@ -4522,7 +4484,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA8PC031834,Lexus of Merrillville
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,AWD,54000,0.0,54000.0,At dealer,False,,2T2BAMCA8PC031848,Ray Catena Lexus
 2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA8PC031865,Serra Lexus Lansing
-2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,DealerHold,2T2BAMCA8PC031879,Lexus of Austin
+2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCA8PC031879,Lexus of Austin
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCA8PC031896,Ourisman Lexus of Rockville
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,Available,2T2BAMCA8PC031901,Coliseum Lexus of Oakland
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCA8PC031929,Ira Lexus of Manchester
@@ -4548,7 +4510,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Nori Green Pearl,AWD,51400,0.0,51400.0,At dealer,False,,2T2BAMCA8PC032384,Lexus of Towson
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA8PC032403,Freeman Lexus
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,DealerHold,2T2BAMCA8PC032417,Bergstrom Lexus
-2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA8PC032434,McGrath Lexus of Chicago
+2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA8PC032434,McGrath Lexus of Chicago
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCA8PC032448,New Country Lexus of Westport
 2023,RX 350 LUXURY,Iridium,AWD,57400,0.0,57400.0,Port to dealer,False,DealerHold,2T2BAMCA8PC032451,Butler Lexus
 2023,RX 350 PREMIUM+,Copper Crest,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA8PC032465,Sterling McCall Lexus Clear Lake
@@ -4604,6 +4566,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA8PC033437,Lexus of Northborough
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA8PC033440,Priority Lexus Virginia Beach
 2023,RX 350 PREMIUM+,Nightfall Mica,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA8PC033454,Lexus of Wesley Chapel
+2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCA8PC033471,Lexus of Naperville
 2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA8PC033499,Lindsay Lexus of Alexandria
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA8PC033504,Lexus of Bellevue
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA8PC033518,Lexus of Towson
@@ -4629,6 +4592,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA8PC033731,Herb Chambers Lexus
 2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,Available,2T2BAMCA8PC033759,Metro Lexus
 2023,RX 350 F SPORT HANDLING,Nightfall Mica,AWD,57000,0.0,57000.0,Port to dealer,False,Available,2T2BAMCA8PC033762,Crown Lexus
+2023,RX 350 LUXURY,Caviar,AWD,57400,2995.0,60395.0,Port to dealer,False,,2T2BAMCA8PC033776,Sheehy Lexus of Annapolis
 2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,Port to dealer,False,Available,2T2BAMCA8PC033793,Lexus of Route 10
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,AWD,54000,0.0,54000.0,At dealer,False,Available,2T2BAMCA8PC033809,Lexus of Akron/Canton
 2023,RX 350 LUXURY,Copper Crest,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA8PC033812,Nalley Lexus-Smyrna
@@ -4638,7 +4602,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 LUXURY,Iridium,AWD,57400,0.0,57400.0,Port to dealer,False,DealerHold,2T2BAMCA8PC033910,Lexus of Milwaukee
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,Available,2T2BAMCA8PC033938,Lexus of Queens
 2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA8PC033941,Performance Lexus
-2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,Available,2T2BAMCA8PC033969,Lexus of Akron/Canton
+2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,Available,2T2BAMCA8PC033969,Lexus of Akron/Canton
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,Port to dealer,False,Available,2T2BAMCA8PC033972,Lindsay Lexus of Alexandria
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCA8PC033986,DARCARS Lexus of Greenwich
 2023,RX 350 PREMIUM,Nori Green Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA8PC034006,Ray Catena Lexus of Monmouth
@@ -4791,6 +4755,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA9PC031695,Lexus of Freeport
 2023,RX 350 PREMIUM+,Matador Red Mica,AWD,54000,0.0,54000.0,At dealer,False,,2T2BAMCA9PC031714,DARCARS Lexus of Englewood
 2023,RX 350 PREMIUM,Nori Green Pearl,AWD,51400,0.0,51400.0,At dealer,False,DealerHold,2T2BAMCA9PC031731,Ray Catena Lexus
+2023,RX 350 PREMIUM,Eminent White Pearl,AWD,51400,0.0,51400.0,At dealer,False,Available,2T2BAMCA9PC031762,Lexus of Madison
 2023,RX 350,Eminent White Pearl,AWD,49400,0.0,49400.0,Port to dealer,False,,2T2BAMCA9PC031776,Lexus Carlsbad
 2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,Available,2T2BAMCA9PC031793,Lexus of Cool Springs
 2023,RX 350 PREMIUM+,Copper Crest,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCA9PC031809,Northside Lexus
@@ -4927,7 +4892,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,Port to dealer,False,Available,2T2BAMCA9PC034273,Metro Lexus
 2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,Port to dealer,False,Available,2T2BAMCA9PC034287,Meade Lexus of Lakeside
 2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,Available,2T2BAMCA9PC034290,Fresno Lexus
-2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,Port to dealer,False,DealerHold,2T2BAMCA9PC034306,DARCARS Lexus of Silver Spring
+2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,Port to dealer,False,Available,2T2BAMCA9PC034306,DARCARS Lexus of Silver Spring
 2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,Port to dealer,False,,2T2BAMCA9PC034323,Lexus of Bridgewater
 2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA9PC034340,Lexus of Santa Fe
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCA9PC034354,Lexus of Henderson
@@ -4947,7 +4912,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Caviar,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCA9PC034564,Lexus of Wayzata
 2023,RX 350 PREMIUM,Caviar,AWD,51400,0.0,51400.0,Port to dealer,False,Available,2T2BAMCA9PC034581,Lexus of Route 10
 2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,Port to dealer,False,DealerHold,2T2BAMCA9PC034595,Stoler Lexus
-2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57000,0.0,57000.0,At dealer,False,Available,2T2BAMCAXPC003906,Putnam Lexus
 2023,RX 350 PREMIUM+,Copper Crest,AWD,53600,0.0,53600.0,At dealer,False,Available,2T2BAMCAXPC009933,"Lexus of Seattle, LLC"
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,56600,0.0,56600.0,At dealer,False,Available,2T2BAMCAXPC010001,Rohrich Lexus
 2023,RX 350 F SPORT HANDLING,Nebula Gray Pearl,AWD,56600,0.0,56600.0,At dealer,False,Available,2T2BAMCAXPC015179,Metro Lexus
@@ -4998,8 +4962,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCAXPC029552,New Country Lexus of Great Neck
 2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCAXPC029602,Lexus of Louisville
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,Available,2T2BAMCAXPC029650,DARCARS Lexus of Mt. Kisco
-2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCAXPC029812,DARCARS Lexus of Silver Spring
-2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57400,0.0,57400.0,At dealer,False,Available,2T2BAMCAXPC029826,Lexus of Bellevue
+2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,Available,2T2BAMCAXPC029812,DARCARS Lexus of Silver Spring
+2023,RX 350 LUXURY,Nebula Gray Pearl,AWD,57400,0.0,57400.0,At dealer,False,DealerHold,2T2BAMCAXPC029826,Lexus of Bellevue
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,At dealer,False,,2T2BAMCAXPC029941,JM Lexus
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,DealerHold,2T2BAMCAXPC029955,Cavender Lexus of Lubbock
 2023,RX 350 LUXURY,Nightfall Mica,AWD,57400,1513.0,58913.0,Port to dealer,False,DealerHold,2T2BAMCAXPC030037,Lexus of Marin
@@ -5034,7 +4998,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,DealerHold,2T2BAMCAXPC031169,Lexus of Fremont
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCAXPC031205,Putnam Lexus
 2023,RX 350 F SPORT HANDLING,Grecian Water,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCAXPC031236,Lexus of Henderson
-2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,,2T2BAMCAXPC031334,Kendall Lexus of Alaska
 2023,RX 350 F SPORT HANDLING,Caviar,AWD,57000,0.0,57000.0,At dealer,False,Available,2T2BAMCAXPC031365,North Park Lexus Rio Grande Valley
 2023,RX 350 PREMIUM,Iridium,AWD,51400,0.0,51400.0,Port to dealer,False,Available,2T2BAMCAXPC031379,Hendrick Lexus Kansas City North
 2023,RX 350 PREMIUM+,Matador Red Mica,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCAXPC031396,Priority Lexus Virginia Beach
@@ -5055,7 +5018,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,DealerHold,2T2BAMCAXPC031723,Lexus of Arlington
 2023,RX 350 PREMIUM+,Nebula Gray Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCAXPC031740,Peterson Lexus
 2023,RX 350 PREMIUM,Nori Green Pearl,AWD,51400,0.0,51400.0,Port to dealer,False,DealerHold,2T2BAMCAXPC031785,Lexus of Omaha
-2023,RX 350 PREMIUM+,Nightfall Mica,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCAXPC031799,Lexus of Cerritos
+2023,RX 350 PREMIUM+,Nightfall Mica,AWD,54000,0.0,54000.0,At dealer,False,,2T2BAMCAXPC031799,Lexus of Cerritos
 2023,RX 350 LUXURY,Iridium,AWD,57400,0.0,57400.0,Port to dealer,False,Available,2T2BAMCAXPC031804,Park Place Lexus Grapevine
 2023,RX 350 LUXURY,Iridium,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCAXPC031821,New Country Lexus of Great Neck
 2023,RX 350 F SPORT HANDLING,Iridium,AWD,57000,0.0,57000.0,At dealer,False,Available,2T2BAMCAXPC031852,Lexus of Smithtown
@@ -5105,7 +5068,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 F SPORT HANDLING,Ultra White,AWD,57000,0.0,57000.0,Port to dealer,False,,2T2BAMCAXPC032662,Jim Falk Lexus of Beverly Hills
 2023,RX 350 PREMIUM+,Matador Red Mica,AWD,54000,1249.0,55249.0,Port to dealer,False,DealerHold,2T2BAMCAXPC032676,Mungenast Lexus of St. Louis
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,Port to dealer,False,DealerHold,2T2BAMCAXPC032760,North Park Lexus of San Antonio
-2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,Port to dealer,False,,2T2BAMCAXPC032774,Larry H. Miller Lexus of Lindon
+2023,RX 350 PREMIUM+,Eminent White Pearl,AWD,54000,0.0,54000.0,At dealer,False,,2T2BAMCAXPC032774,Larry H. Miller Lexus of Lindon
 2023,RX 350 LUXURY,Caviar,AWD,57400,0.0,57400.0,Port to dealer,False,,2T2BAMCAXPC032788,Lexus of Lincoln
 2023,RX 350,Eminent White Pearl,AWD,49400,0.0,49400.0,Port to dealer,False,,2T2BAMCAXPC032807,Putnam Lexus
 2023,RX 350 LUXURY,Eminent White Pearl,AWD,57400,0.0,57400.0,At dealer,False,,2T2BAMCAXPC032810,DARCARS Lexus of Greenwich
@@ -5272,7 +5235,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Caviar,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,JTJCHMAA3P2010425,Lexus of Lakeway
 2023,RX 350 PREMIUM+,Copper Crest,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,JTJCHMAA3P2010456,North Park Lexus Rio Grande Valley
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,,JTJCHMAA3P2010571,JM Lexus
-2023,RX 350 PREMIUM,Caviar,FWD,49800,0.0,49800.0,At dealer,False,,JTJCHMAA3P2010585,Lexus of Winter Park
 2023,RX 350 PREMIUM+,Matador Red Mica,FWD,52400,0.0,52400.0,Port to dealer,False,,JTJCHMAA3P2010635,North Park Lexus of San Antonio
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,Available,JTJCHMAA3P2010649,Lexus of New Orleans
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,Available,JTJCHMAA3P2010697,Lexus of Tampa Bay
@@ -5364,7 +5326,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,JTJCHMAA8P2010078,Johnson Lexus of Durham
 2023,RX 350 PREMIUM,Nightfall Mica,FWD,49800,0.0,49800.0,Port to dealer,False,,JTJCHMAA8P2010095,Treasure Coast Lexus
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,JTJCHMAA8P2010467,North Park Lexus at Dominion
-2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,JTJCHMAA8P2010484,Germain Lexus of Naples
+2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,JTJCHMAA8P2010484,Germain Lexus of Naples
 2023,RX 350 PREMIUM,Iridium,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,JTJCHMAA8P2010520,North Park Lexus at Dominion
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,JTJCHMAA8P2010551,Hendrick Lexus Charleston
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,JTJCHMAA8P2010565,Lexus of Wesley Chapel
@@ -5392,7 +5354,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,RX 350 PREMIUM+,Eminent White Pearl,FWD,52400,0.0,52400.0,Port to dealer,False,DealerHold,JTJCHMAA9P2010557,Sterling McCall Lexus Clear Lake
 2023,RX 350 PREMIUM,Matador Red Mica,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,JTJCHMAA9P2010560,Park Place Lexus Plano
 2023,RX 350 PREMIUM+,Iridium,FWD,52400,0.0,52400.0,At dealer,False,DealerHold,JTJCHMAA9P2010574,Westside Lexus
-2023,RX 350 PREMIUM,Matador Red Mica,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,JTJCHMAA9P2010591,Park Place Lexus Plano
+2023,RX 350 PREMIUM,Matador Red Mica,FWD,49800,0.0,49800.0,At dealer,False,DealerHold,JTJCHMAA9P2010591,Park Place Lexus Plano
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,JTJCHMAA9P2010607,Lexus of Tampa Bay
 2023,RX 350 PREMIUM,Nori Green Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,JTJCHMAA9P2010610,Lexus of Austin
 2023,RX 350 PREMIUM,Eminent White Pearl,FWD,49800,0.0,49800.0,Port to dealer,False,DealerHold,JTJCHMAA9P2010669,Westside Lexus
