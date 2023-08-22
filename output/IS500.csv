@@ -1,5 +1,5 @@
 Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-Sold,Hold Status,VIN,Dealer
-2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62020,299.0,62319.0,At dealer,False,Available,JTHAP1D20P5003879,Spirit Lexus
+2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62020,299.0,62319.0,At dealer,False,DealerHold,JTHAP1D20P5003879,Spirit Lexus
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D20P5004076,Lexus of Pembroke Pines
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D20P5004093,Lexus of Cherry Hill
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D20P5004109,Lexus of Kendall
@@ -22,6 +22,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62020,0.0,62020.0,At dealer,False,,JTHAP1D21P5003910,Balise Lexus
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D21P5003986,Earnhardt Lexus
 2023,IS 500 F SPORT Performance Premium,Infrared,RWD,62770,0.0,62770.0,Port to dealer,False,DealerHold,JTHAP1D21P5004071,Lexus of Melbourne
+2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,6990.0,69760.0,Port to dealer,False,,JTHAP1D21P5004104,Sheehy Lexus of Annapolis
 2023,IS 500 F SPORT Performance Premium,Infrared,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D21P5004135,Lexus of Highland Park
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D21P5004183,David McDermott Lexus of New Haven
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D21P5004216,Lexus of Knoxville
@@ -44,8 +45,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D21P5004586,Freeman Lexus
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62020,0.0,62020.0,At dealer,False,,JTHAP1D22P5003169,Stevinson Lexus of Lakewood
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62020,0.0,62020.0,At dealer,False,,JTHAP1D22P5003639,Lexus of North Miami
-2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62020,0.0,62020.0,At dealer,False,DealerHold,JTHAP1D22P5003706,North Park Lexus Rio Grande Valley
-2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62020,0.0,62020.0,At dealer,False,DealerHold,JTHAP1D22P5003768,Lexus of Sarasota
+2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62020,0.0,62020.0,At dealer,False,Available,JTHAP1D22P5003706,North Park Lexus of San Antonio
+2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62020,0.0,62020.0,At dealer,False,DealerHold,JTHAP1D22P5003768,Lexus of Orange Park
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62020,0.0,62020.0,At dealer,False,Available,JTHAP1D22P5003835,Lexus of Cerritos
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,Port to dealer,False,DealerHold,JTHAP1D22P5004032,Sheehy Lexus of Richmond
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D22P5004046,Lexus of Pembroke Pines
@@ -68,24 +69,23 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,Port to dealer,False,Available,JTHAP1D22P5004614,Lexus Escondido
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D23P5004007,Price LeBlanc Lexus
 2023,IS 500 F SPORT Performance Premium,Infrared,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D23P5004119,Koons Lexus of Wilmington
-2023,IS 500 F SPORT Performance Premium,Ultrasonic Blue Mica 2.0,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D23P5004153,Germain Lexus of Naples
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D23P5004184,Lexus of Sarasota
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D23P5004251,Lexus of North Miami
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D23P5004329,Lexus Carlsbad
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D23P5004332,Lexus of Towson
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D23P5004377,Lexus of Bridgewater
-2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D23P5004394,Meade Lexus of Southfield
+2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D23P5004394,Meade Lexus of Southfield
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D23P5004413,JM Lexus
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D23P5004427,Lexus of Pleasanton
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D23P5004430,Lexus of Kendall
 2023,IS 500 F SPORT Performance Premium,Infrared,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D23P5004461,Parker Lexus
-2023,IS 500 F SPORT Performance Premium,Grecian Water,RWD,62770,0.0,62770.0,Port to dealer,False,DealerHold,JTHAP1D23P5004489,Lexus of Route 10
+2023,IS 500 F SPORT Performance Premium,Grecian Water,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D23P5004489,Lexus of Route 10
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D23P5004508,Earnhardt Lexus
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D23P5004511,Lexus of Greenwood Village
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,Port to dealer,False,DealerHold,JTHAP1D23P5004539,Lexus of Tacoma at Fife
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,Port to dealer,False,Available,JTHAP1D23P5004542,Thompson Lexus Doylestown
-2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D23P5004573,Keyes Lexus
-2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,Port to dealer,False,DealerHold,JTHAP1D23P5004590,South County Lexus at Mission Viejo
+2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D23P5004573,Keyes Lexus
+2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D23P5004590,South County Lexus at Mission Viejo
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,1516.0,64286.0,Port to dealer,False,Available,JTHAP1D23P5004606,Lexus of Marin
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62020,0.0,62020.0,At dealer,False,Available,JTHAP1D24P5003786,Peterson Lexus
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D24P5004047,Lexus of Queens
@@ -107,13 +107,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D24P5004436,Lexus of Cool Springs
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D24P5004467,Lexus of Orange Park
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D24P5004498,Stoler Lexus
+2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,Port to dealer,False,DealerHold,JTHAP1D24P5004534,Sewell Lexus of Ft. Worth
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D24P5004548,DARCARS Lexus of Silver Spring
 2023,IS 500 F SPORT Performance Premium,Ultrasonic Blue Mica 2.0,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D24P5004551,Crown Lexus
-2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,Port to dealer,False,Available,JTHAP1D24P5004629,Jim Falk Lexus of Beverly Hills
+2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,Port to dealer,False,DealerHold,JTHAP1D24P5004629,Jim Falk Lexus of Beverly Hills
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D25P5004008,Ira Lexus
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D25P5004042,Lexus of Winter Park
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D25P5004106,Lexus of Bridgewater
-2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D25P5004123,Lexus of Manhattan
+2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D25P5004123,Lexus of Manhattan
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D25P5004185,Lexus of Watertown
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D25P5004266,Hendrick Lexus Kansas City
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D25P5004316,Germain Lexus of Naples
@@ -135,10 +136,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D26P5004244,Lexus of Kendall
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D26P5004292,Lexus of Manhattan
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,200.0,62970.0,Port to dealer,False,DealerHold,JTHAP1D26P5004339,Mungenast Lexus of St. Louis
-2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D26P5004356,Lexus of Westminster
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D26P5004390,Lexus of Pembroke Pines
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D26P5004406,Longo Lexus
-2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D26P5004468,New Country Lexus of Westport
+2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D26P5004468,New Country Lexus of Westport
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D26P5004471,Butler Lexus
 2023,IS 500 F SPORT Performance Premium,Infrared,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D26P5004485,Bell Lexus North Scottsdale
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D26P5004504,Larry H. Miller Lexus Murray
@@ -152,10 +152,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,Port to dealer,False,DealerHold,JTHAP1D27P5004043,Stoler Lexus
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D27P5004057,Lexus of North Miami
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D27P5004091,Lexus of Las Vegas
+2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D27P5004110,Sheehy Lexus of Annapolis
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D27P5004138,Stevinson Lexus of Lakewood
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D27P5004205,Lexus of Woodland Hills
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D27P5004270,"Jim Hudson Lexus, Augusta"
-2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D27P5004303,Keyes Lexus
+2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D27P5004303,Keyes Lexus of Valencia
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D27P5004365,Lexus of Glendale
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D27P5004396,Lexus of North Miami
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D27P5004415,Lexus of Chandler
@@ -163,22 +164,20 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D27P5004432,Lexus of North Miami
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D27P5004463,Lexus of Tampa Bay
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,887.0,63657.0,At dealer,False,Available,JTHAP1D27P5004480,Lexus of Birmingham
-2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,Port to dealer,False,DealerHold,JTHAP1D27P5004527,Park Place Lexus Grapevine
+2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D27P5004527,Park Place Lexus Grapevine
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D27P5004530,Lexus of Las Vegas
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D27P5004544,Lexus of Pembroke Pines
 2023,IS 500 F SPORT Performance Premium,Ultrasonic Blue Mica 2.0,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D27P5004558,Lexus of West Kendall
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D27P5004589,Stevinson Lexus of Lakewood
 2023,IS 500 F SPORT Performance Premium,Ultrasonic Blue Mica 2.0,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D27P5004592,Cavender Lexus of Lubbock
-2023,IS 500 F SPORT Performance Premium,Infrared,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D28P5003970,Lexus of Maplewood
+2023,IS 500 F SPORT Performance Premium,Infrared,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D28P5003970,Lexus of Maplewood
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D28P5004052,Lexus of Knoxville
 2023,IS 500 F SPORT Performance Premium,Infrared,RWD,62770,0.0,62770.0,Port to dealer,False,Available,JTHAP1D28P5004083,Lexus of Cherry Hill
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D28P5004097,DARCARS Lexus of Greenwich
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D28P5004102,JM Lexus
-2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D28P5004133,Keyes Lexus
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D28P5004150,Lexus of Freeport
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D28P5004200,Arrowhead Lexus
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D28P5004245,Putnam Lexus
-2023,IS 500 F SPORT Performance Premium,Ultrasonic Blue Mica 2.0,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D28P5004259,Jim Falk Lexus of Beverly Hills
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D28P5004312,Lexus of Fremont
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D28P5004343,Ourisman Lexus of Rockville
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D28P5004391,Lexus of Towson
@@ -186,11 +185,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D28P5004424,Park Place Lexus Plano
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D28P5004455,Lexus of North Miami
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,Port to dealer,False,DealerHold,JTHAP1D28P5004469,Lexus of Rockford
-2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D28P5004472,Keyes Lexus
+2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D28P5004472,Keyes Lexus of Valencia
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,Port to dealer,False,Available,JTHAP1D28P5004486,Lexus of Highland Park
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D28P5004519,Germain Lexus of Easton
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D28P5004553,Lexus of Kendall
-2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D28P5004570,Newport Lexus
+2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D28P5004570,Keyes Lexus of Valencia
 2023,IS 500 F SPORT Performance Premium,Caviar,RWD,62770,0.0,62770.0,Port to dealer,False,DealerHold,JTHAP1D28P5004584,Westside Lexus
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D28P5004617,Lexus of Albuquerque
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62020,0.0,62020.0,At dealer,False,DealerHold,JTHAP1D29P5003928,Lexus of Kendall
@@ -201,7 +200,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 500 F SPORT Performance Premium,Infrared,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D29P5004089,Lexus of Ft. Wayne
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,Port to dealer,False,DealerHold,JTHAP1D29P5004108,Lexus of Mobile
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D29P5004206,Lexus of Tucson
-2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D29P5004223,DARCARS Lexus of Silver Spring
+2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D29P5004223,Lexus of Towson
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D29P5004240,DARCARS Lexus of Greenwich
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D29P5004285,Lexus of Woodland Hills
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D29P5004299,South County Lexus at Mission Viejo
@@ -213,7 +212,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,At dealer,False,,JTHAP1D29P5004481,JM Lexus
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62770,0.0,62770.0,Port to dealer,False,DealerHold,JTHAP1D29P5004500,Hendrick Lexus Charlotte
 2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62770,0.0,62770.0,Port to dealer,False,,JTHAP1D29P5004531,JM Lexus
-2023,IS 500 F SPORT Performance Premium,Cloudburst Gray,RWD,62020,0.0,62020.0,At dealer,False,DealerHold,JTHAP1D2XP5003260,DARCARS Lexus of Silver Spring
 2023,IS 500 F SPORT Performance Premium,Atomic Silver,RWD,62020,0.0,62020.0,At dealer,False,,JTHAP1D2XP5003520,JM Lexus
 2023,IS 500 F SPORT Performance Premium,Iridium,RWD,62770,0.0,62770.0,At dealer,False,DealerHold,JTHAP1D2XP5004070,Jim Falk Lexus of Beverly Hills
 2023,IS 500 F SPORT Performance Premium,Ultra White,RWD,62770,0.0,62770.0,At dealer,False,Available,JTHAP1D2XP5004098,Earnhardt Lexus
