@@ -14,7 +14,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ACZ1B11RU161644,Temecula Valley Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ACZ1B11RU162163,Motor City Lexus of Bakersfield
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,Available,58ACZ1B12RU160406,Motor City Lexus of Bakersfield
-2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ACZ1B12RU161684,Lexus of Glendale
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ACZ1B12RU161684,Lexus of Glendale
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ACZ1B12RU162477,Shottenkirk Desert Lexus
 2023,ES 350,Cloudburst Gray,FWD,41940,0.0,41940.0,At dealer,False,Available,58ACZ1B13PU157706,Lexus of Pleasanton
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,,58ACZ1B13RU160351,Lexus of Oxnard
@@ -36,18 +36,19 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,ES 350,Iridium,FWD,41940,0.0,41940.0,At dealer,False,,58ACZ1B16PU159157,Lexus El Cajon
 2023,ES 350,Cloudburst Gray,FWD,41940,0.0,41940.0,At dealer,False,Available,58ACZ1B16PU160017,Lexus of Chandler
 2023,ES 350,Cloudburst Gray,FWD,41940,0.0,41940.0,At dealer,False,,58ACZ1B16PU160213,Putnam Lexus
-2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,Available,58ACZ1B16RU160490,Keyes Lexus
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ACZ1B16RU160490,Keyes Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ACZ1B16RU162613,Fresno Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ACZ1B17RU160739,Coliseum Lexus of Oakland
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ACZ1B17RU161017,Lexus Santa Monica
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ACZ1B17RU162779,Temecula Valley Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ACZ1B17RU162877,Lexus of Glendale
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ACZ1B17RU162992,Crown Lexus
+2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ACZ1B17RU163320,Jim Falk Lexus of Beverly Hills
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ACZ1B18RU160393,Lexus of Cerritos
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,Available,58ACZ1B18RU161415,Lexus of Woodland Hills
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ACZ1B18RU161446,Lexus Santa Monica
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ACZ1B18RU161592,Lexus of Cerritos
-2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ACZ1B18RU161723,Lexus of Glendale
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ACZ1B18RU161723,Lexus of Glendale
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ACZ1B18RU162029,Jim Falk Lexus of Beverly Hills
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ACZ1B18RU162273,Lexus of Glendale
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ACZ1B18RU162676,Lexus of Santa Barbara
@@ -62,7 +63,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ACZ1B1XRU162050,Lexus of Riverside
 2023,ES 250 AWD,Iridium,AWD,41940,0.0,41940.0,At dealer,False,,58AD11D10PU011871,Lexus of Tacoma at Fife
 2023,ES 250 AWD,Iridium,AWD,41940,0.0,41940.0,At dealer,False,Available,58AD11D10PU011899,Performance Lexus RiverCenter
-2023,ES 250 AWD,Eminent White Pearl,AWD,41940,0.0,41940.0,At dealer,False,DealerHold,58AD11D10PU011921,Findlay Lexus of Spokane
 2023,ES 250 AWD,Caviar,AWD,41940,0.0,41940.0,At dealer,False,,58AD11D10PU011949,Lexus of Omaha
 2023,ES 250 AWD,Eminent White Pearl,AWD,41940,0.0,41940.0,At dealer,False,DealerHold,58AD11D10PU012048,"Jim Hudson Lexus, Augusta"
 2023,ES 250 AWD,Caviar,AWD,41940,0.0,41940.0,At dealer,False,Available,58AD11D10PU012082,Lexus of Milwaukee
@@ -97,11 +97,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 250 AWD,Iridium,AWD,42040,0.0,42040.0,At dealer,False,DealerHold,58AD11D11RU012241,Lexus of Wesley Chapel
 2024,ES 250 AWD,Matador Red Mica,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D11RU012255,Lexus of Greenville
 2024,ES 250 AWD,Caviar,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D11RU012269,Lexus of Pembroke Pines
-2024,ES 250 AWD,Obsidian,AWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58AD11D11RU012272,Ray Catena Lexus of White Plains
+2024,ES 250 AWD,Obsidian,AWD,42040,0.0,42040.0,Port to dealer,False,Available,58AD11D11RU012272,Ray Catena Lexus of White Plains
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D11RU012286,"Lexus of Seattle, LLC"
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58AD11D11RU012319,Eskridge Lexus of Oklahoma City
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,Available,58AD11D11RU012322,Lexus of Tampa Bay
 2024,ES 250 AWD,Iridium,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D11RU012336,DARCARS Lexus of Silver Spring
+2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58AD11D11RU012353,Park Place Lexus Plano
 2023,ES 250 AWD,Eminent White Pearl,AWD,41440,0.0,41440.0,At dealer,False,Available,58AD11D12PU011290,Germain Lexus of Ann Arbor
 2023,ES 250 AWD,Cloudburst Gray,AWD,41440,0.0,41440.0,At dealer,False,DealerHold,58AD11D12PU011354,Lexus of Wesley Chapel
 2023,ES 250 AWD,Iridium,AWD,41440,0.0,41440.0,At dealer,False,,58AD11D12PU011578,"Lexus of Seattle, LLC"
@@ -115,7 +116,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D12RU012104,Lexus of Orlando
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D12RU012149,Lexus of Pembroke Pines
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,At dealer,False,DealerHold,58AD11D12RU012166,Lexus of Wesley Chapel
-2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D12RU012183,Lexus of Bellevue
+2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D12RU012183,Lexus of Bellevue
 2024,ES 250 AWD,Caviar,AWD,42040,0.0,42040.0,At dealer,False,DealerHold,58AD11D12RU012216,Nalley Lexus - Roswell
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D12RU012233,JM Lexus
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D12RU012247,Lexus of Pembroke Pines
@@ -137,7 +138,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 250 AWD,Iridium,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D13RU012130,Lexus of Bellevue
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D13RU012158,Lexus of Kendall
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,At dealer,False,Available,58AD11D13RU012161,Lexus of Maplewood
-2024,ES 250 AWD,Iridium,AWD,42040,0.0,42040.0,At dealer,False,DealerHold,58AD11D13RU012208,Hendrick Lexus Charleston
+2024,ES 250 AWD,Iridium,AWD,42040,0.0,42040.0,At dealer,False,Available,58AD11D13RU012208,Flow Lexus of Winston-Salem
 2024,ES 250 AWD,Caviar,AWD,42040,0.0,42040.0,At dealer,False,DealerHold,58AD11D13RU012211,Lexus of Naperville
 2024,ES 250 AWD,Caviar,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D13RU012225,JM Lexus
 2024,ES 250 AWD,Caviar,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D13RU012239,Lexus of Kendall
@@ -148,6 +149,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D13RU012290,Lexus of Bellevue
 2024,ES 250 AWD,Obsidian,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D13RU012306,Hennessy Lexus of Atlanta
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D13RU012323,Price LeBlanc Lexus
+2024,ES 250 AWD,Iridium,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D13RU012354,Lexus of Tacoma at Fife
 2023,ES 250 AWD,Caviar,AWD,41440,0.0,41440.0,At dealer,False,,58AD11D14PU011436,"Lexus of Seattle, LLC"
 2023,ES 250 F SPORT AWD,Iridium,AWD,46525,0.0,46525.0,At dealer,False,,58AD11D14PU011792,Lexus of Portland
 2023,ES 250 AWD,Matador Red Mica,AWD,41940,0.0,41940.0,At dealer,False,Available,58AD11D14PU011954,Bobby Rahal Lexus of Lewistown
@@ -224,12 +226,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 250 F SPORT AWD,Iridium,AWD,46625,0.0,46625.0,At dealer,False,Available,58AD11D17RU012129,Lexus of Portland
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D17RU012132,Lexus of Pembroke Pines
 2024,ES 250 AWD,Iridium,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D17RU012163,Lexus of Tacoma at Fife
-2024,ES 250 AWD,Cloudburst Gray,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D17RU012177,Lexus of Portland
+2024,ES 250 AWD,Cloudburst Gray,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D17RU012177,Lexus of Portland
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D17RU012194,Chatham Parkway Lexus
 2024,ES 250 AWD,Iridium,AWD,42040,0.0,42040.0,At dealer,False,Available,58AD11D17RU012213,Johnson Lexus of Durham
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58AD11D17RU012227,Germain Lexus of Ann Arbor
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D17RU012230,Lexus of Winter Park
-2024,ES 250 AWD,Matador Red Mica,AWD,42040,0.0,42040.0,At dealer,False,Available,58AD11D17RU012258,Lexus of Tampa Bay
+2024,ES 250 AWD,Matador Red Mica,AWD,42040,0.0,42040.0,At dealer,False,DealerHold,58AD11D17RU012258,Lexus of Tampa Bay
 2024,ES 250 AWD,Iridium,AWD,42040,0.0,42040.0,At dealer,False,DealerHold,58AD11D17RU012261,Metro Lexus
 2024,ES 250 AWD,Matador Red Mica,AWD,42040,0.0,42040.0,Port to dealer,False,Available,58AD11D17RU012275,Lexus of North Miami
 2024,ES 250 AWD,Caviar,AWD,42040,0.0,42040.0,Port to dealer,False,Available,58AD11D17RU012289,Lexus of North Miami
@@ -237,6 +239,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 250 AWD,Iridium,AWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58AD11D17RU012308,Sterling McCall Lexus
 2024,ES 250 AWD,Matador Red Mica,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D17RU012311,DARCARS Lexus of Englewood
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D17RU012342,Lexus of Bellevue
+2024,ES 250 AWD,Caviar,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D17RU012356,Ray Catena Lexus
 2023,ES 250 AWD,Cloudburst Gray,AWD,41440,0.0,41440.0,At dealer,False,,58AD11D18PU011522,JM Lexus
 2023,ES 250 F SPORT AWD,Iridium,AWD,46025,0.0,46025.0,At dealer,False,,58AD11D18PU011584,Lexus of Portland
 2023,ES 250 AWD,Iridium,AWD,41440,0.0,41440.0,At dealer,False,Available,58AD11D18PU011617,Lexus of Roseville
@@ -282,6 +285,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D19RU012276,Lexus of Bellevue
 2024,ES 250 AWD,Obsidian,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D19RU012293,Germain Lexus of Naples
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58AD11D19RU012312,Bob Johnson Lexus
+2024,ES 250 AWD,Matador Red Mica,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D19RU012357,Hennessy Lexus of Gwinnett
 2023,ES 250 F SPORT AWD,Caviar,AWD,46025,0.0,46025.0,At dealer,False,,58AD11D1XPU011313,Kendall Lexus of Alaska
 2023,ES 250 AWD,Iridium,AWD,41440,0.0,41440.0,At dealer,False,,58AD11D1XPU011344,Peterson Lexus
 2023,ES 250 AWD,Eminent White Pearl,AWD,41440,0.0,41440.0,At dealer,False,,58AD11D1XPU011361,Kendall Lexus of Alaska
@@ -294,15 +298,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 250 AWD,Caviar,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D1XRU012108,Lexus of Bellevue
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,At dealer,False,DealerHold,58AD11D1XRU012111,Lexus of Wichita
 2024,ES 250 F SPORT AWD,Ultra White,AWD,46625,0.0,46625.0,At dealer,False,,58AD11D1XRU012156,Lexus of Bellevue
-2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,At dealer,False,DealerHold,58AD11D1XRU012173,Lexus of Sarasota
 2024,ES 250 AWD,Caviar,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D1XRU012206,Hennessy Lexus of Gwinnett
 2024,ES 250 AWD,Caviar,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D1XRU012223,Lexus of Pembroke Pines
-2024,ES 250 AWD,Obsidian,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D1XRU012268,Ray Catena Lexus of Freehold
+2024,ES 250 AWD,Obsidian,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D1XRU012268,Ray Catena Lexus of Freehold
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D1XRU012271,Herrin-Gear Lexus
 2024,ES 250 AWD,Matador Red Mica,AWD,42040,0.0,42040.0,At dealer,False,,58AD11D1XRU012285,Hendrick Lexus Northlake
 2024,ES 250 AWD,Obsidian,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D1XRU012299,Hennessy Lexus of Atlanta
 2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D1XRU012304,DARCARS Lexus of Englewood
 2024,ES 250 AWD,Obsidian,AWD,42040,0.0,42040.0,Port to dealer,False,,58AD11D1XRU012318,North Park Lexus of San Antonio
+2024,ES 250 AWD,Eminent White Pearl,AWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58AD11D1XRU012349,Ray Catena Lexus of White Plains
 2023,ES 350,Cloudburst Gray,FWD,41340,0.0,41340.0,At dealer,False,,58ADZ1B10PU145176,Lexus Monterey Peninsula
 2023,ES 350,Eminent White Pearl,FWD,41940,0.0,41940.0,At dealer,False,DealerHold,58ADZ1B10PU156551,Balise Lexus
 2023,ES 350,Caviar,FWD,41940,0.0,41940.0,At dealer,False,Available,58ADZ1B10PU156890,Lexus of Pembroke Pines
@@ -323,7 +327,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B10RU161476,Lexus of North Miami
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B10RU161512,Treasure Coast Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B10RU161526,Hoffman Lexus
-2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B10RU161574,Lexus of Glendale
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B10RU161574,Lexus of Glendale
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B10RU161591,Lexus of Route 10
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B10RU161638,Ira Lexus of Manchester
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B10RU161641,Hendrick Lexus Northlake
@@ -331,31 +335,32 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B10RU161722,Lexus of Cherry Hill
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B10RU161767,Lexus of Brooklyn
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B10RU161834,Lexus of Edison
+2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU161848,Sheehy Lexus of Richmond
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B10RU161879,Lexus of North Miami
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B10RU161901,Ray Catena Lexus of Monmouth
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B10RU161932,Lexus of North Hills
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU161977,Jim Falk Lexus of Beverly Hills
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU161994,Sterling McCall Lexus
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B10RU162000,Lexus of Wesley Chapel
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B10RU162045,Lexus of Las Vegas
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B10RU162059,Lexus of Manhattan
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B10RU162045,Lexus of Las Vegas
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B10RU162076,Fields Lexus Glenview
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B10RU162093,Park Place Lexus Plano
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B10RU162093,Park Place Lexus Plano
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B10RU162109,Stoler Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B10RU162112,Lexus of Pembroke Pines
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B10RU162143,"Lexus of Concord, LLC"
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU162160,Lexus of Woodland Hills
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU162174,Newport Lexus
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU162241,Lexus of Smithtown
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B10RU162241,Lexus of Smithtown
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU162269,Keyes Lexus
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU162272,Motor City Lexus of Bakersfield
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU162305,DARCARS Lexus of Silver Spring
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B10RU162319,Herb Chambers Lexus
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B10RU162353,Sheehy Lexus of Annapolis
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B10RU162370,Lexus of Freeport
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B10RU162398,Lexus of Pembroke Pines
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU162403,Lexus of Pembroke Pines
-2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU162417,Lexus of Cherry Hill
-2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B10RU162420,Lexus of Southampton
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B10RU162417,Lexus of Cherry Hill
+2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B10RU162420,Lexus of Southampton
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B10RU162451,Longo Lexus
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B10RU162482,David McDermott Lexus of New Haven
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU162496,Newport Lexus
@@ -379,11 +384,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B10RU163048,Lexus of Tampa Bay
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B10RU163051,Hennessy Lexus of Atlanta
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B10RU163065,Stoler Lexus
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B10RU163096,Thompson Lexus Doylestown
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B10RU163132,Lexus of North Miami
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU163177,Lexus of Cerritos
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B10RU163180,Bobby Rahal Lexus of Lewistown
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B10RU163230,Lexus of Watertown
-2023,ES 350,Caviar,FWD,41340,0.0,41340.0,Port to dealer,False,DealerHold,58ADZ1B11PU143677,Jim Falk Lexus of Beverly Hills
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B10RU163308,Lexus of North Miami
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B10RU163311,Woodfield Lexus
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU163339,Lexus of Chester Springs
+2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B10RU163342,Tri-County Lexus
+2023,ES 350,Caviar,FWD,41340,0.0,41340.0,At dealer,False,DealerHold,58ADZ1B11PU143677,Jim Falk Lexus of Beverly Hills
 2023,ES 350,Cloudburst Gray,FWD,41440,0.0,41440.0,At dealer,False,Available,58ADZ1B11PU152525,Hendrick Lexus Kansas City North
 2023,ES 350,Cloudburst Gray,FWD,41940,0.0,41940.0,At dealer,False,DealerHold,58ADZ1B11PU156896,Wilkie Lexus
 2023,ES 350,Iridium,FWD,41940,0.0,41940.0,At dealer,False,Available,58ADZ1B11PU158521,Putnam Lexus
@@ -391,7 +401,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,ES 350,Obsidian,FWD,41940,0.0,41940.0,At dealer,False,Available,58ADZ1B11PU159314,Koons Lexus of Wilmington
 2023,ES 350,Obsidian,FWD,41940,0.0,41940.0,At dealer,False,DealerHold,58ADZ1B11PU159801,Performance Lexus RiverCenter
 2023,ES 350,Nightfall Mica,FWD,41940,0.0,41940.0,At dealer,False,Available,58ADZ1B11PU160141,Sterling McCall Lexus Clear Lake
-2023,ES 350,Iridium,FWD,41940,0.0,41940.0,At dealer,False,DealerHold,58ADZ1B11PU160284,Thompson Lexus Doylestown
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B11RU160367,North Park Lexus Rio Grande Valley
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B11RU160546,David McDermott Lexus of New Haven
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B11RU160630,Freeman Lexus
@@ -413,11 +422,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B11RU161972,Lexus of Tucson at the Auto Mall
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU161986,JM Lexus
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU162023,Motor City Lexus of Bakersfield
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B11RU162037,Lexus of Atlantic City
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B11RU162037,Lexus of Atlantic City
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B11RU162054,Treasure Coast Lexus
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU162071,Park Place Lexus Grapevine
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B11RU162121,North Park Lexus at Dominion
-2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B11RU162135,Newport Lexus
+2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B11RU162135,Shottenkirk Desert Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B11RU162197,McGrath Lexus of Chicago
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B11RU162202,Lexus of Kendall
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B11RU162247,Lexus of Lakeway
@@ -430,7 +439,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B11RU162376,Sheehy Lexus of Annapolis
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B11RU162393,Lexus of Huntsville
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B11RU162409,Lexus of North Miami
-2024,ES 350,Sunlit Green,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B11RU162412,Lexus of Bridgewater
+2024,ES 350,Sunlit Green,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B11RU162412,Lexus of Bridgewater
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU162443,Lexus of Cherry Hill
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU162457,Lexus of Cerritos
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU162460,Longo Lexus
@@ -448,7 +457,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU162748,Lexus of Westminster
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B11RU162751,Flow Lexus of Winston-Salem
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU162765,Lexus of Pleasanton
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B11RU162801,Hendrick Lexus Charlotte
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU162815,JM Lexus
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU162829,DARCARS Lexus of Silver Spring
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B11RU162832,Lexus of Wesley Chapel
@@ -468,8 +476,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU163205,JM Lexus
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU163219,Nalley Lexus-Smyrna
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B11RU163236,DARCARS Lexus of Englewood
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B11RU163267,Ira Lexus
+2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B11RU163270,Johnson Lexus of Raleigh
+2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU163284,Sewell Lexus
+2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU163298,Germain Lexus of Dublin
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B11RU163351,Lexus of Orange County
 2023,ES 350,Cloudburst Gray,FWD,41340,0.0,41340.0,At dealer,False,Available,58ADZ1B12PU145082,JM Lexus
-2023,ES 350,Obsidian,FWD,41440,0.0,41440.0,At dealer,False,Available,58ADZ1B12PU152095,Lexus of Ft. Wayne
 2023,ES 350,Iridium,FWD,41440,0.0,41440.0,At dealer,False,DealerHold,58ADZ1B12PU154512,Lexus of Rockford
 2023,ES 350,Caviar,FWD,41940,0.0,41940.0,At dealer,False,Available,58ADZ1B12PU159077,Lexus of Highland Park
 2023,ES 350,Nightfall Mica,FWD,41940,0.0,41940.0,At dealer,False,DealerHold,58ADZ1B12PU160214,Thompson Lexus Doylestown
@@ -508,10 +520,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B12RU161950,Lexus of Manhattan
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B12RU161964,Lexus of Tampa Bay
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B12RU161981,Lexus of Fremont
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B12RU161995,Hendrick Lexus Kansas City North
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B12RU161995,Hendrick Lexus Kansas City North
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B12RU162015,Haldeman Lexus of Princeton
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B12RU162080,Lexus of Smithtown
-2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B12RU162127,Ray Catena Lexus of Monmouth
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B12RU162127,Ray Catena Lexus of Monmouth
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B12RU162130,Tri-County Lexus
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B12RU162158,Lexus of Woodland Hills
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B12RU162189,Lexus of Orange County
@@ -555,6 +567,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B12RU163200,Sterling McCall Lexus
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B12RU163214,Lexus of Orange Park
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B12RU163231,Crown Lexus
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B12RU163259,Lexus of Lakeway
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B12RU163276,Lexus of Northborough
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B12RU163293,Lexus of Pembroke Pines
+2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B12RU163357,Scanlon Lexus of Fort Myers
 2023,ES 350,Eminent White Pearl,FWD,41340,0.0,41340.0,At dealer,False,DealerHold,58ADZ1B13PU144989,Lexus of Manhattan
 2023,ES 350,Cloudburst Gray,FWD,41440,0.0,41440.0,At dealer,False,Available,58ADZ1B13PU148475,Lexus of Pembroke Pines
 2023,ES 350,Cloudburst Gray,FWD,41440,0.0,41440.0,At dealer,False,DealerHold,58ADZ1B13PU150730,Lexus of Queens
@@ -566,7 +582,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,ES 350,Eminent White Pearl,FWD,41940,0.0,41940.0,At dealer,False,Available,58ADZ1B13PU159105,Lexus of Fremont
 2023,ES 350,Eminent White Pearl,FWD,41940,0.0,41940.0,At dealer,False,DealerHold,58ADZ1B13PU159119,Bobby Rahal Lexus
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B13RU160354,Lexus of Santa Barbara
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B13RU160399,Sterling McCall Lexus
 2024,ES 350 F SPORT DESIGN,Cloudburst Gray,FWD,46625,0.0,46625.0,At dealer,False,DealerHold,58ADZ1B13RU160435,Lexus of Louisville
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B13RU160502,Longo Lexus
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B13RU160788,Coliseum Lexus of Oakland
@@ -585,18 +600,18 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B13RU161696,Metro Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B13RU161701,Lexus of Clearwater
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B13RU161729,Jim Falk Lexus of Beverly Hills
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B13RU161813,Sewell Lexus of Ft. Worth
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B13RU161861,New Country Lexus of Latham
-2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B13RU161942,Lexus of Milwaukee
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU161939,Sheehy Lexus of Richmond
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B13RU161942,Lexus of Milwaukee
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B13RU161956,Priority Lexus Virginia Beach
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B13RU161973,Performance Lexus RiverCenter
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B13RU161987,Crown Lexus
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B13RU162041,Lexus of Atlantic City
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B13RU162041,Lexus of Atlantic City
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU162119,Sewell Lexus of Ft. Worth
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU162122,Lexus of Watertown
 2024,ES 350,Sunlit Green,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B13RU162153,JM Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU162184,Dolan Lexus
-2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU162234,Lexus of Brooklyn
+2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B13RU162234,Lexus of Brooklyn
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU162248,Keyes Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B13RU162282,Park Place Lexus Plano
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B13RU162296,Lexus of Tampa Bay
@@ -605,8 +620,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU162377,JM Lexus
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B13RU162380,Lexus of North Miami
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B13RU162394,Ray Catena Lexus
-2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B13RU162427,Lexus of Jacksonville
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU162430,Herb Chambers Lexus
+2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B13RU162444,Lexus of New Orleans
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B13RU162508,Bob Johnson Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B13RU162511,Lexus of Orlando
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU162606,Lexus of Orlando
@@ -628,16 +643,21 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B13RU163142,Lexus of North Miami
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU163156,Park Place Lexus Grapevine
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B13RU163190,Prestige Lexus of Ramsey
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU163240,Hoffman Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B13RU163254,Lexus of North Miami
+2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU163268,Lexus of Towson
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B13RU163285,Jim Falk Lexus of Beverly Hills
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU163299,Hennessy Lexus of Gwinnett
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU163318,Lexus of Lehigh Valley
+2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B13RU163321,Lexus of Cerritos
 2023,ES 350,Cloudburst Gray,FWD,41940,0.0,41940.0,At dealer,False,Available,58ADZ1B14PU156956,Lexus of Pembroke Pines
-2023,ES 350,Caviar,FWD,41940,0.0,41940.0,At dealer,False,,58ADZ1B14PU158318,Lexus of Maplewood
+2023,ES 350,Caviar,FWD,41940,0.0,41940.0,At dealer,False,DealerHold,58ADZ1B14PU158318,Lexus of Maplewood
 2023,ES 350,Caviar,FWD,41940,0.0,41940.0,At dealer,False,,58ADZ1B14PU159100,DARCARS Lexus of Silver Spring
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B14RU160430,Motor City Lexus of Bakersfield
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B14RU160489,Lexus San Diego
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B14RU160542,Lexus of Fremont
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B14RU160587,Lexus of Glendale
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B14RU160735,Lexus of Serramonte
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B14RU160959,Hoffman Lexus
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B14RU161187,Lexus of North Miami
 2024,ES 350,Matador Red Mica,FWD,42040,2342.0,44382.0,At dealer,False,DealerHold,58ADZ1B14RU161349,"Jim Hudson Lexus, Columbia"
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B14RU161383,Lexus of Pleasanton
@@ -646,15 +666,15 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B14RU161514,Lexus of Wesley Chapel
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B14RU161531,Ira Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B14RU161545,Lexus of Tampa Bay
-2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B14RU161562,Lexus of Glendale
-2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B14RU161626,Lindsay Lexus of Alexandria
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B14RU161562,Lexus of Glendale
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B14RU161674,Northside Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B14RU161691,Lexus of West Kendall
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU161822,Price LeBlanc Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B14RU161853,David McDermott Lexus of New Haven
-2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU161867,Lexus of Glendale
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B14RU161867,Lexus of Glendale
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU161917,Park Place Lexus Grapevine
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B14RU161920,Rallye Lexus
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU161965,Sheehy Lexus of Richmond
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B14RU161979,Treasure Coast Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU162016,Cavender Lexus of Lubbock
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU162033,DARCARS Lexus of Silver Spring
@@ -662,9 +682,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B14RU162081,North Park Lexus of San Antonio
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU162095,Cavender Lexus of Lubbock
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B14RU162114,JM Lexus
-2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B14RU162131,Ray Catena Lexus of Freehold
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU162145,Lexus Stevens Creek
-2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU162257,Herb Chambers Lexus of Hingham
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B14RU162131,Ray Catena Lexus of Freehold
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B14RU162145,Lexus Stevens Creek
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B14RU162257,Herb Chambers Lexus of Hingham
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU162260,Keyes Lexus
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B14RU162307,Lexus of Pembroke Pines
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B14RU162310,Herb Chambers Lexus
@@ -699,18 +719,24 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B14RU163084,Len Stoler Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B14RU163103,Lexus of Louisville
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B14RU163117,Herrin-Gear Lexus
-2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU163165,Nalley Lexus - Roswell
+2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B14RU163165,Nalley Lexus - Roswell
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU163179,Lexus of Glendale
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU163182,JM Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU163196,Treasure Coast Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,2342.0,44382.0,Port to dealer,False,DealerHold,58ADZ1B14RU163201,"Jim Hudson Lexus, Columbia"
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU163215,Prestige Lexus of Ramsey
 2024,ES 350,Eminent White Pearl,FWD,42040,887.0,42927.0,Port to dealer,False,Available,58ADZ1B14RU163232,Lexus of Birmingham
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU163246,Ray Catena Lexus of Freehold
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B14RU163277,New Country Lexus of Westport
+2024,ES 350,Sunlit Green,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B14RU163294,Lexus of Cool Springs
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU163313,Metro Lexus
+2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU163327,JM Lexus
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B14RU163330,Stoler Lexus
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU163344,Lexus of Pembroke Pines
+2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B14RU163358,Ray Catena Lexus of Monmouth
 2023,ES 350,Caviar,FWD,41440,0.0,41440.0,At dealer,False,DealerHold,58ADZ1B15PU146288,Lexus of Shreveport - Bossier City
-2023,ES 350,Caviar,FWD,41440,0.0,41440.0,At dealer,False,Available,58ADZ1B15PU151698,Lexus of Akron/Canton
 2023,ES 350,Eminent White Pearl,FWD,41440,0.0,41440.0,At dealer,False,DealerHold,58ADZ1B15PU155251,Westside Lexus
 2023,ES 350,Iridium,FWD,41940,0.0,41940.0,At dealer,False,,58ADZ1B15PU158313,Bell Lexus North Scottsdale
-2023,ES 350,Eminent White Pearl,FWD,41940,0.0,41940.0,At dealer,False,DealerHold,58ADZ1B15PU159638,DARCARS Lexus of Greenwich
 2023,ES 350,Eminent White Pearl,FWD,41940,0.0,41940.0,At dealer,False,,58ADZ1B15PU159848,Stevinson Lexus of Frederick
 2023,ES 350,Cloudburst Gray,FWD,41940,0.0,41940.0,At dealer,False,,58ADZ1B15PU160207,Harvey Lexus of Grand Rapids
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B15RU160405,Ray Catena Lexus of White Plains
@@ -725,7 +751,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B15RU161733,Ray Catena Lexus of White Plains
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B15RU161747,Lexus of Thousand Oaks
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B15RU161764,DARCARS Lexus of Englewood
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B15RU161781,Lexus of Nashville
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B15RU161800,"Jim Hudson Lexus, Augusta"
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B15RU161828,North Park Lexus of San Antonio
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU161831,Lexus of Northborough
@@ -734,7 +759,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B15RU161912,Northside Lexus
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B15RU161974,Northside Lexus
 2024,ES 350,Sunlit Green,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU161991,Lexus of Las Vegas
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B15RU162025,Hennessy Lexus of Gwinnett
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU162106,Lexus of Sarasota
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU162137,David McDermott Lexus of New Haven
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B15RU162199,Lexus of Winter Park
@@ -748,9 +772,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU162476,New Country Lexus of Great Neck
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU162493,Lexus Stevens Creek
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU162509,DARCARS Lexus of Englewood
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B15RU162543,Lexus of Route 10
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B15RU162543,Lexus of Route 10
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU162560,Park Place Lexus Grapevine
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B15RU162574,Jim Falk Lexus of Beverly Hills
+2024,ES 350,Matador Red Mica,FWD,42040,399.0,42439.0,At dealer,False,DealerHold,58ADZ1B15RU162638,Lexus of Memphis
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU162672,Priority Lexus Virginia Beach
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B15RU162719,Lexus of Melbourne
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B15RU162753,Lexus of Brooklyn
@@ -770,11 +795,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU163062,Longo Lexus
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B15RU163076,Lexus of Cerritos
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B15RU163093,Lexus of Tampa Bay
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU163157,Lexus of Albuquerque
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B15RU163160,Westside Lexus
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU163188,Lexus of Towson
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU163207,Lexus of Orange Park
+2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B15RU163224,Ira Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B15RU163238,Bob Johnson Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B15RU163241,Len Stoler Lexus
+2024,ES 350,Eminent White Pearl,FWD,42040,2342.0,44382.0,Port to dealer,False,DealerHold,58ADZ1B15RU163305,"Jim Hudson Lexus, Columbia"
+2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B15RU163322,Johnson Lexus of Raleigh
+2024,ES 350,Obsidian,FWD,42040,887.0,42927.0,Port to dealer,False,DealerHold,58ADZ1B15RU163336,Lexus of Birmingham
 2023,ES 350,Cloudburst Gray,FWD,41340,0.0,41340.0,At dealer,False,Available,58ADZ1B16PU144744,Lexus of Pembroke Pines
 2023,ES 350,Caviar,FWD,41940,0.0,41940.0,At dealer,False,,58ADZ1B16PU156425,Park Place Lexus Grapevine
 2023,ES 350,Cloudburst Gray,FWD,41940,0.0,41940.0,At dealer,False,,58ADZ1B16PU157428,Harvey Lexus of Grand Rapids
@@ -791,25 +821,26 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B16RU161238,Lexus of Kendall
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B16RU161403,Lexus of Lehigh Valley
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B16RU161417,Lexus of Bridgewater
-2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B16RU161496,Lexus of Tampa Bay
+2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B16RU161496,Lexus of Tampa Bay
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B16RU161515,Lexus of Cherry Hill
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B16RU161529,Newport Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B16RU161577,Johnson Lexus of Durham
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B16RU161627,Lexus of Sarasota
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B16RU161711,Lexus of Brooklyn
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B16RU161725,DARCARS Lexus of Silver Spring
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B16RU161739,Lexus of Glendale
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B16RU161739,Lexus of Glendale
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B16RU161756,Northside Lexus
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B16RU161837,Haldeman Lexus of Princeton
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU161854,Ray Catena Lexus of Freehold
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B16RU161918,Sterling McCall Lexus Clear Lake
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B16RU161935,Bobby Rahal Lexus of Lancaster County
-2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B16RU161983,Lexus of Cerritos
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B16RU161983,Lexus of Cerritos
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B16RU161997,Bob Johnson Lexus
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU162003,Rallye Lexus
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B16RU162048,Sheehy Lexus of Annapolis
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU162051,Valley Lexus
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B16RU162096,Sewell Lexus
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B16RU162101,Lexus Santa Monica
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B16RU162146,Kenny Kent Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B16RU162230,Lexus of Wesley Chapel
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B16RU162261,Lexus of West Kendall
@@ -823,12 +854,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B16RU162437,Lexus of Pembroke Pines
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B16RU162454,Lexus of Omaha
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B16RU162471,"Lexus of Concord, LLC"
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B16RU162499,Wilkie Lexus
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B16RU162499,Wilkie Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU162566,Keyes Lexus
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B16RU162602,Lexus of Freeport
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU162664,Bobby Rahal Lexus of Lewistown
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B16RU162695,Ray Catena Lexus of Freehold
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B16RU162714,Lexus of Wesley Chapel
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU162745,DARCARS Lexus of Silver Spring
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU162762,Sheehy Lexus of Richmond
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU162793,Sheehy Lexus of Annapolis
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU162809,Nalley Lexus - Roswell
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU162812,Lexus of Pembroke Pines
@@ -847,6 +880,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU163040,DARCARS Lexus of Englewood
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU163054,JM Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B16RU163071,Lexus of Manhattan
+2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU163099,Tri-County Lexus
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B16RU163104,Lexus of Winter Park
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B16RU163118,Lexus of North Miami
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B16RU163135,Lexus of Wesley Chapel
@@ -854,6 +888,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU163183,Rallye Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU163202,Nalley Lexus-Smyrna
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU163264,Fresno Lexus
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B16RU163278,Price LeBlanc Lexus
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B16RU163295,Lexus of Orlando
 2023,ES 350,Cloudburst Gray,FWD,41340,0.0,41340.0,At dealer,False,Available,58ADZ1B17PU143800,Lexus of Pembroke Pines
 2023,ES 350,Nightfall Mica,FWD,41440,0.0,41440.0,At dealer,False,,58ADZ1B17PU153520,Burdick Lexus
 2023,ES 350,Iridium,FWD,41940,0.0,41940.0,At dealer,False,Available,58ADZ1B17PU158328,Lexus of Shreveport - Bossier City
@@ -875,10 +911,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B17RU161376,JM Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B17RU161409,Lexus of North Miami
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B17RU161412,Coliseum Lexus of Oakland
-2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B17RU161457,Lexus of Wesley Chapel
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B17RU161541,Lexus of North Miami
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B17RU161622,Price LeBlanc Lexus
-2024,ES 350,Eminent White Pearl,FWD,42040,698.0,42738.0,At dealer,False,Available,58ADZ1B17RU161636,Lexus of Tulsa
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B17RU161636,Lexus of Tulsa
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B17RU161653,Lexus of Kendall
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B17RU161698,Len Stoler Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B17RU161703,Lexus of Arlington
@@ -888,7 +923,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B17RU161815,Park Place Lexus Grapevine
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B17RU161829,Priority Lexus Newport News
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B17RU161846,Park Place Lexus Plano
-2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B17RU161863,Lexus of Winter Park
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B17RU161877,Lexus of Madison
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU161944,Lexus of Thousand Oaks
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU161961,North Park Lexus at Dominion
@@ -896,18 +930,18 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B17RU162012,New Country Lexus of Great Neck
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU162026,Lexus of Las Vegas
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B17RU162043,Thompson Lexus Willow Grove
-2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B17RU162074,Lexus of Lehigh Valley
+2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B17RU162074,Lexus of Lehigh Valley
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B17RU162088,Woodfield Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B17RU162091,Park Place Lexus Grapevine
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU162110,Lexus of Southampton
-2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B17RU162124,Lexus of Route 10
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B17RU162110,Lexus of Southampton
+2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B17RU162124,Lexus of Route 10
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU162155,Lexus of Riverside
-2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B17RU162172,Westside Lexus
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B17RU162172,Westside Lexus
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU162186,Lexus of Smithtown
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B17RU162219,North Park Lexus at Dominion
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B17RU162284,Lexus of Tampa Bay
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B17RU162334,Nalley Lexus-Smyrna
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B17RU162348,Lexus of Manhattan
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B17RU162348,Lexus of Manhattan
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B17RU162351,Jim Falk Lexus of Beverly Hills
 2024,ES 350,Sunlit Green,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B17RU162382,Lexus of Kendall
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B17RU162396,Hendrick Lexus Northlake
@@ -917,7 +951,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU162480,Lexus of Greenwood Village
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B17RU162494,Jim Falk Lexus of Beverly Hills
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B17RU162527,Lexus of Watertown
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU162575,Ray Catena Lexus of Freehold
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B17RU162575,Ray Catena Lexus of Freehold
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU162592,Lexus Stevens Creek
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B17RU162611,Tri-County Lexus
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B17RU162639,Stoler Lexus
@@ -947,12 +981,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU163080,Sheehy Lexus of Annapolis
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU163192,DARCARS Lexus of Silver Spring
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B17RU163208,Lexus of Austin
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B17RU163225,Westside Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B17RU163239,Lexus of North Miami
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU163323,JM Lexus
+2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU163340,JM Lexus
+2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B17RU163354,Lexus of Route 10
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B17RU163371,Longo Lexus
 2023,ES 350,Obsidian,FWD,41440,0.0,41440.0,At dealer,False,Available,58ADZ1B18PU151663,Lexus of Ft. Wayne
 2023,ES 350,Cloudburst Gray,FWD,41440,0.0,41440.0,At dealer,False,,58ADZ1B18PU152568,North Park Lexus Rio Grande Valley
 2023,ES 350,Eminent White Pearl,FWD,41940,0.0,41940.0,At dealer,False,DealerHold,58ADZ1B18PU156782,Motorworld Lexus
 2023,ES 350,Eminent White Pearl,FWD,41940,0.0,41940.0,At dealer,False,Available,58ADZ1B18PU158659,Willis Lexus
-2023,ES 350,Caviar,FWD,41940,0.0,41940.0,At dealer,False,DealerHold,58ADZ1B18PU158810,Lexus of Wayzata
 2023,ES 350,Obsidian,FWD,41940,0.0,41940.0,At dealer,False,,58ADZ1B18PU158869,Hendrick Lexus Kansas City
 2023,ES 350,Matador Red Mica,FWD,41940,0.0,41940.0,At dealer,False,Available,58ADZ1B18PU159651,Priority Lexus Newport News
 2023,ES 350,Iridium,FWD,41940,0.0,41940.0,At dealer,False,,58ADZ1B18PU160279,Hoffman Lexus
@@ -974,28 +1012,25 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU161922,Fox Lexus of El Paso
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B18RU161998,Lexus of Naperville
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B18RU162018,Len Stoler Lexus
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B18RU162035,Fox Lexus of El Paso
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B18RU162035,Fox Lexus of El Paso
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B18RU162052,Sterling McCall Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU162097,Lexus of Edison
-2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B18RU162116,Johnson Lexus of Raleigh
-2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU162133,Ray Catena Lexus of Monmouth
+2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B18RU162133,Ray Catena Lexus of Monmouth
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU162150,Lexus of Glendale
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B18RU162164,Lexus of Mobile
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU162178,Park Place Lexus Grapevine
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B18RU162200,Lexus of North Miami
-2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU162228,Sewell Lexus
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B18RU162245,Lexus of Freeport
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B18RU162276,Koons Lexus of Wilmington
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B18RU162438,Harvey Lexus of Grand Rapids
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU162441,Rallye Lexus
-2024,ES 350,Sunlit Green,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B18RU162519,Lexus of North Miami
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU162522,Lexus of Orlando
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU162536,Len Stoler Lexus
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B18RU162553,Lexus of Watertown
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B18RU162567,DARCARS Lexus of Englewood
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU162570,Lexus of Westminster
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU162584,New Country Lexus of Latham
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU162603,Lexus of Kendall
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B18RU162617,Ray Catena Lexus of Freehold
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B18RU162617,Ray Catena Lexus of Freehold
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU162651,Lexus of Route 10
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU162682,Lexus of Kendall
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU162746,Northside Lexus
@@ -1003,7 +1038,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU162827,Hennessy Lexus of Gwinnett
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU162858,Sterling McCall Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B18RU162875,Lexus of Route 10
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU162889,Lexus of Pembroke Pines
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU162908,Lexus of Bridgewater
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU162911,Bell Lexus North Scottsdale
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU162987,Ourisman Lexus of Rockville
@@ -1018,6 +1052,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B18RU163220,Lexus of North Miami
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU163248,Ray Catena Lexus of Freehold
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU163251,Nalley Lexus-Smyrna
+2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU163279,Lexus of Brooklyn
+2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU163301,Johnson Lexus of Durham
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B18RU163329,Nalley Lexus - Roswell
+2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU163346,Northside Lexus
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B18RU163380,Lexus of Lexington
 2023,ES 350,Caviar,FWD,41440,0.0,41440.0,At dealer,False,Available,58ADZ1B19PU152448,Lexus of Omaha
 2023,ES 350,Cloudburst Gray,FWD,41440,0.0,41440.0,At dealer,False,Available,58ADZ1B19PU155589,Burdick Lexus
 2023,ES 350,Iridium,FWD,41940,0.0,41940.0,At dealer,False,Available,58ADZ1B19PU157570,DARCARS Lexus of Silver Spring
@@ -1043,16 +1082,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B19RU161900,Nalley Lexus-Smyrna
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU161928,Herrin-Gear Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B19RU161931,Sterling McCall Lexus Clear Lake
-2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B19RU161945,Freeman Lexus
+2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B19RU161945,Freeman Lexus
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B19RU161976,Lexus of North Miami
 2024,ES 350,Eminent White Pearl,FWD,42040,887.0,42927.0,At dealer,False,DealerHold,58ADZ1B19RU161993,Lexus of Birmingham
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B19RU162030,Lexus of North Hills
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B19RU162092,Lexus of Woodland Hills
-2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU162125,Herb Chambers Lexus
-2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU162139,New Country Lexus of Latham
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B19RU162125,Herb Chambers Lexus
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B19RU162139,New Country Lexus of Latham
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B19RU162142,Stoler Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU162156,Lexus of Woodland Hills
-2024,ES 350,Sunlit Green,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B19RU162173,Lexus of North Miami
+2024,ES 350,Sunlit Green,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B19RU162173,Lexus of North Miami
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU162187,Tri-County Lexus
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B19RU162223,Lexus of Jacksonville
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU162237,Nalley Lexus-Smyrna
@@ -1081,23 +1120,30 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B19RU162772,Lexus of Huntsville
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B19RU162898,Lexus of Mobile
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B19RU162920,Lexus of North Miami
+2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU162948,Sheehy Lexus of Richmond
 2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU162951,DARCARS Lexus of Silver Spring
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU162979,Stevinson Lexus of Lakewood
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B19RU162982,Lexus of West Kendall
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163050,Lexus of Jacksonville
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163064,Ray Catena Lexus of Freehold
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163081,Hendrick Lexus Charleston
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163100,Haldeman Lexus of Princeton
 2024,ES 350,Moonbeam Beige Metallic,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163114,Butler Lexus
-2024,ES 350,Nightfall Mica,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163128,Rallye Lexus
 2024,ES 350,Sunlit Green,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163162,Sewell Lexus
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163176,DARCARS Lexus of Englewood
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163193,North Park Lexus of San Antonio
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163212,Earnhardt Lexus
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163274,Stoler Lexus
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163288,Lexus of Louisville
+2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163291,DARCARS Lexus of Silver Spring
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B19RU163307,Meade Lexus of Southfield
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B19RU163310,Johnson Lexus of Durham
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163324,Sheehy Lexus of Richmond
+2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B19RU163355,DARCARS Lexus of Englewood
 2023,ES 350,Eminent White Pearl,FWD,41940,0.0,41940.0,At dealer,False,Available,58ADZ1B1XPU157609,Lexus of New Orleans
 2023,ES 350,Matador Red Mica,FWD,41940,0.0,41940.0,At dealer,False,DealerHold,58ADZ1B1XPU158341,Lexus of Queens
 2023,ES 350,Eminent White Pearl,FWD,41940,0.0,41940.0,At dealer,False,,58ADZ1B1XPU159022,Freeman Lexus
 2023,ES 350,Caviar,FWD,41940,0.0,41940.0,At dealer,False,,58ADZ1B1XPU159201,Lexus of Edison
-2023,ES 350,Cloudburst Gray,FWD,41940,0.0,41940.0,At dealer,False,DealerHold,58ADZ1B1XPU159537,Lexus of Merrillville
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B1XRU160321,Lexus of Cherry Hill
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B1XRU160335,Berlin City Lexus of Portland
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B1XRU160464,Lexus of Queens
@@ -1109,7 +1155,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B1XRU160951,Lexus of Westminster
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B1XRU161016,Lexus of Pembroke Pines
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B1XRU161159,Newport Lexus
-2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B1XRU161257,Lexus of Watertown
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B1XRU161310,JM Lexus
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B1XRU161470,Cavender Lexus of Lubbock
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B1XRU161498,Herb Chambers Lexus
@@ -1123,9 +1168,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B1XRU161985,Lexus of Route 10
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B1XRU162019,Northside Lexus
 2024,ES 350,Matador Red Mica,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B1XRU162022,Ray Catena Lexus of Freehold
-2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B1XRU162053,Lexus of Henderson
+2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,Available,58ADZ1B1XRU162053,Lexus of Henderson
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B1XRU162067,Classic Lexus
-2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B1XRU162134,Lexus of Route 10
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,At dealer,False,,58ADZ1B1XRU162134,Lexus of Route 10
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B1XRU162179,Lexus of Glendale
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B1XRU162196,Ray Catena Lexus of Freehold
 2024,ES 350,Eminent White Pearl,FWD,42040,0.0,42040.0,At dealer,False,DealerHold,58ADZ1B1XRU162229,Lexus of Kendall
@@ -1165,7 +1210,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350,Cloudburst Gray,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B1XRU163106,Lexus of Towson
 2024,ES 350,Caviar,FWD,42040,0.0,42040.0,Port to dealer,False,DealerHold,58ADZ1B1XRU163235,Lexus of Shreveport - Bossier City
 2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B1XRU163249,Scanlon Lexus of Fort Myers
-2023,ES 250 Luxury AWD,Eminent White Pearl,AWD,47110,0.0,47110.0,At dealer,False,,58AE11D10PU011860,Dolan Lexus
+2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B1XRU163297,Wilkie Lexus
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,Available,58ADZ1B1XRU163302,Lexus of Route 10
+2024,ES 350,Iridium,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B1XRU163316,DARCARS Lexus of Greenwich
+2024,ES 350,Obsidian,FWD,42040,0.0,42040.0,Port to dealer,False,,58ADZ1B1XRU163364,DARCARS Lexus of Silver Spring
 2024,ES 250 Luxury AWD,Iridium,AWD,47210,0.0,47210.0,Port to dealer,False,,58AE11D14RU012254,Lexus of Tacoma at Fife
 2024,ES 250 Luxury AWD,Iridium,AWD,47210,0.0,47210.0,Port to dealer,False,Available,58AE11D15RU012294,Lexus of Maplewood
 2024,ES 250 Luxury AWD,Cloudburst Gray,AWD,47210,0.0,47210.0,At dealer,False,,58AE11D16RU012160,Lexus of Bellevue
@@ -1173,7 +1221,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 250 Luxury AWD,Cloudburst Gray,AWD,47210,0.0,47210.0,Port to dealer,False,,58AE11D17RU012197,Lexus of Portland
 2024,ES 250 Luxury AWD,Caviar,AWD,47210,0.0,47210.0,At dealer,False,,58AE11D18RU012046,Lexus of Tacoma at Fife
 2024,ES 250 Luxury AWD,Iridium,AWD,47210,0.0,47210.0,Port to dealer,False,,58AE11D18RU012175,Lexus of Portland
-2024,ES 250 Luxury AWD,Cloudburst Gray,AWD,47210,0.0,47210.0,Port to dealer,False,,58AE11D18RU012192,Lexus of Bellevue
+2024,ES 250 Luxury AWD,Cloudburst Gray,AWD,47210,0.0,47210.0,At dealer,False,,58AE11D18RU012192,Lexus of Bellevue
 2023,ES 250 Luxury AWD,Nightfall Mica,AWD,46610,0.0,46610.0,At dealer,False,DealerHold,58AE11D19PU011310,Dolan Lexus
 2023,ES 250 Luxury AWD,Caviar,AWD,47110,0.0,47110.0,At dealer,False,,58AE11D1XPU012076,Lexus of Bellevue
 2024,ES 250 Luxury AWD,Eminent White Pearl,AWD,47210,0.0,47210.0,At dealer,False,,58AE11D1XRU012162,Lexus of Bellevue
@@ -1183,7 +1231,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,ES 350 Luxury,Caviar,FWD,47110,0.0,47110.0,At dealer,False,Available,58AEZ1B10PU159910,Mungenast Lexus of St. Louis
 2023,ES 350 Luxury,Iridium,FWD,47110,0.0,47110.0,At dealer,False,,58AEZ1B10PU160071,Arrowhead Lexus
 2023,ES 350 Luxury,Eminent White Pearl,FWD,47110,0.0,47110.0,At dealer,False,Available,58AEZ1B10PU160197,Hendrick Lexus Kansas City
-2024,ES 350 Luxury,Caviar,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B10RU161692,Kendall Lexus of Eugene
+2024,ES 350 Luxury,Caviar,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B10RU161692,Kendall Lexus of Eugene
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,Available,58AEZ1B10RU161966,Jim Falk Lexus of Beverly Hills
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B10RU162292,Lexus San Diego
 2024,ES 350 Luxury,Cloudburst Gray,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B10RU162549,Lexus of Cerritos
@@ -1197,6 +1245,9 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Luxury,Cloudburst Gray,FWD,47210,0.0,47210.0,Port to dealer,False,Available,58AEZ1B10RU163166,Lexus of North Miami
 2024,ES 350 Luxury,Moonbeam Beige Metallic,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B10RU163197,Westside Lexus
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B10RU163250,Lexus of Lexington
+2024,ES 350 Luxury,Caviar,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B10RU163281,Germain Lexus of Naples
+2024,ES 350 Luxury,Caviar,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B10RU163300,Germain Lexus of Easton
+2024,ES 350 Luxury,Obsidian,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B10RU163314,Ray Catena Lexus of Monmouth
 2023,ES 350 Luxury,Eminent White Pearl,FWD,47110,0.0,47110.0,At dealer,False,Available,58AEZ1B11PU157423,Lexus of Maplewood
 2023,ES 350 Luxury,Caviar,FWD,47110,0.0,47110.0,At dealer,False,Available,58AEZ1B11PU159978,Lexus of Pleasanton
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,At dealer,False,Available,58AEZ1B11RU160955,Lexus of Tacoma at Fife
@@ -1208,6 +1259,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Luxury,Caviar,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B11RU162656,Lexus of Cool Springs
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B11RU163130,Nalley Lexus-Smyrna
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B11RU163175,Lexus of Lexington
+2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B11RU163287,Park Place Lexus Grapevine
+2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B11RU163290,Sewell Lexus
 2023,ES 350 Luxury,Iridium,FWD,47110,0.0,47110.0,At dealer,False,DealerHold,58AEZ1B12PU159696,"Lexus of Concord, LLC"
 2023,ES 350 Luxury,Cloudburst Gray,FWD,47110,0.0,47110.0,At dealer,False,,58AEZ1B12PU160296,Lexus of Bellevue
 2024,ES 350 Luxury,Cloudburst Gray,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B12RU161628,Lexus of Bellevue
@@ -1220,6 +1273,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B12RU163069,Price LeBlanc Lexus
 2024,ES 350 Luxury,Caviar,FWD,47210,0.0,47210.0,Port to dealer,False,Available,58AEZ1B12RU163153,North Park Lexus at Dominion
 2024,ES 350 Luxury,Obsidian,FWD,47210,0.0,47210.0,Port to dealer,False,Available,58AEZ1B12RU163170,New Country Lexus of Westport
+2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B12RU163234,JM Lexus
 2023,ES 350 Luxury,Caviar,FWD,47110,0.0,47110.0,At dealer,False,Available,58AEZ1B13PU155950,Lexus of Omaha
 2023,ES 350 Luxury,Eminent White Pearl,FWD,47110,0.0,47110.0,At dealer,False,,58AEZ1B13PU158167,Temecula Valley Lexus
 2024,ES 350 Luxury,Iridium,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B13RU161394,Lexus El Cajon
@@ -1231,6 +1285,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Luxury,Caviar,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B13RU162884,Park Place Lexus Plano
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B13RU162917,Lexus of Pembroke Pines
 2024,ES 350 Luxury,Cloudburst Gray,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B13RU163078,Price LeBlanc Lexus
+2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B13RU163341,Flow Lexus of Greensboro
 2023,ES 350 Luxury,Cloudburst Gray,FWD,47110,0.0,47110.0,At dealer,False,,58AEZ1B14PU159795,Bell Lexus North Scottsdale
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,998.0,48208.0,At dealer,False,Available,58AEZ1B14RU160917,Jordan Lexus of Mishawaka
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,At dealer,False,DealerHold,58AEZ1B14RU161291,Jim Falk Lexus of Beverly Hills
@@ -1266,7 +1321,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Luxury,Iridium,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B16RU161261,Lexus of Tacoma at Fife
 2024,ES 350 Luxury,Cloudburst Gray,FWD,47210,0.0,47210.0,At dealer,False,DealerHold,58AEZ1B16RU161440,Lexus of Fremont
 2024,ES 350 Luxury,Obsidian,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B16RU162152,Lexus of Knoxville
-2024,ES 350 Luxury,Caviar,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B16RU162183,Longo Lexus
+2024,ES 350 Luxury,Caviar,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B16RU162183,Longo Lexus
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B16RU162653,Lexus of Henderson
 2024,ES 350 Luxury,Caviar,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B16RU162782,Sterling McCall Lexus
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,Available,58AEZ1B16RU162863,Lexus of North Hills
@@ -1275,6 +1330,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B16RU163107,Lexus of Greenville
 2024,ES 350 Luxury,Sunlit Green,FWD,47210,0.0,47210.0,Port to dealer,False,Available,58AEZ1B16RU163141,Lexus of North Miami
 2024,ES 350 Luxury,Nightfall Mica,FWD,47210,0.0,47210.0,Port to dealer,False,Available,58AEZ1B16RU163253,Park Place Lexus Grapevine
+2024,ES 350 Luxury,Iridium,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B16RU163334,Lexus of Pleasanton
+2024,ES 350 Luxury,Obsidian,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B16RU163382,Northside Lexus
 2023,ES 350 Luxury,Obsidian,FWD,47110,0.0,47110.0,At dealer,False,Available,58AEZ1B17PU157751,Lexus of Merrillville
 2023,ES 350 Luxury,Cloudburst Gray,FWD,47110,0.0,47110.0,At dealer,False,,58AEZ1B17PU158219,Lexus of Omaha
 2023,ES 350 Luxury,Eminent White Pearl,FWD,47110,0.0,47110.0,At dealer,False,DealerHold,58AEZ1B17PU159323,Motor City Lexus of Bakersfield
@@ -1283,7 +1340,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B17RU162144,Lexus of Cerritos
 2024,ES 350 Luxury,Sunlit Green,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B17RU162256,Germain Lexus of Naples
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B17RU162368,"Lexus of Seattle, LLC"
-2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B17RU162421,Lexus of Louisville
+2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,At dealer,False,Available,58AEZ1B17RU162421,Lexus of Louisville
 2024,ES 350 Luxury,Sunlit Green,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B17RU162628,Hendrick Lexus Kansas City
 2024,ES 350 Luxury,Sunlit Green,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B17RU162919,Butler Lexus of South Atlanta
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B17RU162970,Lexus of Bridgewater
@@ -1292,11 +1349,14 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,Available,58AEZ1B17RU163178,North Park Lexus at Dominion
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B17RU163228,Lexus of Orange Park
 2024,ES 350 Luxury,Nightfall Mica,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B17RU163262,Northside Lexus
+2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B17RU163309,Park Place Lexus Grapevine
+2024,ES 350 Luxury,Matador Red Mica,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B17RU163312,Sewell Lexus
+2024,ES 350 Luxury,Iridium,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B17RU163343,McGrath Lexus of Westmont
+2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,Available,58AEZ1B17RU163360,Lexus of Akron/Canton
 2023,ES 350 Luxury,Caviar,FWD,47110,0.0,47110.0,At dealer,False,Available,58AEZ1B18PU156737,Lexus of Omaha
 2023,ES 350 Luxury,Eminent White Pearl,FWD,47110,0.0,47110.0,At dealer,False,Available,58AEZ1B18PU159234,Lexus of Bellevue
 2023,ES 350 Luxury,Eminent White Pearl,FWD,47110,0.0,47110.0,At dealer,False,,58AEZ1B18PU159430,Lexus of Roseville
 2023,ES 350 Luxury,Eminent White Pearl,FWD,47110,0.0,47110.0,At dealer,False,Available,58AEZ1B18PU159752,Lexus of Highland Park
-2023,ES 350 Luxury,Cloudburst Gray,FWD,47110,0.0,47110.0,At dealer,False,,58AEZ1B18PU159802,Lexus of Wichita
 2024,ES 350 Luxury,Cloudburst Gray,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B18RU160659,Lexus of Portland
 2024,ES 350 Luxury,Iridium,FWD,47210,0.0,47210.0,At dealer,False,Available,58AEZ1B18RU161276,Lexus of Oxnard
 2024,ES 350 Luxury,Nightfall Mica,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B18RU161309,Lexus of Portland
@@ -1310,7 +1370,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Luxury,Cloudburst Gray,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B18RU162931,Lexus of Las Vegas
 2024,ES 350 Luxury,Sunlit Green,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B18RU162993,Lexus of Westminster
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B18RU163044,Lexus of Wichita
-2024,ES 350 Luxury,Obsidian,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B18RU163092,Lexus of Nashville
+2024,ES 350 Luxury,Obsidian,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B18RU163092,Lexus of Nashville
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B18RU163187,North Park Lexus at Dominion
 2024,ES 350 Luxury,Iridium,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B18RU163206,Westside Lexus
 2023,ES 350 Luxury,Eminent White Pearl,FWD,47110,0.0,47110.0,At dealer,False,DealerHold,58AEZ1B19PU159209,Lexus Santa Monica
@@ -1318,7 +1378,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Luxury,Caviar,FWD,47210,0.0,47210.0,At dealer,False,DealerHold,58AEZ1B19RU160993,Newport Lexus
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B19RU161285,Kendall Lexus of Eugene
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B19RU162159,Lexus of North Miami
-2024,ES 350 Luxury,Iridium,FWD,47210,0.0,47210.0,At dealer,False,,58AEZ1B19RU162162,Lexus of Milwaukee
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B19RU162355,Westside Lexus
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B19RU162503,Longo Lexus
 2024,ES 350 Luxury,Moonbeam Beige Metallic,FWD,47210,0.0,47210.0,At dealer,False,Available,58AEZ1B19RU162579,Lexus of Madison
@@ -1333,6 +1392,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,ES 350 Luxury,Cloudburst Gray,FWD,47110,0.0,47110.0,At dealer,False,Available,58AEZ1B1XPU158845,Smart Lexus of Quad Cities
 2023,ES 350 Luxury,Caviar,FWD,47110,0.0,47110.0,At dealer,False,Available,58AEZ1B1XPU159249,Lexus of Maplewood
 2024,ES 350 Luxury,Caviar,FWD,47210,0.0,47210.0,At dealer,False,Available,58AEZ1B1XRU162123,Lexus of Merrillville
+2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,At dealer,False,DealerHold,58AEZ1B1XRU162154,Lexus Santa Monica
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B1XRU162378,Lexus of Maplewood
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,At dealer,False,DealerHold,58AEZ1B1XRU162381,Bergstrom Lexus
 2024,ES 350 Luxury,Obsidian,FWD,47210,0.0,47210.0,At dealer,False,DealerHold,58AEZ1B1XRU162526,McGrath Lexus of Chicago
@@ -1341,19 +1401,19 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Luxury,Iridium,FWD,47210,0.0,47210.0,Port to dealer,False,,58AEZ1B1XRU162686,JM Lexus
 2024,ES 350 Luxury,Caviar,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B1XRU162767,Lexus of Melbourne
 2024,ES 350 Luxury,Eminent White Pearl,FWD,47210,0.0,47210.0,At dealer,False,Available,58AEZ1B1XRU162882,Germain Lexus of Easton
+2024,ES 350 Luxury,Iridium,FWD,47210,0.0,47210.0,Port to dealer,False,DealerHold,58AEZ1B1XRU163319,Park Place Lexus Plano
 2023,ES 350 Ultra Luxury,Caviar,FWD,50730,0.0,50730.0,At dealer,False,Available,58AFZ1B10PU160267,North Park Lexus Rio Grande Valley
 2024,ES 350 Ultra Luxury,Sunlit Green,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B10RU160689,Lexus of North Miami
-2024,ES 350 Ultra Luxury,Moonbeam Beige Metallic,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B10RU160725,Sewell Lexus
 2024,ES 350 Ultra Luxury,Moonbeam Beige Metallic,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B10RU161437,Northside Lexus
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B10RU161566,Lexus of Sarasota
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B10RU161731,Hendrick Lexus Kansas City
-2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B10RU161809,Woodfield Lexus
+2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B10RU161809,Woodfield Lexus
 2024,ES 350 Ultra Luxury,Obsidian,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B10RU161955,Lexus of Manhattan
 2024,ES 350 Ultra Luxury,Nightfall Mica,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B10RU161969,Lexus of Brooklyn
 2024,ES 350 Ultra Luxury,Nightfall Mica,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B10RU162099,Lexus of Orange Park
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B10RU162149,North Park Lexus of San Antonio
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B10RU162524,Reliable Lexus
-2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B10RU162538,Lexus of Cherry Hill
+2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B10RU162538,Lexus of Cherry Hill
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B10RU162541,Hendrick Lexus Charlotte
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,1995.0,52925.0,Port to dealer,False,,58AFZ1B10RU162586,Sheehy Lexus of Annapolis
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B10RU163009,Reliable Lexus
@@ -1373,7 +1433,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,299.0,51229.0,At dealer,False,Available,58AFZ1B11RU161835,Lexus of Tulsa
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B11RU161902,Lexus of Shreveport - Bossier City
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B11RU162306,Lexus of Bellevue
-2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B11RU162418,Nalley Lexus-Smyrna
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B11RU162693,Lexus of Manhattan
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,Available,58AFZ1B11RU162726,Lexus of Sarasota
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B11RU162760,Johnson Lexus of Raleigh
@@ -1384,12 +1443,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B12RU160418,Price LeBlanc Lexus
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B12RU160600,Lexus of Omaha
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B12RU160807,Lexus of Thousand Oaks
-2024,ES 350 Ultra Luxury,Caviar,FWD,50930,698.0,51628.0,At dealer,False,DealerHold,58AFZ1B12RU160810,Lexus of Tulsa
 2024,ES 350 Ultra Luxury,Obsidian,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B12RU161231,Lexus of Louisville
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B12RU161360,Scanlon Lexus of Fort Myers
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B12RU161469,Lexus of Chester Springs
 2024,ES 350 Ultra Luxury,Sunlit Green,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B12RU161553,Lexus of Kendall
-2024,ES 350 Ultra Luxury,Matador Red Mica,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B12RU161875,Lexus of Orange Park
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B12RU161990,Northside Lexus
 2024,ES 350 Ultra Luxury,Matador Red Mica,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B12RU162010,Peterson Lexus
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B12RU162105,Lexus of Austin
@@ -1405,6 +1462,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Ultra Luxury,Moonbeam Beige Metallic,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B12RU162864,Hendrick Lexus Charlotte
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B12RU162962,Lexus of Huntsville
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B12RU163058,Lexus of Towson
+2024,ES 350 Ultra Luxury,Sunlit Green,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B12RU163271,Newport Lexus
+2024,ES 350 Ultra Luxury,Nightfall Mica,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B12RU163366,Lexus of Wesley Chapel
 2023,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50730,0.0,50730.0,At dealer,False,Available,58AFZ1B13PU158660,Superstition Springs Lexus
 2023,ES 350 Ultra Luxury,Obsidian,FWD,50730,0.0,50730.0,At dealer,False,Available,58AFZ1B13PU159808,Fields Lexus Glenview
 2024,ES 350 Ultra Luxury,Sunlit Green,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B13RU160881,Lexus of Kendall
@@ -1414,7 +1473,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B13RU161710,Willis Lexus
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B13RU161769,Lexus of Wichita
 2024,ES 350 Ultra Luxury,Sunlit Green,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B13RU161772,Lexus of Pembroke Pines
-2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B13RU161819,Park Place Lexus Grapevine
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B13RU161934,Westside Lexus
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B13RU162274,Prestige Lexus of Ramsey
 2024,ES 350 Ultra Luxury,Moonbeam Beige Metallic,FWD,50930,0.0,50930.0,Port to dealer,False,Available,58AFZ1B13RU162288,North Park Lexus at Dominion
@@ -1429,7 +1487,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B13RU162873,Classic Lexus
 2023,ES 350 Ultra Luxury,Obsidian,FWD,50730,0.0,50730.0,At dealer,False,Available,58AFZ1B14PU159333,DARCARS Lexus of Mt. Kisco
 2023,ES 350 Ultra Luxury,Obsidian,FWD,50730,0.0,50730.0,At dealer,False,,58AFZ1B14PU160305,Lindsay Lexus of Alexandria
-2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B14RU160467,North Park Lexus at Dominion
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B14RU160503,Lexus of Pembroke Pines
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B14RU160579,Park Place Lexus Plano
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B14RU160646,Lexus of Winter Park
@@ -1443,27 +1500,27 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B14RU162042,North Park Lexus of San Antonio
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B14RU162087,Lexus of Bridgewater
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B14RU162090,Lexus of Santa Fe
-2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B14RU162185,Lexus of Cherry Hill
-2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B14RU162395,New Country Lexus of Westport
+2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B14RU162185,Lexus of Cherry Hill
+2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B14RU162395,Hoffman Lexus
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B14RU162400,Jordan Lexus of Mishawaka
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B14RU162431,McGrath Lexus of Westmont
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B14RU162610,Westside Lexus
-2024,ES 350 Ultra Luxury,Obsidian,FWD,50930,0.0,50930.0,Port to dealer,False,Available,58AFZ1B14RU162641,Lexus of Merrillville
+2024,ES 350 Ultra Luxury,Obsidian,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B14RU162641,Lexus of Merrillville
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B14RU162929,Lexus of Jacksonville
 2024,ES 350 Ultra Luxury,Sunlit Green,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B14RU162980,Park Place Lexus Grapevine
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B14RU163109,Lexus of Sarasota
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B14RU163210,Lexus of West Kendall
-2023,ES 350 Ultra Luxury,Obsidian,FWD,50230,0.0,50230.0,At dealer,False,,58AFZ1B15PU154660,Lexus of Maplewood
+2023,ES 350 Ultra Luxury,Obsidian,FWD,50230,0.0,50230.0,At dealer,False,Available,58AFZ1B15PU154660,Lexus of Wayzata
 2024,ES 350 Ultra Luxury,Matador Red Mica,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B15RU160526,Lexus of North Hills
 2024,ES 350 Ultra Luxury,Sunlit Green,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B15RU160946,JM Lexus
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B15RU161191,Northside Lexus
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B15RU161305,Ray Catena Lexus
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B15RU161336,Lexus of Tampa Bay
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B15RU161370,Berlin City Lexus of Portland
-2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B15RU161563,Hennessy Lexus of Gwinnett
+2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B15RU161563,Nalley Lexus - Roswell
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B15RU161689,Lexus Stevens Creek
 2024,ES 350 Ultra Luxury,Nightfall Mica,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B15RU161823,Lexus of Edison
-2024,ES 350 Ultra Luxury,Nightfall Mica,FWD,50930,0.0,50930.0,Port to dealer,False,Available,58AFZ1B15RU161949,Lexus of Montgomery
+2024,ES 350 Ultra Luxury,Nightfall Mica,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B15RU161949,Lexus of Montgomery
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B15RU161952,Lexus of Huntsville
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B15RU162017,David McDermott Lexus of New Haven
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B15RU162020,Johnson Lexus of Durham
@@ -1476,9 +1533,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B15RU162731,Hennessy Lexus of Gwinnett
 2024,ES 350 Ultra Luxury,Obsidian,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B15RU163006,DARCARS Lexus of Englewood
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B15RU163247,Lexus of Greenville
+2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B15RU163328,Johnson Lexus of Raleigh
+2024,ES 350 Ultra Luxury,Obsidian,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B15RU163376,Park Place Lexus Plano
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B16RU161152,JM Lexus
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B16RU161586,Lexus of Sarasota
-2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B16RU161605,North Park Lexus at Dominion
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B16RU161779,South County Lexus at Mission Viejo
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B16RU161894,Nalley Lexus - Roswell
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B16RU161927,Willis Lexus
@@ -1493,10 +1551,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B16RU162589,New Country Lexus of Great Neck
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B16RU162673,Lexus of Bridgewater
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B16RU162706,Hendrick Lexus Charleston
-2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B16RU162852,Meade Lexus of Southfield
+2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B16RU162852,Metro Lexus
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,Available,58AFZ1B16RU162981,Lexus of Greenville
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B16RU163015,Hendrick Lexus Kansas City
 2024,ES 350 Ultra Luxury,Moonbeam Beige Metallic,FWD,50930,887.0,51817.0,Port to dealer,False,Available,58AFZ1B16RU163127,Lexus of Birmingham
+2024,ES 350 Ultra Luxury,Matador Red Mica,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B16RU163306,Park Place Lexus Grapevine
+2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B16RU163337,Flow Lexus of Greensboro
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B17RU160382,JM Lexus
 2024,ES 350 Ultra Luxury,Moonbeam Beige Metallic,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B17RU160737,Lexus of Pembroke Pines
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B17RU160902,Lexus of Wichita
@@ -1510,20 +1570,19 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B17RU162312,Lexus of Lexington
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B17RU162360,Lexus of Riverside
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B17RU162407,Sterling McCall Lexus Clear Lake
-2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,Port to dealer,False,Available,58AFZ1B17RU162455,DARCARS Lexus of Greenwich
+2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B17RU162455,DARCARS Lexus of Greenwich
 2024,ES 350 Ultra Luxury,Matador Red Mica,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B17RU162486,Nalley Lexus-Smyrna
 2024,ES 350 Ultra Luxury,Sunlit Green,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B17RU163203,Lexus of Tampa Bay
+2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B17RU163315,Herb Chambers Lexus
 2023,ES 350 Ultra Luxury,Obsidian,FWD,50730,0.0,50730.0,At dealer,False,Available,58AFZ1B18PU158797,Lexus of Maplewood
 2023,ES 350 Ultra Luxury,Moonbeam Beige Metallic,FWD,50730,0.0,50730.0,At dealer,False,DealerHold,58AFZ1B18PU160095,Lexus of Sarasota
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B18RU160424,Stevinson Lexus of Lakewood
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B18RU160679,Lexus of Towson
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B18RU161122,Lexus of Clearwater
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,1995.0,52925.0,At dealer,False,,58AFZ1B18RU161511,Sheehy Lexus of Annapolis
-2024,ES 350 Ultra Luxury,Moonbeam Beige Metallic,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B18RU161542,Northside Lexus
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B18RU161623,Lexus of Maplewood
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B18RU161816,Lexus of Peoria
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,Port to dealer,False,Available,58AFZ1B18RU162027,Lexus of North Miami
-2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B18RU162111,Hennessy Lexus of Gwinnett
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B18RU162190,Sterling McCall Lexus
 2024,ES 350 Ultra Luxury,Moonbeam Beige Metallic,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B18RU162271,Lexus of Lexington
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B18RU162478,DARCARS Lexus of Mt. Kisco
@@ -1531,17 +1590,16 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B18RU162691,Lexus of Cherry Hill
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B18RU162741,Bell Lexus North Scottsdale
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,Port to dealer,False,Available,58AFZ1B18RU162836,Lexus of Tampa Bay
-2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B18RU162870,Lexus of Merrillville
+2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B18RU162870,Lexus of Merrillville
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B18RU162996,Lexus of Madison
 2024,ES 350 Ultra Luxury,Sunlit Green,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B18RU163047,Lexus of Knoxville
 2024,ES 350 Ultra Luxury,Moonbeam Beige Metallic,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B19RU160366,Sterling McCall Lexus Clear Lake
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B19RU161176,Ira Lexus
-2024,ES 350 Ultra Luxury,Nightfall Mica,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B19RU161209,North Park Lexus of San Antonio
+2024,ES 350 Ultra Luxury,Nightfall Mica,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B19RU161209,North Park Lexus at Dominion
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B19RU161503,Lexus of Smithtown
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B19RU161520,Northside Lexus
 2024,ES 350 Ultra Luxury,Moonbeam Beige Metallic,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B19RU161713,Westside Lexus
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B19RU161789,Flow Lexus of Greensboro
-2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B19RU161856,Hennessy Lexus of Gwinnett
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B19RU161940,Lexus of Lakeway
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B19RU161999,Westside Lexus
 2024,ES 350 Ultra Luxury,Cloudburst Gray,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B19RU162036,DARCARS Lexus of Greenwich
@@ -1557,6 +1615,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,Port to dealer,False,Available,58AFZ1B19RU162831,Sewell Lexus of Ft. Worth
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B19RU162876,Johnson Lexus of Durham
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B19RU163087,Herrin-Gear Lexus
+2024,ES 350 Ultra Luxury,Sunlit Green,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B19RU163347,Lexus of Louisville
 2024,ES 350 Ultra Luxury,Iridium,FWD,50930,0.0,50930.0,At dealer,False,DealerHold,58AFZ1B1XRU160330,Sterling McCall Lexus
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B1XRU160411,Tri-County Lexus
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B1XRU160778,Bobby Rahal Lexus of Lewistown
@@ -1568,7 +1627,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Ultra Luxury,Caviar,FWD,50930,0.0,50930.0,At dealer,False,Available,58AFZ1B1XRU161798,Willis Lexus
 2024,ES 350 Ultra Luxury,Moonbeam Beige Metallic,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B1XRU161963,Sterling McCall Lexus Clear Lake
 2024,ES 350 Ultra Luxury,Moonbeam Beige Metallic,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B1XRU162224,North Park Lexus Rio Grande Valley
-2024,ES 350 Ultra Luxury,Matador Red Mica,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B1XRU162286,Lexus of Wayzata
+2024,ES 350 Ultra Luxury,Matador Red Mica,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B1XRU162286,Lexus of Wayzata
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B1XRU162384,Lexus of Lexington
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B1XRU162515,Sterling McCall Lexus
 2024,ES 350 Ultra Luxury,Obsidian,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B1XRU162532,Herb Chambers Lexus of Hingham
@@ -1576,6 +1635,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 Ultra Luxury,Obsidian,FWD,50930,0.0,50930.0,At dealer,False,,58AFZ1B1XRU163020,Lexus of Cool Springs
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B1XRU163034,Lexus of Winter Park
 2024,ES 350 Ultra Luxury,Eminent White Pearl,FWD,50930,0.0,50930.0,Port to dealer,False,,58AFZ1B1XRU163101,Willis Lexus
+2024,ES 350 Ultra Luxury,Nightfall Mica,FWD,50930,0.0,50930.0,Port to dealer,False,DealerHold,58AFZ1B1XRU163275,Lexus of Bridgewater
 2023,ES 350 F SPORT,Ultra White,FWD,47900,0.0,47900.0,At dealer,False,DealerHold,58AJZ1B10PU155631,Lexus of Pembroke Pines
 2023,ES 350 F SPORT,Caviar,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B10PU156696,Jim Falk Lexus of Beverly Hills
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B10PU156889,Harvey Lexus of Grand Rapids
@@ -1607,11 +1667,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B10RU160797,Lexus of Portland
 2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B10RU161142,Longo Lexus
 2024,ES 350 F SPORT,Obsidian,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B10RU161206,North Park Lexus of San Antonio
-2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B10RU161836,Keyes Lexus of Valencia
+2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B10RU161836,Keyes Lexus of Valencia
 2024,ES 350 F SPORT,Ultra White,FWD,48500,698.0,49198.0,At dealer,False,Available,58AJZ1B10RU161870,Lexus of Tulsa
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B10RU161948,Lexus of New Orleans
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B10RU162064,Lexus of Tucson
-2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B10RU162128,Northside Lexus
+2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,At dealer,False,DealerHold,58AJZ1B10RU162128,Northside Lexus
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B10RU162209,Ourisman Lexus of Rockville
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B10RU162226,Lexus of Lexington
 2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B10RU162291,Lexus of Shreveport - Bossier City
@@ -1655,13 +1715,12 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B11RU161280,Lexus of Albuquerque
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B11RU161313,Superstition Springs Lexus
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B11RU161358,Arrowhead Lexus
-2024,ES 350 F SPORT,Ultrasonic Blue Mica 2.0,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B11RU161375,Lexus of Clearwater
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B11RU161585,Germain Lexus of Naples
 2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B11RU161621,Lexus of Lexington
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,At dealer,False,DealerHold,58AJZ1B11RU161649,Sterling McCall Lexus
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B11RU161778,Lexus of Cerritos
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B11RU162056,Lexus of Orlando
-2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B11RU162073,Sterling McCall Lexus
+2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,DealerHold,58AJZ1B11RU162073,Sterling McCall Lexus
 2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B11RU162171,Longo Lexus
 2024,ES 350 F SPORT,Ultrasonic Blue Mica 2.0,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B11RU162428,Lexus of Thousand Oaks
 2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B11RU162462,Butler Lexus
@@ -1678,6 +1737,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B11RU162994,Ray Catena Lexus of Monmouth
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B11RU163014,Dolan Lexus
 2024,ES 350 F SPORT,Obsidian,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B11RU163255,Sewell Lexus
+2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B11RU163367,JM Lexus
 2023,ES 350 F SPORT,Ultra White,FWD,47900,0.0,47900.0,At dealer,True,DealerHold,58AJZ1B12PU152973,JM Lexus
 2023,ES 350 F SPORT,Ultra White,FWD,47900,0.0,47900.0,At dealer,False,Available,58AJZ1B12PU154447,North Park Lexus at Dominion
 2023,ES 350 F SPORT,Ultra White,FWD,47900,0.0,47900.0,At dealer,False,,58AJZ1B12PU155484,Temecula Valley Lexus
@@ -1714,7 +1774,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Ultrasonic Blue Mica 2.0,FWD,48500,0.0,48500.0,At dealer,False,DealerHold,58AJZ1B12RU161790,Lexus of West Kendall
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B12RU162065,Lexus of Winter Park
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B12RU162079,Lexus Stevens Creek
-2024,ES 350 F SPORT,Obsidian,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B12RU162177,Wilkie Lexus
+2024,ES 350 F SPORT,Obsidian,FWD,48500,0.0,48500.0,At dealer,False,DealerHold,58AJZ1B12RU162177,Wilkie Lexus
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,DealerHold,58AJZ1B12RU162356,Lexus of Melbourne
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B12RU162387,Sewell Lexus
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B12RU162390,Sewell Lexus
@@ -1725,6 +1785,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B12RU162972,Motor City Lexus of Bakersfield
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B12RU163152,Lexus of Santa Fe
 2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B12RU163233,Lexus of Henderson
+2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B12RU163345,Jim Falk Lexus of Beverly Hills
+2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B12RU163359,Crown Lexus
 2023,ES 350 F SPORT,Ultra White,FWD,47900,0.0,47900.0,At dealer,False,DealerHold,58AJZ1B13PU154831,Northside Lexus
 2023,ES 350 F SPORT,Iridium,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B13PU155820,Fields Lexus Glenview
 2023,ES 350 F SPORT,Ultra White,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B13PU155977,Lexus of Arlington
@@ -1772,6 +1834,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B13RU163029,Lexus of Glendale
 2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B13RU163094,Park Place Lexus Grapevine
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B13RU163211,Lexus of Riverside
+2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B13RU163273,Lexus of Kendall
 2023,ES 350 F SPORT,Obsidian,FWD,47900,0.0,47900.0,At dealer,False,DealerHold,58AJZ1B14PU149783,Lexus of Brooklyn
 2023,ES 350 F SPORT,Ultra White,FWD,47900,0.0,47900.0,At dealer,False,DealerHold,58AJZ1B14PU154529,Sewell Lexus of Ft. Worth
 2023,ES 350 F SPORT,Ultra White,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B14PU155857,Lexus of Orland
@@ -1794,7 +1857,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Ultra White,FWD,48500,998.0,49498.0,At dealer,False,Available,58AJZ1B14RU160575,Jordan Lexus of Mishawaka
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B14RU160625,Lexus of Woodland Hills
 2024,ES 350 F SPORT,Obsidian,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B14RU160785,JM Lexus
-2024,ES 350 F SPORT,Ultra White,FWD,48500,895.0,49395.0,At dealer,False,DealerHold,58AJZ1B14RU161063,Lexus of Chattanooga
 2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B14RU161175,Longo Lexus
 2024,ES 350 F SPORT,Ultrasonic Blue Mica 2.0,FWD,48500,0.0,48500.0,At dealer,False,DealerHold,58AJZ1B14RU161581,"Lexus of Concord, LLC"
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B14RU161659,Dolan Lexus
@@ -1813,6 +1875,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B14RU162892,"Lexus of Seattle, LLC"
 2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B14RU162939,Lexus of Riverside
 2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B14RU163024,Crown Lexus
+2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B14RU163296,Motor City Lexus of Bakersfield
+2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B14RU163377,Lexus of Watertown
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,47900,0.0,47900.0,At dealer,False,,58AJZ1B15PU153440,Lexus of Greenville
 2023,ES 350 F SPORT,Iridium,FWD,47900,0.0,47900.0,At dealer,False,DealerHold,58AJZ1B15PU154376,Lexus of Shreveport - Bossier City
 2023,ES 350 F SPORT,Iridium,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B15PU156919,Lexus of Louisville
@@ -1873,7 +1937,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B16PU159358,North Park Lexus of San Antonio
 2023,ES 350 F SPORT,Obsidian,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B16PU159392,Northside Lexus
 2023,ES 350 F SPORT,Iridium,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B16PU159442,Scanlon Lexus of Fort Myers
-2023,ES 350 F SPORT,Iridium,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B16PU159554,Lexus of Las Vegas
+2023,ES 350 F SPORT,Iridium,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B16PU159554,Lexus of Las Vegas
 2023,ES 350 F SPORT,Iridium,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B16PU159652,Park Place Lexus Plano
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B16PU160008,Dolan Lexus
 2023,ES 350 F SPORT,Ultrasonic Blue Mica 2.0,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B16PU160199,Crown Lexus
@@ -1886,7 +1950,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B16RU161372,Motor City Lexus of Bakersfield
 2024,ES 350 F SPORT,Caviar,FWD,48500,1513.0,50013.0,At dealer,False,Available,58AJZ1B16RU161386,Lexus of Marin
 2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B16RU161419,Lexus of Cerritos
-2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B16RU161467,Lexus of Cerritos
+2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B16RU161467,Lexus of Cerritos
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B16RU161551,Longo Lexus
 2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B16RU161579,Newport Lexus
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B16RU161811,Larry H. Miller Lexus Murray
@@ -1904,6 +1968,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B16RU163204,Hendrick Lexus Northlake
 2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B16RU163221,Longo Lexus
 2024,ES 350 F SPORT,Obsidian,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B16RU163252,Chatham Parkway Lexus
+2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B16RU163283,Bell Lexus North Scottsdale
 2023,ES 350 F SPORT,Ultra White,FWD,47900,0.0,47900.0,At dealer,False,DealerHold,58AJZ1B17PU152600,Northside Lexus
 2023,ES 350 F SPORT,Ultra White,FWD,47900,0.0,47900.0,At dealer,False,Available,58AJZ1B17PU153763,North Park Lexus Rio Grande Valley
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,47900,0.0,47900.0,At dealer,False,,58AJZ1B17PU155366,Lexus of Shreveport - Bossier City
@@ -1913,7 +1978,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,ES 350 F SPORT,Ultrasonic Blue Mica 2.0,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B17PU157005,Spirit Lexus
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B17PU157019,Lexus of Lexington
 2023,ES 350 F SPORT,Ultra White,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B17PU157134,Lexus of Pleasanton
-2023,ES 350 F SPORT,Caviar,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B17PU157229,Kenny Kent Lexus
+2023,ES 350 F SPORT,Caviar,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B17PU157229,Kenny Kent Lexus
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B17PU157277,Lexus of Wichita
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B17PU157425,Lexus of Lexington
 2023,ES 350 F SPORT,Ultra White,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B17PU157540,North Park Lexus at Dominion
@@ -1926,7 +1991,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B17PU159692,JM Lexus
 2023,ES 350 F SPORT,Iridium,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B17PU159823,South County Lexus at Mission Viejo
 2023,ES 350 F SPORT,Ultra White,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B17PU159854,Lexus of Colorado Springs
-2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B17PU159871,Germain Lexus of Naples
 2023,ES 350 F SPORT,Iridium,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B17PU160065,Park Place Lexus Plano
 2023,ES 350 F SPORT,Ultra White,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B17PU160194,Park Place Lexus Plano
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B17PU160292,Lexus Santa Monica
@@ -1940,7 +2004,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B17RU161106,Lexus of Fremont
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B17RU161266,Longo Lexus
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B17RU162238,Lexus San Diego
-2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B17RU162367,Ira Lexus of Manchester
+2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,DealerHold,58AJZ1B17RU162367,Ira Lexus of Manchester
 2024,ES 350 F SPORT,Obsidian,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B17RU162479,Park Place Lexus Grapevine
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B17RU162546,Lexus of Sacramento
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,DealerHold,58AJZ1B17RU162580,Classic Lexus
@@ -1950,6 +2014,8 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B17RU162935,Lexus of Melbourne
 2024,ES 350 F SPORT,Obsidian,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B17RU163079,Sterling McCall Lexus Clear Lake
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B17RU163163,Butler Lexus
+2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B17RU163289,Hendrick Lexus Charleston
+2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B17RU163292,North Park Lexus of San Antonio
 2023,ES 350 F SPORT,Obsidian,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B18PU156185,Lexus of Merrillville
 2023,ES 350 F SPORT,Iridium,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B18PU156283,North Park Lexus of San Antonio
 2023,ES 350 F SPORT,Ultra White,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B18PU156557,North Park Lexus of San Antonio
@@ -1961,7 +2027,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B18PU158373,Lexus of Glendale
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B18PU158678,Lexus of Portland
 2023,ES 350 F SPORT,Caviar,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B18PU159359,Findlay Lexus of Spokane
-2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B18PU159524,Keyes Lexus
 2023,ES 350 F SPORT,Iridium,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B18PU159796,Lexus of Portland
 2023,ES 350 F SPORT,Iridium,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B18PU159961,Lexus of Las Vegas
 2023,ES 350 F SPORT,Iridium,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B18PU160205,Park Place Lexus Plano
@@ -1977,11 +2042,11 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B18RU161681,Larry H. Miller Lexus of Lindon
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B18RU161695,Stevinson Lexus of Lakewood
 2024,ES 350 F SPORT,Obsidian,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B18RU161714,Scanlon Lexus of Fort Myers
-2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B18RU161860,Woodfield Lexus
+2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,At dealer,False,DealerHold,58AJZ1B18RU161860,Woodfield Lexus
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B18RU161938,Larry H. Miller Lexus Murray
-2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B18RU162040,Lexus of Cerritos
+2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B18RU162040,Lexus of Cerritos
 2024,ES 350 F SPORT,Ultrasonic Blue Mica 2.0,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B18RU162068,Lexus of Henderson
-2024,ES 350 F SPORT,Matador Red Mica,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B18RU162104,Park Place Lexus Plano
+2024,ES 350 F SPORT,Matador Red Mica,FWD,48500,0.0,48500.0,At dealer,False,DealerHold,58AJZ1B18RU162104,Park Place Lexus Plano
 2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B18RU162281,Crown Lexus
 2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B18RU162474,Sterling McCall Lexus Clear Lake
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B18RU162619,Lexus of Huntsville
@@ -1991,6 +2056,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B18RU162796,Scanlon Lexus of Fort Myers
 2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B18RU162944,"Lexus of Seattle, LLC"
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B18RU163043,Lexus of Greenwood Village
+2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B18RU163365,Northside Lexus
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B19PU155787,Earnhardt Lexus
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B19PU156499,Lexus of Greenville
 2023,ES 350 F SPORT,Ultrasonic Blue Mica 2.0,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B19PU156518,Crown Lexus
@@ -2008,7 +2074,6 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B19PU158642,Lexus of Glendale
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,Available,58AJZ1B19PU159161,South County Lexus at Mission Viejo
 2023,ES 350 F SPORT,Caviar,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B19PU159225,Lexus of Glendale
-2023,ES 350 F SPORT,Caviar,FWD,48400,0.0,48400.0,At dealer,False,DealerHold,58AJZ1B19PU159399,Hoffman Lexus
 2023,ES 350 F SPORT,Caviar,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B19PU159628,Lexus of Glendale
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B19RU160474,Lexus of Cerritos
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B19RU160667,Keyes Lexus of Valencia
@@ -2026,7 +2091,10 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B19RU162886,Dolan Lexus
 2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B19RU162936,Temecula Valley Lexus
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B19RU163021,North Park Lexus at Dominion
+2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B19RU163102,Westside Lexus
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B19RU163147,Newport Lexus
+2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B19RU163326,Lexus of Las Vegas
+2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B19RU163374,Hennessy Lexus of Gwinnett
 2023,ES 350 F SPORT,Ultra White,FWD,47800,0.0,47800.0,At dealer,False,,58AJZ1B1XPU141204,Longo Lexus
 2023,ES 350 F SPORT,Iridium,FWD,47900,0.0,47900.0,At dealer,False,,58AJZ1B1XPU154079,Germain Lexus of Naples
 2023,ES 350 F SPORT,Cloudburst Gray,FWD,48400,0.0,48400.0,At dealer,False,,58AJZ1B1XPU155815,Longo Lexus
@@ -2053,7 +2121,7 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B1XRU161763,Lexus of Santa Fe
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B1XRU162024,Park Place Lexus Plano
 2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B1XRU162136,Arrowhead Lexus
-2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B1XRU162220,Newport Lexus
+2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,At dealer,False,Available,58AJZ1B1XRU162220,Newport Lexus
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B1XRU162251,Sewell Lexus
 2024,ES 350 F SPORT,Iridium,FWD,48500,0.0,48500.0,Port to dealer,False,Available,58AJZ1B1XRU162346,Lexus San Diego
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B1XRU162525,Herb Chambers Lexus
@@ -2063,3 +2131,4 @@ Year,Model,Color,Drivetrain,Base MSRP,Markup,Dealer Price,Shipping Status,Pre-So
 2024,ES 350 F SPORT,Cloudburst Gray,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B1XRU162881,Northside Lexus
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,,58AJZ1B1XRU163108,JM Lexus
 2024,ES 350 F SPORT,Ultra White,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B1XRU163173,"Jim Hudson Lexus, Augusta"
+2024,ES 350 F SPORT,Caviar,FWD,48500,0.0,48500.0,Port to dealer,False,DealerHold,58AJZ1B1XRU163304,Westside Lexus
