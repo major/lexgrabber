@@ -28,7 +28,7 @@ jobs:
     outputs:
       matrix: ${{ steps.set-matrix.outputs.matrix }}
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Install poetry
         run: pipx install poetry
@@ -83,7 +83,7 @@ jobs:
       MODEL: ${{ matrix.model }}
     steps:
       - name: Clone repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Ensure we have the latest repository data
         run: git pull --rebase
@@ -117,7 +117,7 @@ jobs:
     needs: [update_each_model]
     steps:
       - name: Clone repo
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Download image data artifacts
         uses: actions/download-artifact@v3
