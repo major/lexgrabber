@@ -9,7 +9,7 @@ packages = [{include = "lexgrabber", from = "src"}]
 [tool.poetry.dependencies]
 python = ">=3.11.0,<3.12"
 pandas = "^2.1.2"
-pyarrow = "^13.0.0"
+pyarrow = "^14.0.0"
 requests = "^2.31.0"
 
 
